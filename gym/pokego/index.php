@@ -8,8 +8,10 @@
 
 <style type="text/css">
 
-	@media print{
-  body {margin-top:0 !important;}
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
 }
 
 body{
