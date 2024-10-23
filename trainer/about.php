@@ -1,0 +1,9 @@
+<div id="challenge" class="popup_block">
+<div id="ot"><div class="left"><b>OT:</b> ALICE <br /><b>PARTY:</b><span class="party"><img src="kingdra.png"><img src="sceptile-mega.png"><img src="aurorus.png"><img src="talonflame.png"><img src="bisharp.png"><img src="aggron.png"></span></div> 
+<div class="right"><b>ID:</b> #49385 (ORASXY) <br /><b>NATURE:</b> Mild, likes to fight</div></div>
+			<div id="trainerinfo"><p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with this game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
+	<p><img src="trainer.gif" class="trainerimg">I've been into Pok&eacute;mon since 1998, when the anime first came out; but I didn't actually own a game until August 2003 after watching my camp friends play it all summer. I really didn't know anything about the gameplay, but I was still so enthusiastic about it that some of my classmates gave me the nickname "Pok&eacute;mon Master" anyway.</p> 
+	<p>Which I still am, by the way. My obsession for other things will come and go, but Pok&eacute;mon will always own at least 50% of my heart.</p>
+	<p>Since then, I've played and owned at least one game in every generation that's come out. I'm behind on the anime, but I taught myself to memorize the original Kanto Pok&eacute;rap in 2018 because I'm still devoted to it. And my trainer name in nearly every game is in all caps, since that was how I named my first trainer. That way, as the years pass, the OT looks consistent.</p>
+	
+			</div></div>
