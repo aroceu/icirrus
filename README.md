@@ -10,7 +10,7 @@ As of 2024, I have also discovered a new time waster in Pok&eacute;Rogue, and ha
 
 "Masterball" is the name of the site, but "icirr.us" is the URL. I refer to this website as both because I see both tied to the identity of the website. 
 
-"Masterball" is my favorite Pok&eacute;ball, and Icirrus City is my favorite city from one of my favorite generations.
+"Masterball" is my favorite pok&eacute;ball, and Icirrus City is my favorite city from, in my opinion, the objectively best Pok&eacute;mon generation.
 
 # Changelog
 
