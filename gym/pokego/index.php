@@ -7,6 +7,11 @@
 <link href="lb/css/lightbox.css" rel="stylesheet">
 
 <style type="text/css">
+
+	@media print{
+  body {margin-top:0 !important;}
+}
+
 body{
 		background: #B2FAA8;
 		background: -moz-linear-gradient(top left, #43BAB4  0%,#43BAB4 10start%,#B2FAA8 100%);
