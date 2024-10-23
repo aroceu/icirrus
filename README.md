@@ -14,4 +14,5 @@ As of 2024, I have also discovered a new time waster in Pok&eacute;Rogue, and ha
 
 # Changelog
 
-**23 October 2024** And it's on GitHub! Might take a moment for me to push it to GitHub too - I realized recently how much easier it would be if I did all my website fiddling locally and pushed my changes this way. Especially as it's been 7 years since this thing's existed.
+### 23 October 2024 
+And it's on GitHub! Might take a moment for me to push it to GitHub too - I realized recently how much easier it would be if I did all my website fiddling locally and pushed my changes this way. Especially as it's been 7 years since this thing's existed.
