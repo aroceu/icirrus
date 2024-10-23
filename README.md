@@ -10,6 +10,11 @@ This is a website that serves to log with my history with the Pok&eacute;mon fra
 - Sprites from Pok&eacute;mon Showdown
 - Light Javascript
 
+### Upcoming
+- Pok&eacute;Rogue section (need to play more runs anyway)
+- Responsive! I've been putting off this one for years lol
+- Mostly I need to play more (haven't played USUM or SV yet though I own a game from each release; also Pok&eacute;mon Go when I feel like it) so I can add more
+
 # Changelog
 
 ### 23 October 2024 
@@ -28,7 +33,3 @@ And it's on GitHub! Might take a moment for me to push it to GitHub too - I real
 ![Screenshot of a page that looks like the Pokemon Go app](screenshots/mbpokego.png)
 ![Screenshot of a pink webpage called 'We hope to see you again!' with links to other Pokemon related websites](screenshots/mbexit.png)
 
-# Future Plans
-- Pok&eacute;Rogue section (need to play more runs anyway)
-- Responsive! I've been putting off this one for years lol
-- Mostly I need to play more (haven't played USUM or SV yet though I own a game from each release; also Pok&eacute;mon Go when I feel like it) so I can add more
