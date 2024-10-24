@@ -14,6 +14,9 @@
 			background: linear-gradient(90deg, rgba(221,2,98,1) 0%, rgba(221,2,98,1) 22%, rgba(243,204,144,1) 100%);
 			background: -moz-linear-gradient(90deg, rgba(221,2,98,1) 0%, rgba(221,2,98,1) 22%, rgba(243,204,144,1) 100%);
 			background: -webkit-linear-gradient(90deg, rgba(221,2,98,1) 0%, rgba(221,2,98,1) 22%, rgba(243,204,144,1) 100%);
+			height: 100%;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
 			color: #fff;
 			font: normal 100%/140% 'Playfair Display', sans-serif;
 			text-shadow: 0.1em 0.1em 0.5em #F3CC90;
