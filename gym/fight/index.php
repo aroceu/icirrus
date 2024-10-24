@@ -225,7 +225,11 @@ input#submit{
 
 <div class="box"> <div class="pkmn"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="bisharp.gif"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aegislash.gif"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="aggron.gif"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="tinkaton.png"><span class="tooltiptext">linkback/buttons</span></a> 
 
-<div id="info"><p align="center"><span style='white-space: nowrap;'><a href='https://masterball.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/community.png' alt='[community profile] ' width='16' height='16' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://masterball.dreamwidth.org/'><b>masterball</b></a></span></p>
+<div id="info">
+	<p align="center"><a href="https://github.com/aroceu/icirrus">View this project on Github</a></p>
+
+
+<p align="center">Detailed updates are at	<span style='white-space: nowrap;'><a href='https://masterball.dreamwidth.org/profile'><img src='https://www.dreamwidth.org/img/silk/identity/community.png' alt='[community profile] ' width='16' height='16' style='vertical-align: text-bottom; border: 0; padding-right: 1px;' /></a><a href='https://masterball.dreamwidth.org/'><b>masterball</b></a></span></p>
 
 </div>
 </div>
