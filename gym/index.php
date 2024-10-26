@@ -35,6 +35,8 @@
 ul#choose{
 	list-style-type: none;
 	-webkit-padding-start: 0!important;
+	-moz-padding-start: 0!important;
+	padding-start: 0!important;
 	margin: 0;
 }
 
