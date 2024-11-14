@@ -388,7 +388,7 @@ function get_data($var) {
 
 <p>Here is a numerical order of my favorite Pok&eacute;mon as of November 2024:</p>
 
-<p align="center"><img src="favrank24nov.png" width="auto"></p>
+<p align="center"><img src="favrank24nov.png" width="500"></p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
