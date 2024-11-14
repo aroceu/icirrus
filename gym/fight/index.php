@@ -385,6 +385,10 @@ function get_data($var) {
 <p>I also enjoy the anime quite a bit, having watched nearly every episode from Kanto to Hoenn, with plans to (eventually) catch up. I'm even more enthusiastic about the manga, which I haven't read since 2013 and also need to catch up on.</p>
 
 <p>I own a lot of Pok&eacute;mon plushies and miscellaneous merch. I own a few things from the (very expensive) <a href="https://originalstitch.com/pokemon">Pokemon Original Stitch collection</a>: a Sceptile button-up, a Jigglypuff bandana, a Seadra bandana, and a Luvdisc face mask. I also have a really big sleeping Jigglypuff <i>and</i> Pikachu plushie that live on my bed.</p>
+
+<p>Here is a numerical order of my favorite Pok&eacute;mon as of November 2024:</p>
+
+<p align="center"><img src="favrank24nov.png" width="auto"></p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
