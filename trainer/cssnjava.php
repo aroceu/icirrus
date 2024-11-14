@@ -350,7 +350,7 @@ float: right;
 }
 
 .party img{
-    max-height: 27px;
+    max-height: 25px;
 }
 
 .trainerimg{
