@@ -260,9 +260,9 @@ input#submit{
 
 <p>Even when I'm not playing Pok&eacute;mon, it's still a constant in my life &mdash; from the plushies I own to the YouTube videos I watch. I'm usually thinking about Pok&eacute;mon more often than I'm not in some way, and I'm relentlessly optimistic sometimes even when others like to be more cynical about the games or new species. I like to pretend I know more than I do; but I also like seeing a Pok&eacute;mon and going, hey, I like that guy! Or watching someone else do the same.</p>
 
-<p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brothers), Stadium (borrowed it from the public library when I was in high school), and the personality test in Pok&eacute;mon Mystery Dungeon. I'm also interested in some fangames and TCG &mdash; I've played Pok&eacute;Rogue and the mobile game (which may have a section on this website...), and I'd like to try out Pok&eacute;mon Fusion as well.</p>
+<p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls every day.</p>
 
-<p>My life since 2004 is just me going "Pokemon!!!!!!" every so often in my life. And I wouldn't have it any other way.</p>
+<p>My life since 2004 has just been me going "Pokemon!!!!!!" every so often, even now 20 years later. And I wouldn't have it any other way.</p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
