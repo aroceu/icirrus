@@ -184,7 +184,7 @@ a:hover, a:active, a:focus{
 <blockquote><b>Trainer Code</b>
 <br />0574 - 0981 - 4155</blockquote>
 <div class="left"><b>Start Date</b><br />6 July 2016</div>
-<div class="right"><b>Pok&eacute;dex</b> <br />488/556 (seen)</div>
+<div class="right"><b>Pok&eacute;dex</b> <br />488/566</div>
 
 <!--<div id="gyms">
 
