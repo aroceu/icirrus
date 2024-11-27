@@ -72,6 +72,11 @@
 		text-transform: uppercase;
 	}
 
+	#container img{
+		height: 31px;
+		width: 88px;
+	}
+
 </style>
 
 </head>
