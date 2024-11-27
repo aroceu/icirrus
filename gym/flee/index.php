@@ -55,6 +55,10 @@
 	a:hover, a:active, a:focus{
 		text-decoration: none;
 	}
+
+	b, i{
+		color: #d580ac;
+	}
 	hr{
 		border-top: none;
 		border-bottom: 5px solid #f6bed6;
@@ -80,16 +84,37 @@
 
 <h1>We hope to see you again!</h1>
 
-<p align="center"><a href="http://celestialis.com/view/26" target="_blank"><img src="exdreamscape.png"></a>
-<a href="http://pkmn.skyremix.org" target="_blank"><img src="exeverstone.gif"></a>
-<a href="http://pkmn.redcrown.net" target="_blank"><img src="exrarecandy.png"></a>
-    <a href="http://sapphire.nu" target="_blank"><img src="exsapphirenu.png"></a> 
-    <a href="http://sunyshore.com" target="_blank"><img src="sunyshore.gif"></a>
-    <a href="http://serebii.net" target="_blank"><img src="serebii.png"></a></p>
+<p align="center">
+	<a href="https://pkmn.aelysia.net/"><img src="buttons/pkmnaelysia.png"></a>
+	<a href="https://pkmn.redcrown.net/"><img src="buttons/pkmnredcrown.png"></a>
+	<a href="https://pokeprint.kimbachu.com/"><img src="buttons/pokeprint.png"></a>
+	<a href="https://noseclub.bluwiikoon.art/"><img src="buttons/noseclub.png"></a>
+	<a href="https://serfetch.kyeugh.online/"><img src="buttons/serfetch.png"></a>
+	<a href="https://bluemoonfalls.com/"><img src="buttons/bluemoonfalls.png"></a>
+	<a href="https://hallowedtower.net/"><img src="buttons/hallowedtower.gif"></a>
+	<a href="https://centiskor.ch/"><img src="buttons/centiskorch.png"></a>
+	<a href="https://www.dragonflycave.com/"><img src="buttons/dragonflycave.gif"></a>
+	<a href="https://www.lycanroc.net/"><img src="buttons/lycanroc.png"></a>
+	<a href="https://pamtre-berry.neocities.org/"><img src="buttons/pamtreberry.png"></a>
+	<a href="https://silvallyplushie.neocities.org/"><img src="buttons/silvallyplushie.png"></a>
+	<a href="https://enigmadreams.neocities.org/"><img src="buttons/enigmadreams.png"></a>
+	<a href="https://sylphofeons.neocities.org"><img src="buttons/sylphofeons.png"></a>
+	<a href="https://buriedrelic.neocities.org/"><img src="buttons/buriedrelic.png"></a>
+	<a href="https://altissimo1.github.io/"><img src="buttons/altissimo1.png"></a>
+	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png"></a>
+	<a href="https://serebii.net"><img src="buttons/serebii.png"></a>
+</p>
+
+<p align="center"><b><i>Archived</i></b></p>
+
+<p align="center">
+	<a href="https://web.archive.org/web/20181207193438/http://sapphire.nu/ulaula/"><img src="buttons/oldsapphire.png"></a>
+	<a href="https://web.archive.org/web/20160124093009/http://pkmn.skyremix.org/index.php"><img src="buttons/oldpkmnskyremix.png"></a>
+</p>
 
 <hr />
 
-<p><a href="mailto:leader[@]icirr.us">Let me know if you'd like to exchange links</a> and I'll likely add you so as long as your website is a) Pok&eacute;mon-related, and b) not an individual shrine or fanlisting - collectives and anything personal or not is fine!</p>
+<p><a href="mailto:leader[@]icirr.us">Let me know if you'd like to exchange links</a> and I'll likely add you so as long as your website is a) Pok&eacute;mon-related, and b) not a shrine or fanlisting for a specific Pok&eacute;mon or character - collectives and anything personal or not is fine! And if you're already here, feel free to link me back without asking &mdash; or you can say hi, I won't mind either way :)</p>
 
 <p>If you're looking for linkback buttons, they can be found by <a href="../fight/">fighting</a> the gym &mdash; just click the tinkaton.</p>
 

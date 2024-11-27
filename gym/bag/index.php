@@ -175,13 +175,14 @@ a:hover, a:focus{
 <li>Let's Go Pikachu (2018)</li>
 <li><a onclick="javascript:ShowHide('shieldshiny')">SHIELD (2020)</a>
 <ul class="mid" id="shieldshiny" style="display: none;"><li>Shield Shinies</li></ul></li>
+<li>Legends Arceus (2022)</li>
 <li>Misc</li>
 <li>Favorites</li>
 <li>Shiny Gallery</li></ul></li>
 <li><a onclick="javascript:ShowHide('gym')">Gym</a>
 <ul class="mid" id="gym" style="display: none;">
 <li><a onclick="javascript:ShowHide('fight')">FIGHT</a>
-<ul class="mid" id="fight" style="display: none;"><li>Leader Alice would like to battle! (Bisharp)</li>
+<ul class="mid" id="fight" style="display: none;"><li>Updates (Bisharp)</li>
 <li>Contact & Add (Aegislash)</li>
 <li>Trainer Info (Sandslash)</li>
 <li>Site Info (Aggron)</li>

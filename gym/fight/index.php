@@ -234,133 +234,7 @@ input#submit{
 </div>
 </div>
 
-<div id="add"><?php
-
-// OPTIONS - PLEASE CONFIGURE THESE BEFORE USE!
-
-$yourEmail = "leader@icirr.us"; // the email address you wish to receive these mails through
-$yourWebsite = "Masterball (icirr.us)"; // the name of your website
-$thanksPage = 'http://icirr.us/gym/fight/youwon'; // URL to 'thanks for sending mail' page; leave empty to keep message on the same page 
-$maxPoints = 4; // max points a person can hit before it refuses to submit - recommend 4
-$requiredFields = "name,email,comments"; // names of the fields you'd like to be required as a minimum, separate each field with a comma
-
-ob_start();
-
-// DO NOT EDIT BELOW HERE
-$error_msg = array();
-$result = null;
-
-$requiredFields = explode(",", $requiredFields);
-
-function clean($data) {
-	$data = trim(stripslashes(strip_tags($data)));
-	return $data;
-}
-function isBot() {
-	$bots = array("Indy", "Blaiz", "Java", "libwww-perl", "Python", "OutfoxBot", "User-Agent", "PycURL", "AlphaServer", "T8Abot", "Syntryx", "WinHttp", "WebBandit", "nicebot", "Teoma", "alexa", "froogle", "inktomi", "looksmart", "URL_Spider_SQL", "Firefly", "NationalDirectory", "Ask Jeeves", "TECNOSEEK", "InfoSeek", "WebFindBot", "girafabot", "crawler", "www.galaxy.com", "Googlebot", "Scooter", "Slurp", "appie", "FAST", "WebBug", "Spade", "ZyBorg", "rabaz");
-
-	foreach ($bots as $bot)
-		if (stripos($_SERVER['HTTP_USER_AGENT'], $bot) !== false)
-			return true;
-
-	if (empty($_SERVER['HTTP_USER_AGENT']) || $_SERVER['HTTP_USER_AGENT'] == " ")
-		return true;
-	
-	return false;
-}
-
-if ($_SERVER['REQUEST_METHOD'] == "POST") {
-	if (isBot() !== false)
-		$error_msg[] = "No bots please! UA reported as: ".$_SERVER['HTTP_USER_AGENT'];
-		
-	// lets check a few things - not enough to trigger an error on their own, but worth assigning a spam score.. 
-	// score quickly adds up therefore allowing genuine users with 'accidental' score through but cutting out real spam :)
-	$points = (int)0;
-	
-	$badwords = array("adult", "beastial", "bestial", "blowjob", "clit", "cum", "cunilingus", "cunillingus", "cunnilingus", "cunt", "ejaculate", "fag", "felatio", "fellatio", "fuck", "fuk", "fuks", "gangbang", "gangbanged", "gangbangs", "hotsex", "hardcode", "jism", "jiz", "orgasim", "orgasims", "orgasm", "orgasms", "phonesex", "phuk", "phuq", "pussies", "pussy", "spunk", "xxx", "viagra", "phentermine", "tramadol", "adipex", "advai", "alprazolam", "ambien", "ambian", "amoxicillin", "antivert", "blackjack", "backgammon", "texas", "holdem", "poker", "carisoprodol", "ciara", "ciprofloxacin", "debt", "dating", "porn", "link=", "voyeur", "content-type", "bcc:", "cc:", "document.cookie", "onclick", "onload", "javascript");
-
-	foreach ($badwords as $word)
-		if (
-			strpos(strtolower($_POST['comments']), $word) !== false || 
-			strpos(strtolower($_POST['name']), $word) !== false
-		)
-			$points += 2;
-	
-	if (strpos($_POST['comments'], "http://") !== false || strpos($_POST['comments'], "www.") !== false)
-		$points += 2;
-	if (isset($_POST['nojs']))
-		$points += 1;
-	if (preg_match("/(<.*>)/i", $_POST['comments']))
-		$points += 2;
-	if (strlen($_POST['name']) < 3)
-		$points += 1;
-	if (strlen($_POST['comments']) < 15 || strlen($_POST['comments']) > 1500)
-		$points += 2;
-	if (preg_match("/[bcdfghjklmnpqrstvwxyz]{7,}/i", $_POST['comments']))
-		$points += 1;
-	// end score assignments
-
-	if ( !empty( $requiredFields ) ) {
-		foreach($requiredFields as $field) {
-			trim($_POST[$field]);
-			
-			if (!isset($_POST[$field]) || empty($_POST[$field]) && array_pop($error_msg) != "Please fill in all the required fields and submit again.\r\n")
-				$error_msg[] = "Please fill in all the required fields and submit again.";
-		}
-	}
-
-	if (!empty($_POST['name']) && !preg_match("/^[a-zA-Z-'\s]*$/", stripslashes($_POST['name'])))
-		$error_msg[] = "The name field must not contain special characters.\r\n";
-	if (!empty($_POST['email']) && !preg_match('/^([a-z0-9])(([-a-z0-9._])*([a-z0-9]))*\@([a-z0-9])(([a-z0-9-])*([a-z0-9]))+' . '(\.([a-z0-9])([-a-z0-9_-])?([a-z0-9])+)+$/i', strtolower($_POST['email'])))
-		$error_msg[] = "That is not a valid e-mail address.\r\n";
-	if (!empty($_POST['url']) && !preg_match('/^(http|https):\/\/(([A-Z0-9][A-Z0-9_-]*)(\.[A-Z0-9][A-Z0-9_-]*)+)(:(\d+))?\/?/i', $_POST['url']))
-		$error_msg[] = "Invalid website url.\r\n";
-	
-	if ($error_msg == NULL && $points <= $maxPoints) {
-		$subject = "New message via icirr.us";
-		
-		foreach ($_POST as $key => $val) {
-			if (is_array($val)) {
-				foreach ($val as $subval) {
-					$message .= ucwords($key) . ": " . clean($subval) . "\r\n";
-				}
-			} else {
-				$message .= ucwords($key) . ": " . clean($val) . "\r\n";
-			}
-		}
-		$message .= "\r\n";
-		$message .= 'IP: '.$_SERVER['REMOTE_ADDR']."\r\n";
-		$message .= 'Browser: '.$_SERVER['HTTP_USER_AGENT']."\r\n";
-		$message .= 'Points: '.$points;
-
-		if (strstr($_SERVER['SERVER_SOFTWARE'], "Win")) {
-			$headers   = "From: $yourEmail\r\n";
-		} else {
-$headers = "From: $yourWebsite\r\n";
-		}
-		$headers  .= "Reply-To: {$_POST['email']}\r\n";
-
-		if (mail($yourEmail,$subject,$message,$headers)) {
-			if (!empty($thanksPage)) {
-echo "<script type='text/javascript'> document.location = 'http://icirr.us/gym/fight/youwon'; </script>";
-				exit;
-			} else {
-				$result = 'Your mail was successfully sent.';
-				$disable = false;
-			}
-		} else {
-			$error_msg[] = 'Your mail could not be sent this time. ['.$points.']';
-		}
-	} else {
-		if (empty($error_msg))
-			$error_msg[] = 'Your mail looks too much like spam, and could not be sent this time. ['.$points.']';
-	}
-}
-function get_data($var) {
-	if (isset($_POST[$var]))
-		echo htmlspecialchars($_POST[$var]);
-}
-?>
+<div id="add">
     
     
     <blockquote>3DS FC: 2896-1018-0581 (&#9734;a&#9734;)
@@ -378,24 +252,24 @@ function get_data($var) {
     
     <blockquote><center>30s, Chinese-American, she/her/any<br /></center></blockquote>
 
-<p><br /> My overall playstyle when playing Pok&eacute;mon is very much focused on the collecting and completion aspect, as well as my enjoyment of the plots, characters, and general aesthetics. I have very, very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
+<p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
-<p><img src="clair.png" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a very casual but also very enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
+<p><img src="clair.png" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
 
 <p>I also enjoy the anime quite a bit, having watched nearly every episode from Kanto to Hoenn, with plans to (eventually) catch up. I'm even more enthusiastic about the manga, which I haven't read since 2013 and also need to catch up on.</p>
 
-<p>I own a lot of Pok&eacute;mon plushies and miscellaneous merch. I own a few things from the (very expensive) <a href="https://originalstitch.com/pokemon">Pokemon Original Stitch collection</a>: a Sceptile button-up, a Jigglypuff bandana, a Seadra bandana, and a Luvdisc face mask. I also have a really big sleeping Jigglypuff <i>and</i> Pikachu plushie that live on my bed.</p>
+<p>Even when I'm not playing Pok&eacute;mon, it's still a constant in my life &mdash; from the plushies I own to the YouTube videos I watch. I'm usually thinking about Pok&eacute;mon more often than I'm not in some way, and I'm relentlessly optimistic sometimes even when others like to be more cynical about the games or new species. I like to pretend I know more than I do; but I also like seeing a Pok&eacute;mon and going, hey, I like that guy! Or watching someone else do the same.</p>
 
-<p>Here is a numerical order of my favorite Pok&eacute;mon as of November 2024:</p>
+<p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brothers), Stadium (borrowed it from the public library when I was in high school), and the personality test in Pok&eacute;mon Mystery Dungeon. I'm also interested in some fangames and TCG &mdash; I've played Pok&eacute;Rogue and the mobile game (which may have a section on this website...), and I'd like to try out Pok&eacute;mon Fusion as well.</p>
 
-<p align="center"><img src="favrank24nov.png" width="500"></p>
+<p>My life since 2004 is just me going "Pokemon!!!!!!" every so often in my life. And I wouldn't have it any other way.</p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> October 2024</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
 <p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
-</b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
+</b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
 <p>Thanks for visiting this self-indulgent website!</p>
 <p><small>Pok&eacute;mon &copy; GameFreak, Nintendo, & the Pok&eacute;mon Company. No copyright infringement intended.</small></p>
 </div>

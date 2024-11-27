@@ -191,9 +191,10 @@ table.pokemons img{
 
 <div id="ava"><img src="clair.png"></div>
 <div id="meta"><h1>FAV<i>ORITES</i></h1>
-<div class="talk">Neither the regional Pok&eacute;mon here nor any of their evolutionary stages are in any of the listed parties, <i>unless</i> I prefer a specific evolutionary stage over the Pok&eacute;mon in the listed party. And, generally, I like most of these Pok&eacute;mon for their aesthetics; or that I trained one of them for fun at some point and got attached. 
-    <br />Any of the Sceptile evolutionary stages can be assumed to also be in any of the form categories, if applicable.
-    <br />Hover over the categories to see unlisted favorites (in teams.)</p></div></div>
+<div class="talk">For a numerical order for my current favorite Pok&eacute;mon, see <a href="favrank24nov.png">this tierlist</a>.
+    <br />The Pok&eacute;mon on this page (and their evolutionary stages) do not overlap with any of the species in my game parties unless I prefer a specific evolutionary stage a significant amount more than the others. Generally I like most of these for their aesthetics, or I trained one of them for fun at one point and got attached.
+    <br />Any Sceptile evolutionary stages can be assumed to also be in any of the form categories, if applicable.
+    <br />Hover over the categories to see unlisted favorites.</p></div></div>
 </div></div>
 
 <div id="favlist">
