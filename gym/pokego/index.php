@@ -178,13 +178,13 @@ a:hover, a:active, a:focus{
 
 <div id="container">
 
-<h1 class="name">lilycoves</h1>
-<h1 class="level">Level 29</h1>
-<div id="avatar"><img src="me.png" width="389"></div>
+<h1 class="name">hydrasplatlings</h1>
+<h1 class="level">Level 33</h1>
+<div id="avatar"><img src="me2.png" width="389"></div>
 <blockquote><b>Trainer Code</b>
 <br />0574 - 0981 - 4155</blockquote>
 <div class="left"><b>Start Date</b><br />6 July 2016</div>
-<div class="right"><b>Pok&eacute;dex</b> <br />329/362</div>
+<div class="right"><b>Pok&eacute;dex</b> <br />488/556 (seen)</div>
 
 <!--<div id="gyms">
 
@@ -344,7 +344,7 @@ a:hover, a:active, a:focus{
 <img src="icons/139.gif" class="caught">
 <img src="icons/140.gif" class="caught">
 <img src="icons/141.gif" class="caught">
-<img src="icons/142.gif" class="seen">
+<img src="icons/142.gif" class="caught">
 <img src="icons/143.gif" class="caught">
 <img src="icons/144.gif" class="caught">
 <img src="icons/145.gif" class="unknown">
@@ -360,7 +360,7 @@ a:hover, a:active, a:focus{
 <img src="icons/157.png" class="caught">
 <img src="icons/158.png" class="caught">
 <img src="icons/159.png" class="caught">
-<img src="icons/160.png" class="seen">
+<img src="icons/160.png" class="caught">
 <img src="icons/161.png" class="caught">
 <img src="icons/162.png" class="caught">
 <img src="icons/163.png" class="caught">
@@ -408,7 +408,7 @@ a:hover, a:active, a:focus{
 <img src="icons/205.png" class="seen">
 <img src="icons/206.png" class="caught">
 <img src="icons/207.png" class="caught">
-<img src="icons/208.png" class="seen">
+<img src="icons/208.png" class="caught">
 <img src="icons/209.png" class="caught">
 <img src="icons/210.png" class="caught">
 <img src="icons/211.png" class="unknown">
@@ -430,15 +430,15 @@ a:hover, a:active, a:focus{
 <img src="icons/227.png" class="caught">
 <img src="icons/228.png" class="caught">
 <img src="icons/229.png" class="caught">
-<img src="icons/230.png" class="unknown">
+<img src="icons/230.png" class="caught">
 <img src="icons/231.png" class="caught">
 <img src="icons/232.png" class="caught">
-<img src="icons/233.png" class="seen">
+<img src="icons/233.png" class="caught">
 <img src="icons/234.png" class="caught">
-<img src="icons/235.png" class="unknown">
-<img src="icons/236.png" class="unknown">
-<img src="icons/237.png" class="unknown">
-<img src="icons/238.png" class="unknown">
+<img src="icons/235.png" class="caught">
+<img src="icons/236.png" class="caught">
+<img src="icons/237.png" class="caught">
+<img src="icons/238.png" class="caught">
 <img src="icons/239.png" class="caught">
 <img src="icons/240.png" class="unknown">
 <img src="icons/241.png" class="caught">
@@ -448,7 +448,7 @@ a:hover, a:active, a:focus{
 <img src="icons/245.png" class="unknown">
 <img src="icons/246.png" class="caught">
 <img src="icons/247.png" class="caught">
-<img src="icons/248.png" class="seen">
+<img src="icons/248.png" class="caught">
 <img src="icons/249.gif" class="unknown">
 <img src="icons/250.gif" class="unknown">
 <img src="icons/251.gif" class="unknown">
@@ -457,7 +457,7 @@ a:hover, a:active, a:focus{
 <img src="icons/254.gif" class="caught">
 <img src="icons/255.gif" class="caught">
 <img src="icons/256.gif" class="caught">
-<img src="icons/257.gif" class="seen">
+<img src="icons/257.gif" class="caught">
 <img src="icons/258.gif" class="caught">
 <img src="icons/259.gif" class="caught">
 <img src="icons/260.gif" class="seen">
@@ -488,11 +488,11 @@ a:hover, a:active, a:focus{
 <img src="icons/285.gif" class="caught">
 <img src="icons/286.gif" class="caught">
 <img src="icons/287.gif" class="caught">
-<img src="icons/288.gif" class="unknown">
+<img src="icons/288.gif" class="caught">
 <img src="icons/289.gif" class="seen">
 <img src="icons/290.gif" class="unknown">
 <img src="icons/291.gif" class="unknown">
-<img src="icons/292.gif" class="unknown">
+<img src="icons/292.gif" class="seen">
 <img src="icons/293.gif" class="caught">
 <img src="icons/294.gif" class="caught">
 <img src="icons/295.gif" class="caught">
@@ -558,8 +558,8 @@ a:hover, a:active, a:focus{
 <img src="icons/355.gif" class="caught">
 <img src="icons/356.gif" class="caught">
 <img src="icons/357.gif" class="seen">
-<img src="icons/358.gif" class="unknown">
-<img src="icons/359.gif" class="seen">
+<img src="icons/358.gif" class="caught">
+<img src="icons/359.gif" class="caught">
 <img src="icons/360.gif" class="caught">
 <img src="icons/361.gif" class="caught">
 <img src="icons/362.gif" class="caught">
@@ -572,7 +572,7 @@ a:hover, a:active, a:focus{
 <img src="icons/369.gif" class="unknown">
 <img src="icons/370.gif" class="caught">
 <img src="icons/371.gif" class="caught">
-<img src="icons/372.gif" class="unknown">
+<img src="icons/372.gif" class="caught">
 <img src="icons/373.gif" class="seen">
 <img src="icons/374.gif" class="caught">
 <img src="icons/375.gif" class="seen">
@@ -598,75 +598,104 @@ a:hover, a:active, a:focus{
 <img src="icons/395.png" class="seen">
 <img src="icons/396.png" class="caught">
 <img src="icons/397.png" class="caught">
-<img src="icons/398.png" class="unknown">
+<img src="icons/398.png" class="caught">
 <img src="icons/399.png" class="caught">
-<img src="icons/400.png" class="unknown">
+<img src="icons/400.png" class="caught">
 <img src="icons/401.png" class="caught">
-<img src="icons/402.png" class="unknown">
+<img src="icons/402.png" class="caught">
 <img src="icons/403.png" class="caught">
-<img src="icons/404.png" class="unknown">
+<img src="icons/404.png" class="caught">
 <img src="icons/405.png" class="unknown">
 <img src="icons/406.png" class="unknown">
-<img src="icons/407.png" class="unknown">
-<img src="icons/408.png" class="unknown">
-<img src="icons/409.png" class="unknown">
-<img src="icons/410.png" class="unknown">
+<img src="icons/407.png" class="seen">
+<img src="icons/408.png" class="caught">
+<img src="icons/409.png" class="seen">
+<img src="icons/410.png" class="caught">
 <img src="icons/411.png" class="unknown">
-<img src="icons/412.png" class="unknown">
+<img src="icons/412.png" class="caught">
 <img src="icons/413.png" class="unknown">
 <img src="icons/414.png" class="unknown">
-<img src="icons/415.png" class="unknown">
+<img src="icons/415.png" class="caught">
 <img src="icons/416.png" class="unknown">
 <img src="icons/417.png" class="unknown">
 <img src="icons/418.png" class="caught">
 <img src="icons/419.png" class="unknown">
-<img src="icons/420.png" class="unknown">
-<img src="icons/421.png" class="unknown">
-<img src="icons/422.png" class="unknown">
+<img src="icons/420.png" class="caught">
+<img src="icons/421.png" class="caught">
+<img src="icons/422.png" class="caught">
 <img src="icons/423.png" class="unknown">
-<img src="icons/424.png" class="unknown">
+<img src="icons/424.png" class="caught">
 <img src="icons/425.png" class="caught">
 <img src="icons/426.png" class="caught">
 <img src="icons/427.png" class="caught">
-<img src="icons/428.png" class="unknown">
-<img src="icons/429.png" class="seen">
-<img src="icons/430.png" class="unknown">
-<img src="icons/431.png" class="unknown">
-<img src="icons/432.png" class="unknown">
+<img src="icons/428.png" class="caught">
+<img src="icons/429.png" class="caught">
+<img src="icons/430.png" class="caught">
+<img src="icons/431.png" class="caught">
+<img src="icons/432.png" class="caught">
 <img src="icons/433.png" class="unknown">
 <img src="icons/434.png" class="caught">
 <img src="icons/435.png" class="unknown">
-<img src="icons/436.png" class="unknown">
+<img src="icons/436.png" class="caught">
 <img src="icons/437.png" class="unknown">
 <img src="icons/438.png" class="unknown">
 <img src="icons/439.png" class="unknown">
 <img src="icons/440.png" class="unknown">
 <img src="icons/441.png" class="unknown">
 <img src="icons/442.png" class="caught">
-<img src="icons/443.png" class="unknown">
-<img src="icons/444.png" class="unknown">
-<img src="icons/445.png" class="unknown">
+<img src="icons/443.png" class="caught">
+<img src="icons/444.png" class="caught">
+<img src="icons/445.png" class="caught">
 <img src="icons/446.png" class="unknown">
 <img src="icons/447.png" class="unknown">
-<img src="icons/448.png" class="unknown">
-<img src="icons/449.png" class="unknown">
-<img src="icons/450.png" class="unknown">
-<img src="icons/451.png" class="unknown">
+<img src="icons/448.png" class="seen">
+<img src="icons/449.png" class="caught">
+<img src="icons/450.png" class="seen">
+<img src="icons/451.png" class="caught">
 <img src="icons/452.png" class="unknown">
-<img src="icons/453.png" class="unknown">
-<img src="icons/454.png" class="unknown">
-<img src="icons/455.png" class="unknown">
-<img src="icons/456.png" class="unknown">
+<img src="icons/453.png" class="caught">
+<img src="icons/454.png" class="caught">
+<img src="icons/455.png" class="caught">
+<img src="icons/456.png" class="caught">
 <img src="icons/457.png" class="unknown">
 <img src="icons/458.png" class="unknown">
 <img src="icons/459.png" class="caught">
-<img src="icons/460.png" class="unknown">
+<img src="icons/460.png" class="caught">
 <img src="icons/461.png" class="unknown">
 <img src="icons/462.png" class="unknown">
 <img src="icons/463.png" class="unknown">
 <img src="icons/464.png" class="seen">
+<img src="icons/465.png" class="caught">
+<img src="icons/466.png" class="seen">
+<img src="icons/467.png" class="seen">
+<img src="icons/468.png" class="seen">
+<img src="icons/469.png" class="seen">
+<img src="icons/470.png" class="seen">
+<img src="icons/471.png" class="unknown">
+<img src="icons/472.png" class="unknown">
+<img src="icons/473.png" class="seen">
+<img src="icons/474.png" class="seen">
+<img src="icons/475.png" class="seen">
+<img src="icons/476.png" class="unknown">
+<img src="icons/477.png" class="unknown">
+<img src="icons/478.png" class="unknown">
+<img src="icons/479.png" class="unknown">
+<img src="icons/480.png" class="unknown">
+<img src="icons/481.png" class="unknown">
+<img src="icons/482.png" class="unknown">
+<img src="icons/483.png" class="unknown">
+<img src="icons/484.png" class="unknown">
+<img src="icons/485.png" class="unknown">
+<img src="icons/486.png" class="unknown">
+<img src="icons/487.png" class="unknown">
+<img src="icons/488.png" class="unknown">
+<img src="icons/489.png" class="unknown">
+<img src="icons/490.png" class="unknown">
+<img src="icons/491.png" class="unknown">
+<img src="icons/492.png" class="unknown">
+<img src="icons/493.png" class="unknown">
 <img src="icons/meltan.png" class="caught">
-
+<img src="icons/melmetal.png" class="caught">
 
 
 
