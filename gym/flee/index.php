@@ -121,8 +121,8 @@
 
 <p>Let me know at <i>leader@icirr.us</i> if you'd like to exchange links. I'll likely add you so as long as your website is:
 <ul><li> Pok&eacute;mon-related, and </li>
-<li>b) not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
-<li>c) collectives and anything personal (or not) are fine!</li></ul> 
+<li>Not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
+<li>Collectives and anything personal (or not) are fine!</li></ul> 
 
 <p>And if you're already here, feel free to link me back without asking &mdash; or you can say hi, I don't mind either way :)</p>
 
