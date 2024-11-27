@@ -58,7 +58,7 @@
 
 	b, i{
 		color: #d580ac;
-				box-shadow: 0.05em 0.05em 0.05em #999;
+				text-shadow: 0.05em 0.05em 0.05em #999;
 	}
 	hr{
 		border-top: none;
