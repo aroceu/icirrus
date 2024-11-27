@@ -177,6 +177,14 @@ table.pokemons img{
     vertical-align: bottom;
 }
 
+#talk a:link, #talk a:visited{
+    color: #508DC3;
+}
+
+#talk a:hover{
+    color: #6995A0;
+}
+
 </style>
 
 </head>
@@ -191,8 +199,7 @@ table.pokemons img{
 
 <div id="ava"><img src="clair.png"></div>
 <div id="meta"><h1>FAV<i>ORITES</i></h1>
-<div class="talk">For a numerical order for my current favorite Pok&eacute;mon, see <a href="favrank24nov.png">this tierlist</a>.
-    <br />The Pok&eacute;mon on this page (and their evolutionary stages) do not overlap with any of the species in my game parties unless I prefer a specific evolutionary stage a significant amount more than the others. Generally I like most of these for their aesthetics, or I trained one of them for fun at one point and got attached.
+<div class="talk">The Pok&eacute;mon on this page (and their evolutionary stages) do not overlap with any of the species in my game parties unless I prefer a specific evolutionary stage a significant amount more than the others. Generally I like most of these for their aesthetics, or I trained one of them for fun at one point and got attached.
     <br />Any Sceptile evolutionary stages can be assumed to also be in any of the form categories, if applicable.
     <br />Hover over the categories to see unlisted favorites.</p></div></div>
 </div></div>
@@ -505,6 +512,10 @@ table.pokemons img{
         </td></tr>
         
     </table>
+
+    <h3>Numerical Species Ranking</h3>
+
+    <p align="center"><img src="favrank24nov.png" width="500"></p>
     
 
     <h3>OTPs</h3>
