@@ -230,6 +230,10 @@ html {
 -webkit-text-size-adjust: none;
 }
 
+#top{
+	font-size: 2em;
+}
+
 #container{
 	width: 95%;
 }
