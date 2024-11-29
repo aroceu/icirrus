@@ -387,7 +387,7 @@ ul li::before{
 -webkit-text-size-adjust: 100%;
 }
 
-#container{
+.container{
 	width: 95%;
 }
 
@@ -403,7 +403,7 @@ html {
 -webkit-text-size-adjust: none;
 }
 
-#container{
+.container{
 	width: 95%;
 }
 

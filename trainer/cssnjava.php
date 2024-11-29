@@ -380,7 +380,7 @@ padding: 10px;
 }
 
 ul#games {
-  padding-top: none;
+  padding-top: 0;
 }
 
 ul#games li {
