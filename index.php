@@ -162,7 +162,7 @@ body{
 
 <div id="left"></div>
 <div id="right"></div>
-<a href="main"><div id="center"></div></a>
+<a href="home"><div id="center"></div></a>
 
 <!-- <div id="navleft">
 <ul>

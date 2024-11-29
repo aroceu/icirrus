@@ -58,11 +58,11 @@ nav .item a.gym:link, nav .item a.gym:visited{
 }
 
 nav .item a.tcg:link, nav .item a.tcg:visited{
-      color: #002374;
+      color: #0A4A87;
 }
 
 nav .item a.pokerogue:link, nav .item a.pokerogue:visited{
-      color: #4A3E55;
+      color: #346485;
 }
 
 nav .item a.map:link, nav .item a.map:visited{
