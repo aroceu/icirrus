@@ -162,6 +162,7 @@ body{
 
 <div id="left"></div>
 <div id="right"></div>
+<div id="blurb"><i>open the ball or <a href="home">click here</a> to get started!</i></div>
 <a href="home"><div id="center"></div></a>
 
 <!-- <div id="navleft">
