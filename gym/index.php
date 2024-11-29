@@ -104,7 +104,7 @@ ul#choose{
 	font: normal 100%/160% 'Inconsolata', monospace;
 }
 
-#openbag, #map{
+#openbag, #bag{
 	border: 5px double #000;
 	padding: 15px;
 	border-radius: 10px;
@@ -129,20 +129,20 @@ margin: 0;}
 	text-decoration: none;
 }
 
-#openbag li a:hover:before, #openbag li a:focus:before, #map li a:hover:before, #map li a:focus:before{
+#openbag li a:hover:before, #openbag li a:focus:before, #bag li a:hover:before, #bag li a:focus:before{
 	content:"> ";
 }
 
-#map, #dowsing {
+#bag {
   display: none;
 }
 
-#map ul > li, #map ul > li li{
+#bag ul > li, #bag ul > li li{
 	text-transform: uppercase;
 	list-style-type: none;
 }
 
-#map ul > li li li{
+#bag ul > li li li{
 	text-transform: none;
 }
 
