@@ -154,7 +154,7 @@ body{
 #center{
 	background: url('button.png');
 	left: 50%;
-	top: 262px;
+	top: 274px;
 	transform: translateX(-50%);
 	position: absolute;
 	width: 197px;
@@ -163,6 +163,10 @@ body{
 
 #center:hover, #center:focus{
 	background: url('button002.png');
+}
+
+#desktop{
+	display: none;
 }
 
 }
@@ -181,27 +185,6 @@ body{
 <div id="right"></div>
 <div id="blurb"><i>open the ball or <a href="home">click here</a> to get started!</i></div>
 <a href="home"><div id="center"></div></a>
-
-<!-- <div id="navleft">
-<ul>
-	<li><a href="/trainer">Trainer</a></li>
-	</ul>
-	</div>
-
-<div id="navright">
-<ul>
-	<li><a href="/gym">Gym</a></li>
-	<li><a href="/faint">Someone's PC</a></li>
-	</ul>
-	</div> -->
-
-<div id="mobile"><div id="header">MASTERBALL</div>
-
-
-<div id="left"></div>
-<div id="right"></div>
-<div id="text"><i>open the ball or <a href="home">click here</a> to get started!</i></div></div>
-
 
 </body>
 </html>
