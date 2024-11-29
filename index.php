@@ -98,6 +98,23 @@ height: 202px;
 	color: #f30000!important;
 }
 
+#blurb{
+	width: 50vw;
+  margin: -5em auto;
+  text-align: center;
+  font: normal 150% 'Futura';
+  color: #fff;
+}
+
+#blurb a:link, #blurb a:visited{
+	color: #F2B3F4;
+	text-decoration: none;
+}
+
+#blurb a:hover, #blurb a:focus{
+	color: #ff0000;
+}
+
 #error{
 display: none;
 }
@@ -174,7 +191,7 @@ body{
 <div id="navright">
 <ul>
 	<li><a href="/gym">Gym</a></li>
-	<li><a href="/faint">Someone's PC</a></li> -->
+	<li><a href="/faint">Someone's PC</a></li>
 	</ul>
 	</div> -->
 
