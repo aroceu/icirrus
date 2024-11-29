@@ -3,6 +3,7 @@
 <head>
 
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
+  <meta name="viewport" content="initial-scale=1.0" />
 <link rel="shortcut icon" type="image/x-icon" href="shiny.png" />
 <link rel="stylesheet" href="../template.css" type="text/css" media="screen">
 
@@ -28,7 +29,7 @@ h1, h2{
 
 </style>
 
-<title>TRAINER / / SHINY GALLERY</title>
+<title>TRAINER / SHINY GALLERY</title>
 
 </head>
 

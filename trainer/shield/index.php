@@ -31,6 +31,13 @@ a.movesetlink:hover{
 	border-bottom: none;
 }
 
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+	body{
+		border-left: double 5px #DD0262;
+	border-right: double 5px #DD0262;
+	}
+
+}
 </style>
 
 </head>

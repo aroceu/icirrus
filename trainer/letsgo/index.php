@@ -11,6 +11,15 @@ body{
 	margin: 0;
 }
 
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+body{
+	border-left: #EFD35F 5px solid;
+	border-right: #EFD35F 5px solid;
+}
+
+}
+
 </style>
 
 </head>

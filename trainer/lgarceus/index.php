@@ -47,6 +47,15 @@ b.shinyboxlink{
     font-weight: normal;
 }
 
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+    body{
+        border-left: #2E6384 5px solid;
+    border-right: #2E6384 5px solid;
+    }
+
+}
+
 </style>
 
 </head>

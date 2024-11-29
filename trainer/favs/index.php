@@ -185,6 +185,28 @@ table.pokemons img{
     color: #6995A0;
 }
 
+img.numerical{
+    width: 500px;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 0px) {
+
+    .h2text {
+  text-align: center;
+  width: auto;
+}
+
+img.numerical{
+    max-width: 100%;
+}
+
+.ships td {
+  width: auto;
+  display: block;
+}
+
+}
+
 </style>
 
 </head>
@@ -515,7 +537,7 @@ table.pokemons img{
 
     <h3>Numerical Species Ranking</h3>
 
-    <p align="center"><img src="favrank24nov.png" width="500"></p>
+    <p align="center"><img src="favrank24nov.png" class="numerical"></p>
     
 
     <h3>OTPs</h3>
