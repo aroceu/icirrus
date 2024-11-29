@@ -268,10 +268,10 @@ body{
 
 #m{
 	display: block;
-	margin: 1em auto;
-  text-align: center;
-  color: #fff;
-  font: normal 3.5em 'Futura', 'Century Gothic', sans-serif;
+    margin: 0.5em auto;
+    text-align: center;
+    color: #fff;
+    font: normal 5em 'Futura', 'Century Gothic', sans-serif;
 }
     
 }
