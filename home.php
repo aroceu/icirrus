@@ -151,6 +151,10 @@ font-size: 130%;
 nav .item{
 font-size: 130%;
 }
+
+nav p{
+    margin: 5px;
+}
 }
 
 
