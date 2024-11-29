@@ -132,6 +132,10 @@ html {
 #container{
     width: 75%;
 }
+
+nav .item{
+font-size: 130%;
+}
 }
 
   @media only screen and (max-width: 768px) {

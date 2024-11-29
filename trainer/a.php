@@ -381,10 +381,6 @@ ul li::before{
 	padding-right: 1em;
 }
 
-blockquote i{
-	color: #333;
-}
-
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
@@ -457,11 +453,11 @@ blockquote{
 
 <p>They specialize in <grass>Grass-type Pokémon</grass> in Generation <ruby>I</ruby><sapphire>I</sapphire><emerald>I</emerald> and they often have healing items. In Generation <dpp>IV</dpp> onward, they use a variety of powerful Pokémon, similar to Ace Trainers.</p>
 
-<p>In <bw2>Pokémon Black and White and Black 2 and White 2</bw2>, they give out Berries when defeated, unless if they are encountered in the Big Stadium or Small Court, where they instead give out Max Repels. <small><i>- Bulbapedia</i></p> </blockquote>
+<p>In <bw2>Pokémon Black and White and Black 2 and White 2</bw2>, they give out Berries when defeated, unless if they are encountered in the Big Stadium or Small Court, where they instead give out Max Repels. <small><i>- Bulbapedia</i></p></small> </blockquote>
 
 <hr />
 
-<p><b>kingdra</b> <img src="https://icirr.us/trainer/kingdra.png" height="18px">  My favorite &hearts; I like 'mon based on their aesthetic and typing most of the time, though their battle viability may make a difference in some cases. Kingdra is the peak of this for me; as a huge water lover and a dragon lover and the excellent defense of those two types together, as well as it's simplistic-but-elegant design, it's no wonder it would become my favorite. It was difficult to get in gen III, though, but my brother and I had a link cable and I managed to evolve one, named <i>Dumpling</i>. It had Sniper, which is its inferior ability, and middling stats &mdash; but as someone who likes long range attacks, it works for me. Though the others here may come quite close, I don't think anything will top a pok&eacute;mon that feels made for me.</p>
+<p><b>kingdra</b> <img src="https://icirr.us/trainer/kingdra.png" height="18px">  My favorite &hearts; I like 'mon based on their aesthetic and typing most of the time, though their battle viability may make a difference in some cases. Kingdra is the peak of this for me; as a huge water lover and a dragon lover and the excellent defense of those two types together, as well as kingdra'ss simplistic-but-elegant design, it's no wonder it would become my favorite. It was difficult to get in gen III, though, but my brother and I had a link cable and I managed to evolve one, named <i>Dumpling</i>. It had Sniper, which is its inferior ability, and middling stats &mdash; but as someone who likes long range attacks, it works for me. Though the others here may come quite close, I don't think anything will top a pok&eacute;mon that feels made for me.</p>
 
 <p><b>sceptile</b> <img src="https://icirr.us/trainer/sceptile-mega.png" height="18px"> My first ever pok&eacute;mon &hearts; I mostly chose treecko because the friend from summer camp who I'd watched all the time had a treecko (also named Ecko, by the way &mdash; I am so original) who she evolved into a grovyle, and I thought both were pretty cool. Ever since then, whenever I played a Hoenn game, it didn't feel right if I didn't start with treecko first. Sceptile is awesome too; I love me a glass cannon, because that's the kind of fighter I am myself. Mega sceptile being half dragon type (numerically technically my 'favorite' type) felt perfect for it too. And for me.</p>
 
