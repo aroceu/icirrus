@@ -119,9 +119,13 @@ height: 202px;
 display: none;
 }
 
+#m{
+	display: none;
+}
+
 /* tablets and landscape */
 
-@media only screen and (max-width: 960px) and (min-width: 0px) {
+@media only screen and (max-width: 960px) and (min-width: 430px) {
 
 html {
 -webkit-text-size-adjust: none;
@@ -193,6 +197,86 @@ body{
 
 }
 
+/** mobile (basically the same but instead of saying masterball it just has M) **/
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+body{
+	background: #fff;
+	margin: 0;
+	background: url('buttbg.png') repeat-x;
+}
+
+#mobile{
+	margin: 1em auto;
+	font: normal 150%/160% 'Futura';
+	padding: 3em 0;
+	text-align: center;
+	display: block;
+}
+
+.text{
+	width: 90%;
+	margin: 0 auto;
+	color: #c8413d;
+}
+
+#center{
+	background: url('button.png');
+	left: 50%;
+	top: 274px;
+	transform: translateX(-50%);
+	position: absolute;
+	width: 197px;
+	height: 202px;
+}
+
+#center:hover, #center:focus{
+	background: url('button002.png');
+}
+
+#header {
+  display: none;
+}
+
+#blurb{
+	margin: -1em auto;
+}
+
+#left, #right{
+	width: 113px;
+	height: 600px;
+	position: absolute;
+	top: 0;
+}
+
+#left{
+	left: 0;
+	background: url('leftbutt.png');
+	z-index: -1;
+}
+
+#right{
+	right: 0;
+	background: url('rightbutt.png');
+	z-index: -1;
+}
+
+#m{
+	display: block;
+	margin: 1em auto;
+  text-align: center;
+  color: #fff;
+  font: normal 3.5em 'Futura', 'Century Gothic', sans-serif;
+}
+    
+}
+
+
 
 </style>
 
@@ -201,6 +285,7 @@ body{
 <body>
 
 <div id="header">MASTERBALL</div>
+<div id="m">M</div>
 
 
 <div id="left"></div>
