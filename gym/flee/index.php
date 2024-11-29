@@ -119,7 +119,7 @@
 
 <hr />
 
-<p>Let me know at <i>leader@icirr.us</i> if you'd like to exchange links. I'll likely add you so as long as your website is:
+<p>Let me know at <i>leader＠icirr.us</i> (<a href="https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/">don't c/p</a>) if you'd like to exchange links. I'll likely add you so as long as your website is:
 <ul><li> Pok&eacute;mon-related, and </li>
 <li>Not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
 <li>Collectives and anything personal (or not) are fine!</li></ul> 

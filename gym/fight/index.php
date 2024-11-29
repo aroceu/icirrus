@@ -241,8 +241,8 @@ input#submit{
     <br />SW: 3799-3686-0675 (ARROW.ink)</blockquote>
     
     <p>If you'd like to get in touch for whatever reason, hit me up at 
-    <br /><b>leader @ icirr.us</b>. </p>
-    <p><small>(This is a disposable email and you will get responses from my real email address.)</small></p>
+    <br /><b>pkmnranger＠proton.me</b>. </p>
+    <p><small>(But <a href="https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/">don't copy & paste</a> the email above.)</small></p>
 
 
 </div>
