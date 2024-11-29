@@ -1,6 +1,7 @@
 <html lang="en">
 <head>
 <title>GYM / POK&Eacute;MON GO</title>
+        <meta name="viewport" content="initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
@@ -169,6 +170,29 @@ a:hover, a:active, a:focus{
 	text-decoration: none;
 	color: #485b5d;
 }
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
+#footer {
+  margin: 1em 0;
+}
+
+#footer h2 {
+  border-bottom: 1px #bbb solid;
+  border-top: 1px #bbb solid;
+  padding: 1em 0;
+}
+    
+}
+
 
 </style>
 </head>

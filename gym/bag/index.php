@@ -1,6 +1,7 @@
 <html lang="en">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="initial-scale=1.0">
 
 <title>GYM / BAG</title>
 
@@ -133,6 +134,23 @@ a:hover, a:focus{
 	text-decoration: underline;
 }
 
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
+#openbag{
+	width: 60%;
+}
+    
+}
+
+
 </style>
 
 </head>
@@ -155,7 +173,7 @@ a:hover, a:focus{
 
 <div id="map">
 <ul><li><a href="javascript:void(0);" value="Click" onclick="switchMap();"/>Close Map</a></li>
-<li><a onclick="javascript:ShowHide('ballin')">Masterball (index)
+<li><a onclick="javascript:ShowHide('ballin')">Masterball (splash) &gt; Home</a>
 <ul class="mid" id="ballin" style="display: none;">
 <li><a onclick="javascript:ShowHide('trainer')">Trainer</a>
 <ul class="mid" id="trainer" style="display: none;">
@@ -192,7 +210,11 @@ a:hover, a:focus{
 <!-- <li>Design Info & Credits (dowsing machine)</li> --></ul></li>
 <li>Pok&eacute;mon (Pokemon Go Log)</li>
 <li>Run (Exits/Affiliates)</li></ul></li>
-</li></ul>
+<li>Map (static)</li>
+<li>Error 404</li>
+</li></ul></li>
+
+</ul>
 </div>
 
 <!-- <div id="dowsing">

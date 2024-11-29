@@ -1,6 +1,8 @@
 <html lang="en">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	  <meta name="viewport" content="initial-scale=1.0" />
+
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:400,400i,700,700i&display=swap" rel="stylesheet">
 
 <title>MASTERBALL / TRAINER (about)</title>
@@ -378,6 +380,48 @@ ul li::before{
 	content: url('https://icirr.us/mb.png');
 	padding-right: 1em;
 }
+
+  @media only screen and (max-width: 768px) and (min-width: 431px) {
+    
+    html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+	width: 95%;
+}
+
+#ot ul{
+	padding: 1em;
+}
+
+}
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
+blockquote{
+	margin: 0;
+}
+
+#ot ul{
+	padding: 1em;
+}
+
+.close{
+	text-align: center;
+	width: auto;
+}
+    
+}
+
 
 </style>
 

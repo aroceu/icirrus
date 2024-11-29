@@ -141,6 +141,32 @@ ul.tree-view {
 			content: ""
 		}
 
+	  @media only screen and (max-width: 1025px) and (min-width: 431px) {
+    
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+	width: 80%;
+}
+}
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 90%;
+}
+    
+}
+
+
+
+
 		</style>
 
 		</head>
@@ -149,7 +175,7 @@ ul.tree-view {
 
 <div id="container">
 
-	<h1>MASTER<font color="#D93FC1">BALL</font> <img src="https://icirr.us/mball.ico"> <subhead>SITE<i>MAP</i></subhead></h1>
+	<h1>MASTER<font color="#D93FC1">BALL</font> <img src="https://icirr.us/mball.ico"><img src="map.png"> <subhead>SITE<i>MAP</i></subhead></h1>
 
  <ul class="tree-view">
         <a href="https://icirr.us/">Index</a> (splash)

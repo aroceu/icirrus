@@ -2,6 +2,7 @@
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>NO! THERE'S NO RUNNING FROM A TRAINER BATTLE!</title>
+<meta name="viewport" content="initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
 
@@ -76,6 +77,21 @@
 		height: 31px;
 		width: 88px;
 	}
+
+	  @media only screen and (max-width: 768px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container {
+  position: static;
+  width: 75%;
+  margin: 0 auto;
+}
+    
+}
+
 
 </style>
 

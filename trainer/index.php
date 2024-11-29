@@ -1,6 +1,7 @@
 <html lang="en">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="initial-scale=1.0" />
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:400,400i,700,700i&display=swap" rel="stylesheet">
 
 <title>MASTERBALL / TRAINER</title>

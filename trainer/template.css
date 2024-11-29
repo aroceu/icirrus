@@ -619,3 +619,88 @@ x{background: #27A4BC}
 
 #shiny .pkmn b, #shiny #footer a:link, #shiny #footer a:visited{ color: #fff; text-shadow: 0.12em 0em 0.5em #555;}
 #shiny .mon td:first-child{ padding-right: 10px; }
+
+  @media only screen and (max-width: 768px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+.container{
+	width: 95%;
+}
+
+#icon {
+  width: auto;
+  float: none;
+  margin: 2em auto;
+  text-align: center;
+}
+
+#header {
+  font: italic 220% 'Futura', 'Century Gothic', sans-serif;
+  float: none;
+  width: auto;
+  margin: 1em 0 0.5em;
+  text-align: center;
+}
+
+ul#games {
+  padding-top: none;
+}
+
+ul#games li {
+  display: block;
+  width: auto;
+  text-align: center;
+  margin: 10px 0;
+}
+
+#ava {
+  float: none;
+  width: auto;
+  text-align: center;
+}
+
+#meta{
+	float: none;
+	width: 95%;
+  margin: 0 auto !important;
+}
+
+#meta h1 {
+  font: normal 400% 'Futura', 'Century Gothic', sans-serif;
+  text-align: center;
+}
+
+#meta h2 {
+  font: normal 250% 'Futura', 'Century Gothic', sans-serif;
+  text-align: center;
+}
+
+.talk{
+	font: normal 200%/160% 'Lato';
+}
+
+#pokes{
+	width: 95%!important;
+	font: normal 220%/160% 'Lato'!important;
+}
+
+.pkmn{
+	width: auto;
+	float: none;
+}
+
+.pkmn img {
+  display: block;
+  height: 250px;
+  margin: 0 auto;
+  float: none;
+}
+
+#footer{
+	font-size: 150%;
+}
+
+}
