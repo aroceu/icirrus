@@ -16,7 +16,7 @@
 <div class="container">
 
 <div id="icon"><img src="icon3.png"></div>
-<div id="header">You've been challenged to a <a href="#?w=600" rel="challenge" class="poplight"><b>trainer battle</b></a>!</div>
+<div id="header">You've been challenged to a <a href="a" rel="challenge"><b>trainer battle</b></a>!</div>
 
 <ul id="games">
 	<li><a href="ruby" class="ruby">Ruby</a></li>

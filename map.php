@@ -157,7 +157,7 @@ ul.tree-view {
             	<ul>
             		<li><a href="https://icirr.us/trainer/">Trainer</a></li>
             			<ul>
-		            		<li>About (me as a trainer)</li>
+		            		<li><a href="https://icirr.us/trainer/a">About (me as a trainer)</a></li>
 		            		<li><a href="https://icirr.us/trainer/ruby">Ruby</a></li>
 		            		<li><a href="https://icirr.us/trainer/emerald">Emerald</a></li>
 		            		<li><a href="https://icirr.us/trainer/diamond">Diamond</a></li>
@@ -211,6 +211,6 @@ ul.tree-view {
 
 	</div>
 
-	<p align="center" style="margin-bottom: 2.5em">&copy; 2017-2024 &bull; <a href="https://icirr.us/gym/flee">Exits</a> &bull; <a href="https://github.com/aroceu/icirrus">View on Github</a> &bull; Documentation</p>
+	<p align="center" style="margin-bottom: 2.5em">&copy; 2017-2024 <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> Documentation</p>
 
 	</body>
