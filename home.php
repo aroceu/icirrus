@@ -110,6 +110,15 @@ a.tooltip:hover{
 
 .footer{
     text-align: center;
+    color: #999;
+}
+
+.footer a:link, .footer a:visited{
+    color: #999;
+}
+
+.footer a:hover, .footer a:focus{
+    color: #333;
 }
 
 
@@ -138,7 +147,7 @@ a.tooltip:hover{
 </div>
 
     <div class="footer">
-        &copy; 20217-2024 Masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. For further information, see <a href="" class="tooltip">documentation<span class="tooltiptext">upcoming! :)</span></a>. <a href="/">Clear?</a>
+        &copy; 2017-2024 masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. For further information, see <a href="" class="tooltip">documentation<span class="tooltiptext">upcoming! :)</span></a>. <a href="/">Clear?</a>
     </div>
 </body>
 </html>
