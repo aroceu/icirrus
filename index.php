@@ -10,6 +10,11 @@
 
 <style type="text/css">
 
+		@font-face {
+    font-family: Futura;
+    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+}
+
 body{
 	background: url('bg.png') repeat-x top;
 	margin: 0;
@@ -157,9 +162,9 @@ body{
 
 <div id="left"></div>
 <div id="right"></div>
-<a href="/"><div id="center"></div></a>
+<a href="main"><div id="center"></div></a>
 
-<div id="navleft">
+<!-- <div id="navleft">
 <ul>
 	<li><a href="/trainer">Trainer</a></li>
 	</ul>
@@ -168,9 +173,9 @@ body{
 <div id="navright">
 <ul>
 	<li><a href="/gym">Gym</a></li>
-	<!-- <li><a href="/faint">Someone's PC</a></li> -->
+	<li><a href="/faint">Someone's PC</a></li> -->
 	</ul>
-	</div>
+	</div> -->
 
 <div id="error"><div class="text">This site is not yet responsive! Please view this website on your PC.</div></div>
 

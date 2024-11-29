@@ -1,0 +1,216 @@
+<html lang="en">
+<head>
+      <meta name="description" content="yeah i'm a pokemon master suck it">
+              <meta name="robots" content="noai, noimageai">
+
+<title>MASTERBALL / SITEMAP</title>
+<meta name="viewport" content="initial-scale=1.0">
+
+<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
+
+
+<style type="text/css">
+
+@font-face {
+    font-family: Futura;
+    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+}
+
+body{
+    background: #eaeaea;
+    margin: 0;
+    font: normal 100%/140% 'Futura';
+    color: #333;
+}
+
+#container{
+	width: 50vw;
+	margin: 2em auto 1em;
+	padding: 1em;
+}
+
+h1{
+	font: normal 200% 'Futura';
+	text-align: center;
+	color: #B345F0;
+}
+
+h1 subhead{
+	color: #5EB9AA;
+}
+
+subhead i{
+	color: #619E0D;
+}
+
+a:link, a:visited{
+	color: #5EB9AA;
+}
+
+a:hover, a:focus{
+	color: #619E0D;
+	text-decoration: none;
+}
+
+b{
+	color: #D93FC1;
+}
+
+i{
+	color: #619E0D;
+}
+
+ul.tree-view {
+			background: white;
+			padding: 1em;
+		}
+
+		ul.tree-view li {
+			list-style-type: none
+		}
+
+		ul.tree-view li,
+		ul.tree-view ul {
+			margin-top: 3px
+		}
+
+		ul.tree-view ul {
+			border-left: 1px solid #333;
+			margin-left: 16px;
+			padding-left: 16px
+		}
+
+		ul.tree-view ul>li {
+			position: relative
+		}
+
+		ul.tree-view ul>li:before {
+			border-bottom: 1px solid #333;
+			content: "";
+			display: block;
+			left: -16px;
+			position: absolute;
+			top: 6px;
+			width: 12px
+		}
+
+		ul.tree-view ul>li:last-child:after {
+			bottom: 0;
+			content: "";
+			display: block;
+			left: -20px;
+			position: absolute;
+			top: 7px;
+			width: 8px
+		}
+
+		ul.tree-view details {
+			margin-top: 0
+		}
+
+		ul.tree-view details[open] summary {
+			margin-bottom: 0
+		}
+
+		ul.tree-view ul details>summary:before {
+			margin-left: -22px;
+			position: relative;
+			z-index: 1
+		}
+
+		ul.tree-view details>summary:before {
+			border: 1px solid #333;
+			content: "+";
+			display: block;
+			float: left;
+			height: 9px;
+			line-height: 8px;
+			margin-right: 5px;
+			padding-left: 1px;
+			text-align: center;
+			width: 8px
+		}
+
+		ul.tree-view details[open]>summary:before {
+			content: "-"
+		}
+
+		ul.tree-view details>summary::-webkit-details-marker,
+		ul.tree-view details>summary::marker {
+			content: ""
+		}
+
+		</style>
+
+		</head>
+
+<body>
+
+<div id="container">
+
+	<h1>MASTER<font color="#D93FC1">BALL</font> <img src="https://icirr.us/mball.ico"> <subhead>SITE<i>MAP</i></subhead></h1>
+
+ <ul class="tree-view">
+        <a href="https://icirr.us/">Index</a> (splash)
+        <ul>
+            <li><a href="https://icirr.us/main/">Main (navigation)</a></li>
+            	<ul>
+            		<li><a href="https://icirr.us/trainer/">Trainer</a></li>
+            			<ul>
+		            		<li>About (me as a trainer)</li>
+		            		<li><a href="https://icirr.us/trainer/ruby">Ruby</a></li>
+		            		<li><a href="https://icirr.us/trainer/emerald">Emerald</a></li>
+		            		<li><a href="https://icirr.us/trainer/diamond">Diamond</a></li>
+		            		<li><a href="https://icirr.us/trainer/platinum">Platinum</a></li>
+		            		<li><a href="https://icirr.us/trainer/firered">Fire Red</a></li>
+		            		<li><a href="https://icirr.us/trainer/heartgold">Heart Gold</a></li>
+		            		<li><a href="https://icirr.us/trainer/black">Black</a></li>
+		            		<li><a href="https://icirr.us/trainer/black2">Black 2</a></li>
+		            		<li><a href="https://icirr.us/trainer/x">X</a></li>
+		            		<li><a href="https://icirr.us/trainer/y">Y</a></li>
+		            		<li><a href="https://icirr.us/trainer/omega">Omega Ruby</a></li>
+		            			<ul>
+		            				<li><a href="https://icirr.us/trainer/omega/log">Log</a></li>
+		            			</ul>
+		            		<li><a href="https://icirr.us/trainer/moon">Moon</a></li>
+		            		<li><a href="https://icirr.us/trainer/letsgo">Let's Go</a></li>
+		            		<li><a href="https://icirr.us/trainer/shield">Shield</a></li>
+		            			<ul>
+		            				<li><a href="https://icirr.us/trainer/shield/shiny">Shiny Collection</a></li>
+		            			</ul>
+		            		<li><a href="https://icirr.us/trainer/lgarceus">Legends Arceus</a></li>
+		            		<li><a href="https://icirr.us/trainer/misc">Miscellaneous</a></li>
+		            		<li><a href="https://icirr.us/trainer/favs">Favorites</a></li>
+		            		<li><a href="https://icirr.us/trainer/shiny">Shiny Gallery</a></li>
+		            	</ul>
+		            <li><a href="https://icirr.us/gym">Gym</a></li>
+		            	<ul>
+		            		<li><a href="https://icirr.us/gym/fight">Fight (site metadata)</a></li>
+		            			<ul>
+		            				<li>Repo Updates - bisharp</li>
+		            				<li>Contact/Add (in game) - aegislash</li>
+		            				<li>About (me as a player) - aggron</li>
+		            				<li>About (the site) - excadrill</li>
+		            				<li>Linkback - tinkaton</li>
+		            			</ul>
+		            		<li><a href="https://icirr.us/gym/bag">Bag</a></li>
+		            			<ul>
+		            				<li>Map (interactive)</li>
+		            			</ul>
+		            		<li><a href="https://icirr.us/gym/pokego">Pok&eacute;mon (Go log)</a></li>
+		            		<li><a href="https://icirr.us/gym/flee">Run (exits/affiliates)</a></li>
+		            	</ul>
+		            <li>TCG (<i>upcoming</i>)</li>
+		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
+		            <li>Map (static) <i><b>You are here!</b></i></li>
+		        </ul>
+
+		    </ul>
+
+		</ul>
+
+	</div>
+
+	<p align="center" style="margin-bottom: 2.5em">&copy; 2017-2024 &bull; <a href="https://icirr.us/gym/flee">Exits</a> &bull; <a href="https://github.com/aroceu/icirrus">View on Github</a> &bull; Documentation</p>
+
+	</body>

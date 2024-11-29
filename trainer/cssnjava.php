@@ -52,9 +52,9 @@ $('a.close, #fade').live('click', function() { //When clicking on the close or f
 
 <style type="text/css">
 
-@font-face {
+	@font-face {
     font-family: Futura;
-    src: url('http://aroceu.com/x/futura.ttf') format(futura.ttf);
+    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
 }
 
 body{
