@@ -105,13 +105,13 @@ ul#choose{
 }
 
 #openbag, #bag{
-	border: 5px double #000;
 	padding: 15px;
 	border-radius: 10px;
 }
 
 #openbag{
 	text-transform: uppercase;
+	border: 5px double #000;
 	width: 30%;
 	margin: 0 auto;
 	font-size: 120%;
@@ -212,7 +212,7 @@ html {
 
 </div>
 
-<div id="bag">
+<div id="bag" style="display: none;">
 
 <div id="select">Select an item</div>
 
@@ -222,7 +222,7 @@ html {
 <li><a href="/map" title="">Town Map</a></li>
 <li><a href="/trainer" title="">Vs. Seeker</a></li>
 <li><a href="/home" title="(pretend this is a key item)">Masterball</a> x 1</li>
-<li><a href="../">Close Bag</a></li></ul></div>
+<li><a href="javascript:void(0);" value="Click" onclick="switchBag();changeThat()"/>Close Bag</a></li></ul></div>
 
 	
 </div>
