@@ -200,9 +200,10 @@ img.numerical{
     max-width: 100%;
 }
 
-.ships td {
-  width: auto;
+.ships td, .ships td:nth-child(2) {
+  width: auto!important;
   display: block;
+  text-align: center;
 }
 
 }

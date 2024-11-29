@@ -1,6 +1,7 @@
 <html lang="en">
 <head>
       <meta name="description" content="yeah i'm a pokemon master suck it">
+      <meta name="viewport" content="initial-scale=1.0" />
               <meta name="robots" content="noai, noimageai">
 
 <title>MASTERBALL / HOME</title>
@@ -111,6 +112,7 @@ a.tooltip:hover{
 .footer{
     text-align: center;
     color: #999;
+    padding-bottom: 3em;
 }
 
 .footer a:link, .footer a:visited{
@@ -120,6 +122,30 @@ a.tooltip:hover{
 .footer a:hover, .footer a:focus{
     color: #333;
 }
+
+  @media only screen and (max-width: 1025px) and (min-width: 769px) {
+    
+html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+    width: 75%;
+}
+}
+
+  @media only screen and (max-width: 768px) and (min-width: 431px) {
+    
+    html {
+-webkit-text-size-adjust: 100%;
+}
+
+#container{
+    width: 90%;
+}
+}
+
+
 
 
 </style>
