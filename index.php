@@ -165,8 +165,15 @@ body{
 	background: url('button002.png');
 }
 
-#desktop{
-	display: none;
+#header {
+  margin: 1em auto;
+  text-align: center;
+  color: #fff;
+  font: normal 3em 'Futura', 'Century Gothic', sans-serif;
+}
+
+#blurb{
+	margin: -1em auto;
 }
 
 }
