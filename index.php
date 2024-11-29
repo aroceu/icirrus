@@ -115,7 +115,7 @@ height: 202px;
 	color: #ff0000;
 }
 
-#error{
+#mobile{
 display: none;
 }
 
@@ -127,7 +127,7 @@ html {
 -webkit-text-size-adjust: none;
 }
 
-#header, #left, #right, #navleft, #navright{
+#left, #right, #navleft, #navright{
 display: none;
 }
 
@@ -137,7 +137,7 @@ body{
 	background: url('buttbg.png') repeat-x;
 }
 
-#error{
+#mobile{
 	margin: 1em auto;
 	font: normal 150%/160% 'Futura';
 	padding: 3em 0;
@@ -152,17 +152,17 @@ body{
 }
 
 #center{
-	background: url('butt.png');
+	background: url('button.png');
 	left: 50%;
 	top: 262px;
 	transform: translateX(-50%);
 	position: absolute;
-	width: 228px;
-	height: 225px;
+	width: 197px;
+	height: 202px;
 }
 
 #center:hover, #center:focus{
-	background: url('butt.png');
+	background: url('button002.png');
 }
 
 }
@@ -195,7 +195,12 @@ body{
 	</ul>
 	</div> -->
 
-<div id="error"><div class="text">This site is not yet responsive! Please view this website on your PC.</div></div>
+<div id="mobile"><div id="header">MASTERBALL</div>
+
+
+<div id="left"></div>
+<div id="right"></div>
+<div id="text"><i>open the ball or <a href="home">click here</a> to get started!</i></div></div>
 
 
 </body>

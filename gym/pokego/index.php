@@ -193,7 +193,6 @@ html {
 
 h2:before, h2:after{
 	border: none;
-	width: 0;
 }
     
 }
