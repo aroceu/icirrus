@@ -193,6 +193,10 @@
 	font-style: normal!important;
 }
 
+.mobilenote{
+	display: none;
+}
+
 @media only screen and (max-width: 768px) and (min-width: 431px) {
 
 html {
@@ -221,6 +225,10 @@ html {
 #content{
 			margin-top: 10em;
 		}
+
+.mobilenote{
+	display: block;
+}
 
 }
 
@@ -265,6 +273,10 @@ html {
 table.mon{
 	width: 50% !important;
 	margin: 0 auto;
+}
+
+.mobilenote{
+	display: block;
 }
 
 }
@@ -341,6 +353,8 @@ $(function() {
 				<p>Due to the shiny raid den exploit, shiny hunting has been extremely easy in this game. So I figured that instead of overwhelming my <a href="/trainer/shiny">shiny page</a> with all the shinies I've obtained, I'll just make an entire subsection to them instead.</p>
 
 				<p>Below are shinies I've established mostly for competitive (Battle Tower Singles more than anything else) and rare shinies in rare pok&eacute;balls. I have both hosted many shiny dens myself, but as of 2022 only have interest in raiding (aka hoarding.) </p>
+
+				<p class="mobilenote"><small>This page does not look fantastic responsively, but it still works.</small></p>
 
 			</div>
 
