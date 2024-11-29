@@ -218,7 +218,7 @@ input#submit{
 
 <body>
 
-<div id="footer"><a href="../">Back To Gym</a> :: <a href="/">Masterball</a></div>
+<div id="footer"><a href="../">Back To Gym</a> :: <a href="/home">Masterball</a></div>
 
 
 <div id="top">

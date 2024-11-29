@@ -108,6 +108,10 @@ a.tooltip:hover{
     display: block;
 }
 
+.footer{
+    text-align: center;
+}
+
 
 </style>
 
@@ -133,6 +137,8 @@ a.tooltip:hover{
 
 </div>
 
-        <p align="center"><a href="/"><img src="https://icirr.us/mball.ico" height="20" width="20"></a></p>
+    <div class="footer">
+        &copy; 20217-2024 Masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. For further information, see <a href="" class="tooltip">documentation<span class="tooltiptext">upcoming! :)</span></a>. <a href="/">Clear?</a>
+    </div>
 </body>
 </html>

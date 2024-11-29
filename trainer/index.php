@@ -40,7 +40,7 @@
 
 </div>
 
-<div id="footer"><a href="/"><img src="../mball.ico" height="20" width="20"></a></div>
+<div id="footer"><a href="/home"><img src="../mball.ico" height="20" width="20"></a></div>
 
 </div>
 

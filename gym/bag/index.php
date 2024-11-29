@@ -149,7 +149,7 @@ a:hover, a:focus{
 <li><a href="javascript:void(0);" value="Click" onclick="switchMap();changeThat()"/>Town Map</a></li>
 <!-- <li><a href="javascript:void(0);" value="Click" onclick="switchDowsing();changeThat()"/>Dowsing Machine</a></li> -->
 <li><a href="/trainer" title="">Vs. Seeker</a></li>
-<li><a href="/" title="(pretend this is a key item)">Masterball</a> x 1</li>
+<li><a href="/home" title="(pretend this is a key item)">Masterball</a> x 1</li>
 <li><a href="../">Close Bag</a></li></ul></div>
 
 

@@ -132,7 +132,7 @@
 
 <div id="footer">
 
-<a href="../">Back To Gym</a> :: <a href="/">Masterball</a>
+<a href="../">Back To Gym</a> :: <a href="/home">Masterball</a>
 
 </div>
 
