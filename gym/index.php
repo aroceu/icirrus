@@ -195,6 +195,8 @@ html {
 
 
 <div id="container">
+
+<div id="gym">
 <center><img src="guy.png"></center>
 <div class="intro">Yo, champ in the making! This gym uses STEEL type Pok&eacute;mon, so be sure to stock up on your FIRE, GROUND, and FIGHTING moves!</div>
 
@@ -205,6 +207,8 @@ html {
 					<li><a href="flee">Run</a></li>
 					</ul>
 					</div>
+
+</div>
 
 </div>
 
