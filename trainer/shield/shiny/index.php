@@ -193,7 +193,7 @@
 	font-style: normal!important;
 }
 
-@media only screen and (max-width: 768px) and (min-width: 0px) {
+@media only screen and (max-width: 768px) and (min-width: 431px) {
 
 html {
 -webkit-text-size-adjust: none;
@@ -223,6 +223,48 @@ html {
 		}
 
 }
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
+#header {
+  width: 85%;
+}
+
+#nav {
+  float: none;
+  width: auto;
+}
+
+#chat {
+  float: none;
+  width: auto;
+  margin: 0 auto;
+}
+
+#content{
+			margin-top: 3em;
+		}
+    
+.pkmn {
+  width: auto;
+  float: none;
+}
+
+table.mon{
+	width: 50% !important;
+}
+
+}
+
+
 
 	</style>
 
