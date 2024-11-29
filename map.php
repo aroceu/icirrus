@@ -50,6 +50,7 @@ a:link, a:visited{
 a:hover, a:focus{
 	color: #619E0D;
 	text-decoration: none;
+	font-style: italic;
 }
 
 b{
@@ -153,7 +154,7 @@ ul.tree-view {
  <ul class="tree-view">
         <a href="https://icirr.us/">Index</a> (splash)
         <ul>
-            <li><a href="https://icirr.us/main/">Main (navigation)</a></li>
+            <li><a href="https://icirr.us/home/">Home</a></li>
             	<ul>
             		<li><a href="https://icirr.us/trainer/">Trainer</a></li>
             			<ul>
@@ -204,6 +205,8 @@ ul.tree-view {
 		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
 		            <li>Map (static) <i><b>You are here!</b></i></li>
 		        </ul>
+
+		        <li><a href="https://icirr.us/error.php">Error 404</a></li>
 
 		    </ul>
 
