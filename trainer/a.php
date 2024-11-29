@@ -223,8 +223,8 @@ dpp{
 }
 
 bw2{
-	background: #fff;
-	color: #000;
+	background: #000;
+	color: #fff;
 }
 
 grass{
@@ -381,6 +381,10 @@ ul li::before{
 	padding-right: 1em;
 }
 
+blockquote i{
+	color: #333;
+}
+
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
@@ -393,6 +397,11 @@ ul li::before{
 
 #ot ul{
 	padding: 1em;
+}
+
+.close{
+	text-align: center;
+	width: auto;
 }
 
 }
@@ -448,7 +457,7 @@ blockquote{
 
 <p>They specialize in <grass>Grass-type Pokémon</grass> in Generation <ruby>I</ruby><sapphire>I</sapphire><emerald>I</emerald> and they often have healing items. In Generation <dpp>IV</dpp> onward, they use a variety of powerful Pokémon, similar to Ace Trainers.</p>
 
-<p>In <bw2>Pokémon Black and White and Black 2 and White 2</bw2>, they give out Berries when defeated, unless if they are encountered in the Big Stadium or Small Court, where they instead give out Max Repels.</p> </blockquote>
+<p>In <bw2>Pokémon Black and White and Black 2 and White 2</bw2>, they give out Berries when defeated, unless if they are encountered in the Big Stadium or Small Court, where they instead give out Max Repels. <small><i>- Bulbapedia</i></p> </blockquote>
 
 <hr />
 

@@ -5,6 +5,8 @@
 
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
 <link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
+  <meta name="viewport" content="initial-scale=1.0" />
+
 
 
 <style type="text/css">
@@ -124,6 +126,18 @@ cute{
 
 tough{
 	background: #F7C651
+}
+
+@media only screen and (max-width: 768px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
 }
 
 </style>

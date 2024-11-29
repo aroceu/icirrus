@@ -5,7 +5,7 @@
 
 	<link href="https://fonts.googleapis.com/css?family=Kranky|Playfair+Display:400,400i,600,600i|Inconsolata:400,700|Lato:400,400i,700,700i&display=swap" rel="stylesheet">
 	<link rel="shortcut icon" type="image/x-icon" href="shiny.png" />
-
+<meta name="viewport" content="initial-scale=1.0" />
 
 	<style type="text/css">
 
@@ -191,6 +191,33 @@
 	text-decoration: none;
 	border-bottom: none;
 	font-style: normal!important;
+}
+
+@media only screen and (max-width: 768px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	width: 95%;
+}
+
+#header {
+  width: 85%;
+}
+
+#nav {
+  float: none;
+  width: auto;
+}
+
+#chat {
+  float: none;
+  width: auto;
+  margin: 0 auto;
+}
+
 }
 
 	</style>

@@ -658,7 +658,6 @@ html {
 
 #pokes, #x .x2016, #x .x2013, #favs #favlist{
 	width: 95%!important;
-	font: normal 120%/160% 'Lato'!important;
 }
 
 .pkmn{
@@ -685,6 +684,10 @@ html {
 
 #misc .single .pkmn {
   margin: 0.5em auto 1.5em;
+}
+
+#x hr{
+	width: 50%;
 }
 
 }

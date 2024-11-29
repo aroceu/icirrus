@@ -1,5 +1,6 @@
 <?php include('../head.php');?> / OMEGA RUBY</title>
 
+
 <style type="text/css">
 body{
 	background: #CE2D25;

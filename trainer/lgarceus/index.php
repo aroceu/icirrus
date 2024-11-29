@@ -54,6 +54,11 @@ b.shinyboxlink{
     border-right: #2E6384 5px solid;
     }
 
+    #shinybox{
+    width: 90%;
+    margin: 0 auto 2em;
+}
+
 }
 
 </style>
