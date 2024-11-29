@@ -127,10 +127,6 @@ html {
 -webkit-text-size-adjust: none;
 }
 
-#left, #right, #navleft, #navright{
-display: none;
-}
-
 body{
 	background: #fff;
 	margin: 0;
@@ -174,6 +170,25 @@ body{
 
 #blurb{
 	margin: -1em auto;
+}
+
+#left, #right{
+	width: 113px;
+	height: 600px;
+	position: absolute;
+	top: 0;
+}
+
+#left{
+	left: 0;
+	background: url('leftbutt.png');
+	z-index: -1;
+}
+
+#right{
+	right: 0;
+	background: url('rightbutt.png');
+	z-index: -1;
 }
 
 }
