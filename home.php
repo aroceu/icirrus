@@ -134,7 +134,7 @@ html {
 }
 }
 
-  @media only screen and (max-width: 768px) and (min-width: 431px) {
+  @media only screen and (max-width: 768px) {
     
     html {
 -webkit-text-size-adjust: 100%;
