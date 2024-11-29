@@ -260,6 +260,7 @@ html {
 
 table.mon{
 	width: 50% !important;
+	margin: 0 auto;
 }
 
 }
