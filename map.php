@@ -49,7 +49,7 @@ a:link, a:visited{
 
 a:hover, a:focus{
 	color: #619E0D;
-	text-decoration: none;
+	text-decoration: underline wavy;
 	font-style: italic;
 }
 
@@ -139,6 +139,12 @@ ul.tree-view {
 		ul.tree-view details>summary::-webkit-details-marker,
 		ul.tree-view details>summary::marker {
 			content: ""
+		}
+
+		#footer{
+			margin-bottom: 2.5em;
+			color: #999;
+			text-transform: lowercase;
 		}
 
 	  @media only screen and (max-width: 1025px) and (min-width: 431px) {
@@ -240,6 +246,8 @@ html {
 
 	</div>
 
-	<p align="center" style="margin-bottom: 2.5em">&copy; 2017-2024 <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> Documentation</p>
+	<div id="footer">
+	<p align="center">&copy; 2017-2024 <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> Documentation</p>
+</div>
 
 	</body>

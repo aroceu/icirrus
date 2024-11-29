@@ -147,6 +147,10 @@ font-size: 130%;
 #container{
     width: 90%;
 }
+
+nav .item{
+font-size: 130%;
+}
 }
 
 
