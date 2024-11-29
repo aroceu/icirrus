@@ -146,6 +146,7 @@ font-size: 130%;
 
 #container{
     width: 90%;
+    margin: 3em auto;
 }
 
 nav .item{
@@ -155,6 +156,7 @@ font-size: 130%;
 nav p{
     margin: 5px;
 }
+
 }
 
 
