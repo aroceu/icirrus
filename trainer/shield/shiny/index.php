@@ -218,6 +218,10 @@ html {
   margin: 0 auto;
 }
 
+#content{
+			margin-top: 10em;
+		}
+
 }
 
 	</style>
