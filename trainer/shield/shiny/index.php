@@ -231,7 +231,7 @@ html {
 }
 
 #top{
-	font-size: 2em;
+	font: normal 2em 'Kranky';
 }
 
 #container{
