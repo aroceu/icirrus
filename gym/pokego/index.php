@@ -190,6 +190,11 @@ html {
   border-top: 1px #bbb solid;
   padding: 1em 0;
 }
+
+h2:before, h2:after{
+	border: none;
+	width: 0;
+}
     
 }
 

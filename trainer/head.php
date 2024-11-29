@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="initial-scale=1.0" />
         <meta name="robots" content="noai, noimageai">
 
 <script type="text/javascript">// <![CDATA[

@@ -358,4 +358,38 @@ float: left;
 padding: 10px;
 }
 
+@media only screen and (max-width: 768px) and (min-width: 0px) {
+
+.container{
+	width: 95%;
+}
+
+#icon {
+  width: auto;
+  float: none;
+  margin: 2em auto;
+  text-align: center;
+}
+
+#header {
+  font: italic 220% 'Futura', 'Century Gothic', sans-serif;
+  float: none;
+  width: auto;
+  margin: 1em 0 0.5em;
+  text-align: center;
+}
+
+ul#games {
+  padding-top: none;
+}
+
+ul#games li {
+  display: block;
+  width: auto;
+  text-align: center;
+  margin: 10px 0;
+}
+
+}
+
 </style>
