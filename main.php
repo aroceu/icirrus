@@ -127,7 +127,7 @@ a.tooltip:hover{
         <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="pokerogue.png" class="navpng">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="revive.png" class="bull"> an archive of my runs</span>
                 <p>&nbsp;</p>
 
-        <span class="item"><a href="https://icirr.us/gym/bag" rel="me" class="map"><img src="map.png" class="navpng">Map</a> <img src="revive.png" class="bull"> shows your present location </span>
+        <span class="item"><a href="map" rel="me" class="map"><img src="map.png" class="navpng">Map</a> <img src="revive.png" class="bull"> shows your present location </span>
 
     </nav>
 
