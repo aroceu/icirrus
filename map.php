@@ -236,7 +236,7 @@ html {
 		            				<li>About (the site) - excadrill</li>
 		            				<li>Linkback - tinkaton</li>
 		            			</ul>
-		            		<li><a href="https://icirr.us/gym/bag">Bag (in-page interactive quick links)</a></li>
+		            		<li>Bag (in-page interactive quick links)/li>
 		            		<li><a href="https://icirr.us/gym/pokego">Pok&eacute;mon (Go log)</a></li>
 		            		<li><a href="https://icirr.us/gym/flee">Run (exits/affiliates)</a></li>
 		            	</ul>
