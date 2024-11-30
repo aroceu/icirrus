@@ -8,6 +8,32 @@
 
 <?php include('cssnjava.php');?>
 
+<style type="text/css">
+
+#footer{
+	color: #fff;
+  text-transform: uppercase;
+  font: normal 130% 'Futura', 'Century Gothic', sans-serif;
+  text-decoration: none;
+}
+
+#footer a:link, #footer a:visited{
+	color: #fff;
+	font: normal 100% 'Futura', 'Century Gothic', sans-serif;
+	text-transform: uppercase;
+	padding: 5px;
+}
+
+#footer a:hover, #footer a:focus{
+	background:#82b1ca;
+}
+
+#footer small{
+	color: #82b1ca;
+}
+
+</style>
+
 </head>
 
 <body>
