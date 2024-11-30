@@ -359,7 +359,7 @@ blockquote::before{
 
 h2{
 	text-transform: lowercase;
-	color: #fff;
+	color: #82b1ca;
 	text-align: center;
 	margin: 0;
 	padding: 0;
@@ -478,22 +478,15 @@ ul{
 <li>Statistically, my favorite type is dragon, though I chalk this up to dragons being my favorite animal in general. Steel types are second.</li>
 <li>I had an addiction to buying Pok&eacute;mon plushies for a short period in 2016 so now I own a lot of Pok&eacute;mon plushies. And I love every single one of them. Maybe I'll post a pic one day.</li>
 <li>Even though it was totally overpriced, I own a few things from the Pok&eacute;mon Stitch collection.</li>
-<li><img src="jigglypuff.png" style="float: right; height: 50px; padding-left: 10px;"> My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
-<li><img src="jigglypuff.png" style="float: right; height: 50px; padding-left: 10px;">I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
+<li><img src="jigglypuff.jpg" style="float: right; height: 50px; padding-left: 10px;"> My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
+<li><img src="tcg.jpg" style="float: right; height: 50px; padding-left: 10px;">I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
 </ul>
 </div>
 <div style="clear: both;"></div>
+</p></blockquote></div></div>
 
-			<div class="close"><a href="https://icirr.us/trainer">CLOSE</a></div>
+<div class="close"><a href="https://icirr.us/trainer">CLOSE</a></div>
 
+</div></body></html>
+			
 
-
-</div>
-
-
-</div>
-
-
-
-</body>
-</html>
