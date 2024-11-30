@@ -487,7 +487,7 @@ ul{
 </ul>
 </div>
 <div style="clear: both;"></div>
-</blockquote></div>
+</blockquote>
 
 <div class="ot">
 	<div class="close">
