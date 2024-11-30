@@ -515,7 +515,7 @@ li img{
 <div class="ot">
 	<div class="close">
 		<p align="center">
-			<a href="https://icirr.us/trainer"><img src="https://icirr.us/trainer.png"> BACK TO TRAINER</a> :: <a href="https://icirr.us">MASTERBALL <img src="https://icirr.us/mball.ico"> </a>
+			<a href="https://icirr.us/trainer"><img src="https://icirr.us/trainer.png"> TRAINER</a> :: <a href="https://icirr.us">MASTERBALL <img src="https://icirr.us/mball.ico"> </a>
 		</p>
 		</div>
 	</div>
