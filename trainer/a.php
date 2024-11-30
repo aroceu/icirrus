@@ -484,6 +484,7 @@ ul{
 <li><img src="tcg.jpg" style="float: right; height: 80px; padding-left: 10px;padding-top: 0px;">My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
 <li><img src="jigglypuff.jpg" style="float: left; height: 80; padding-right: 10px;padding-top: 10px;"> I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
 </ul>
+</div>
 <div style="clear: both;"></div>
 </blockquote>
 
