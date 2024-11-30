@@ -264,7 +264,7 @@ margin-bottom: 1em;
 font: normal 120% 'Futura', 'Century Gothic', monospace;
   text-transform: uppercase;
   color: #fff;
-  margin: -1.5em auto 3em;
+  margin: -1.5em auto;
   text-align: left;
 }
 
