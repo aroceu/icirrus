@@ -399,6 +399,11 @@ img.sceptile, img.mienshao, img.aggron{
 	padding: 10px 0 10px 10px;
 }
 
+.ot .close img{
+	vertical-align: text-top;
+	height: 20px;
+}
+
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
