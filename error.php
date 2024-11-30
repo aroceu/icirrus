@@ -4,6 +4,10 @@
 <meta name="viewport" content="initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 <style type="text/css">
+    body{
+        background: #000;
+        color: #fff;
+    }
 #missingno{
 margin: 20% auto;
 width: auto;
@@ -12,7 +16,7 @@ font-family: 'Consolas';
 }
 
 a{
-    color: #000000;
+    color: #fff;
 }
 </style>
 </head>

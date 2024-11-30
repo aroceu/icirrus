@@ -63,6 +63,7 @@ body{
 	margin: 0;
 	padding: 0;
 	background-color: #b0dde8;
+	text-shadow: 0.05em 0.05em 0 #82B1CA;
 
 }
 
@@ -87,6 +88,7 @@ b, #header a:link, #header a:visited{
 	color: #82b1ca;
 	font-family: 'Futura', 'Century Gothic', sans-serif;
         text-decoration: none;
+        text-shadow: 0.05em 0.05em 0 #fff;
 }
 
 .poplight a:hover, .poplight a:focus, b:hover, b:focus{
@@ -144,6 +146,10 @@ ul#games li a:link, ul#games li a:visited, ul#other li a:link, ul#other li a:vis
 	color: #fff;
 	font: normal 100% 'Futura', 'Century Gothic', sans-serif;
 	padding: 2%;
+}
+
+ul#games li a:hover, ul#games li a:focus{
+	text-shadow: none;
 }
 
 

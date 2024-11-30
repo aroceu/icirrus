@@ -242,7 +242,7 @@ html {
 		            	</ul>
 		            <li>TCG (<i>upcoming</i>)</li>
 		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
-		            <li>Map (static) <i><b>You are here!</b></i></li>
+		            <li>Map <i><b>You are here!</b></i></li>
 		        </ul>
 
 		        <li><a href="https://icirr.us/error.php">Error 404</a></li>

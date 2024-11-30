@@ -138,6 +138,10 @@ html {
 	width: 95%;
 }
 
+#box img{
+	max-width: 100%;
+}
+
 }
 
 </style>
