@@ -282,7 +282,6 @@ h1{
     <br />SW: 3799-3686-0675 (ARROW.ink)</blockquote>
     
     <p>If you'd like to get in touch for whatever reason, hit me up at <b>icirruscity@pm.me</b>. </p>
-    <p>(But <a href="https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/">don't copy & paste</a> the email above.)</p>
 
     <h1>trainer info</h1>
 
