@@ -333,7 +333,7 @@ float: left;
 }
 
 .trainerimg{
-float: left;
+float: right;
 padding: 10px;
 }
 
