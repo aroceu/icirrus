@@ -381,7 +381,7 @@ ul{
 }
 
 ul li::before{
-	content: url(''https://icirr.us/trainer/cheri.png);
+	content: url('https://icirr.us/trainer/cheri.png');
 	padding-right: 1em;
 }
 
@@ -479,7 +479,7 @@ li img{
 
 <hr />
 
-<p><img src="https://icirr.us/trainer/kingdra.gif" class="kingdra favmon"> <img src="https://icirr.us/mb.png"> <b>kingdra</b> My favorite &hearts; I like 'mon based on their aesthetic and typing most of the time, though their battle viability may make a difference in some cases. Kingdra is the peak of this for me; as a huge water lover and a dragon lover and the excellent defense of those two types together, as well as kingdra'ss simplistic-but-elegant design, it's no wonder it would become my favorite. It was difficult to get in gen III, though, but my brother and I had a link cable and I managed to evolve one, named <i>Dumpling</i>. It had Sniper, which is its inferior ability, and middling stats &mdash; but as someone who likes long range attacks, it works for me. Though the others here may come quite close, I don't think anything will top a pok&eacute;mon that feels made for me.</p>
+<p><img src="https://icirr.us/trainer/kingdra.gif" class="kingdra favmon"> <b>kingdra</b> <img src="https://icirr.us/mb.png"> My favorite &hearts; I like 'mon based on their aesthetic and typing most of the time, though their battle viability may make a difference in some cases. Kingdra is the peak of this for me; as a huge water lover and a dragon lover and the excellent defense of those two types together, as well as kingdra'ss simplistic-but-elegant design, it's no wonder it would become my favorite. It was difficult to get in gen III, though, but my brother and I had a link cable and I managed to evolve one, named <i>Dumpling</i>. It had Sniper, which is its inferior ability, and middling stats &mdash; but as someone who likes long range attacks, it works for me. Though the others here may come quite close, I don't think anything will top a pok&eacute;mon that feels made for me.</p>
 
 <p><img src="https://icirr.us/trainer/sceptile-mega.gif" class="sceptile favmon"><b>sceptile</b> <img src="https://icirr.us/mb.png"> My first ever pok&eacute;mon &hearts; I mostly chose treecko because the friend from summer camp who I'd watched all the time had a treecko (also named Ecko, by the way &mdash; I am so original) who she evolved into a grovyle, and I thought both were pretty cool. Ever since then, whenever I played a Hoenn game, it didn't feel right if I didn't start with treecko first. Sceptile is awesome too; I love me a glass cannon, because that's the kind of fighter I am myself. Mega sceptile being half dragon type (numerically technically my 'favorite' type) felt perfect for it too. And for me.</p>
 
