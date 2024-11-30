@@ -35,7 +35,7 @@ body{
 
 .container{
 	width: 60em;
-	margin: 0 auto 2.5em;
+	margin: 0 auto 1em;
 	background: #fff;
         font: normal 95%/160% 'Lato', 'Century Gothic', sans-serif;
         color: #555;
@@ -54,7 +54,7 @@ b, #header a:link, #header a:visited{
         text-decoration: none;
 }
 
-#ot b:hover, #ot b:focus{
+.ot b:hover, .ot b:focus{
 color: #fff!important;
 text-shadow: 0.05em 0.05em 0 #82b1ca;
 }
@@ -77,7 +77,7 @@ text-shadow: 0.05em 0.05em 0 #82b1ca;
         text-align: center;
     }
 
-ul#games, ul#other{
+ul#games, ul.other{
 	clear: both;
 	list-style-type: none;
 	-webkit-padding-start: 0!important;
@@ -96,14 +96,14 @@ ul#games li{
 	margin: 5px 0;
 }
 
-ul#other li{
+ul.other li{
 	display: inline-block;
 	width: 32%;
 	text-align: center;
 	margin: 0 auto;
 }
 
-ul#games li a:link, ul#games li a:visited, ul#other li a:link, ul#other li a:visited{
+ul#games li a:link, ul#games li a:visited, ul.other li a:link, ul.other li a:visited{
 	text-decoration: none;
 	text-transform: uppercase;
 	color: #fff;
@@ -299,7 +299,7 @@ hr{
 	margin: 2em auto;
 }
 
-#ot{
+.ot{
 background: #82b1ca;
     padding: 2em;
     color: #fff;
@@ -308,7 +308,7 @@ font: normal 110%/160% 'Inconsolata', monospace, monospace;
 	padding: 20px;
 }
 
-#ot b{
+.ot b{
 color: #b0dde8;
 font-family: 'Inconsolata', monospace;
 }
@@ -357,15 +357,15 @@ blockquote::before{
 
 }
 
-h2{
-	text-transform: lowercase;
-	color: #82b1ca;
-	text-align: center;
-	margin: 0;
-	padding: 0;
-	text-shadow: 0.05em 0.05em 0 #B0DDE8;
+h2 {
+  text-transform: lowercase;
+  color: #82b1ca;
+  text-align: center;
+  margin: 1em 0 -0.5em;
+  padding: 0;
+  text-shadow: 0.05em 0.05em 0 #B0DDE8;
+  font-size: 210%;
 }
-
 
 blockquote p{
 	padding-top: 0;
@@ -374,6 +374,10 @@ blockquote p{
 
 ul{
 	list-style-type: none;
+  width: 85%;
+  margin: 3em auto;
+
+
 }
 
 ul li::before{
@@ -439,7 +443,7 @@ ul{
 
 <div class="container">
 
-<div id="ot"><div class="left"><b>OT:</b> ALICE <br /><b>PARTY:</b><span class="party"><img src="https://icirr.us/trainer/kingdra.png"><img src="https://icirr.us/trainer/sceptile-mega.png"><img src="https://icirr.us/trainer/talonflame.png"><img src="https://icirr.us/trainer/mienshao.png"><img src="https://icirr.us/trainer/luxray.png"><img src="https://icirr.us/trainer/aggron.png"></span></div> 
+<div class="ot"><div class="left"><b>OT:</b> ALICE <br /><b>PARTY:</b><span class="party"><img src="https://icirr.us/trainer/kingdra.png"><img src="https://icirr.us/trainer/sceptile-mega.png"><img src="https://icirr.us/trainer/talonflame.png"><img src="https://icirr.us/trainer/mienshao.png"><img src="https://icirr.us/trainer/luxray.png"><img src="https://icirr.us/trainer/aggron.png"></span></div> 
 <div class="right"><b>ID:</b> #49385 (ORASXY) <br /><b>NATURE:</b> Mild, likes to fight</div></div>
 			<div id="trainerinfo"><p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with this game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
 	<p><img src="ruby.png" class="rubyimg" height="80">I've been into Pok&eacute;mon since 1998, when the anime first came out &mdash; I had a jigglypuff card that I was particularly attached to. But I didn't actually own a game until August 2003 after watching my camp friends play it all summer. I really didn't know anything about the gameplay, but I was still so enthusiastic about it that some of my classmates gave me the nickname "Pok&eacute;mon Master" anyway. Which I still am, by the way. My obsession for other things will come and go, but Pok&eacute;mon will always own at least 50% of my heart.</p>
@@ -478,14 +482,22 @@ ul{
 <li>Statistically, my favorite type is dragon, though I chalk this up to dragons being my favorite animal in general. Steel types are second.</li>
 <li>I had an addiction to buying Pok&eacute;mon plushies for a short period in 2016 so now I own a lot of Pok&eacute;mon plushies. And I love every single one of them. Maybe I'll post a pic one day.</li>
 <li>Even though it was totally overpriced, I own a few things from the Pok&eacute;mon Stitch collection.</li>
-<li><img src="jigglypuff.jpg" style="float: right; height: 50px; padding-left: 10px;"> My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
-<li><img src="tcg.jpg" style="float: right; height: 50px; padding-left: 10px;">I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
+<li><img src="tcg.jpg" style="float: right; height: 80px; padding-left: 10px;padding-top: 0px;">My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
+<li><img src="jigglypuff.jpg" style="float: left; height: 80; padding-right: 10px;padding-top: 10px;"> I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
 </ul>
 </div>
 <div style="clear: both;"></div>
-</p></blockquote></div></div>
+</blockquote></div>
 
-<div class="close"><a href="https://icirr.us/trainer">CLOSE</a></div>
+<div class="ot">
+	<div class="close">
+		<p align="center">
+			<a href="https://icirr.us/trainer">BACK TO TRAINER</a> :: <a href="https://icirr.us">MASTERBALL</a>
+		</p>
+		</div>
+	</div>
+
+</div>
 
 </div></body></html>
 			
