@@ -153,6 +153,7 @@ ul.tree-view {
 
 #footer a:hover, #footer a:focus{
     color: #333;
+    text-decoration: underline;
 }
 
 	  @media only screen and (max-width: 1025px) and (min-width: 431px) {
