@@ -12,7 +12,6 @@
 
 #footer{
 	color: #fff;
-  text-transform: uppercase;
   font: normal 130% 'Futura', 'Century Gothic', sans-serif;
   text-decoration: none;
 }
@@ -20,8 +19,8 @@
 #footer a:link, #footer a:visited{
 	color: #fff;
 	font: normal 100% 'Futura', 'Century Gothic', sans-serif;
-	text-transform: uppercase;
 	padding: 5px;
+	text-decoration: none;
 }
 
 #footer a:hover, #footer a:focus{
@@ -67,8 +66,8 @@
 
 </div>
 
-<div id="footer"><a href="/home">Avoid eye contact...</a>
-<br /><small>(go back)</div>
+<div id="footer"><a href="/home">AVOID EYE CONTACT...</a>
+<br /><small>(go back to home)</div>
 
 </div>
 
