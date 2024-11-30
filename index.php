@@ -235,6 +235,10 @@ body{
 	height: 202px;
 }
 
+#center:hover, #center:focus{
+	background: url('button.png');
+}
+
 #header {
   display: none;
 }
