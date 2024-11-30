@@ -29,6 +29,7 @@
 
 #footer small{
 	color: #82b1ca;
+	text-shadow: none;
 }
 
 </style>
