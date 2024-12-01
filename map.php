@@ -243,6 +243,7 @@ html {
 		            <li>TCG (<i>upcoming</i>)</li>
 		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
 		            <li>Map <i><b>You are here!</b></i></li>
+		            <li><a href="https://icirr.us/docs">Documentation</a></li>
 		        </ul>
 
 		        <li><a href="https://icirr.us/error.php">Error 404</a></li>
@@ -254,7 +255,7 @@ html {
 	</div>
 
 	<div id="footer">
-	<p align="center">&copy; 2017-2024 <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> Documentation</p>
+	<p align="center">&copy; 2017-<?php echo date("Y"); ?> <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> <a href="https://icirr.us/docs">Documentation</a></p>
 </div>
 
 	</body>

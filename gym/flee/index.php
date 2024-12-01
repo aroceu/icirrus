@@ -78,7 +78,7 @@
 		width: 88px;
 	}
 
-	  @media only screen and (max-width: 768px) and (min-width: 0px) {
+	  @media only screen and (max-width: 810px) and (min-width: 0px) {
 
 html {
 -webkit-text-size-adjust: none;

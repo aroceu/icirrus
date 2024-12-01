@@ -24,7 +24,7 @@ body{
 }
 
 #container{
-    width: 40vw;
+    width: 41vw;
     margin: 5em auto;
 }
 
@@ -187,7 +187,7 @@ nav p{
 </div>
 
     <div class="footer">
-        &copy; 2017-2024 masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. for further information, see <a href="" class="tooltip">documentation<span class="tooltiptext">upcoming! :)</span></a>. <a href="/">clear?</a>
+        &copy; 2017-2024 masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. for further information, see <a href="https://icirr.us/docs">documentation</a>. <a href="/">clear?</a>
     </div>
 </body>
 </html>
