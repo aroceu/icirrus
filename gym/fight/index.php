@@ -109,7 +109,7 @@ b{ color: #555; text-transform: uppercase;}
 }
 
 blockquote{
-	background: #e2f3f7;
+	background: #eaeaea;
 	padding: 1em;
 	box-shadow: 0.2em 0.2em 0em #80868e;
 	color: #555;
@@ -189,7 +189,7 @@ form{
 form label{
     color: #83B1C9;
     text-transform: uppercase;
-    	text-shadow: 0.05em 0.05em 0 #e2f3f7;
+    	text-shadow: 0.05em 0.05em 0 #eaeaea;
     	vertical-align: top;
     	width: 25%;
     	float: left;
@@ -203,14 +203,14 @@ input, textarea{
         padding: 7px;
     font: normal 100% 'Inconsolata', monospace;
     border: 1px solid #83B1C9;
-    box-shadow: 0.1em 0.1em 0 #e2f3f7;
+    box-shadow: 0.1em 0.1em 0 #eaeaea;
 }
 
 input#submit{
     width: 100%;
     color: #83B1C9;
     text-transform: uppercase;
-    	text-shadow: 0.05em 0.05em 0 #e2f3f7;
+    	text-shadow: 0.05em 0.05em 0 #eaeaea;
 }
 
 #mobileparty{
