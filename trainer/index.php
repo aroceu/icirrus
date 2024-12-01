@@ -49,8 +49,8 @@ body{
 }
 
 #header a:hover, #header a:focus{
-	color: #fff;
-	text-shadow: 0.1em 0.1em 0 #b7574d;
+	color: #8F98A7;
+  text-shadow: 0.05em 0.05em 0 #b7574d;
 }
 
 #icon{
