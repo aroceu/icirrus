@@ -200,7 +200,7 @@ margin-bottom: 1em;
 }
 
 #footer small{
-	color: #82b1ca;
+	color: #F3926B;
 }
 
 @media only screen and (max-width: 810px) and (min-width: 0px) {
@@ -277,8 +277,6 @@ ul#games li {
 <br /><small>(go back to home)</div>
 
 </div>
-
-<?php include('about.php');?>
 
 
 </body>

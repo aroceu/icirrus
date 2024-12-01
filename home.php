@@ -51,7 +51,7 @@ nav .item a:link, nav .item a:visited{
 }
 
 nav .item a.trainer:link, nav .item a.trainer:visited{
-      color: #82b1ca;
+      color: #A73523;
 }
 
 nav .item a.gym:link, nav .item a.gym:visited{
@@ -71,7 +71,7 @@ nav .item a.map:link, nav .item a.map:visited{
 }
 
 nav .item a:hover, nav .item a:focus{
-    color: #f30000!important;
+    color: #7E5FC6!important;
 }
 
 img.navpng{
