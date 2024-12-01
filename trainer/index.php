@@ -50,7 +50,7 @@ body{
 
 #header a:hover, #header a:focus{
 	color: #fff;
-	text-shadow: 0.01em 0.01em 0 #b7574d;
+	text-shadow: 0.1em 0.1em 0 #b7574d;
 }
 
 #icon{
