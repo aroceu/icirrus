@@ -48,6 +48,11 @@ b, #header a:link, #header a:visited{
         text-decoration: none;
 }
 
+#header b a:hover, #header b a:focus{
+	color: #fff;
+	text-shadow: 0.01em 0.01em 0 #b7574d;
+}
+
 #icon{
 	width: 40%;
 	float: right;
