@@ -42,13 +42,13 @@ body{
 	margin: 1em 0 0.5em;
 }
 
-b, #header a:link, #header a:visited{
+#header a:link, #header a:visited{
 	color: #b7574d;
 	font-family: 'Futura', 'Century Gothic', sans-serif;
         text-decoration: none;
 }
 
-#header b a:hover, #header b a:focus{
+#header a:hover, #header a:focus{
 	color: #fff;
 	text-shadow: 0.01em 0.01em 0 #b7574d;
 }
