@@ -33,6 +33,7 @@ h1{
 	font: normal 200% 'Futura';
 	text-align: center;
 	color: #B345F0;
+	margin-top: 0.5em;
 }
 
 h1 subhead{

@@ -26,7 +26,7 @@ body{
 
 #container{
 	width: 60vw;
-	margin: 3em auto 1em;
+	margin: 4em auto 1em;
 }
 
 #content{
@@ -38,6 +38,7 @@ h1{
 	font: normal 200% 'Futura';
 	text-align: center;
 	color: #E3A250;
+	margin-top: 0.5em;
 }
 
 a:link, a:visited{
