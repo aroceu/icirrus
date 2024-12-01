@@ -49,14 +49,14 @@ body{
 }
 
 b, #header a:link, #header a:visited{
-	color: #F3926B;
+	color: #B0A5A6;
 	font-family: 'Futura', 'Century Gothic', sans-serif;
         text-decoration: none;
 }
 
 .ot b:hover, .ot b:focus{
 color: #fff!important;
-text-shadow: 0.05em 0.05em 0 #F3926B;
+text-shadow: 0.05em 0.05em 0 #B0A5A6;
 }
 
 #icon{
@@ -192,7 +192,7 @@ ul#games li a:link, ul#games li a:visited, ul.other li a:link, ul.other li a:vis
 
 
 i{
-	color: #F3926B;
+	color: #B0A5A6;
 	text-transform: uppercase;
 }
 
@@ -270,7 +270,7 @@ font: normal 120% 'Futura', 'Century Gothic', monospace;
 
 .close a:link, .close a:visited{
 	color: #fff;
-  text-shadow: 0.08em 0.08em 0 #F3926B;
+  text-shadow: 0.08em 0.08em 0 #B0A5A6;
 text-decoration: none;
 }
 
@@ -293,13 +293,13 @@ color: #3C4857;
 
 hr{
 	border-top: none;
-	border-bottom: 3px solid #F3926B;
+	border-bottom: 3px solid #B0A5A6;
 	width: 70%;
 	margin: 2em auto;
 }
 
 .ot{
-background: #F3926B;
+background: #B0A5A6;
     padding: 2em;
     color: #fff;
     overflow: hidden;
@@ -317,7 +317,7 @@ font-family: 'Inconsolata', monospace;
 }
 
 #trainerinfo a:link, #trainerinfo a:visited{
-	color: #F3926B;
+	color: #B0A5A6;
   text-decoration: underline wavy;
 }
 
@@ -354,7 +354,7 @@ strike{
 
 blockquote{
 	font: normal 120%/140% 'Inconsolata';
-	color: #F3926B;
+	color: #B0A5A6;
 	padding: 1em;
 	position: relative;
 }
@@ -370,7 +370,7 @@ blockquote::before{
 
 h2 {
   text-transform: lowercase;
-  color: #F3926B;
+  color: #B0A5A6;
   text-align: center;
   margin: 1em 0 -0.5em;
   padding: 0;
