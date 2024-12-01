@@ -60,7 +60,7 @@ $(function() {
 
 body{
 	margin: 0;
-	background: #B0DDE8;
+	background: #80868e;
 }
 
 #top{
@@ -72,7 +72,7 @@ body{
 .box{
 	background: #fff;
 	padding: 2em 2em 2em;
-	box-shadow: 0.5em 0.5em 0em #82B1CA;
+	box-shadow: 0.5em 0.5em 0em #555;
 	margin: 5em auto;
 	width: 35em;
 	text-align: center;
@@ -95,14 +95,14 @@ body{
 }
 
 a:link, a:visited{
-	color: #82B1CA;
+	color: #555;
 }
 
 a:hover, a:active, a:focus{
 	text-decoration: none;
 }
 
-b{ color: #82B1CA; text-transform: uppercase;}
+b{ color: #555; text-transform: uppercase;}
 
 #info, #about, #trainer{
 	text-align: left;
@@ -111,8 +111,8 @@ b{ color: #82B1CA; text-transform: uppercase;}
 blockquote{
 	background: #e2f3f7;
 	padding: 1em;
-	box-shadow: 0.2em 0.2em 0em #B0DDE8;
-	color: #82B1CA;
+	box-shadow: 0.2em 0.2em 0em #80868e;
+	color: #555;
 	text-shadow: 0.05em 0.05em 0 #fff;
 	font-size: 110%;
 }
@@ -149,11 +149,11 @@ text-transform: uppercase;
 
 .tooltip .tooltiptext {
     visibility: hidden;
-    background-color: #B0DDE8;
+    background-color: #80868e;
     color: #fff;
     text-align: left;
     padding: 5px;
-    box-shadow: 0.2em 0.2em 0 #82B1CA;
+    box-shadow: 0.2em 0.2em 0 #555;
     position: absolute;
     z-index: 1;
     bottom: 100%;
@@ -245,8 +245,8 @@ html {
 }
 
 h1{
-	text-shadow: 0.1em 0.1em 0em #82B1CA ;
-  color: #B0DDE8;
+	text-shadow: 0.1em 0.1em 0em #555 ;
+  color: #80868e;
   text-align: center;
   margin-top: 1.5em;
 }
