@@ -3,7 +3,7 @@
       <meta name="description" content="yeah i'm a pokemon master suck it">
               <meta name="robots" content="noai, noimageai">
 
-<title>MASTERBALL / SITEMAP</title>
+<title>MASTERBALL / DOCUMENTATION</title>
 <meta name="viewport" content="initial-scale=1.0">
 
 <link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
@@ -27,7 +27,6 @@ body{
 #container{
 	width: 60vw;
 	margin: 2em auto 1em;
-	padding: 1em;
 }
 
 #content{
@@ -103,6 +102,7 @@ b{
     
     html {
 -webkit-text-size-adjust: 100%;
+overflow-x: none;
 }
 
 #container{
@@ -138,7 +138,7 @@ b{
 
 <h2 id="intro">Introduction</h2>
 
-<p>I made this website in February of 2017 and am writing this documentation in November of 2024, so the details may be fuzzy or glossed over in parts. Additionally, my own coding ability (as well as thinking in more practical and strategic ways) has improved quite a bit since then &mdash; I hadn't studied computer science then, and I have for a couple of years now, though that doesn't make a huge improvement, really. But it's still an over 7-year gap.</p>
+<p>I made this website in February of 2017 and am writing this documentation on December 1 of 2024, so the details may be fuzzy or glossed over in parts. Additionally, my own coding ability (as well as thinking in more practical and strategic ways) has improved quite a bit since then &mdash; I hadn't studied computer science then, and I have for a couple of years now, though that doesn't make a huge improvement, really. But it's still a near 8-year gap.</p>
 
 <p>Like I stated in the site info, I made Icirrus/Masterball because I'd always wanted to make a site dedicated to my love for Pok&eacute;mon, but for the longest time didn't know what. I love individual species, yes; I also love ships and characters and games. I like a lot of stuff about Pok&eacute;mon, but my biggest weakness when it comes to making sites based on things I love &mdash; and not just me &mdash; was the writing portion of it all. Don't get me wrong, I <i>love</i> writing. And I also love thinking. There's just a lot to write, and a lot to think about, and I'm a perfectionist and have an attention disorder so that's just not something I could ever really do. I'm far more interested in the designing aspect of making websites; writing the content is oftentimes an excuse to show off my designs.</p>
 
@@ -154,7 +154,7 @@ b{
 
 <p>Maybe I was finding myself a little along the way.</p>
 
-<p>Returning to live with my mom at the time was tumultuous for a lot of reasons I won't get into now; but one thing I will say was that it was a good excuse for me to sit on my ass and do nothing. Which meant it was a good time for my hobbies, particularly making websites. Since I genuinely had nothing else going on in my life, I made the majority of this website &mdash; particularly all the Trainer pages &mdash; in one siting because of this, as well as the Gym and Pok&eacute;Go pages and all their accompanying graphics. I've editorialized here and there, but the base skeleton of this website was made in 2017.</p>
+<p>Returning to live with my mom at the time was tumultuous for a lot of reasons I won't get into now; but one thing I will say was that it was a good excuse for me to sit on my ass and do nothing. Which meant it was a good time for my hobbies, particularly making websites. Since I genuinely had nothing else going on in my life, I made the majority of this website &mdash; particularly all the Trainer pages &mdash; in one siting because of this, as well as the Gym and Pok&eacute;Go pages and all their accompanying graphics. I've edited here and there, but the base skeleton of this website was made in 2017.</p>
 
 <p>Which is also why the Trainer pages employ perhaps an incredibly inefficient and insane way of translating skins across different pages. I know now how to make it more practical, but eh. I'm not sure if it's a big deal at this rate. Still, yeah @ 2017 self, using root variables would <i>probably</i> be a little easier than whatever my current template.css has going on. Oh well. You live and you learn. (I might fix it one day, but no promises.)</p>
 

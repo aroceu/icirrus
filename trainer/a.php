@@ -24,7 +24,7 @@ body{
 	color: #fff;
 	margin: 0;
 	padding: 0;
-	background-color: #b0dde8;
+	background-color: #3C4857;
 
 }
 
@@ -49,14 +49,14 @@ body{
 }
 
 b, #header a:link, #header a:visited{
-	color: #82b1ca;
+	color: #F3926B;
 	font-family: 'Futura', 'Century Gothic', sans-serif;
         text-decoration: none;
 }
 
 .ot b:hover, .ot b:focus{
 color: #fff!important;
-text-shadow: 0.05em 0.05em 0 #82b1ca;
+text-shadow: 0.05em 0.05em 0 #F3926B;
 }
 
 #icon{
@@ -192,7 +192,7 @@ ul#games li a:link, ul#games li a:visited, ul.other li a:link, ul.other li a:vis
 
 
 i{
-	color: #82b1ca;
+	color: #F3926B;
 	text-transform: uppercase;
 }
 
@@ -250,7 +250,7 @@ margin-bottom: 1em;
 
 #fade {
 	display: none;
-	background: #b0dde8;
+	background: #3C4857;
 	position: fixed;
 	left: 0;
 	top: 0;
@@ -270,12 +270,12 @@ font: normal 120% 'Futura', 'Century Gothic', monospace;
 
 .close a:link, .close a:visited{
 	color: #fff;
-  text-shadow: 0.08em 0.08em 0 #82b1ca;
+  text-shadow: 0.08em 0.08em 0 #F3926B;
 text-decoration: none;
 }
 
 .close a:hover, .close a:focus{
-color: #b0dde8;
+color: #3C4857;
 }
 
 *html #fade {
@@ -293,13 +293,13 @@ color: #b0dde8;
 
 hr{
 	border-top: none;
-	border-bottom: 3px solid #82b1ca;
+	border-bottom: 3px solid #F3926B;
 	width: 70%;
 	margin: 2em auto;
 }
 
 .ot{
-background: #82b1ca;
+background: #F3926B;
     padding: 2em;
     color: #fff;
     overflow: hidden;
@@ -308,7 +308,7 @@ font: normal 110%/160% 'Inconsolata', monospace, monospace;
 }
 
 .ot b{
-color: #b0dde8;
+color: #3C4857;
 font-family: 'Inconsolata', monospace;
 }
 
@@ -317,7 +317,7 @@ font-family: 'Inconsolata', monospace;
 }
 
 #trainerinfo a:link, #trainerinfo a:visited{
-	color: #82b1ca;
+	color: #F3926B;
   text-decoration: underline wavy;
 }
 
@@ -349,12 +349,12 @@ padding: 10px;
 strike{
 	color: #fff;
   font: normal 100% 'Inconsolata';
-  background: #B0DDE8;
+  background: #3C4857;
 }
 
 blockquote{
 	font: normal 120%/140% 'Inconsolata';
-	color: #82b1ca;
+	color: #F3926B;
 	padding: 1em;
 	position: relative;
 }
@@ -370,11 +370,11 @@ blockquote::before{
 
 h2 {
   text-transform: lowercase;
-  color: #82b1ca;
+  color: #F3926B;
   text-align: center;
   margin: 1em 0 -0.5em;
   padding: 0;
-  text-shadow: 0.05em 0.05em 0 #B0DDE8;
+  text-shadow: 0.05em 0.05em 0 #3C4857;
   font-size: 210%;
 }
 
