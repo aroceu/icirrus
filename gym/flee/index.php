@@ -13,6 +13,7 @@
 		background: url('lovebg.png') repeat-x #fff;
 		font: normal 90%/160% 'Inconsolata', monospace;
 		color: #444;
+		margin: 0;
 	}
 
 	#left{
@@ -34,7 +35,7 @@
 		border-top: 20px solid #f6bed6;
 		border-left: 20px solid #f6bed6;
 		border-right: 20px solid #f6bed6;
-		width: 32em;
+		width: 35em;
 		min-height: 100%;
 		border-radius: 75px 75px 0 0 ;
 	}
@@ -86,7 +87,7 @@ html {
 
 #container {
   position: static;
-  width: 75%;
+  width: auto;
   margin: 0 auto;
 }
     
