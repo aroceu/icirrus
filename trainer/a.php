@@ -374,7 +374,6 @@ h2 {
   text-align: center;
   margin: 1em 0 -0.5em;
   padding: 0;
-  text-shadow: 0.05em 0.05em 0 #3C4857;
   font-size: 210%;
 }
 

@@ -43,7 +43,7 @@ body{
 }
 
 b, #header a:link, #header a:visited{
-	color: #F3926B;
+	color: #b7574d;
 	font-family: 'Futura', 'Century Gothic', sans-serif;
         text-decoration: none;
 }
@@ -195,12 +195,12 @@ margin-bottom: 1em;
 }
 
 #footer a:hover, #footer a:focus{
-	background:#F3926B;
+	background:#b7574d;
 	color: #3C4857;
 }
 
 #footer small{
-	color: #F3926B;
+	color: #b7574d;
 }
 
 @media only screen and (max-width: 810px) and (min-width: 0px) {
