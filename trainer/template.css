@@ -115,7 +115,8 @@ background: #374768;
 }
 
 .trainer:hover, .trainer:focus{
-	background: #b0dde8;
+	background: #3C4857;
+	color: #b7574d;
 }
 
 .masterball:hover, .masterball:focus{
