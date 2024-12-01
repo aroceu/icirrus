@@ -139,7 +139,11 @@ img.amaura{
 margin-top: 5em;
 margin-bottom: 0em;
 text-transform: uppercase;
+color: #fff;
+}
 
+#footer a:link, #footer a:visited{
+	color: #fff;
 }
 
 .tooltip {
