@@ -196,7 +196,7 @@ html {
  <ul class="tree-view">
         <a href="https://icirr.us/">Index</a> (splash)
         <ul>
-            <li><a href="https://icirr.us/home/">Home</a></li>
+            <li><a href="https://icirr.us/home">Home</a></li>
             	<ul>
             		<li><a href="https://icirr.us/trainer/">Trainer</a></li>
             			<ul>

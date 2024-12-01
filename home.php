@@ -171,16 +171,16 @@ nav p{
 <div id="container">
 
     <nav>
-        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="trainer.png" class="navpng"> Trainer</a> <img src="revive.png" class="bull"> an archive of all my pok&eacute;mon</span>
+        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng"> Trainer</a> <img src="https://icirr.us/revive.png" class="bull"> an archive of all my pok&eacute;mon</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="gym" rel="me" class="gym"><img src="gymbol.png" class="navpng">Gym</a> <img src="revive.png" class="bull"> site information, exits, & pok&eacute;go</span>
+        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng">Gym</a> <img src="https://icirr.us/revive.png" class="bull"> site information, exits, & pok&eacute;go</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="" rel="me" class="tcg tooltip"><img src="tcg.png" class="navpng">TCG <span class="tooltiptext">upcoming! :)</span></a> <img src="revive.png" class="bull"> my addiction to the mobile game </span>
+        <span class="item"><a href="" rel="me" class="tcg tooltip"><img src="https://icirr.us/tcg.png" class="navpng">TCG <span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull"> my addiction to the mobile game </span>
         <p>&nbsp;</p>
-        <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="pokerogue.png" class="navpng">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="revive.png" class="bull"> an archive of my runs</span>
+        <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull"> an archive of my runs</span>
                 <p>&nbsp;</p>
 
-        <span class="item"><a href="map" rel="me" class="map"><img src="map.png" class="navpng">Map</a> <img src="revive.png" class="bull"> shows your present location </span>
+        <span class="item"><a href="map" rel="me" class="map"><img src="https://icirr.us/map.png" class="navpng">Map</a> <img src="https://icirr.us/revive.png" class="bull"> shows your present location </span>
 
     </nav>
 
