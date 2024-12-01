@@ -71,7 +71,7 @@ b{
 }
 
 #footer{
-			margin-bottom: 2.5em;
+			margin: 3em 0;
 			color: #999;
 			text-transform: lowercase;
 			font-family: 'Futura';

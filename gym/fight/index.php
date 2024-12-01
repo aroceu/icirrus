@@ -249,7 +249,6 @@ html {
 }
 
 h1{
-	text-shadow: 0.1em 0.1em 0em #555 ;
   color: #80868e;
   text-align: center;
   margin-top: 1.5em;
