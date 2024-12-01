@@ -26,7 +26,7 @@ body{
 
 #container{
 	width: 60vw;
-	margin: 2em auto 1em;
+	margin: 3em auto 1em;
 }
 
 #content{
