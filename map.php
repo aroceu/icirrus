@@ -146,6 +146,7 @@ ul.tree-view {
 			margin-bottom: 2.5em;
 			color: #999;
 			text-transform: lowercase;
+			font: 'Futura', 'Century Gothic', sans-serif;
 		}
 
 #footer a:link, #footer a:visited{
