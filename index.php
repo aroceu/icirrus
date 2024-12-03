@@ -11,8 +11,8 @@
 <style type="text/css">
 
 		@font-face {
-    font-family: Futura;
-    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+    font-family: 'Futura';
+    src: url('http://kingdra.net/x/futura.ttf');
 }
 
 body{
@@ -102,7 +102,7 @@ height: 202px;
 	width: 50vw;
   margin: -5em auto;
   text-align: center;
-  font: normal 150% 'Futura';
+  font: normal 150% 'Futura', 'Century Gothic', sans-serif;
   color: #fff;
 }
 
@@ -139,7 +139,7 @@ body{
 
 #mobile{
 	margin: 1em auto;
-	font: normal 150%/160% 'Futura';
+	font: normal 150%/160% 'Futura', 'Century Gothic', sans-serif;
 	padding: 3em 0;
 	text-align: center;
 	display: block;
@@ -213,7 +213,7 @@ body{
 
 #mobile{
 	margin: 1em auto;
-	font: normal 150%/160% 'Futura';
+	font: normal 150%/160% 'Futura', 'Century Gothic', sans-serif;
 	padding: 3em 0;
 	text-align: center;
 	display: block;

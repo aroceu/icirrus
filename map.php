@@ -12,14 +12,14 @@
 <style type="text/css">
 
 @font-face {
-    font-family: Futura;
-    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+    font-family: 'Futura';
+    src: url('http://kingdra.net/x/futura.ttf');
 }
 
 body{
     background: #eaeaea;
     margin: 0;
-    font: normal 100%/140% 'Futura';
+    font: normal 100%/140% 'Futura', 'Century Gothic', sans-serif;
     color: #333;
 }
 
@@ -30,7 +30,7 @@ body{
 }
 
 h1{
-	font: normal 200% 'Futura';
+	font: normal 200% 'Futura', 'Century Gothic', sans-serif;
 	text-align: center;
 	color: #B345F0;
 	margin-top: 0.5em;

@@ -15,8 +15,8 @@
 <style type="text/css">
 
 	@font-face {
-    font-family: Futura;
-    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+    font-family: 'Futura';
+    src: url('http://kingdra.net/x/futura.ttf');
 }
 
 body{
@@ -261,7 +261,7 @@ margin-bottom: 1em;
 }
 
 .close{
-font: normal 120% 'Futura', 'Century Gothic', monospace;
+font: normal 120% 'Futura',  'Century Gothic', sans-serif;
   text-transform: uppercase;
   color: #fff;
   margin: -1.5em auto;

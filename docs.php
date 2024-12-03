@@ -13,14 +13,14 @@
 <style type="text/css">
 
 @font-face {
-    font-family: Futura;
-    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+    font-family: 'Futura';
+    src: url('http://kingdra.net/x/futura.ttf');
 }
 
 body{
     background: #eaeaea;
     margin: 0;
-    font: normal 100%/140% 'Lato';
+    font: normal 100%/140% 'Lato', sans-serif;
     color: #333;
 }
 
@@ -35,7 +35,7 @@ body{
 }
 
 h1{
-	font: normal 200% 'Futura';
+	font: normal 200% 'Futura', 'Century Gothic', sans-serif;
 	text-align: center;
 	color: #E3A250;
 	margin-top: 0.5em;
@@ -59,7 +59,7 @@ h2::before{
 h2{
 	color: #E3A250;
   text-align: left;
-  font: normal 150%/160% 'Futura';
+  font: normal 150%/160% 'Futura', 'Century Gothic', sans-serif;
   margin: 2em 0 1em 0;
 }
 
@@ -139,7 +139,7 @@ overflow-x: none;
 
 <h2 id="intro">Introduction</h2>
 
-<p>I made this website in February of 2017 and am writing this documentation on December 1 of 2024, so the details may be fuzzy or glossed over in parts. Additionally, my own coding ability (as well as thinking in more practical and strategic ways) has improved quite a bit since then &mdash; I hadn't studied computer science then, and I have for a couple of years now, though that doesn't make a huge improvement, really. But it's still a near 8-year gap.</p>
+<p>I made this website in February of 2017 and am writing this documentation on December 1 of 2024, so the details may be fuzzy or glossed over in parts. I also may be surprisingly specific and detailed in others, because that's how my memory works. Additionally, my own coding ability (as well as thinking in more practical and strategic ways) has improved quite a bit since then &mdash; I hadn't studied computer science then, and I have for a couple of years now, though that doesn't make a huge improvement, really. But it's still a near 8-year gap.</p>
 
 <p>Like I stated in the site info, I made Icirrus/Masterball because I'd always wanted to make a site dedicated to my love for Pok&eacute;mon, but for the longest time didn't know what. I love individual species, yes; I also love ships and characters and games. I like a lot of stuff about Pok&eacute;mon, but my biggest weakness when it comes to making sites based on things I love &mdash; and not just me &mdash; was the writing portion of it all. Don't get me wrong, I <i>love</i> writing. And I also love thinking. There's just a lot to write, and a lot to think about, and I'm a perfectionist and have an attention disorder so that's just not something I could ever really do. I'm far more interested in the designing aspect of making websites; writing the content is oftentimes an excuse to show off my designs.</p>
 

@@ -12,8 +12,8 @@
 <style type="text/css">
 
 	@font-face {
-    font-family: Futura;
-    src: url('http://kingdra.net/x/futura.ttf') format(futura.ttf);
+    font-family: 'Futura';
+    src: url('http://kingdra.net/x/futura.ttf');
 }
 
 body{
