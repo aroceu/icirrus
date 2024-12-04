@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
       <meta name="description" content="yeah i'm a pokemon master suck it">
@@ -14,7 +15,7 @@
 
 @font-face {
     font-family: 'Futura';
-    src: url('http://kingdra.net/x/futura.ttf');
+    src: url('https://kingdra.net/x/futura.ttf');
 }
 
 body{
