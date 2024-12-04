@@ -13,11 +13,6 @@
 
 <style type="text/css">
 
-@font-face {
-    font-family: 'Futura';
-    src: url('https://kingdra.net/x/futura.ttf');
-}
-
 body{
     background: #eaeaea;
     margin: 0;

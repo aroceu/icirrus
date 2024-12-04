@@ -14,11 +14,6 @@
 
 <style type="text/css">
 
-	@font-face {
-    font-family: 'Futura';
-    src: url('http://kingdra.net/x/futura.ttf');
-}
-
 body{
 	font: normal 100%/160% 'Futura', 'Century Gothic', sans-serif;
 	color: #fff;

@@ -10,11 +10,6 @@
 
 <style type="text/css">
 
-		@font-face {
-    font-family: 'Futura';
-    src: url('http://kingdra.net/x/futura.ttf');
-}
-
 body{
 	background: url('bg.png') repeat-x top;
 	margin: 0;
