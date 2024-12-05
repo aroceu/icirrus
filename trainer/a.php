@@ -518,7 +518,7 @@ li img{
 <li>The reason my trainer name is in all caps is because that's how I named my first trainer. It's also how I've named nearly all of my trainers since, so the OT looks consistent.</li>
 <li>Statistically, my favorite type is dragon, though I chalk this up to dragons being my favorite animal in general. Steel types are second.</li>
 <li>I had an addiction to buying Pok&eacute;mon plushies for a short period in 2016 so now I own a lot of Pok&eacute;mon plushies. And I love every single one of them. Maybe I'll post a pic one day.</li>
-<li>Even though it was totally overpriced, I own a few things from the <a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Shirts">Pok&eacute;mon Shirts collection</a> &mdash; a Jigglypuff and Seadra bandana, a Luvdisc facemask, and a Sceptile tropical shirt.</li>
+<li>Even though it was totally overpriced, I own a few things from the <a href="https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Shirts">Pok&eacute;mon Shirts collection</a> &mdash; a Jigglypuff, Seadra, and Kingdra bandana, a Luvdisc facemask, and a Sceptile tropical shirt.</li>
 <li><img src="jigglypuff.jpg" style="float: right; height: 90px; padding-left: 10px; padding-top: 0px;">My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
 <li><img src="tcg.jpg" style="float: right; height: 90; padding-right: 10px;padding-top: 10px;margin-top: -20px;"> I don't have that card anymore, but I did recently buy a new one &mdash; Kingdra from the Shrouded Fable expansion.</li>
 </ul>
