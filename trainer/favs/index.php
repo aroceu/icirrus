@@ -20,7 +20,7 @@ body{
 td:first-child{
     vertical-align: middle;
     text-align: center;
-    font: bold italic 100% 'Futura', sans-serif;
+    font: bold italic 100% 'Futura', 'Century Gothic', sans-serif;
     text-transform: uppercase;
     /** color: #492C42; **/
     color: #fff;
@@ -142,7 +142,7 @@ a.tooltip:hover{
 }
 
 h2{
-        font: normal 200% 'Futura';
+        font: normal 200% 'Futura', 'Century Gothic', sans-serif;
     letter-spacing: 7px;
     text-transform: lowercase;
     margin: 1em 0 0 0.1em;
@@ -156,7 +156,7 @@ h2{
 }
 
 h3{
-        font: italic 200% 'Futura';
+        font: italic 200% 'Futura', 'Century Gothic', sans-serif;
     letter-spacing: 7px;
     text-transform: lowercase;
     margin: 1em 0 0em 0.1em;

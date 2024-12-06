@@ -13,7 +13,7 @@
 
 body{
 	background: #CE2D25;
-	font: normal 100%/160% 'Futura';
+	font: normal 100%/160% 'Futura', 'Century Gothic', sans-serif;
     color: #fff;
     margin: 0;
     padding: 0;
@@ -28,7 +28,7 @@ body{
 }
 
 h1{
-	font: bold 280% 'Futura';
+	font: bold 280% 'Futura', 'Century Gothic', sans-serif;
 	letter-spacing: 3px;
 	text-align: center;
 	text-shadow: 0.15em 0 0 #CE2D25;
@@ -54,7 +54,7 @@ ul > li > ul {
 	-webkit-padding-start: 40px!important;
 }
 
-b{ color: #e5463d; font-family: 'Futura';}
+b{ color: #e5463d; font-family: 'Futura', 'Century Gothic', sans-serif;}
 b i{ color: #FFF356; }
 
 #omegadex{
@@ -68,7 +68,7 @@ b i{ color: #FFF356; }
 
 #omegadex h2{
 	padding: 0;
-	font: bold 150% 'Futura';
+	font: bold 150% 'Futura', 'Century Gothic', sans-serif;
 	letter-spacing: 3px;
 	text-shadow: 0.12em 0 0 #8f1a1a;
 	color: #CE2D25;

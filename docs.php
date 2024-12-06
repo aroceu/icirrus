@@ -71,7 +71,7 @@ b{
 			margin: 3em 0;
 			color: #999;
 			text-transform: lowercase;
-			font-family: 'Futura';
+			font-family: 'Futura', 'Century Gothic', sans-serif;
 		}
 
 #footer a:link, #footer a:visited{
@@ -199,7 +199,7 @@ overflow-x: none;
 
 <p>I like having all the trainer game pages having such vastly different colors despite following the same template. When I was younger, for my second main domain I tried to do something similar, but for my different hobbies online. I'd always liked the idea of making a bunch of differently colored and stylized websites all under the same umbrella; but doing it for my hobbies felt like I was splintering myself apart, and didn't satisfy that desire the way I wanted. Doing it for my Pok&eacute;mon team archive, though, actually does &mdash; because the colors are respective to the games, and are actually more necessary and relevant for these pages. I love design because so often it depends on function, and being able to scratch this I've had for making multi-color but interconnected webpages shows how integral function can be in design.</p>
 
-<p>I chose Futura and Lato as the primary fonts of this site, due to their lightweight readability and having similar vibes as sans-serif fonts. Century Gothic was always one of my favorite fonts when I was younger, and Futura is like a more readable version of it. Lato works better for longer blocks of text. I also use Inconsolata as the main monospace font in the Gym area, though I'd actually made this site before I became obsessed with using Inconsolata on all my other websites too. This was just the beginning of it.</p>
+<p>I chose Futura (Century Gothic for PC) and Lato as the primary fonts of this site, due to their lightweight readability and having similar vibes as sans-serif fonts. Century Gothic was always one of my favorite fonts when I was younger, and Futura is like a more readable version of it. Lato works better for longer blocks of text. I also use Inconsolata as the main monospace font in the Gym area, though I'd actually made this site before I became obsessed with using Inconsolata on all my other websites too. This was just the beginning of it.</p>
 
 <p>I made the gym second &mdash; and then the "Fight" section, because that's where I'd dump all I'd want to share about this site at the time. It was also fun to think of myself as a gym leader, though for a while there I was an ice-type leader &mdash; I swapped to steel sometime around 2020, because I realized that I am more drawn to steel-types as a type than anything. They're kind of similar in literal idea in a way, but Steel is better in a lot of ways. And I think I'm a lot better now in a lot of ways too. Even though my love for bisharp has dropped since the release of kingambit, but it still leads my gym team. I am a girl with a glass cannon in every respect, after all.</p>
 

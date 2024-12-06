@@ -24,7 +24,7 @@ body{
 h1, h2{
 	color: #fff;
 	text-shadow: 0.12em 0em 0.2em #777;
-	font-family: 'Futura';
+	font-family: 'Futura', 'Century Gothic', sans-serif;
 }
 
 </style>
