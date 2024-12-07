@@ -512,6 +512,10 @@ li img{
 
 <hr />
 
+<p align="center"><img src="https://icirr.us/trainer/pokecard.png" width="400px"></p>
+
+<hr />
+
 <h2>Fun Facts</h2>
 <ul>
 <li>I know all the words to the Kanto Pok&eacute;Rap.</li>
