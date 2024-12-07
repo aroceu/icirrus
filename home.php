@@ -118,6 +118,20 @@ a.tooltip:hover{
     color: #333;
 }
 
+#billspc .webring-info {
+    text-transform: uppercase;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+#billspc .webring-prev, .webring-next {
+    text-decoration: none;
+}
+
+#billspc .webring-info a:hover, #billspc .webring-prev a:hover, #billspc .webring-next a:hover{
+    color: #F2B3F4;
+    background: #7E5FC6;
+}
+
   @media only screen and (max-width: 1025px) and (min-width: 769px) {
     
 html {
