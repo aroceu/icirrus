@@ -182,7 +182,7 @@ nav p{
 </div>
 
     <div class="footer">
-        <center><img src="bill.png" style="vertical-align: text-bottom"><img src="pc.png"></center>
+        <center><img src="bill.png"> <img src="pc.png"></center>
         <div id="billspc">       
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-variables.js"></script>
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-widget.js"></script>
