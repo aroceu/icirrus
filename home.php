@@ -121,10 +121,11 @@ a.tooltip:hover{
 #billspc .webring-info {
     text-transform: uppercase;
   letter-spacing: 1px;
-  text-decoration: none;
 }
-#billspc .webring-prev, .webring-next {
+
+#billspc a:link, #billspc a:visited{
     text-decoration: none;
+  padding: 5px;
 }
 
 #billspc .webring-info a:hover, #billspc .webring-prev a:hover, #billspc .webring-next a:hover{
