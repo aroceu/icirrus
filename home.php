@@ -66,7 +66,7 @@ nav .item a.map:link, nav .item a.map:visited{
 }
 
 nav .item a:hover, nav .item a:focus{
-    color: #7E5FC6!important;
+    color: #F2B3F4!important;
 }
 
 img.navpng{
