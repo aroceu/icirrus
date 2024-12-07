@@ -182,10 +182,15 @@ nav p{
 </div>
 
     <div class="footer">
+        <center><img src="pc.png"></center>
+        <br />
         <div id="billspc">
+            <img src="bill.png">
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-variables.js"></script>
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-widget.js"></script>
+    <img src="billmon.png">
     </div>
+    <br />
         &copy; 2017-2024 masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. for further information, see <a href="https://icirr.us/docs">documentation</a>. <a href="/">clear?</a>
     </div>
 </body>
