@@ -305,7 +305,7 @@ h1{
 <h1>site info</h1>
 
 <blockquote><b>Site/Design Launch:</b> February 2017
-<br /><b>Last Updated:</b> 2024 2024</blockquote>
+<br /><b>Last Updated:</b> December 2024</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
 <p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
 </b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
