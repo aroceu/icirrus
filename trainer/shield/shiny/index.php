@@ -365,8 +365,8 @@ $(function() {
 			<div id="comp">
 
 				<div class="pkmn">
-					<img src="comp/bisharp.gif">
-					<table width="100%" class="mon"><tr><td><b>Bisharp&#9792;</b></td> <td>Saffron <img src="../../balls/beast.png"></td></tr>
+					<img src="comp/bisharp.gif" alt="bisharp">
+					<table width="100%" class="mon"><tr><td><b>Bisharp&#9792;</b></td> <td>Saffron <img src="../../balls/beast.png" alt="beast ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&squ;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Defiant</td></tr>
 					<tr><td><b>Nature</b></td> <td>Lax</td></tr>
@@ -376,8 +376,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="comp/aegislash.gif">
-					<table width="100%" class="mon"><tr><td><b>Aegislash&#9794;</b></td> <td>Noodle <img src="../../balls/heavy.png"></td></tr>
+					<img src="comp/aegislash.gif" alt="aegislash">
+					<table width="100%" class="mon"><tr><td><b>Aegislash&#9794;</b></td> <td>Noodle <img src="../../balls/heavy.png" alt="heavy ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&squ;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Stance Change</td></tr>
 					<tr><td><b>Nature</b></td> <td>Jolly</td></tr>
@@ -387,8 +387,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="comp/toxapex.gif">
-					<table width="100%" class="mon"><tr><td><b>Toxapex&#9794;</b></td> <td>Morganite <img src="../../balls/dream.png"></td></tr>
+					<img src="comp/toxapex.gif" alt="toxapex">
+					<table width="100%" class="mon"><tr><td><b>Toxapex&#9794;</b></td> <td>Morganite <img src="../../balls/dream.png" alt="dream ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&squ;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Regenerator</td></tr>
 					<tr><td><b>Nature</b></td> <td>Hasty</td></tr>
@@ -402,8 +402,8 @@ $(function() {
 			<div id="apri">
 				
 				<div class="pkmn">
-					<img src="apri/dhelmise.gif">
-					<table width="100%" class="mon"><tr><td><b>Dhelmise</b></td> <td>Cherry <img src="../../balls/love.png"></td></tr>
+					<img src="apri/dhelmise.gif" alt="dhelmise">
+					<table width="100%" class="mon"><tr><td><b>Dhelmise</b></td> <td>Cherry <img src="../../balls/love.png" alt="love ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Steelworker</td></tr>
 					<tr><td><b>Nature</b></td> <td>Lax</td></tr>
@@ -413,8 +413,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/vikavolt.gif">
-					<table width="100%" class="mon"><tr><td><b>Vikavolt&#9794;</b></td> <td>Bappy <img src="../../balls/friend.png"></td></tr>
+					<img src="apri/vikavolt.gif" alt="vikavolt">
+					<table width="100%" class="mon"><tr><td><b>Vikavolt&#9794;</b></td> <td>Bappy <img src="../../balls/friend.png" alt="friend ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Levitate</td></tr>
 					<tr><td><b>Nature</b></td> <td>Bashful</td></tr>
@@ -424,8 +424,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/flygon.gif">
-					<table width="100%" class="mon"><tr><td><b>Flygon&#9792;</b></td> <td>Lesbian <img src="../../balls/moon.png"></td></tr>
+					<img src="apri/flygon.gif" alt="flygon">
+					<table width="100%" class="mon"><tr><td><b>Flygon&#9792;</b></td> <td>Lesbian <img src="../../balls/moon.png" alt="moon ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Levitate</td></tr>
 					<tr><td><b>Nature</b></td> <td>Rash</td></tr>
@@ -435,8 +435,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/meowstic-f.gif">
-					<table width="100%" class="mon"><tr><td><b>Meowstic&#9792;</b></td> <td>Marmalade <img src="../../balls/fast.png"></td></tr>
+					<img src="apri/meowstic-f.gif" alt="meowstic female">
+					<table width="100%" class="mon"><tr><td><b>Meowstic&#9792;</b></td> <td>Marmalade <img src="../../balls/fast.png" alt="fast ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Keen Eye</td></tr>
 					<tr><td><b>Nature</b></td> <td>Relaxed</td></tr>
@@ -446,8 +446,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/milotic.gif">
-					<table width="100%" class="mon"><tr><td><b>Milotic&#9792;</b></td> <td>Ballet <img src="../../balls/lure.png"></td></tr>
+					<img src="apri/milotic.gif" alt="milotic">
+					<table width="100%" class="mon"><tr><td><b>Milotic&#9792;</b></td> <td>Ballet <img src="../../balls/lure.png" alt="lure ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Marvel Scale</td></tr>
 					<tr><td><b>Nature</b></td> <td>Calm</td></tr>
@@ -457,8 +457,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/rapidash-galar.gif">
-					<table width="100%" class="mon"><tr><td><b>Rapidash&#9792;</b></td> <td>Starlight <img src="../../balls/moon.png"></td></tr>
+					<img src="apri/rapidash-galar.gif" alt="galarian rapidash">
+					<table width="100%" class="mon"><tr><td><b>Rapidash&#9792;</b></td> <td>Starlight <img src="../../balls/moon.png" alt="moon ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&squ;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Pastel Veil</td></tr>
 					<tr><td><b>Nature</b></td> <td>Quiet</td></tr>
@@ -470,8 +470,8 @@ $(function() {
 				<div style="clear: both;"></div>
 
 				<div class="pkmn">
-					<img src="apri/tsareena.gif">
-					<table width="100%" class="mon"><tr><td><b>Tsareena&#9792;</b></td> <td>Empress <img src="../../balls/friend.png"></td></tr>
+					<img src="apri/tsareena.gif" alt="tsareena">
+					<table width="100%" class="mon"><tr><td><b>Tsareena&#9792;</b></td> <td>Empress <img src="../../balls/friend.png" alt="friend ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Sweet Veil</td></tr>
 					<tr><td><b>Nature</b></td> <td>Rash</td></tr>
@@ -481,8 +481,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/eiscue.gif">
-					<table width="100%" class="mon"><tr><td><b>Eiscue&#9794;</b></td> <td>Mel <img src="../../balls/dream.png"></td></tr>
+					<img src="apri/eiscue.gif" alt="eiscue">
+					<table width="100%" class="mon"><tr><td><b>Eiscue&#9794;</b></td> <td>Mel <img src="../../balls/dream.png" alt="dream ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Ice Face</td></tr>
 					<tr><td><b>Nature</b></td> <td>Bold</td></tr>
@@ -492,8 +492,8 @@ $(function() {
 				</div>
 
 				<div class="pkmn">
-					<img src="apri/morpeko.gif" class="boy">
-					<table width="100%" class="mon"><tr><td><b>Morpeko&#9794;</b></td> <td>Jojo <img src="../../balls/level.png"></td></tr>
+					<img src="apri/morpeko.gif" class="boy" alt="morpeko">
+					<table width="100%" class="mon"><tr><td><b>Morpeko&#9794;</b></td> <td>Jojo <img src="../../balls/level.png" alt="level ball"></td></tr>
 					<tr><td><b>Shiny</b></td> <td>&#9734;</td></tr>
 					<tr><td><b>Ability</b></td> <td>Hunger Switch</td></tr>
 					<tr><td><b>Nature</b></td> <td>Relxased</td></tr>

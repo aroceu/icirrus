@@ -271,7 +271,7 @@ h1{
 <div class="box"> <div class="pkmn">
 
 <div id="mobileparty">
-	<center><img src="mobileparty.png" style="margin-bottom: -1em"></center>
+	<center><img src="mobileparty.png" style="margin-bottom: -1em" alt="a party of steel pokemon: bisharp (shiny), aegislash (shiny), mega aggron (shiny), excadrill (shiny), and tinkaton"></center>
 
 	<h1>welcome to my gym</h1>
 
@@ -292,7 +292,7 @@ h1{
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
-<p><img src="clair.png" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
+<p><img src="clair.png" alt="clair" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
 
 <p>I also enjoy the anime quite a bit, having watched nearly every episode from Kanto to Hoenn, with plans to (eventually) catch up. I'm even more enthusiastic about the manga, which I haven't read since 2013 and also need to catch up on.</p>
 
@@ -305,7 +305,7 @@ h1{
 <h1>site info</h1>
 
 <blockquote><b>Site/Design Launch:</b> February 2017
-<br /><b>Last Updated:</b> November 2024</blockquote>
+<br /><b>Last Updated:</b> 2024 2024</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
 <p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
 </b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
@@ -314,10 +314,10 @@ h1{
 
 <h1>linkback buttons</h1>
 <center>
-<p><img src="linkback/pixel20040.png"></p>
-<p><img src="linkback/pastel10050.png"> <img src="linkback/pastel5050.png"> <img src="linkback/pastel7550.png">
-<img src="linkback/pix10050.png"> <img src="linkback/pix7550.png"> <img src="linkback/pix50501.png"> <img src="linkback/pix50502.png"></p>
-<p><img src="linkback/pastel8831.png"> <img src="linkback/pix8831.png"></p>
+<p><img src="linkback/pixel20040.png" alt="200x40 button pixel style"></p>
+<p><img src="linkback/pastel10050.png" alt="100x40 button pastel style"> <img src="linkback/pastel5050.png" alt="50x50 button pastel style"> <img src="linkback/pastel7550.png" alt="75x50 button pastel style">
+<img src="linkback/pix10050.png" alt="100x40 button pixel style"> <img src="linkback/pix7550.png" alt="75x50 button pixel style"> <img src="linkback/pix50501.png" alt="50x50 button pixel style"> <img src="linkback/pix50502.png" alt="50x50 button pixel style without text"></p>
+<p><img src="linkback/pastel8831.png" alt="88x31 button pastel style"> <img src="linkback/pix8831.png" alt="88x31 button pixel style"></p>
 <p>Buttons for linking and whatnot. Please don't hotlink!</p>
 </center>
 
@@ -325,7 +325,7 @@ h1{
 
 </div>
 
-<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="bisharp.gif"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aegislash.gif"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="aggron.gif"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="tinkaton.png"><span class="tooltiptext">linkback/buttons</span></a> </div>
+<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="bisharp.gif" alt="shiny bisharp (welcome to my gym)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="aggron.gif" alt="shiny mega aggron (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="tinkaton.png" alt="tinkaton (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> </div>
 
 <div id="info">
 	<p align="center"><a href="https://github.com/aroceu/icirrus">View this project on Github</a></p>
@@ -356,7 +356,7 @@ h1{
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
-<p><img src="clair.png" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
+<p><img src="clair.png" alt="clair" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
 
 <p>I also enjoy the anime quite a bit, having watched nearly every episode from Kanto to Hoenn, with plans to (eventually) catch up. I'm even more enthusiastic about the manga, which I haven't read since 2013 and also need to catch up on.</p>
 
@@ -368,7 +368,7 @@ h1{
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
-<br /><b>Last Updated:</b> November 2024</blockquote>
+<br /><b>Last Updated:</b> December 2024</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
 <p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
 </b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
@@ -377,10 +377,10 @@ h1{
 </div>
 
 <div id="linkback"><br />
-<p><img src="linkback/pixel20040.png"></p>
-<p><img src="linkback/pastel10050.png"> <img src="linkback/pastel5050.png"> <img src="linkback/pastel7550.png">
-<img src="linkback/pix10050.png"> <img src="linkback/pix7550.png"> <img src="linkback/pix50501.png"> <img src="linkback/pix50502.png"></p>
-<p><img src="linkback/pastel8831.png"> <img src="linkback/pix8831.png"></p>
+<p><img src="linkback/pixel20040.png" alt="200x40 button pixel style"></p>
+<p><img src="linkback/pastel10050.png" alt="100x40 button pastel style"> <img src="linkback/pastel5050.png" alt="50x50 button pastel style"> <img src="linkback/pastel7550.png" alt="75x50 button pastel style">
+<img src="linkback/pix10050.png" alt="100x40 button pixel style"> <img src="linkback/pix7550.png" alt="75x50 button pixel style"> <img src="linkback/pix50501.png" alt="50x50 button pixel style"> <img src="linkback/pix50502.png" alt="50x50 button pixel style without text"></p>
+<p><img src="linkback/pastel8831.png" alt="88x31 button pastel style"> <img src="linkback/pix8831.png" alt="88x31 button pixel style"></p>
 <p>Buttons for linking and whatnot. Please don't hotlink!</p>
 
 </div></div>

@@ -153,7 +153,7 @@ html {
 
 <div class="box">
 
-<h1><img src="orasmay.png"> #49385 ALICE</h1>
+<h1><img src="orasmay.png" alt=""> #49385 ALICE</h1>
 <hr />
 
 <ul><li><b>DATE STARTED</b> 21 NOVEMBER 2014</li>
@@ -170,7 +170,7 @@ html {
 <!--pc? pic of base? idk -->
 <hr />
 
-<p align="center"><img src="secretbase.jpg"></p>
+<p align="center"><img src="secretbase.jpg" alt="My secret base QR code"></p>
 
 <hr />
 

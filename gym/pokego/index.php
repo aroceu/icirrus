@@ -208,7 +208,7 @@ h2:before, h2:after{
 
 <h1 class="name">hydrasplatlings</h1>
 <h1 class="level">Level 33</h1>
-<div id="avatar"><img src="me2.png" width="389"></div>
+<div id="avatar"><img src="me2.png" width="389" alt="A Pokemon Go trainer with long black hair, a red May bandana, a jean jacket with a black shirt, red straps of a bag, black fingerless gloves, black cargo pants, and blue and white sneakers"></div>
 <blockquote><b>Trainer Code</b>
 <br />0574 - 0981 - 4155</blockquote>
 <div class="left"><b>Start Date</b><br />6 July 2016</div>

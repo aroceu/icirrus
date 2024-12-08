@@ -107,31 +107,31 @@ html {
 <h1>We hope to see you again!</h1>
 
 <p align="center">
-	<a href="https://pkmn.aelysia.net/"><img src="buttons/pkmnaelysia.png"></a>
-	<a href="https://pkmn.redcrown.net/"><img src="buttons/pkmnredcrown.png"></a>
-	<a href="https://pokeprint.kimbachu.com/"><img src="buttons/pokeprint.png"></a>
-	<a href="https://noseclub.bluwiikoon.art/"><img src="buttons/noseclub.png"></a>
-	<a href="https://serfetch.kyeugh.online/"><img src="buttons/serfetch.png"></a>
-	<a href="https://bluemoonfalls.com/"><img src="buttons/bluemoonfalls.png"></a>
-	<a href="https://hallowedtower.net/"><img src="buttons/hallowedtower.gif"></a>
-	<a href="https://centiskor.ch/"><img src="buttons/centiskorch.png"></a>
-	<a href="https://www.dragonflycave.com/"><img src="buttons/dragonflycave.gif"></a>
-	<a href="https://www.lycanroc.net/"><img src="buttons/lycanroc.png"></a>
-	<a href="https://pamtre-berry.neocities.org/"><img src="buttons/pamtreberry.png"></a>
-	<a href="https://silvallyplushie.neocities.org/"><img src="buttons/silvallyplushie.png"></a>
-	<a href="https://enigmadreams.neocities.org/"><img src="buttons/enigmadreams.png"></a>
-	<a href="https://sylphofeons.neocities.org"><img src="buttons/sylphofeons.png"></a>
-	<a href="https://buriedrelic.neocities.org/"><img src="buttons/buriedrelic.png"></a>
-	<a href="https://altissimo1.github.io/"><img src="buttons/altissimo1.png"></a>
-	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png"></a>
-	<a href="https://serebii.net"><img src="buttons/serebii.png"></a>
+	<a href="https://pkmn.aelysia.net/"><img src="buttons/pkmnaelysia.png" alt="pkmn at aelysia.net"></a>
+	<a href="https://pkmn.redcrown.net/"><img src="buttons/pkmnredcrown.png" alt="pkmn at redcrown.net"></a>
+	<a href="https://pokeprint.kimbachu.com/"><img src="buttons/pokeprint.png" alt="pokeprint"></a>
+	<a href="https://noseclub.bluwiikoon.art/"><img src="buttons/noseclub.png" alt="noseclub"></a>
+	<a href="https://serfetch.kyeugh.online/"><img src="buttons/serfetch.png" alt="serfetch"></a>
+	<a href="https://bluemoonfalls.com/"><img src="buttons/bluemoonfalls.png" alt="bluemoonfalls"></a>
+	<a href="https://hallowedtower.net/"><img src="buttons/hallowedtower.gif" alt="hallowedtower"></a>
+	<a href="https://centiskor.ch/"><img src="buttons/centiskorch.png" alt="centiskor.ch"></a>
+	<a href="https://www.dragonflycave.com/"><img src="buttons/dragonflycave.gif" alt="dragonflycave"></a>
+	<a href="https://www.lycanroc.net/"><img src="buttons/lycanroc.png" alt="lycanroc.net"></a>
+	<a href="https://pamtre-berry.neocities.org/"><img src="buttons/pamtreberry.png" alt="pamtre-berry"></a>
+	<a href="https://silvallyplushie.neocities.org/"><img src="buttons/silvallyplushie.png" alt="silvallyplushie"></a>
+	<a href="https://enigmadreams.neocities.org/"><img src="buttons/enigmadreams.png" alt="enigmadreams"></a>
+	<a href="https://sylphofeons.neocities.org"><img src="buttons/sylphofeons.png" alt="sylphofeons"></a>
+	<a href="https://buriedrelic.neocities.org/"><img src="buttons/buriedrelic.png" alt="buriedrelic"></a>
+	<a href="https://altissimo1.github.io/"><img src="buttons/altissimo1.png" alt="altissimo1"></a>
+	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png" alt="sunyshore.com"></a>
+	<a href="https://serebii.net"><img src="buttons/serebii.png" alt="serebii.net"></a>
 </p>
 
 <p align="center"><b><i>Archived</i></b></p>
 
 <p align="center">
-	<a href="https://web.archive.org/web/20181207193438/http://sapphire.nu/ulaula/"><img src="buttons/oldsapphire.png"></a>
-	<a href="https://web.archive.org/web/20160124093009/http://pkmn.skyremix.org/index.php"><img src="buttons/oldpkmnskyremix.png"></a>
+	<a href="https://web.archive.org/web/20181207193438/http://sapphire.nu/ulaula/"><img src="buttons/oldsapphire.png" alt="sapphire.nu"></a>
+	<a href="https://web.archive.org/web/20160124093009/http://pkmn.skyremix.org/index.php"><img src="buttons/oldpkmnskyremix.png" alt="pkmn at skyremix"></a>
 </p>
 
 <hr />
