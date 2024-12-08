@@ -188,7 +188,7 @@ html {
 
 <div id="container">
 
-	<h1>MASTER<font color="#D93FC1">BALL</font> <img src="https://icirr.us/mball.ico"><img src="map.png"> <subhead>SITE<i>MAP</i></subhead></h1>
+	<h1>MASTER<font color="#D93FC1">BALL</font> <img src="https://icirr.us/mball.ico" alt=""><img src="map.png" alt=""> <subhead>SITE<i>MAP</i></subhead></h1>
 
  <ul class="tree-view">
         <a href="https://icirr.us/">Index</a> (splash)
@@ -252,7 +252,7 @@ html {
 	</div>
 
 	<div id="footer">
-	<p align="center">&copy; 2017-<?php echo date("Y"); ?> <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> <a href="https://icirr.us/docs">Documentation</a></p>
+	<p align="center">&copy; 2017-<?php echo date("Y"); ?> <img src="https://icirr.us/mb.png" alt=""> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png" alt=""> <a href="https://icirr.us/docs">Documentation</a></p>
 </div>
 
 	</body>

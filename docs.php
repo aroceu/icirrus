@@ -116,7 +116,7 @@ overflow-x: none;
 
 <div id="container">
 
-	<h1>ICIRR.US: DOCUMENTATION <img src="rules.png"></h1>
+	<h1>ICIRR.US: DOCUMENTATION <img src="rules.png" alt=""></h1>
 
 	<div id="content">
 
@@ -350,7 +350,7 @@ overflow-x: none;
 </div>
 
 <div id="footer">
-	<p align="center">&copy; 2017-<?php echo date("Y"); ?> <img src="https://icirr.us/mb.png"> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png"> <a href="https://icirr.us/home">Home</p>
+	<p align="center">&copy; 2017-<?php echo date("Y"); ?> <img src="https://icirr.us/mb.png" alt=""> <a href="https://github.com/aroceu/icirrus">View on Github</a> <img src="https://icirr.us/mb.png" alt=""> <a href="https://icirr.us/home">Home</p>
 </div>
 
 </body>
