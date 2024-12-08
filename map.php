@@ -239,6 +239,7 @@ html {
 		            	</ul>
 		            <li>TCG (<i>upcoming</i>)</li>
 		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
+		            <li><a href="https://icirr.us/guestbook">Xtransceiver (guestbook)</a></li>
 		            <li>Map <i><b>You are here!</b></i></li>
 		            <li><a href="https://icirr.us/docs">Documentation</a></li>
 		        </ul>

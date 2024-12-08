@@ -195,6 +195,8 @@ nav p{
                 <p>&nbsp;</p>
         <span class="item"><a href="map" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> sign the guestbook! </span>
 
+        <p>&nbsp;</p>
+
         <span class="item"><a href="map" rel="me" class="map"><img src="https://icirr.us/map.png" class="navpng" alt="">Map</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> shows your present location </span>
 
     </nav>
