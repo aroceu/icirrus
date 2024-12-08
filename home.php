@@ -61,6 +61,10 @@ nav .item a.pokerogue:link, nav .item a.pokerogue:visited{
       color: #346485;
 }
 
+nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{
+      color: #666;
+}
+
 nav .item a.map:link, nav .item a.map:visited{
       color: #72A014;
 }
@@ -189,6 +193,7 @@ nav p{
         <p>&nbsp;</p>
         <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p>
+        <span class="item"><a href="map" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> sign the guestbook! </span>
 
         <span class="item"><a href="map" rel="me" class="map"><img src="https://icirr.us/map.png" class="navpng" alt="">Map</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> shows your present location </span>
 

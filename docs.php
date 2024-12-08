@@ -264,7 +264,7 @@ overflow-x: none;
 
 <p>Upon entering the site, the visitor gets presented with the image of a large masterball and the instruction to open it (or click on an adjoining link) to begin one's journey on the website.</p>
 
-<p>Doing so will lead you to the main navigation, or Home &mdash; a hub of all the main subsections of this site. As of this moment, the active subsections are Trainer, Gym, and Map. The documentation and link back to the splash page (as well as the my primary website-making site, kingdra.net) are linked in the footer.</p>
+<p>Doing so will lead you to the main navigation, or Home &mdash; a hub of all the main subsections of this site. As of this moment, the active subsections are Trainer, Gym, Guestbook, and Map. The documentation and link back to the splash page (as well as the my primary website-making site, kingdra.net) are linked in the footer.</p>
 
 <p>Trainer, which is listed at the top, is the main showcase of the site: a mini-archive of parties across all played games. Each page lists:</p>
 
@@ -309,6 +309,8 @@ overflow-x: none;
 
 <p>Returning back to the home navigation, there are presently links to two sections that do not yet exist, but are there both for the visitor informative purpose (that they will exist eventually), and as a promise/reminder to myself to make them as well.</p>
 
+<p>Xtransceiver, the next listed page, is the guestbook and is designed to look like the Pok&eacute;tch from Diamond/Pearl/Platinum. Visitors can leave a public comment on the website this way if they would like.</p>
+
 <p>The last link is the map to assist the user in navigation. The map's footer links to both the Github repository as well as the documentation.</p>
 
 <h2 id="future">Future Plans</h2>
@@ -337,6 +339,8 @@ overflow-x: none;
 	<li><a href="https://shipping.bulbagarden.net/listaz.html">The Shipping List</a> on Bulbagarden</li>
 	<li><a href="https://msikma.github.io/pokesprite/">msikma's pokesprites</a></li>
 	<li><a href="https://www.pkparaiso.com/espada_escudo/sprites_pokemon.php">PkParaiso</a> for game-specific sprites particularly in later games</li>
+	<li><a href="https://virtualobserver.moe/ayano/comment-widget">Comment widget by Virtual Observer</a> for the guestbook</li>
+	<li>Pok&eacute;tch styling for the guestbook taken and modified from <a href="https://codepen.io/NZSloh/pen/bGLQGGe">Pok&eacute;tch Calculator on CodePen</a> by NZSloh (see source code for licensing)</li>
 	<li>I found the graphic for the Pok&eacute;mon Go Valor vector ages ago, though could not tell you now where or how I got it beyond a simple Google search.</li>
 	<li>Photoshop 2024 &mdash; ball page backgrounds were handmade by me</li>
 	<li>Github Desktop</li>
