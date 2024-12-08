@@ -50,18 +50,18 @@ a.movesetlink:hover{
 
 <div class="container">
 
-<div id="ava"><img src="gloria.png"></div>
+<div id="ava"><img src="gloria.png" alt="Female player character in Pokemon Sword/Shield"></div>
 <div id="meta"><h1>Shield <i>Gen VIII</i></h1>
 <h2>2019 Galar Region</h2>
 <div class="talk"><p>I knew I was going to get Shield despite the vast amount of criticism it got&mdash;and, uh, despite that criticism, I've actually put my new most hours into it - 500 and counting. It's due to that I play with friends a lot, have made a lot of new friends through it, and the shiny raid exploits. Which, speaking of, <a href="shiny">I now have a whole subsection for my gen 8 shinies</a>. (And I wrote a guide for it which I linked there.)</p>
-<p>Also I named my 'mon after HP characters because I'm a loser.</p></div></div>
+<p>Yes, I'm aware of the very unfortunate circumstance that I named these pokemon after Harry Potter characters shortly before JK Rowling showed her whole ass in being a TERF. I do not support this at all. The nickname of my Pok&eacute;mon is not an endorsement of her views.</p></div></div>
 </div></div>
 
 <div id="pokes">
 
 <div class="pkmn">
-<img src="rillaboom.gif">
-<table width="100%" class="mon"><tr><td><b>Rillaboom&#9794;</b></td> <td>Dumbledore <img src="../balls/pokeball.png"></td></tr>
+<img src="rillaboom.gif" alt="Rillaboom">
+<table width="100%" class="mon"><tr><td><b>Rillaboom&#9794;</b></td> <td>Dumbledore <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>98 <small><small><strike>I refuse to candy them</strike></small></small></td></tr>
 <tr><td><b>Type</b></td> <td><grass>Grass</grass></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
@@ -73,8 +73,8 @@ a.movesetlink:hover{
 </div>
 
 <div class="pkmn">
-<img src="polteageist.gif" class="wiggle">
-<table width="100%" class="mon"><tr><td><b>Polteageist</b></td> <td>Harry <img src="../balls/ultra.png"></td></tr>
+<img src="polteageist.gif" class="wiggle" alt="polteageist">
+<table width="100%" class="mon"><tr><td><b>Polteageist</b></td> <td>Harry <img src="../balls/ultra.png" alt="ultra ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>92</td></tr>
 <tr><td><b>Type</b></td> <td><ghost>Ghost</ghost></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
@@ -86,8 +86,8 @@ a.movesetlink:hover{
 </div>
 
 <div class="pkmn">
-<img src="corviknight.gif" class="bigbirb">
-<table width="100%" class="mon"><tr><td><b>Corviknight&#9792;</b></td> <td>Hedwig <img src="../balls/ultra.png"></td></tr>
+<img src="corviknight.gif" class="bigbirb" alt="corviknight">
+<table width="100%" class="mon"><tr><td><b>Corviknight&#9792;</b></td> <td>Hedwig <img src="../balls/ultra.png" alt="ultra ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>97</td></tr>
 <tr><td><b>Type</b></td> <td><steel>Steel</steel>/<flying>Flying</flying></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
@@ -101,8 +101,8 @@ a.movesetlink:hover{
 <div style="clear: both;"></div>
 
 <div class="pkmn">
-<img src="obstagoon.gif">
-<table width="100%" class="mon"><tr><td><b>Obstagoon&#9794;</b></td> <td>Ron <img src="../balls/pokeball.png"></td></tr>
+<img src="obstagoon.gif" alt="Obstagoon">
+<table width="100%" class="mon"><tr><td><b>Obstagoon&#9794;</b></td> <td>Ron <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>97</td></tr>
 <tr><td><b>Type</b></td> <td><dark>Dark</dark>/<normal>Normal</normal></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
@@ -115,8 +115,8 @@ a.movesetlink:hover{
 
 
 <div class="pkmn">
-<img src="hatterene.gif">
-<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Hatterene&#9794;</b></td> <td>Hermione <img src="../balls/pokeball.png"></td></tr>
+<img src="hatterene.gif" alt="Hatterene">
+<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Hatterene&#9794;</b></td> <td>Hermione <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>94</td></tr>
 <tr><td><b>Type</b></td> <td><fairy>Fairy</fairy>/<psychic>Psychic</psychic></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
@@ -128,8 +128,8 @@ a.movesetlink:hover{
 </div>
 
 <div class="pkmn">
-<img src="dragapult.gif">
-<table width="100%" class="mon"><tr><td><b>Dragapult&#9792;</b></td> <td>Draco <img src="../balls/great.png"></td></tr>
+<img src="dragapult.gif" alt="Dragapult">
+<table width="100%" class="mon"><tr><td><b>Dragapult&#9792;</b></td> <td>Draco <img src="../balls/great.png" alt="great ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>94</td></tr>
 <tr><td><b>Type</b></td> <td><dragon>Dragon</dragon>/<ghost>Ghost</ghost></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>

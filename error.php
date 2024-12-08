@@ -132,7 +132,7 @@ $+====+==+?+$ZZZ$I7N...DI=++$N?~:NI:.,,.=III777I7777NMNNNDI?I:,:==$IDMN~==77=,:,
                                                                                                                                                                                                                                          
 
 -->
-<div id="missingno"><img src="missingno.png">
+<div id="missingno"><img src="missingno.png" alt="">
 <p>WHITED OUT!</p>
 <p><a href="javascript:history.back()">GO BACK TO THE POKEMON CENTER...</a></p></div>
 </body>

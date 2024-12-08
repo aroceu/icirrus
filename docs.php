@@ -203,7 +203,7 @@ overflow-x: none;
 
 <p>I made the gym second &mdash; and then the "Fight" section, because that's where I'd dump all I'd want to share about this site at the time. It was also fun to think of myself as a gym leader, though for a while there I was an ice-type leader &mdash; I swapped to steel sometime around 2020, because I realized that I am more drawn to steel-types as a type than anything. They're kind of similar in literal idea in a way, but Steel is better in a lot of ways. And I think I'm a lot better now in a lot of ways too. Even though my love for bisharp has dropped since the release of kingambit, but it still leads my gym team. I am a girl with a glass cannon in every respect, after all.</p>
 
-<p>Then I had my issues with making the Bag/Town Map, but made it work sooner or later with my limited knowledge of Javscript, and a lot of handholding from StackExchange. Where would any of us be without StackExchange, especially when you're just a hobbyist.</p>
+<p>Then I had my issues with making the Bag/Town Map, but made it work sooner or later with my limited knowledge of Javascript, and a lot of handholding from StackExchange. Where would any of us be without StackExchange, especially when you're just a hobbyist.</p>
 
 <p>After that I made the "flee" section, because I knew the Pok&eacute;Go section would take the longest, due to what I had in mind for it. The exit links out wasn't necessarily obviously easier, but I knew I wanted to use the similar ball theming as the front page, but make it a love ball because the exits would be sites/people I love. Though I suppose that isn't wholly accurate as they're largely strangers now, the idea is still there and I do still stand by it. Plus, having the love ball heart on the side is actually a pretty fun visual touch.</p>
 
@@ -320,6 +320,7 @@ overflow-x: none;
 	<li>Add a Konami code secret</li>
 	<li>Play Ultra Moon and Violet to make pages here</li>
 	<li>Update or reconfigure the Go dex</li>
+	<li>Add a guestbook section (maybe)</li>
 	<li>Change the gym team around again (maybe)</li>
 	<li>Use root styles for trainer game pages instead of its current templating (maybe)</li>
 	<li>Make a timeline (maybe)</li>

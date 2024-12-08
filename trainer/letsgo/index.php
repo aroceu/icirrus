@@ -32,7 +32,7 @@ body{
 
 <div class="container">
 
-<div id="ava"><img src="elaine.png"></div>
+<div id="ava"><img src="elaine.png" alt="Female player character in Pokemon Let's Go"></div>
 <div id="meta"><h1>LET'S GO <i>PIKACHU!</i></h1>
 <h2>2018 Kanto Region</h2>
 <div class="talk"><p>After a lot of deliberating, and then remembering that this series paired with the mobile game, I finally decided to get this about a month after it came out. I was initially annoyed at yet another Kanto remake, but then I realized that this would be a lot of kids' first Pok&eacute;mon game, and they were starting off with Kanto much like those of us who've been there since the beginning. Besides, I never played Pok&eacute;mon Yellow.</p></div></div>
@@ -41,8 +41,8 @@ body{
 <div id="pokes">
 
 <div class="pkmn">
-<img src="pikachu.gif" class="boy">
-<table width="100%" class="mon"><tr><td><b>Pikachu&#9792;</b></td> <td>Blush <img src="../balls/pokeball.png"></td></tr>
+<img src="pikachu.gif" class="boy" alt="Pikachu">
+<table width="100%" class="mon"><tr><td><b>Pikachu&#9792;</b></td> <td>Blush <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>81</td></tr>
 <tr><td><b>Stats</b></td> <td>Amazing - Best (all)</td></tr>
 <tr><td><b>Type</b></td> <td><electric>Electric</electric></td></tr>
@@ -54,8 +54,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="slowbro.gif" class="wiggle">
-<table width="100%" class="mon"><tr><td><b>Slowbro&#9792;</b></td> <td>Trumpet <img src="../balls/ultra.png"></td></tr>
+<img src="slowbro.gif" class="wiggle" alt="Slowbro">
+<table width="100%" class="mon"><tr><td><b>Slowbro&#9792;</b></td> <td>Trumpet <img src="../balls/ultra.png" alt="ultra ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>85</td></tr>
 <tr><td><b>Stats</b></td> <td>Great - v good sp(atk/def) & hp</td></tr>
 <tr><td><b>Type</b></td> <td><psychic>Psychic</psychic>/<water>Water</water></td></tr>
@@ -67,8 +67,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="dragonite.gif">
-<table width="100%" class="mon"><tr><td><b>Dragonite&#9794;</b></td> <td>Tangerine <img src="../balls/ultra.png"></td></tr>
+<img src="dragonite.gif" alt="Dragonite">
+<table width="100%" class="mon"><tr><td><b>Dragonite&#9794;</b></td> <td>Tangerine <img src="../balls/ultra.png" alt="ultra ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>83</td></tr>
 <tr><td><b>Stats</b></td> <td>Great - Best sp/atk</td></tr>
 <tr><td><b>Type</b></td> <td><dragon>Dragon</dragon>/<flying>Flying</flying></td></tr>
@@ -82,8 +82,8 @@ body{
 <div style="clear: both;"></div>
 
 <div class="pkmn">
-<img src="dugtrio-alola.gif" class="boy">
-<table width="100%" class="mon"><tr><td><b>Dugtrio&#9792;</b></td> <td><img src="../balls/pokeball.png"></td></tr>
+<img src="dugtrio-alola.gif" class="boy" alt="Alolan Dugtrio">
+<table width="100%" class="mon"><tr><td><b>Dugtrio&#9792;</b></td> <td><img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>85</td></tr>
 <tr><td><b>Stats</b></td> <td>Amazing - Best atk & spd</td></tr>
 <tr><td><b>Type</b></td> <td><ground>Ground</ground>/<steel>Steel</steel></td></tr>
@@ -96,8 +96,8 @@ body{
 
 
 <div class="pkmn">
-<img src="marowak-alola.gif">
-<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Marowak&#9794;</b></td> <td><img src="../balls/pokeball.png"></td></tr>
+<img src="marowak-alola.gif" alt="Alolan Marowak">
+<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Marowak&#9794;</b></td> <td><img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>86</td></tr>
 <tr><td><b>Stats</b></td> <td>Great - Best atk & def</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire>/<ghost>Ghost</ghost></td></tr>
@@ -109,8 +109,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="muk-alola.gif">
-<table width="100%" class="mon"><tr><td><b>Muk&#9792;</b></td> <td><img src="../balls/great.png"></td></tr>
+<img src="muk-alola.gif" alt="Alolan Muk">
+<table width="100%" class="mon"><tr><td><b>Muk&#9792;</b></td> <td><img src="../balls/great.png" alt="great ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>85</td></tr>
 <tr><td><b>Stats</b></td> <td>Amazing - Best (sp/atk, sp/def)</td></tr>
 <tr><td><b>Type</b></td> <td><poison>Poison</poison>/<dark>Dark</dark></td></tr>

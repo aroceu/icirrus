@@ -248,7 +248,7 @@ ul#games li {
 
 <div class="container">
 
-<div id="icon"><img src="icon3.png"></div>
+<div id="icon"><img src="icon3.png" alt="Pokemon Ranger"></div>
 <div id="header">You've been challenged to a <a href="a" rel="challenge"><b>trainer battle</b></a>!</div>
 
 <ul id="games">

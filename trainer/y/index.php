@@ -27,7 +27,7 @@ h1, h2{
 
 <div class="container">
 
-<div id="ava"><img src="y.png"></div>
+<div id="ava"><img src="y.png" alt="Male player character from Pokemon XY"></div>
 <div id="meta"><h1>Y <i>Generation VI</i></h1>
 <h2>2016 Kalos Region</h2>
 <div class="talk"><p>Originally I bought this in case my brother was interested in playing it, but since he wasn't, I played through instead. I actually got it a week after I got X, but didn't actively work on it until a few years later. This is lumped with X in terms of generations/games here since I played it for the sake of it more than anything.</p></div></div>
@@ -36,13 +36,13 @@ h1, h2{
 <div id="pokes">
 
 <div class="pkmn">
-<img src="delphox.gif">
-<table width="100%" class="mon"><tr><td><b>Delphox&#9794;</b></td> <td>Lace <img src="../balls/pokeball.png"></td></tr>
+<img src="delphox.gif" alt="Delphox">
+<table width="100%" class="mon"><tr><td><b>Delphox&#9794;</b></td> <td>Lace <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>92</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire>/<psychic>Psychic</psychic></td></tr>
 <tr><td><b>Ability</b></td> <td>Blaze</td></tr>
 <tr><td><b>Nature</b></td> <td>Serious, strong willed</td></tr> 
-<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png"><span class="tooltiptext">Kalos</span></a>
+<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png" alt="Kalos Champion ribbon"><span class="tooltiptext">Kalos</span></a>
 </td></tr></table>
 
 <a onclick="javascript:ShowHide('delphox')" class="movesetlink">Moveset</a>
@@ -50,13 +50,13 @@ h1, h2{
 </div>
 
 <div class="pkmn">
-<img src="drifblim.gif">
-<table width="100%" class="mon"><tr><td><b>Drifblim&#9794;</b></td> <td>Moop <img src="../balls/pokeball.png"></td></tr>
+<img src="drifblim.gif" alt="Drifblim">
+<table width="100%" class="mon"><tr><td><b>Drifblim&#9794;</b></td> <td>Moop <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>88</td></tr>
 <tr><td><b>Type</b></td> <td><flying>Flying</flying>/<ghost>Ghost</ghost></td></tr>
 <tr><td><b>Ability</b></td> <td>Unburden</td></tr>
 <tr><td><b>Nature</b></td> <td>Sassy, takes plenty of siestas</td></tr>
-<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png"><span class="tooltiptext">Kalos</span></a>
+<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png" alt="Kalos Champion ribbon"><span class="tooltiptext">Kalos</span></a>
 </td></tr></table>
 
 <a onclick="javascript:ShowHide('drifblim')" class="movesetlink">Moveset</a>
@@ -64,14 +64,14 @@ h1, h2{
 </div>
 
 <div class="pkmn">
-<img src="aegislash.gif">
-<table width="100%" class="mon"><tr><td><b>Aegislash&#9794;</b></td> <td>Lock <img src="../balls/pokeball.png"></td></tr>
+<img src="aegislash.gif" alt="Aegislash">
+<table width="100%" class="mon"><tr><td><b>Aegislash&#9794;</b></td> <td>Lock <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>93</td></tr>
 <tr><td><b>Type</b></td> <td><ghost>Ghost</ghost>/<steel>Steel</steel></td></tr>
 <tr><td><b>Ability</b></td> <td>Stance Change</td></tr>
 <tr><td><b>Nature</b></td> <td>Impish, likes to fight</td></tr>
-<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png"><span class="tooltiptext">Kalos</span></a>
-  <a class="tooltip"><img src="../ribbons/alert.png"><span class="tooltiptext">Alert</span></a>
+<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png" alt="Kalos Champion ribbon"><span class="tooltiptext">Kalos</span></a>
+  <a class="tooltip"><img src="../ribbons/alert.png" alt="Alert ribbon"><span class="tooltiptext">Alert</span></a>
 </td></tr></table>
 
 <a onclick="javascript:ShowHide('aegislash')" class="movesetlink">Moveset</a>
@@ -81,13 +81,13 @@ h1, h2{
 <div style="clear: both; height: 1.5em;"></div>
 
 <div class="pkmn">
-<img src="gogoat.gif">
-<table width="100%" class="mon"><tr><td><b>Gogoat&#9792;</b></td> <td>Skippy <img src="../balls/pokeball.png"></td></tr>
+<img src="gogoat.gif" alt="Gogoat">
+<table width="100%" class="mon"><tr><td><b>Gogoat&#9792;</b></td> <td>Skippy <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>92</td></tr>
 <tr><td><b>Type</b></td> <td><grass>Grass</grass></td></tr>
 <tr><td><b>Ability</b></td> <td>Sap Sipper</td></tr>
 <tr><td><b>Nature</b></td> <td>Timid, takes plenty of siestas</td></tr>
-<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png"><span class="tooltiptext">Kalos</span></a>
+<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png" alt="Kalos Champion ribbon"><span class="tooltiptext">Kalos</span></a>
 </td></tr></table>
 
 <a onclick="javascript:ShowHide('gogoat')" class="movesetlink">Moveset</a>
@@ -95,13 +95,13 @@ h1, h2{
 </div>
 
 <div class="pkmn">
-<img src="aromatisse.gif">
-<table width="100%" class="mon"><tr><td><b>Aromatisse&#9794;</b></td> <td>Esta <img src="../balls/pokeball.png"></td></tr>
+<img src="aromatisse.gif" alt="Aromatisse">
+<table width="100%" class="mon"><tr><td><b>Aromatisse&#9794;</b></td> <td>Esta <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>92</td></tr>
 <tr><td><b>Type</b></td> <td><fairy>Fairy</fairy></td></tr>
 <tr><td><b>Ability</b></td> <td>Healer</td></tr>
 <tr><td><b>Nature</b></td> <td>Modest, capable of taking hits</td></tr>
-<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png"><span class="tooltiptext">Kalos</span></a>
+<tr><td><b>Ribbons</b></td> <td class="ribbons"> <a class="tooltip"><img src="../ribbons/kalos.png" alt="Kalos Champion ribbon"><span class="tooltiptext">Kalos</span></a>
 </td></tr></table>
 
 <a onclick="javascript:ShowHide('aromatisse')" class="movesetlink">Moveset</a>

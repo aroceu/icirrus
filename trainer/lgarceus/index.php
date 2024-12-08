@@ -73,7 +73,7 @@ b.shinyboxlink{
 
 <div class="container">
 
-<div id="ava"><img src="akari.png"></div>
+<div id="ava"><img src="akari.png" alt="Female player character in Pokemon Legends Arceus"></div>
 <div id="meta"><h1>LEGENDS <i>ARCEUS</i></h1>
 <h2>2022 Hisuian Region</h2>
 <div class="talk"><p>I'm gonna be real&mdash;this is hands down my favorite Pok&eacute;mon game of all time, The uniqueness of the gameplay, plus its entire basis catering not only to my completionist side but collectors' side is the entire reason why I love and play Pok&eacute;mon in the first place. I haven't put as many hours into it as I would like because I know it'll take over my entire life if I do&mdash;and I will. Also, catching shinies. Which I also plan to log extensively.</p></div></div>
@@ -82,8 +82,8 @@ b.shinyboxlink{
 <div id="pokes">
     
 <div class="pkmn">
-<img src="typhlosionh.gif">
-<table width="100%" class="mon"><tr><td><b>Typhlosion&#9794;</b></td> <td>Typhlosion <img src="../balls/pokeballh.png"></td></tr>
+<img src="typhlosionh.gif" alt="Hisuian Typhlosion">
+<table width="100%" class="mon"><tr><td><b>Typhlosion&#9794;</b></td> <td>Typhlosion <img src="../balls/pokeballh.png" alt="pokeball (hisuian)"></td></tr>
 <tr><td><b>Lvl</b></td> <td>92</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire>/<ghost>Ghost</ghost> </td></tr>
 <tr><td><b>Nature</b></td> <td>Lax</td></tr> 
@@ -94,9 +94,9 @@ b.shinyboxlink{
 </div>
 
 <div class="pkmn">
-<img src="lopunny.gif">
-<table width="100%" class="mon"><tr><td><b>Lopunny&#9792;</b></td> <td>Lopunny <img src="../balls/greath.png"></td></tr>
-<tr><td><b>Lvl</b></td> <td>89<img src="alpha.png" class="alpha"></td></tr>
+<img src="lopunny.gif" alt="Lopunny">
+<table width="100%" class="mon"><tr><td><b>Lopunny&#9792;</b></td> <td>Lopunny <img src="../balls/greath.png" alt="great ball (hisuian)"></td></tr>
+<tr><td><b>Lvl</b></td> <td>89<img src="alpha.png" class="alpha" alt="alpha"></td></tr>
 <tr><td><b>Type</b></td> <td><normal>Normal</normal></td></tr>
 <tr><td><b>Nature</b></td> <td>Naive</td></tr>
 </table>
@@ -106,9 +106,9 @@ b.shinyboxlink{
 </div>
 
 <div class="pkmn">
-<img src="zoroarkh.gif">
-<table width="100%" class="mon"><tr><td><b>Zoroarkh&#9794;</b></td> <td>Zoroark <img src="../balls/leaden.png"></td></tr>
-<tr><td><b>Lvl</b></td> <td>82<img src="alpha.png" class="alpha"></td></tr>
+<img src="zoroarkh.gif" alt="Hisuian Zoroark">
+<table width="100%" class="mon"><tr><td><b>Zoroarkh&#9794;</b></td> <td>Zoroark <img src="../balls/leaden.png" alt="leaden ball"></td></tr>
+<tr><td><b>Lvl</b></td> <td>82<img src="alpha.png" class="alpha" alt="alpha"></td></tr>
 <tr><td><b>Type</b></td> <td><normal>Normal</normal>/<ghost>Ghost</ghost></td></tr>
 <tr><td><b>Nature</b></td> <td>Adamant</td></tr>
 </table>
@@ -120,8 +120,8 @@ b.shinyboxlink{
 <div style="clear: both;"></div>
 
 <div class="pkmn">
-<img src="luxray.gif">
-<table width="100%" class="mon"><tr><td><b>Luxray&#9792;</b></td> <td>Luxray<img src="../balls/pokeballh.png"></td></tr>
+<img src="luxray.gif" alt="Luxray">
+<table width="100%" class="mon"><tr><td><b>Luxray&#9792;</b></td> <td>Luxray<img src="../balls/pokeballh.png" alt="pokeball (hisuian)"></td></tr>
 <tr><td><b>Lvl</b></td> <td>91</td></tr>
 <tr><td><b>Type</b></td> <td><electric>Electric</electric></td></tr>
 <tr><td><b>Nature</b></td> <td>Quiet</td></tr>
@@ -133,9 +133,9 @@ b.shinyboxlink{
 
 
 <div class="pkmn">
-<img src="lickilicky.gif">
-<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Lickilicky&#9792;</b></td> <td>Lickilicky<img src="../balls/greath.png"></td></tr>
-<tr><td><b>Lvl</b></td> <td>80<img src="alpha.png" class="alpha"></td></tr>
+<img src="lickilicky.gif" alt="Lickilicky">
+<table width="100%" class="mon"><tr><td style="width: 35%!important;"><b>Lickilicky&#9792;</b></td> <td>Lickilicky<img src="../balls/greath.png" alt="great ball (hisuian)"></td></tr>
+<tr><td><b>Lvl</b></td> <td>80<img src="alpha.png" class="alpha" alt="alpha"></td></tr>
 <tr><td><b>Type</b></td> <td><normal>Normal</normal></td></tr>
 <tr><td><b>Nature</b></td> <td>Quirky</td></tr>
 </table>
@@ -145,8 +145,8 @@ b.shinyboxlink{
 </div>
 
 <div class="pkmn">
-<img src="arcanineh.gif">
-<table width="100%" class="mon"><tr><td><b>Arcanine&#9794;</b></td> <td>Arcanine<img src="../balls/heavyl.png"></td></tr>
+<img src="arcanineh.gif" alt="Hisuian Arcanine">
+<table width="100%" class="mon"><tr><td><b>Arcanine&#9794;</b></td> <td>Arcanine<img src="../balls/heavyl.png" alt="heavy ball (hisuian)"></td></tr>
 <tr><td><b>Lvl</b></td> <td>81</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire>/<rock>Rock</rock></td></tr>
 <tr><td><b>Nature</b></td> <td>Quirky</td></tr>
@@ -158,7 +158,7 @@ b.shinyboxlink{
 
     <div id="shinybox">
 <b class="shinyboxlink">Shiny Box</b>
-<div class="mid" id="shinies"><img src="shiny/drifloon.png"> <img src="shiny/luxio.png"><img src="shiny/ponyta.png"><img src="shiny/graveler.png"><img src="shiny/bidoof.png"><img src="shiny/misdreavus.png"><img src="shiny/elekid.png"><img src="shiny/sneaselh.png"><img src="shiny/glameow.png"><img src="shiny/glameow.png"><img src="shiny/grotle.png"><img src="shiny/ponyta.png"><img src="shiny/skuntank.png"><img src="shiny/aipom.png"><img src="shiny/stunky.png"><img src="shiny/rhyhorn.png"><img src="shiny/nosepass.png"></div>
+<div class="mid" id="shinies"><img src="shiny/drifloon.png" alt="drifloon"> <img src="shiny/luxio.png" alt="luxio"><img src="shiny/ponyta.png" alt="ponyta"><img src="shiny/graveler.png" alt="graveler"><img src="shiny/bidoof.png" alt="bidoof"><img src="shiny/misdreavus.png" alt="misdreavus"><img src="shiny/elekid.png" alt="elekid"><img src="shiny/sneaselh.png" alt="hisuian sneasel"><img src="shiny/glameow.png" alt="glameow"><img src="shiny/glameow.png" alt="glameow"><img src="shiny/grotle.png" alt="grotle"><img src="shiny/ponyta.png" alt="ponyta"><img src="shiny/skuntank.png" alt="skuntank"><img src="shiny/aipom.png" alt="aipom"><img src="shiny/stunky.png" alt="stunky"><img src="shiny/rhyhorn.png" alt="rhyhorn"><img src="shiny/nosepass.png" alt="nosepass"></div>
 </div>
 
 </div>

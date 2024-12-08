@@ -26,7 +26,7 @@ body{
 
 <div class="container">
 
-<div id="ava"><img src="rosa.png"></div>
+<div id="ava"><img src="rosa.png" alt="Female player character in Pokemon Black2/White2"></div>
 <div id="meta"><h1>Black 2 <i>Gen V</i></h1>
 <h2>2012 Unova Region</h2>
 <div class="talk"><p>The most important thing about my playing Pok&eacute;mon Black 2 is that I spent 12 hours looking for and catching a female eevee.</p></div></div>
@@ -35,8 +35,8 @@ body{
 <div id="pokes">
 
 <div class="pkmn">
-<img src="flareon.gif">
-<table width="100%" class="mon"><tr><td><b>Flareon&#9792;</b></td> <td>Kimiko <img src="../balls/pokeball.png"></td></tr>
+<img src="flareon.gif" alt="Flareon">
+<table width="100%" class="mon"><tr><td><b>Flareon&#9792;</b></td> <td>Kimiko <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire></td></tr>
 <tr><td><b>Ability</b></td> <td>Flash Fire</td></tr>
@@ -47,8 +47,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="excadrill.gif">
-<table width="100%" class="mon"><tr><td><b>Excadrill&#9794;</b></td> <td>Clay  <img src="../balls/great.png"></td></tr>
+<img src="excadrill.gif" alt="Excadrill">
+<table width="100%" class="mon"><tr><td><b>Excadrill&#9794;</b></td> <td>Clay  <img src="../balls/great.png" alt="great ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><ground>Ground</ground>/<steel>Steel</steel></td></tr>
 <tr><td><b>Ability</b></td> <td>Sand Rush</td></tr>
@@ -59,8 +59,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="samurott.gif">
-<table width="100%" class="mon"><tr><td><b>Samurott&#9794;</b></td> <td>Omi <img src="../balls/pokeball.png"></td></tr>
+<img src="samurott.gif" alt="Samurott">
+<table width="100%" class="mon"><tr><td><b>Samurott&#9794;</b></td> <td>Omi <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><water>Water</water></td></tr>
 <tr><td><b>Ability</b></td> <td>Torrent</td></tr>
@@ -71,8 +71,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="lucario.gif">
-<table width="100%" class="mon"><tr><td><b>Lucario&#9794;</b></td> <td>Chase <img src="../balls/pokeball.png"></td></tr>
+<img src="lucario.gif" alt="Lucario">
+<table width="100%" class="mon"><tr><td><b>Lucario&#9794;</b></td> <td>Chase <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>95</td></tr>
 <tr><td><b>Type</b></td> <td><fighting>Fighting</fighting>/<steel>Steel</steel></td></tr>
 <tr><td><b>Ability</b></td> <td>Steadfast</td></tr>
@@ -83,8 +83,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="braviary.gif">
-<table width="100%" class="mon"><tr><td><b>Braviary&#9794;</b></td> <td>Raimundo <img src="../balls/great.png"></td></tr>
+<img src="braviary.gif" alt="Braviary">
+<table width="100%" class="mon"><tr><td><b>Braviary&#9794;</b></td> <td>Raimundo <img src="../balls/great.png" alt="great ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>75</td></tr>
 <tr><td><b>Type</b></td> <td><normal>Normal</normal>/<flying>Flying</flying></td></tr>
 <tr><td><b>Ability</b></td> <td>Keen Eye</td></tr>

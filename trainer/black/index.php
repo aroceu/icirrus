@@ -18,7 +18,7 @@ body{
 
 <div class="container">
 
-<div id="ava"><img src="white.png"></div>
+<div id="ava"><img src="white.png" alt="Female player character in Pokemon Black/White"></div>
 <div id="meta"><h1>Black <i>Gen V</i></h1>
 <h2>2011 Unova Region</h2>
 <div class="talk"><p>Pok&eacute;mon Black, as of my writing this, is the game I have the most logged hours in. Though it's been a while, I have about 390 hours of saved gameplay. This was also the first game I ever EV bred/trained for&mdash;my &hearts;, Bisharp&mdash;and filled up my <i>entire</i> Pok&eacute;dex for. So it's a lot, also one of my favorite games story-wise.</p></div></div>
@@ -27,8 +27,8 @@ body{
 <div id="pokes">
 
 <div class="pkmn">
-<img src="bisharp.gif">
-<table width="100%" class="mon"><tr><td><b>Bisharp&#9794;</b></td> <td>Pointy <img src="../balls/pokeball.png"></td></tr>
+<img src="bisharp.gif" alt="bisharp">
+<table width="100%" class="mon"><tr><td><b>Bisharp&#9794;</b></td> <td>Pointy <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><dark>Dark</dark>/<steel>Steel</steel></td></tr>
 <tr><td><b>Ability</b></td> <td>Defiant</td></tr>
@@ -39,8 +39,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="serperior.gif">
-<table width="100%" class="mon"><tr><td><b>Serperior&#9794;</b></td> <td>Kyuhyun <img src="../balls/pokeball.png"></td></tr>
+<img src="serperior.gif" alt="serperior">
+<table width="100%" class="mon"><tr><td><b>Serperior&#9794;</b></td> <td>Kyuhyun <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><grass>Grass</grass></td></tr>
 <tr><td><b>Ability</b></td> <td>Overgrow</td></tr>
@@ -51,8 +51,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="simipour.gif">
-<table width="100%" class="mon"><tr><td><b>Simipour&#9794;</b></td> <td>Hyukjae <img src="../balls/pokeball.png"></td></tr>
+<img src="simipour.gif" alt="simipour">
+<table width="100%" class="mon"><tr><td><b>Simipour&#9794;</b></td> <td>Hyukjae <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><water>Water</water></td></tr>
 <tr><td><b>Ability</b></td> <td>Gluttony</td></tr>
@@ -63,8 +63,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="darmanitan.gif">
-<table width="100%" class="mon"><tr><td><b>Darmanitan&#9792;</b></td> <td>Jongwoon <img src="../balls/great.png"></td></tr>
+<img src="darmanitan.gif" alt="darmanitan">
+<table width="100%" class="mon"><tr><td><b>Darmanitan&#9792;</b></td> <td>Jongwoon <img src="../balls/great.png" alt="great ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><fire>Fire</fire></td></tr>
 <tr><td><b>Ability</b></td> <td>Sheer Force</td></tr>
@@ -75,8 +75,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="mienshao.gif">
-<table width="100%" class="mon"><tr><td><b>Mienshao&#9792;</b></td> <td>Jia <img src="../balls/ultra.png"></td></tr>
+<img src="mienshao.gif" alt="mienshao">
+<table width="100%" class="mon"><tr><td><b>Mienshao&#9792;</b></td> <td>Jia <img src="../balls/ultra.png" alt="ultra ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><fighting>Fighting</fighting></td></tr>
 <tr><td><b>Ability</b></td> <td>Regenerator</td></tr>
@@ -87,8 +87,8 @@ body{
 </div>
 
 <div class="pkmn">
-<img src="zoroark.gif">
-<table width="100%" class="mon"><tr><td><b>Zoroark&#9794;</b></td> <td>Jaehyo <img src="../balls/pokeball.png"></td></tr>
+<img src="zoroark.gif" alt="Zoroark">
+<table width="100%" class="mon"><tr><td><b>Zoroark&#9794;</b></td> <td>Jaehyo <img src="../balls/pokeball.png" alt="pokeball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>100</td></tr>
 <tr><td><b>Type</b></td> <td><dark>Dark</dark></td></tr>
 <tr><td><b>Ability</b></td> <td>Illusion</td></tr>
