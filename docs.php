@@ -264,7 +264,7 @@ overflow-x: none;
 
 <p>Upon entering the site, the visitor gets presented with the image of a large masterball and the instruction to open it (or click on an adjoining link) to begin one's journey on the website.</p>
 
-<p>Doing so will lead you to the main navigation, or Home &mdash; a hub of all the main subsections of this site. As of this moment, the active subsections are Trainer, Gym, Guestbook, and Map. The documentation and link back to the splash page (as well as the my primary website-making site, kingdra.net) are linked in the footer.</p>
+<p>Doing so will lead you to the main navigation, or Home &mdash; a hub of all the main subsections of this site. As of this moment, the active subsections are Trainer, Gym, Xtransceiver, and Map. The documentation and link back to the splash page (as well as the my primary website-making site, kingdra.net) are linked in the footer.</p>
 
 <p>Trainer, which is listed at the top, is the main showcase of the site: a mini-archive of parties across all played games. Each page lists:</p>
 
@@ -322,7 +322,6 @@ overflow-x: none;
 	<li>Add a Konami code secret</li>
 	<li>Play Ultra Moon and Violet to make pages here</li>
 	<li>Update or reconfigure the Go dex</li>
-	<li>Add a guestbook section (maybe)</li>
 	<li>Change the gym team around again (maybe)</li>
 	<li>Use root styles for trainer game pages instead of its current templating (maybe)</li>
 	<li>Make a timeline (maybe)</li>
