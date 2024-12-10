@@ -473,6 +473,20 @@ body {
                 1rem 2rem #385030;
 }
 
+.close{
+        margin-left: 1em;
+  margin-top: 6em;
+  font: normal 100% 'Press Start 2P';
+}
+
+.close a:link, .close a:visited{
+        color: #000;
+}
+
+#redsemi1:hover, #redsemi1:active{
+        box-shadow: inset 0rem 2rem 0.5rem #c83048, inset 0.25rem -0.5rem 0.25rem #f85868;
+}
+
 </style>
 
 <link href="http://fonts.cdnfonts.com/css/led-digital-7" rel="stylesheet">
@@ -483,7 +497,9 @@ body {
 <div id='stripe'></div>
 <div id="semicircle">
         <div id="btn-semi">
-                <a href="https://icirr.us/home"><div id="redsemi1"></div></a>
+                <a href="https://icirr.us/home"><div id="redsemi1">
+                        <div class="close">Go Home</div>
+                </div></a>
                 <div id="breakline"></div>
         </div>
         <div id='square'></div>

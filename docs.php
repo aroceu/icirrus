@@ -309,7 +309,7 @@ overflow-x: none;
 
 <p>Returning back to the home navigation, there are presently links to two sections that do not yet exist, but are there both for the visitor informative purpose (that they will exist eventually), and as a promise/reminder to myself to make them as well.</p>
 
-<p>Xtransceiver, the next listed page, is the guestbook and is designed to look like the Pok&eacute;tch from Diamond/Pearl/Platinum. Visitors can leave a public comment on the website this way if they would like.</p>
+<p>Xtransceiver, the next listed page, is the guestbook and is designed to look like the Pok&eacute;tch from Diamond/Pearl/Platinum. Visitors can leave a public comment on the website this way if they would like. The "go home" or either Pok&eacute;tch button will take you back to the home navigation.</p>
 
 <p>The last link is the map to assist the user in navigation. The map's footer links to both the Github repository as well as the documentation.</p>
 
