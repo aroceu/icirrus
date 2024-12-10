@@ -488,6 +488,19 @@ a:link .close , a:visited .close {
         box-shadow: inset 0rem 2rem 0.5rem #c83048, inset 0.25rem -0.5rem 0.25rem #f85868;
 }
 
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+.close{
+        display: none;
+}
+    
+}
+
+
 </style>
 
 <link href="http://fonts.cdnfonts.com/css/led-digital-7" rel="stylesheet">
@@ -499,7 +512,7 @@ a:link .close , a:visited .close {
 <div id="semicircle">
         <div id="btn-semi">
                 <a href="https://icirr.us/home"><div id="redsemi1">
-                        <div class="close">Go Home</div>
+                        <div class="close">Home</div>
                 </div></a>
                 <div id="breakline"></div>
         </div>
