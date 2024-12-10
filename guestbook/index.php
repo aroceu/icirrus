@@ -474,8 +474,8 @@ body {
 }
 
 .close{
-        margin-left: 1em;
-  margin-top: 6em;
+ margin-left: 5%;
+  margin-top: 75%;
   font: normal 100% 'Press Start 2P';
 }
 
