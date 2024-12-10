@@ -248,7 +248,7 @@ html {
 	text-align: left;
 }
 
-#mobileparty #footer a:link, #mobileparty #footer a:visited{
+#mobileparty #footer, #mobileparty #footer a:link, #mobileparty #footer a:visited{
 	color: #555;
 	text-shadow: 0.05em 0.05em 0 #fff;
 } 
