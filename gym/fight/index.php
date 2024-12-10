@@ -289,6 +289,7 @@ h1{
 	<blockquote>3DS FC: 2896-1018-0581 (&#9734;a&#9734;)
     <br />SW: 3799-3686-0675 (ARROW.ink)</blockquote>
     
+    <br />
     <p>If you'd like to get in touch for whatever reason, feel free to <a href="https://icirr.us/guestbook">sign my guestbook</a> or email me at <b>icirruscity@pm.me</b>. </p>
 
     <h1>trainer info</h1>
@@ -346,10 +347,10 @@ h1{
     
     <blockquote>3DS FC: 2896-1018-0581 (&#9734;a&#9734;)
     <br />SW: 3799-3686-0675 (ARROW.ink)</blockquote>
+
+    <br />
     
     <p>If you'd like to get in touch for whatever reason, feel free to <a href="https://icirr.us/guestbook">sign my guestbook</a> or email me at <b>icirruscity@pm.me</b>. </p>
-    <p><small>(But <a href="https://lea.verou.me/blog/2009/11/yet-another-email-hiding-technique/">don't copy & paste</a> the email above.)</small></p>
-
 
 </div>
 
