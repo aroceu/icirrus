@@ -479,8 +479,9 @@ body {
   font: normal 100% 'Press Start 2P';
 }
 
-.close a:link, .close a:visited{
-        color: #000;
+a:link .close , a:visited .close {
+        color: #000!important;
+        text-transform: lowercase;
 }
 
 #redsemi1:hover, #redsemi1:active{
