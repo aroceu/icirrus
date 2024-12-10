@@ -136,7 +136,7 @@ html {
 
 <hr />
 
-<p>Let me know at <i>icirruscity@pm.me</i> if you'd like to exchange links. I'll likely add you so as long as your website is:
+<p>Feel free to ask through the guestbook (or if, you'd prefer soemthing more private, via <i>icirruscity@pm.me</i>) if you would like to exchange links. I'll likely add you so as long as your website is:
 <ul><li> Pok&eacute;mon-related, and </li>
 <li>Not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
 <li>Collectives and anything personal (or not) are fine!</li></ul> 
