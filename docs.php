@@ -197,7 +197,7 @@ overflow-x: none;
 
 <p>The specialized pastel graphics I made are quite fun as well. It wasn't part of the original plan I believe, but the more I created this pastel 2D masterball aesthetic, the easier it was for me to make graphics with the same motif. Like I said before, I'm not much of a visual artist &mdash; but this is more vectoring than anything, and with a pretty simplistic shape to go off and a distinct design, it took a good amount of creativity that I was more comfortable with than not. Plus, I had a student copy of Photoshop.</p>
 
-<p>I like having all the trainer game pages having such vastly different colors despite following the same template. When I was younger, for my second main domain I tried to do something similar, but for my different hobbies online. I'd always liked the idea of making a bunch of differently colored and stylized websites all under the same umbrella; but doing it for my hobbies felt like I was splintering myself apart, and didn't satisfy that desire the way I wanted. Doing it for my Pok&eacute;mon team archive, though, actually does &mdash; because the colors are respective to the games, and are actually more necessary and relevant for these pages. I love design because so often it depends on function, and being able to scratch this I've had for making multi-color but interconnected webpages shows how integral function can be in design.</p>
+<p>I like having all the trainer game pages having such vastly different colors despite following the same template. When I was younger, for my second main domain I tried to do something similar, but for my different hobbies online. I'd always liked the idea of making a bunch of differently colored and stylized websites all under the same umbrella; but doing it for my hobbies felt like I was splintering myself apart, and didn't satisfy that desire the way I wanted. Doing it for my Pok&eacute;mon team archive, though, actually does &mdash; because the colors are respective to the games, and are actually more necessary and relevant for these pages. I love design because so often it depends on function, and being able to scratch this I've had for making multi-color but interconnected webpages shows how integral function can be in design. Additionally, adding more platform-specific quirks&mdash;the use of shadowing for 3DS games to give it a "3D" effect, borders on the sides of Switch games&mdash;makes those designs so much more fun and unique across the board.</p>
 
 <p>I chose Futura (Century Gothic for PC) and Lato as the primary fonts of this site, due to their lightweight readability and having similar vibes as sans-serif fonts. Century Gothic was always one of my favorite fonts when I was younger, and Futura is like a more readable version of it. Lato works better for longer blocks of text. I also use Inconsolata as the main monospace font in the Gym area, though I'd actually made this site before I became obsessed with using Inconsolata on all my other websites too. This was just the beginning of it.</p>
 
@@ -205,15 +205,15 @@ overflow-x: none;
 
 <p>Then I had my issues with making the Bag/Town Map, but made it work sooner or later with my limited knowledge of Javascript, and a lot of handholding from StackExchange. Where would any of us be without StackExchange, especially when you're just a hobbyist.</p>
 
-<p>After that I made the "flee" section, because I knew the Pok&eacute;Go section would take the longest, due to what I had in mind for it. The exit links out wasn't necessarily obviously easier, but I knew I wanted to use the similar ball theming as the front page, but make it a love ball because the exits would be sites/people I love. Though I suppose that isn't wholly accurate as they're largely strangers now, the idea is still there and I do still stand by it. Plus, having the love ball heart on the side is actually a pretty fun visual touch.</p>
+<p>After that I made the "flee" section, because I knew the Pok&eacute;Go section would take the longest, due to what I had in mind. The exit links out weren't necessarily easier (but they were); I knew I wanted to use a ball theming similar to the front page. What made most sense to me was a love ball since the exits would be referring to sites and people that I love &mdash; which isn't exactly wholly accurate as they're largely strangers now, but the idea is there and I still stand by it. Plus, having the love ball heart on the side is a pretty fun visual touch.</p>
 
-<p>I like using text from the games too; it's a fun surprise when you're not really expecting it. And in the Pok&eacute;Go section, I kind of employ that idea for the full page &mdash; as if I'd translated the Pok&eacute;mon Go app into a webpage. I knew that's what I wanted to do because I knew I could do it, I would just need to get the appropriate graphics and make them myself. And honestly, despite the incredibly inefficiency with the images on this page, I think I was quite successful with it. And that it slaps.</p>
+<p>I like using text from the games too; it's a fun surprise when you're not really expecting it. And in the Pok&eacute;Go section, I kind of employ that idea for the full page &mdash; as if I'd translated the Pok&eacute;mon Go app into a webpage. I knew that's what I wanted to do because I knew I could do it, I would just need to get the appropriate graphics and make them myself. And honestly, despite the incredible inefficiency with the images on this page, I think I was quite successful with it. And that it slaps.</p>
 
 <p>The Pok&eacute;Go section was the last one I'd made because I knew how much graphical content it required especially in the editing department &mdash; not the dex, but the backgrounds and my avatar. The gradient background was also the first time I used it on a personal project as well, I believe, though I'd experimented with it before. The dex being based on seen/caught/unknown is a nice touch as well, though I think with 400 images on each page load now I may need to rethink it.</p>
 
 <p>I didn't originally plan to have Favorites and the Shiny Gallery on my Trainer page. I do think I had the Miscellaneous page planned, though &mdash; I'd just beaten the Battle Maison in Omega Ruby to get my gold trainer badge and wanted to show it off. But having just Miscellaneous as an additional page on the trainer page looked awkward, and it quickly occurred to me that hey, there are a lot of other things about Pok&eacute;mon I really really like, so why not make a page of the other things I really really like? And then after making this website I got really obsessed with shiny hunting in Omega Ruby (and XY because I used the Pal Park) &mdash; I used to liveblog it on Plurk. So then I made a gallery of the small list of shinies at the time then too.</p>
 
-<p>Since then, I've added pages for each new Pok&eacute;mon game I've played, though it's not a lot nor all the ones I've owned...oops. (I also really adore Pok&eacute;mon Snap, though I'm not sure how to make a webpage out of that.) I planned on playing Ultra Sun and didn't; and I still have my barely-played copy of Violet too. At least Let's Go and Shield were within a reasonable amount of time after I'd played them &mdash; it took me nearly 2 years to get the Legends Arceus section up after I'd played it. And it's still my favorite game.</p>
+<p>Since then, I've added pages for each new Pok&eacute;mon game I've played, though it's not a lot nor all the ones I've owned...oops. (I also really adore Pok&eacute;mon Snap, though I'm not sure how to make a webpage out of that.) I planned on playing Ultra Sun <i>and</i> Moon and didn't; and I still have my barely-played copy of Violet too. At least Let's Go and Shield were within a reasonable amount of time after I'd played them &mdash; it took me nearly 2 years to get the Legends Arceus section up after I'd played it. And it's still my favorite game.</p>
 
 <p>Anyway, here's my process for making a new game page:</p>
 
@@ -278,7 +278,7 @@ overflow-x: none;
 
 <p>Trainer also links to a small autobiographical section by "challenging" the trainer. Additional non-game links include Miscellaneous (non-main party Pok&eacute;mon that are significant to me), Favorites (of everything Pok&eacute;mon related), and my Shiny Gallery for relevant shinies.</p>
 
-<p>Gym, the second listed page, is the more sitely aspect in two subpages, and another Pok&eacute;mon gallery in a "gym" subpage, just for fun and because I couldn't think of anything else to make the "Pok&eacute;mon" option in the menu. The gym is constructed to look and interact like a battle menu, with a gym guide from Pok&eacute;mon Emerald (my favorite game probably) as a sprite with tips on how to battle a steel gym leader.</p>
+<p>Gym, the second listed page, is the more sitely aspect in two subpages, and another archive gallery in a subpage, just for fun and because I couldn't think of anything else to make the "Pok&eacute;mon" option in the menu. The gym is constructed to look and interact like a battle menu, with a gym guide from Pok&eacute;mon Emerald (my favorite game probably) as a sprite with tips on how to battle a steel gym leader.</p>
 
 <p>Clicking "Fight" in the Gym will send you to the main site information page, which has a Javascript in-page menu of shiny pok&eacute;mon &mdash; because I have a shiny collection addiction &mdash; leading to:</p>
 
@@ -289,12 +289,12 @@ overflow-x: none;
 	<li>Linkback buttons, via the tinkaton</li>
 	</ul>
 
-<p>Clicking "Bag" in the Gym will send you to an in-page subpage of the bag, which opens up to a menu of quick links around the site. This is mostly used to function as a way out of this page, though I also think it's just fun to have and interact with. "Bicycle" is for flavor text, but "Town Map" sends you to the Map, "Vs. Seeker" sends you to Trainer, "Masterball x 1" sends you back to the home navigation, and closing the bag literally closes the bag.</p>
+<p>Clicking "Bag" in the Gym will send you to an in-page subpage of the bag, which opens up to a menu of quick links around the site. This is mostly used to function as a way out of this page, though I also think it's just fun to have and interact with. "Bicycle" is for flavor text, but "Town Map" sends you to the Map, "Vs. Seeker" sends you to Trainer, "Xtransceiver" sends you to the Guestbook, "Masterball x 1" sends you back to the home navigation, and closing the bag literally closes the bag.</p>
 
-<p>Clicking "Bag" in the Gym will send you to the Pok&eacute;mon Go archive/log, which shows:</p>
+<p>Clicking "Pok&eacute;mon" in the Gym will send you to the Pok&eacute;mon Go archive/log, which shows:</p>
 
 <ul>
-	<li>In-game username, hydrasplatlings</li>
+	<li>My in-game username, hydrasplatlings</li>
 	<li>Current level</li>
 	<li>Current avatar, though as of this moment I don't plan on changing it for a while because I like it a lot</li>
 	<li>Go team, which is Team Valor and is themed in the page's design</li>
@@ -347,6 +347,14 @@ overflow-x: none;
 	<li>Google Chrome and Firefox, as well as Color Picker (Chrome) and Colorzilla (Firefox) when I needed to grab a color on a webpage and was feeling lazy.</li>
 	<li>Nintendo SP, DS, 3DS, Switch 1.0, and Switch OLED (Splatoon version)</li>
 </ul>
+
+<h2>Disclaimers, Privacy, & Accessibility</h2>
+
+<p>Though I have done my best, some webpages on this site do not have a fully accessible color contrast ratio but do not require the visitor to spend more than a minute or so of reading.</p>
+
+<p>This website was made for creative and entertainment purposes. I am not receiving anything monetarily through this website. No copyright infringement intended.</p>
+
+<p>See <a href="https://aroceu.com/docs">my full documentation</a> for further notes regarding privacy.</p>
 
 </div>
 

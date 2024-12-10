@@ -416,6 +416,10 @@ img.talonflame{
   height: 110px;
 }
 
+img.pokecard{
+	width: 400px;
+}
+
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
@@ -463,6 +467,10 @@ ul{
 li img{
 	margin-top: 0!important;
 }
+
+img.pokecard{
+	max-width: 100%;
+}
     
 }
 
@@ -484,7 +492,7 @@ li img{
 
 	<p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with this game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
 	<p><img src="arrowkingdra.png" class="meimg" alt="Digital art of me as an octoling attacking alongside a kingdra">I've been into Pok&eacute;mon since 1998, when the anime first came out, but I didn't actually own a game until August 2003 after watching my camp friends play it all summer. I really didn't know anything about the gameplay, but I was still so enthusiastic about it that some of my classmates gave me the nickname "Pok&eacute;mon Master" anyway. Which I still am, by the way. My obsession for other things will come and go, but Pok&eacute;mon will always own at least 50% of my heart.</p>
-	<p>Since then, I've played and owned at least one game in every generation that's come out. Though I'm a Hoenn kid, I do consider Gen V to be the best both gameplay and story-wise; and I remain relentlessly optimistic for the games to come, especially as Legends Arceus is the most fun I've ever had playing Pok&eacute;mon, period.</p>
+	<p>Since then, I've played and owned at least one game in nearly every generation that's come out. Though I'm a Hoenn kid, I do consider Gen V to be the best both gameplay and story-wise; and I remain relentlessly optimistic for the games to come, especially as Legends Arceus is the most fun I've ever had playing Pok&eacute;mon, period.</p>
 	<p>I'm neither outdoorsy nor a serious animal-lover IRL (I do have a dog though), but I'd like to believe I would be a little more in the Pok&eacute;mon world and I do care about protecting those in need, hence being a Ranger. The type of Pok&eacute;mon I like fit as well - I've always been drawn to grass starters. Most of all, I remember the first time I saw the sprite for a female Pok&eacute;mon Ranger in Ruby on Route 119, and I'd never connected to an NPC class more ever since, much less based purely on aesthetic.</p>
 	<p>Overall, I'm a casually enthusiastic collector with mildly competitive knowledge but not enough interest in it. In the end, my main enjoyment with Pok&eacute;mon is loving them.</p>
 
@@ -512,7 +520,7 @@ li img{
 
 <hr />
 
-<p align="center"><img src="https://icirr.us/trainer/pokecard.png" width="400px" alt="A Pokecharms card for Arrow, with discord username aroceu and website at https://aroceu.com. Listed pokemon are Kingdra (named Fan), Mega Sceptile (named Ecko), Talonflame (named Tian), Mienshao (named Jia), Luxray (named Arch), and Aggron (named Bug.) The background is Caitlin's elite 4 room, and the trainer avatar is gym leader Falkner."></p>
+<p align="center"><img src="https://icirr.us/trainer/pokecard.png" class="pokecard" alt="A Pokecharms card for Arrow, with discord username aroceu and website at https://aroceu.com. Listed pokemon are Kingdra (named Fan), Mega Sceptile (named Ecko), Talonflame (named Tian), Mienshao (named Jia), Luxray (named Arch), and Aggron (named Bug.) The background is Caitlin's elite 4 room, and the trainer avatar is gym leader Falkner."></p>
 
 <hr />
 

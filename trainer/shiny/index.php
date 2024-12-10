@@ -10,8 +10,8 @@
 <style type="text/css">
 body{
 	background: #eee;
-	color: #347067;
-  text-shadow: 0.05em 0.05em 0.05em #fff;
+	color: #1d4f48;
+	text-shadow: 0.05em 0.05em 0.25em #fff;
 	background: #1e5799; /* Old browsers */
 	background: -moz-linear-gradient(45deg, #1e5799 0%, #5ea59c 0%, #b6dbd1 53%, #ededed 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(45deg, #1e5799 0%,#5ea59c 0%,#b6dbd1 53%,#ededed 100%); /* Chrome10-25,Safari5.1-6 */
