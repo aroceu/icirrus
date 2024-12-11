@@ -11,27 +11,7 @@ This is a website that serves to log with my history with the Pok&eacute;mon fra
 - Image heavy
 - Sprites from Pok&eacute;mon Showdown
 - Light Javascript
+- Guestbook
 
-### Upcoming
-- Pok&eacute;Rogue section (need to play more runs anyway)
-- Responsive! I've been putting off this one for years lol
-- Mostly I need to play more (haven't played USUM or SV yet though I own a game from each release; also Pok&eacute;mon Go when I feel like it) so I can add more
-
-# Changelog
-
-### 23 October 2024 
-And it's on GitHub! Might take a moment for me to push it to GitHub too - I realized recently how much easier it would be if I did all my website fiddling locally and pushed my changes this way. Especially as it's been 7 years since this thing's existed.
-
-# Gallery
-
-### Latest Design
-![Screenshot of latest design: currently a page for Pokemon Legends Arceus](screenshots/mblatest.png)
-
-## Overview
-![Screenshot of index page](screenshots/mbmain.png)
-![Screenshot of a trainer page with the words 'You've been challenged to a trainer battle!' and Pokemon game names as clickable links](screenshots/mbtrainer.png)
-![Screenshot of a page called 'Favorites' that shows off favorite regions, categories of trainers, types, Pokemon, and others](screenshots/mbfav.png)
-![Screenshot of a page with a dialogue box like in a Pokemon gym, with a menu in the style of a Pokemon battle to go to other pages](screenshots/mbgym.png)
-![Screenshot of a page that looks like the Pokemon Go app](screenshots/mbpokego.png)
-![Screenshot of a pink webpage called 'We hope to see you again!' with links to other Pokemon related websites](screenshots/mbexit.png)
+See [documentation](https://icirr.us/docs/) for more notes.
 
