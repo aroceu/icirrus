@@ -236,7 +236,7 @@ img.numerical{
         <tr><td class="favtrainer">Region</td> <td>Hoenn</td></tr>
         <tr><td class="favtrainer">Story Playthrough</td> <td>Gen 5 (Black/White)</td></tr>
         <tr><td class="favtrainer">Game</td> <td><img src="ships/heart.png" alt="">Legends Arceus<img src="ships/heart.png">, Omega Ruby, Emerald, Heart Gold</td></tr>
-        <tr><td class="favtrainer">Type</td> <td><img src="dragon.png" style="vertical-align: baseline!important; height: 14px!important" alt="Dragon"> & <img src="steel.png" style="vertical-align: baseline!important; height: 14px!important" alt="Steel"> & <img src="grass.png" style="vertical-align: baseline!important; height: 14px!important" alt="Grass"> (for starters)</td></tr>
+        <tr><td class="favtrainer">Type</td> <td><img src="dragon.png" style="vertical-align: baseline!important; height: 14px!important" alt="Dragon"> & <img src="steeltype.png" style="vertical-align: baseline!important; height: 14px!important" alt="Steel"> & <img src="grass.png" style="vertical-align: baseline!important; height: 14px!important" alt="Grass"></td></tr>
         <tr><td class="favtrainer">Team</td> <td><a class="tooltip"><img src="magma.png" style="height:22px!important" alt=""><span class="tooltiptext">Team Magma</span></a> <a class="tooltip"><img src="skull.png" style="height:22px!important" alt=""><span class="tooltiptext">Team Skull</span></a></td></tr>
 
     </table>
