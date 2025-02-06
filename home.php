@@ -209,9 +209,9 @@ nav p{
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-variables.js"></script>
     <script type="text/javascript" src="https://bills-pc.neocities.org/onionring-widget.js"></script>
     </div>
-    <br />
+    <p>
     <a href="https://my.gpx.plus/aroceu" target="_blank"><img src="https://p.gpx.plus/uxjL.png" border="0" alt=""></a>
-    <br />
+    </p>
         &copy; 2017-2024 masterball/icirr.us is a <a href="https://kingdra.net">kingdra.net</a> project. for further information, see <a href="https://icirr.us/docs">documentation</a>. <a href="/">clear?</a>
     </div>
 </body>
