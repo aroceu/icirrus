@@ -294,7 +294,7 @@ h1{
     <h1>trainer info</h1>
 
     <blockquote><center>30s, Chinese-American, she/her/any<br />
-    	<img src="water.png" style="vertical-align: baseline!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important" alt="Fairy"></center></blockquote>
+    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
@@ -356,7 +356,7 @@ h1{
 <div id="trainer">
     
     <blockquote><center>30s, Chinese-American, she/her/any<br />
-    <img src="water.png" style="vertical-align: baseline!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important" alt="Fairy"></center></blockquote>
+    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
