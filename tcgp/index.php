@@ -156,6 +156,10 @@ html {
 overflow: auto;
 }
 
+#container{
+	width: auto;
+}
+
 #blurb{
 	width: 95%;
 	margin: 0 auto;
