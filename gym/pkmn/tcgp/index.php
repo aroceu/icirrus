@@ -398,7 +398,8 @@ body{
 		</div>
 
 		<div id="footer">
-	<p class="footer"><a href="https://icirr.us/home">Home</a> :: <a href="https://icirr.us/trainer">Trainer</a> :: <a href="https://icirr.us/gym">Gym</a> :: <a href="https://icirr.us/map">Map</a></p>
+	<p class="footer"><a href="../">Back To Party</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/gym">Gym</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/home">Masterball</a>
+</p>
 
 </div>
 

@@ -734,7 +734,7 @@ h2:before, h2:after{
 
 <h2>Stay aware of your surroundings</h2>
 
-<p><a href="../">Back To Gym</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/home">Masterball</a>
+<p><a href="../">Back To Party</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/gym">Gym</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/home">Masterball</a>
 </p>
 
 </div>
