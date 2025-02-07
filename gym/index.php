@@ -221,6 +221,7 @@ html {
 <div id="openbag"><ul><li><a onclick='changeThis()'>Bicycle</a></li>
 <li><a href="/map" title="">Town Map</a></li>
 <li><a href="/trainer" title="">Vs. Seeker</a></li>
+<li><a href="/tcgp" title="">Seal Case</a></li>
 <li><a href="/guestbook" title="">Xtransceiver</a></li>
 <li><a href="/home" title="(pretend this is a key item)">Masterball</a> x 1</li>
 <li><a href="javascript:void(0);" value="Click" onclick="switchBag();changeThat()"/>Close Bag</a></li></ul></div>
