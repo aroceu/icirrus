@@ -169,7 +169,8 @@ overflow: auto;
 
 .card{
 	flex: 33%;
-  max-width: 29%;
+  max-width: 32%;
+  opacity: 1;
 }
 
 }
@@ -199,6 +200,7 @@ overflow: auto;
   flex: 100%;
   max-width: 100%;
   opacity: 1;
+  padding: 9%;
 }
 
 }
