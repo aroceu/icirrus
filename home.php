@@ -185,12 +185,12 @@ nav p{
 <div id="container">
 
     <nav>
-        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of all my pok&eacute;mon in the main games</span>
+        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> mainline game pok&eacute;mon archive</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site information, exits, & mobile collectives</span>
+        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & mobile collectives</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
-                <p>&nbsp;</p>
+        <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
+                <p>&nbsp;</p> -->
         <span class="item"><a href="guestbook" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> sign the guestbook! </span>
 
         <p>&nbsp;</p>
