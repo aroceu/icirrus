@@ -172,6 +172,7 @@ overflow: auto;
 .card {
   flex: 100%;
   max-width: 100%;
+  opacity: 1;
 }
 
 }
