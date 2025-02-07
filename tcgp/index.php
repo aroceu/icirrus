@@ -182,24 +182,6 @@ overflow: auto;
 
 html {
 -webkit-text-size-adjust: none;
-	background: url('binder.png') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-    height: 100%;
-    overflow: hidden;
-}
-
-body{
-	background: none;
-		margin: 0;
-		padding: 0;
-		min-height: 100%;
-}
-
-#cover{
-	background: none;
 }
 
 #container{
