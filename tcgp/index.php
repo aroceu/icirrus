@@ -52,7 +52,7 @@ box-shadow: 0 -0.3em 0.35em #111;
 	}
 
 	#blurb{
-		background: #fafafa;
+		background: #fff;
 		padding: 10px;
 		margin: 2em auto;
 		width: 25em;
