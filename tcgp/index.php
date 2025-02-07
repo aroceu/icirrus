@@ -161,8 +161,8 @@ overflow: auto;
 }
 
 #blurb{
-	width: 95%;
-	margin: 0 auto;
+	width: 90%;
+	margin: 2em auto;
 }
 
 #scroll {
