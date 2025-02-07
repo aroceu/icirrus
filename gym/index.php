@@ -203,7 +203,7 @@ html {
 <div class="nav"><ul id="choose">
 					<li><a href="fight">Fight</a></li>
 					<li><a href="javascript:void(0);" value="Click" onclick="switchBag();changeThat()"/>Bag</a></li>
-					<li><a href="pokego">Pok&eacute;mon</a></li>
+					<li><a href="pkmn">Pok&eacute;mon</a></li>
 					<li><a href="flee">Run</a></li>
 					</ul>
 					</div>
