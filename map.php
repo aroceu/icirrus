@@ -237,7 +237,7 @@ html {
 		            		<li><a href="https://icirr.us/gym/pkmn">Pok&eacute;mon (mobile games)</a></li>
 		            			<ul>
 		            				<li><a href="https://icirr.us/gym/pkmn/go">Pok&eacute;mon Go</a></li>
-		            				<li><a href="https://icirr.us/pkmn/gym/tcgp">Trading Card Game Pocket</a></li>
+		            				<li><a href="https://icirr.us/gym/pkmn/tcgp">Trading Card Game Pocket</a></li>
 		            			</ul>
 		            		<li><a href="https://icirr.us/gym/flee">Run (exits/affiliates)</a></li>
 		            	</ul>

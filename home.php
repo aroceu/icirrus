@@ -62,11 +62,11 @@ nav .item a.pokerogue:link, nav .item a.pokerogue:visited{
 }
 
 nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{
-      color: #666;
+      color: #70B070;
 }
 
 nav .item a.map:link, nav .item a.map:visited{
-      color: #72A014;
+      color: #5EB9AA;
 }
 
 nav .item a:hover, nav .item a:focus{

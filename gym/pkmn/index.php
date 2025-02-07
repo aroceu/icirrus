@@ -101,7 +101,7 @@ letter-spacing: 1px;
   margin: 15em -30%;
   padding: 1em;
   border-radius: 5px;
-  border: 3px double #006088;
+  border: 8px double #5389a0;
   font-size: 120%;
         }
 
@@ -140,6 +140,15 @@ letter-spacing: 1px;
   position: absolute;
   padding-top: 52px;
   margin-top: -52px;
+}
+
+#footer{
+  text-align: center;
+  color: #fff;
+}
+
+#footer a:link, #footer a:visited{
+  color: #fff;
 }
 
 </style>
@@ -192,6 +201,10 @@ letter-spacing: 1px;
     </div>
 
 </div>
+
+<div id="footer">
+
+  <a href="https://icirr.us/gym/">Back to Gym</a> :: <a href="https://icirr.us/home">Masterball</a>
 
 </body>
 
