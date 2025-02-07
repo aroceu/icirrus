@@ -148,6 +148,32 @@ background-image: url('cardboard.png');
 	color: #7bbccb;
 }
 
+@media only screen and (max-width: 1025px) and (min-width: 431px){
+
+	html {
+-webkit-text-size-adjust: none;
+overflow: auto;
+}
+
+#cover{
+	background-size: cover;
+}
+
+#container{
+	width: auto;
+}
+
+.binder{
+	width: 75%;
+}
+
+.card{
+	flex: 33%;
+  max-width: 29%;
+}
+
+}
+
 
  @media only screen and (max-width: 430px) and (min-width: 0px) {
 
