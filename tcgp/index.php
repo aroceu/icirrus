@@ -179,14 +179,19 @@ overflow: auto;
 
  @media only screen and (max-width: 430px) and (min-width: 0px) {
 
+
 html {
 -webkit-text-size-adjust: none;
-overflow: auto;
+	background: url('binder.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
 }
 
 body{
-	background: url('binder.png') no-repeat fixed center;
-	  background-size: cover;
 		margin: 0;
 		padding: 0;
 		min-height: 100%;
