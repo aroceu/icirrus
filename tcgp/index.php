@@ -148,6 +148,30 @@ background-image: url('cardboard.png');
 	color: #7bbccb;
 }
 
+
+ @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+overflow: auto;
+}
+
+#blurb{
+	width: 95%;
+	margin: 0 auto;
+}
+
+#scroll {
+	width: auto;
+}
+
+.card {
+  flex: 100%;
+  max-width: 100%;
+}
+
+}
+
 </style>
 
 </head>
