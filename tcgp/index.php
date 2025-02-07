@@ -192,6 +192,10 @@ body{
 		height: 100vh;
 }
 
+#cover{
+	background: none;
+}
+
 #container{
 	width: auto;
 }
