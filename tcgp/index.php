@@ -171,6 +171,7 @@ overflow: auto;
 	flex: 33%;
   max-width: 32%;
   opacity: 1;
+  padding: 1% 0;
 }
 
 }
