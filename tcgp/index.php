@@ -26,7 +26,7 @@ background: url('bg.jpg') no-repeat center center fixed;
 
 	#cover{
 		background: url('binder.png') no-repeat fixed center;
-		height: 149vh;
+		width: 100vw;
 	}
 
 	#container{
@@ -179,14 +179,22 @@ overflow: auto;
 
  @media only screen and (max-width: 430px) and (min-width: 0px) {
 
-
 html {
 -webkit-text-size-adjust: none;
+overflow: auto;
+}
+
+body{
+	background: url('binder.png') no-repeat scroll center;
+	  background-size: cover;
+		margin: 0;
+		padding: 0;
+		height: 149vh;
 }
 
 #cover{
-		background: url('binder.png') no-repeat scroll center;
-	}
+	display: none;
+}
 
 #container{
 	width: auto;
