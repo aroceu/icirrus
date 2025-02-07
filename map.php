@@ -241,8 +241,6 @@ html {
 		            			</ul>
 		            		<li><a href="https://icirr.us/gym/flee">Run (exits/affiliates)</a></li>
 		            	</ul>
-		            <li><a href="https://icirr.us/tcgp">TCGP</a></li>
-		            <li>Pok&eacute;Rogue (<i>upcoming</i>)</li>
 		            <li><a href="https://icirr.us/guestbook">Xtransceiver (guestbook)</a></li>
 		            <li>Map <i><b>You are here!</b></i></li>
 		            <li><a href="https://icirr.us/docs">Documentation</a></li>
