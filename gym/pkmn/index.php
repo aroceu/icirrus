@@ -202,7 +202,7 @@ letter-spacing: 1px;
       </div>
 
         <div class="box other">
-        ???
+        This ball appears to be empty. For now...
         </div>
     </div>
 
