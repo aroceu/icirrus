@@ -144,12 +144,13 @@ letter-spacing: 1px;
 
 #footer{
   text-align: center;
-  color: #fff;
+  color: #88D870;
   text-transform: uppercase;
 }
 
 #footer a:link, #footer a:visited{
   color: #fff;
+  text-decoration: none;
 }
 
 #footer a:hover, #footer a:focus{
