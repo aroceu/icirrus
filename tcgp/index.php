@@ -184,6 +184,13 @@ html {
 overflow: auto;
 }
 
+body{
+	background: url('binder.png') no-repeat fixed center;
+	  background-size: cover;
+		margin: 0;
+		padding: 0;
+}
+
 #container{
 	width: auto;
 }
