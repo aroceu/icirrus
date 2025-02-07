@@ -193,7 +193,7 @@ body{
 }
 
 #cover{
-	display: none;
+	background: none;
 }
 
 #container{
