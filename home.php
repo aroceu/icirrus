@@ -189,7 +189,7 @@ nav p{
         <p>&nbsp;</p>
         <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site information, exits, & pok&eacute;go</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="tcgp" rel="me" class="tcg tooltip"><img src="https://icirr.us/tcgp.png" class="navpng" alt="">TCGP</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game card collection (rares only)</span>
+        <span class="item"><a href="tcgp" rel="me" class="tcg tooltip"><img src="https://icirr.us/tcgp.png" class="navpng" alt="">TCGP</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game card collection</span>
         <p>&nbsp;</p>
         <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p>
