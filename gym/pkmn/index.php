@@ -8,7 +8,7 @@
 
 <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">
@@ -145,10 +145,15 @@ letter-spacing: 1px;
 #footer{
   text-align: center;
   color: #fff;
+  text-transform: uppercase;
 }
 
 #footer a:link, #footer a:visited{
   color: #fff;
+}
+
+#footer a:hover, #footer a:focus{
+  color:#88D870;
 }
 
 </style>
