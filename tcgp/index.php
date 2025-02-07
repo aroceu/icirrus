@@ -26,7 +26,7 @@ background: url('bg.jpg') no-repeat center center fixed;
 
 	#cover{
 		background: url('binder.png') no-repeat fixed center;
-		width: 100vw;
+		width: 149vh;
 	}
 
 	#container{
