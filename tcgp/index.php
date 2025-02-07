@@ -184,6 +184,10 @@ html {
 -webkit-text-size-adjust: none;
 }
 
+#cover{
+		background: url('binder.png') no-repeat scroll center;
+	}
+
 #container{
 	width: auto;
 }
