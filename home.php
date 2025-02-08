@@ -189,7 +189,7 @@ nav p{
         <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->
-        <span class="item"><a href="guestbook" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> sign the guestbook! </span>
+        <span class="item"><a href="guestbook" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> leave a message! </span>
 
         <p>&nbsp;</p>
 
