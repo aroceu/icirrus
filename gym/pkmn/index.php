@@ -19,7 +19,7 @@
 		}
 
 		body{
-			background: url('bg.png') no-repeat scroll;
+			background: url('bg.png') no-repeat scroll center;
 			background-size: cover;
 			font: normal 100% 'Tiny5', monospace;
 			color: #444;
@@ -151,6 +151,7 @@
 
 		h2{
 			color: #f9d1d5;
+			text-shadow: 0.15em 0.15em 0.3em #333;
 		}
 
 		#plushies img{
@@ -252,7 +253,8 @@
 
 @media only screen and (max-width: 1025px) and (min-width: 0px) {
 html {
--webkit-text-size-adjust: 100%;
+-webkit-text-size-adjust: none;
+overflow: auto;
 margin: 0 0 2em;
 padding: 0;
 }

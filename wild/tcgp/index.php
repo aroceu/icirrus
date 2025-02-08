@@ -26,11 +26,11 @@ background: url('bg.jpg') no-repeat center center fixed;
 
 	#cover{
 		background: url('binder.png') no-repeat fixed center;
-		width: 100vw;
+		width: auto;
 	}
 
 	#container{
-		width: 69.5vw;
+		width: max-content;
 		margin: 0 auto 0em;
 	}
 
@@ -148,7 +148,7 @@ background-image: url('cardboard.png');
 	color: #7bbccb;
 }
 
-@media only screen and (max-width: 1025px) and (min-width: 431px){
+@media only screen and (max-width: 1025px) and (min-width: 811px){
 
 	html {
 -webkit-text-size-adjust: none;
@@ -168,7 +168,39 @@ overflow: auto;
 }
 
 .binder{
-	width: 75%;
+	width: auto;
+}
+
+.card{
+	flex: 33%;
+  max-width: 32%;
+  opacity: 1;
+  padding: 1% 0;
+}
+
+}
+
+@media only screen and (max-width: 810px) and (min-width: 431px){
+
+	html {
+-webkit-text-size-adjust: none;
+overflow: auto;
+}
+
+#cover{
+	background-size: cover;
+}
+
+#container{
+	width: auto;
+}
+
+#content{
+	width: auto;
+}
+
+.binder{
+	width: 75%AWZXD;
 }
 
 .card{
@@ -205,6 +237,7 @@ body{
 }
 
 #content{
+	padding: 2em 0 0;
 	width: auto;
 }
 
@@ -225,7 +258,7 @@ padding: 1em;
 
 .card{
 flex: 50%;
-    max-width: 35%;
+    max-width: 38%;
     opacity: 1;
     padding: 2%;
 }
@@ -235,6 +268,8 @@ flex: 50%;
   width: 110px;
 
 }
+
+
 }
 
 </style>

@@ -258,6 +258,10 @@ h1{
   text-align: center;
   margin-top: 1.5em;
 }
+
+blockquote{
+	margin: 2em 0 0;
+}
     
 }
 

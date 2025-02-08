@@ -54,7 +54,7 @@ nav .item a.gym:link, nav .item a.gym:visited{
 }
 
 nav .item a.wild:link, nav .item a.wild:visited{
-      color: #88D870;
+      color: #3BB208;
 }
 
 nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{
@@ -185,7 +185,7 @@ nav p{
         <p>&nbsp;</p>
         <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & digital adoptables</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile collectives</span>
+        <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
         <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->
