@@ -316,15 +316,16 @@ overflow-x: none;
 <h2 id="future">Future Plans</h2>
 
 <ul>
-	<li>Pok&eacute;Rogue section</li>
-	<li>TCG section</li>
+	<li>Secret Base (IRL trinkets)</li>
+	<li>Victory Road &rarr; Fan Games (incl. PokeRogue)</li>
 	<li>Take a photo of all my plushies to share here</li>
 	<li>Add a Konami code secret</li>
 	<li>Play Ultra Moon and Violet to make pages here</li>
-	<li>Update or reconfigure the Go dex</li>
+	<li>Update or reconfigure the Go dex (maybe)</li>
 	<li>Change the gym team around again (maybe)</li>
 	<li>Use root styles for trainer game pages instead of its current templating (maybe)</li>
 	<li>Make a timeline (maybe)</li>
+	<li>If I ever play spin off games enough to make a section here, they'll be the Battle Frontier (aka S.S. Ticket via the Bag)</li>
 </ul>
 
 <h2 id="credits">End Credits</h2>
@@ -332,6 +333,7 @@ overflow-x: none;
 <ul>
 	<li><a href="https://play.pokemonshowdown.com/sprites/">Pok&eacute;mon Showdown</a> for trainer sprites and animated Pok&eacute;mon sprites</li>
 	<li><a href="https://bulbapedia.bulbagarden.net/">Bulbapedia</a> for information (including the Pok&eacute;mon Ranger blurb) as well as high-res PNGs of trainers/trainer classes, ribbons, balls, and a lot else</li>
+	<li><a href="https://www.spriters-resource.com/">The Spriters Resource</a></li>
 	<li><a href="https://serebii.net">Serebii</a></li>
 	<li><a href="https://pokemondb.net">Pok&eacute;mon Database</a></li>
 	<li><a href="https://tiermaker.com/create/every-pokmon-ever-fall-2020-all-dlc-601526?downloadedImage=true">Every Single Pokémon Ever (Official Art) Tier List Maker</a></li>

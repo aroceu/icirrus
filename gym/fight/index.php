@@ -304,19 +304,21 @@ h1{
 
 <p>Even when I'm not playing Pok&eacute;mon, it's still a constant in my life &mdash; from the plushies I own to the YouTube videos I watch. I'm usually thinking about Pok&eacute;mon more often than I'm not in some way, and I'm relentlessly optimistic sometimes even when others like to be more cynical about the games or new species. I like to pretend I know more than I do; but I also like seeing a Pok&eacute;mon and going, hey, I like that guy! Or watching someone else do the same.</p>
 
-<p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls every day.</p>
+<p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls as often as my ADHD allows me to remember to..</p>
 
-<p>My life since 2004 has just been me going "Pokemon!!!!!!" every so often, even now 20 years later. And I wouldn't have it any other way.</p>
+<p>My life since 2004 has just been me going "Pokemon!!!!!!" every so often, even now, over 20 years later. And I wouldn't have it any other way.</p>
 
 <h1>site info</h1>
 
 <blockquote><b>Site/Design Launch:</b> February 2017
-<br /><b>Last Updated:</b> December 2024</blockquote>
+<br /><b>Last Updated:</b> February 2025</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
-<p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
+<p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music. And I like to think my vibes are pretty ice- and cloud-like too.</p>
 </b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
 <p>Thanks for visiting this self-indulgent website!</p>
 <p><small>Pok&eacute;mon &copy; GameFreak, Nintendo, & the Pok&eacute;mon Company. No copyright infringement intended.</small></p>
+
+<p align="center"><img src="pkmntrainer.gif"></p>
 
 <h1>linkback buttons</h1>
 <center>
@@ -372,12 +374,14 @@ h1{
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
-<br /><b>Last Updated:</b> December 2024</blockquote>
+<br /><b>Last Updated:</b> February 2025</blockquote>
 <p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
 <p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music.</p>
 </b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
 <p>Thanks for visiting this self-indulgent website!</p>
 <p><small>Pok&eacute;mon &copy; GameFreak, Nintendo, & the Pok&eacute;mon Company. No copyright infringement intended.</small></p>
+
+<p align="center"><img src="pkmntrainer.gif"></p>
 </div>
 
 <div id="linkback"><br />

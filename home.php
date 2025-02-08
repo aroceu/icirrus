@@ -46,23 +46,19 @@ nav .item a:link, nav .item a:visited{
 }
 
 nav .item a.trainer:link, nav .item a.trainer:visited{
-      color: #A73523;
+      color: #3C4857;
 }
 
 nav .item a.gym:link, nav .item a.gym:visited{
       color: #999;
 }
 
-nav .item a.tcg:link, nav .item a.tcg:visited{
-      color: #0A4A87;
-}
-
-nav .item a.pokerogue:link, nav .item a.pokerogue:visited{
-      color: #346485;
+nav .item a.wild:link, nav .item a.wild:visited{
+      color: #385830;
 }
 
 nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{
-      color: #70B070;
+      color: #F84048;
 }
 
 nav .item a.map:link, nav .item a.map:visited{
@@ -185,9 +181,11 @@ nav p{
 <div id="container">
 
     <nav>
-        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> mainline game pok&eacute;mon archive</span>
+        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game pok&eacute;mon archive</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & mobile collectives</span>
+        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & digital adoptables</span>
+        <p>&nbsp;</p>
+        <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile collectives</span>
         <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->

@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-<title>GYM / POK&Eacute;MON GO</title>
+<title>WILD AREA / POK&eacute;GO</title>
         <meta name="viewport" content="initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
@@ -734,7 +734,7 @@ h2:before, h2:after{
 
 <h2>Stay aware of your surroundings</h2>
 
-<p><a href="../">Back To Party</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/gym">Gym</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/home">Masterball</a>
+<p><a href="../">Back Into The Tall Grass</a>
 </p>
 
 </div>

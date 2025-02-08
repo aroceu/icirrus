@@ -234,13 +234,14 @@ html {
 		            				<li>Linkback - tinkaton</li>
 		            			</ul>
 		            		<li>Bag (in-page interactive quick links)</li>
-		            		<li><a href="https://icirr.us/gym/pkmn">Pok&eacute;mon (mobile games)</a></li>
-		            			<ul>
-		            				<li><a href="https://icirr.us/gym/pkmn/go">Pok&eacute;mon Go</a></li>
-		            				<li><a href="https://icirr.us/gym/pkmn/tcgp">Trading Card Game Pocket</a></li>
-		            			</ul>
+		            		<li><a href="https://icirr.us/gym/pkmn">Pok&eacute;mon (digital adoptables)</a></li>
 		            		<li><a href="https://icirr.us/gym/flee">Run (exits/affiliates)</a></li>
 		            	</ul>
+		           	<li><a href="https://icirr.us/wild">Wild Area</a></li>
+		           	<ul>
+		            		<li><a href="https://icirr.us/wild/go">Pok&eacute;mon Go</a></li>
+		            		<li><a href="https://icirr.us/wild/tcgp">Trading Card Game Pocket</a></li>
+		            			</ul>
 		            <li><a href="https://icirr.us/guestbook">Xtransceiver (guestbook)</a></li>
 		            <li>Map <i><b>You are here!</b></i></li>
 		            <li><a href="https://icirr.us/docs">Documentation</a></li>

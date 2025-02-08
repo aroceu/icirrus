@@ -1,7 +1,7 @@
 <html lang="en">
 
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>MASTERBALL / TCGP</title>
+<title>WILD AREA / TCGP</title>
 <meta name="viewport" content="initial-scale=1.0">
 <link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
@@ -35,9 +35,9 @@ background: url('bg.jpg') no-repeat center center fixed;
 	}
 
 	#content{
-		padding-top: 2em;
+		padding: 2em;
 		margin-top: 40em;
-		width: auto;
+		width: fit-content;
 		background-color: #555;
 background-image: url('sandpaper.png');
 box-shadow: 0 -0.3em 0.35em #111;
@@ -163,6 +163,10 @@ overflow: auto;
 	width: auto;
 }
 
+#content{
+	width: auto;
+}
+
 .binder{
 	width: 75%;
 }
@@ -200,6 +204,10 @@ body{
 	width: auto;
 }
 
+#content{
+	width: auto;
+}
+
 #blurb{
 	width: 90%;
 	margin: 2em auto;
@@ -209,13 +217,24 @@ body{
 	width: auto;
 }
 
-.card {
-  flex: 100%;
-  max-width: 100%;
-  opacity: 1;
-  padding: 9%;
+.binder{
+padding: 1em;
+  margin: -1em auto;
+  width: 80vw;
 }
 
+.card{
+flex: 50%;
+    max-width: 35%;
+    opacity: 1;
+    padding: 2%;
+}
+
+.card img {
+  height: 150px;
+  width: 110px;
+
+}
 }
 
 </style>
@@ -398,7 +417,7 @@ body{
 		</div>
 
 		<div id="footer">
-	<p class="footer"><a href="../">Back To Party</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/gym">Gym</a>&nbsp;&nbsp;&nbsp;::&nbsp;&nbsp;&nbsp;<a href="/home">Masterball</a>
+	<p class="footer"><a href="../">Back Into The Tall Grass</a>
 </p>
 
 </div>
