@@ -203,11 +203,11 @@
 		}
 
 		#pet{
-			background: url('https://gifypet.neocities.org/pet/backgrounds/wood.jpg') repeat;
+			background: url('wood.jpg') repeat;
 		}
 
 		#plushies, #credits{
-						background: url('https://64.media.tumblr.com/tumblr_mex6qbS3q71rbvno1.png') repeat;
+						background: url('dotted.png') repeat;
 
 		}
 
