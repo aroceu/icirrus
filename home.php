@@ -54,11 +54,11 @@ nav .item a.gym:link, nav .item a.gym:visited{
 }
 
 nav .item a.wild:link, nav .item a.wild:visited{
-      color: #385830;
+      color: #88D870;
 }
 
 nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{
-      color: #F84048;
+      color: #F05860;
 }
 
 nav .item a.map:link, nav .item a.map:visited{
@@ -181,7 +181,7 @@ nav p{
 <div id="container">
 
     <nav>
-        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game pok&eacute;mon archive</span>
+        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game archive</span>
         <p>&nbsp;</p>
         <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & digital adoptables</span>
         <p>&nbsp;</p>

@@ -146,6 +146,7 @@ letter-spacing: 1px;
   text-align: center;
   color: #88D870;
   text-transform: uppercase;
+  font-size: 110%;
 }
 
 #footer a:link, #footer a:visited{
@@ -172,11 +173,11 @@ letter-spacing: 1px;
     <div class="content">
 
         <div class="preview">
-          <a href="https://icirr.us/gym/pkmn/go"><img src="moltres-galarian.png"></a>
+          <a href="go"><img src="moltres-galarian.png"></a>
         </div>
 
         <div class="box pokego">
-        <a href="https://icirr.us/gym/pkmn/go">POK&eacute;MON GO</a> - My pok&eacute;go log. Warning for long image loading.
+        <a href="go">POK&eacute;MON GO</a> - My pok&eacute;go log. Warning for long image loading.
         </div>
     </div>
 
@@ -185,11 +186,11 @@ letter-spacing: 1px;
     <div class="content">
 
       <div class="preview">
-          <a href="https://icirr.us/gym/pkmn/tcgp"><img src="jigglypuff.png"></a>
+          <a href="tcgp"><img src="jigglypuff.png"></a>
         </div>
 
         <div class="box tcgp">
-        <a href="https://icirr.us/gym/pkmn/tcgp">TCGP</a> - My (pocket) trading card collection. Rare cards only.
+        <a href="tcgp">TCGP</a> - My (pocket) trading card collection. Rare cards only.
         </div>
     </div>
 
