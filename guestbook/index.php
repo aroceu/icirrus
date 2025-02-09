@@ -76,6 +76,11 @@ code{
         font: normal 115% monospace;
 }
 
+.blurb a:link, .blurb a:visited{
+        color: #d18e90;
+        font-weight: bold;
+}
+
   @media only screen and (max-width: 430px) and (min-width: 0px) {
 
 html {
@@ -99,7 +104,7 @@ html {
 
         <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
 
-                <p><a href="/home">&larr; close out of the guestbook</a></p></div>
+                <p align="center"><a href="/home">&larr; close out of the guestbook</a></p></div>
 
         <hr />
 
@@ -108,6 +113,10 @@ html {
                 <div id="c_widget"></div>
         <script src="comment-widget.js"></script>
 </div>
+
+        <hr />
+
+        <p align="center"><a href="/home">clear</a> &bull; <a href="/docs">documentation</a> &bull; <a href="/map">sitemap</a></p>
 
         </div>
 
