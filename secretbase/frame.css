@@ -112,6 +112,13 @@ a:hover, a:focus{
 	color: #bb3767;
 }
 
+.info a:hover, .info a:focus{
+background: #fff;
+  box-shadow: none;
+  color: #DDA2AA;
+
+}
+
 .collection span{
 		background: #fff;
 		color: #514233;
