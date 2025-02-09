@@ -53,6 +53,7 @@ body{
 margin-top: 2em;
   clear: both;
   color: #4f3c2d!important;
+  text-shadow: 1px 1px 0 #fff;
 }
 
 .collection{
