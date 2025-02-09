@@ -97,7 +97,9 @@ html {
         <div id="guestbook">
         <h1>Sign the Guestbook! <img src="gabbyty-small.png"></h1>
 
-        <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p></div>
+        <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
+
+                <p><a href="/home">&larr; close out of the guestbook</a></p></div>
 
         <hr />
 
