@@ -447,7 +447,7 @@ img.shroomish {
 
 <div class="box" id="credits">
 
-	<p>This page is an assortment of digital Pok&eacute;mon adoptables, collectibles, and little guys.</p>
+	<p>This page is an assortment of Pok&eacute;mon adoptables, cliques, and little guys.</p>
 	<p>Rowlet made with the <a href="https://benisland.neocities.org/petpet/">Petpet Generator</a>.</p>
 	<p>Whimsicott made with <a href="https://pamtre-berry.neocities.org/fun/dressup">Pokemon Contest Dress Up</a>.</p>
 	<p>Shroomish made with <a href="https://picrew.me/ja/image_maker/1075494">this picrew</a>.</p>

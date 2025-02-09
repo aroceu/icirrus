@@ -204,6 +204,7 @@ height: 61px;
     0px 14px
   );
 		padding-bottom: 1em;
+		border: 20px #4f3c2d ridge;
 }
 
 h1{

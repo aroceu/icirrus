@@ -243,7 +243,7 @@ html {
 		            		<li><a href="https://icirr.us/wild/tcgp">Trading Card Game Pocket</a></li>
 		            			</ul>
 
-		            <li><a href="https://icirr.us/secretbase">Secret Base</a></li>
+		            <li><a href="https://icirr.us/secretbase">Secret Base</a> (pages in an iframe)</li>
 		            	<ul><li><a href="https://icirr.us/secretbase/about/">About</a></li>
 		            		<li><a href="https://icirr.us/secretbase/inventory/plushies/small">Small Plushies</a></li>
 		            		<li><a href="https://icirr.us/secretbase/inventory/plushies/big">Big Plushies</a></li>

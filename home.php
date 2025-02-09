@@ -187,6 +187,8 @@ nav p{
         <p>&nbsp;</p>
         <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
         <p>&nbsp;</p>
+        <span class="item"><a href="secretbase" rel="me" class="secretbase"><img src="https://icirr.us/rope.png" class="navpng" alt="">Secret Base</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my IRL collection</span>
+        <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->
         <span class="item"><a href="guestbook" rel="me" class="xtransceiver"><img src="https://icirr.us/xtransceiver.png" class="navpng" alt="">Xtransceiver</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> leave a message! </span>
