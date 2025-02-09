@@ -75,7 +75,8 @@
   font: normal 100% 'Lato';
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-border: 2px solid #d18e90;
+background: #e4cebd;
+  color: #fff;
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
