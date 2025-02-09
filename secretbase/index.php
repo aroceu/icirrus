@@ -159,7 +159,7 @@ height: 61px;
 }
 
 #content{
-		background: #fff;
+		background: #fff url('grid.png');
 		clip-path: polygon(
     0px calc(100% - 14px),
     2px calc(100% - 14px),
