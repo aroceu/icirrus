@@ -41,9 +41,7 @@
   background: #fff;
   margin-left: 150px;
   min-height: 100vh;
-  border-top: #e8abad double 15px;
-  border-left: #e8abad double 15px;
-  border-right: #e8abad double 15px;
+  border: #e8abad double 15px;
   border-radius: 20px;
 }
 
@@ -76,9 +74,17 @@ code{
         font: normal 115% monospace;
 }
 
-.blurb a:link, .blurb a:visited{
+a:link, a:visited{
         color: #d18e90;
         font-weight: bold;
+}
+
+a:hover, a:focus{
+        color: #e8bf9d;
+}
+
+.footer a:link, .footer a:visited{
+        text-decoration: none;
 }
 
   @media only screen and (max-width: 430px) and (min-width: 0px) {
@@ -104,7 +110,7 @@ html {
 
         <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
 
-                <p align="center"><a href="/home">&larr; close out of the guestbook</a></p></div>
+                <p align="center"><a href="/home">close out of the guestbook</a></p></div>
 
         <hr />
 
@@ -116,7 +122,7 @@ html {
 
         <hr />
 
-        <p align="center"><a href="/home">clear</a> &bull; <a href="/docs">documentation</a> &bull; <a href="/map">sitemap</a></p>
+        <p align="center" class="footer"><a href="/home">clear</a> &bull; <a href="/docs">documentation</a> &bull; <a href="/map">sitemap</a></p>
 
         </div>
 
