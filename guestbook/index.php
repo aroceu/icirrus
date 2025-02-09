@@ -23,8 +23,7 @@
         background-size: cover;
         height: 384px;
         width: 198px;
-        position: relative;
-        float: left;
+        position: absolute;
         top: -10px;
 
 }
@@ -37,12 +36,13 @@
 }
 
 #guestbook{
-        width: 70%;
+  width: 70%;
   background: #fff;
   margin-left: 150px;
   min-height: 100vh;
   border: #e8abad double 15px;
   border-radius: 20px;
+  padding: 0 0em;
 }
 
 h1{
@@ -58,7 +58,7 @@ h1 img{
 }
 
 .blurb{
-        padding-bottom: 2em;
+        padding: 0 2em 2em;
 }
 
 hr{
