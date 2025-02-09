@@ -130,7 +130,7 @@ background: #fff;
 	color: #483827;
   text-shadow: none;
   opacity: 0.9;
-  text-shadow: 1px 1px 17px #fff;
+  text-shadow: 1px 1px 15px #fff;
 }
 
 .info ul{
@@ -142,11 +142,11 @@ h2{
 	text-transform: lowercase;
 	letter-spacing: 3px;
 	text-align: center;
-border-bottom: #195b39 10px solid;
+border-bottom: #bf9d82 10px solid;
   line-height: 0;
-  color: #DDA2AA;
+  color: #F5BDC5;
   font-size: 150%;
-  text-shadow: 0.05em 0.05em 0.06em #333;
+  text-shadow: 1.5px 1.5px 2px #000;
 }
 
 #darumaka{
