@@ -298,7 +298,7 @@ blockquote{
     <h1>trainer info</h1>
 
     <blockquote><center>30s, Chinese-American, she/her/any<br />
-    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
+    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water"><img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
@@ -316,9 +316,9 @@ blockquote{
 
 <blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the creative drive or need to, because my love affair with Pokemon is ongoing. Pokemon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pokemon is ongoing. Pokemon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
 
-<p>In the same way, my love for architectural design comes through my interests in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been turn on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
+<p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been turn on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
 
 <p>If you've made it this far, thanks for visiting! I love sharing this passion project with others, especially in the hopes of them making websites for themselves as well. </p>
 
@@ -366,7 +366,7 @@ blockquote{
 <div id="trainer">
     
     <blockquote><center>30s, Chinese-American, she/her/any<br />
-    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water">/<img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
+    	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water"><img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
 <p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 

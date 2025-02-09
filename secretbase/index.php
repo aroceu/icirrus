@@ -294,7 +294,7 @@ li a img{
 
 	<div id="container">
 		<div id="content">
-		<h1><a href="main.php" target="mainframe">Secret Base</a></h1>
+		<h1><a href="main.php" target="mainframe">The Secret Base</a></h1>
 
 		<iframe src="main.php" name="mainframe" height="700px" width="98%" title="IFrame" style="border: none; padding: 0 1%;">
 

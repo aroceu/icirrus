@@ -252,7 +252,7 @@ html {
 		            		<li><a href="https://icirr.us/secretbase/inventory/clothes">Clothes</a></li>
 		            		<li><a href="https://icirr.us/secretbase/inventory/posters">Posters</a></li>
 		            	</ul>
-		            <li><a href="https://icirr.us/guestbook">Xtransceiver (guestbook)</a></li>
+		            <li><a href="https://icirr.us/guestbook">Amie (guestbook)</a></li>
 		            <li>Map <i><b>You are here!</b></i></li>
 		            <li><a href="https://icirr.us/docs">Documentation</a></li>
 		        </ul>
