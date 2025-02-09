@@ -251,7 +251,7 @@ h1 a{
 }
 
 h1 a:hover{
-	color:  #7dd195;
+	color:  #e0a8bc;
 }
 
 li a img{
