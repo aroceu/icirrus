@@ -108,11 +108,22 @@ a:hover, a:focus{
 		padding-top: 0;
 }
 
-.info span, .collection span{
+.info a:link, .info a:visited{
+	color: #bb3767;
+}
+
+.collection span{
 		background: #fff;
 		color: #514233;
 		text-shadow: none;
 		opacity: 0.9;
+}
+
+.info span{
+	color: #483827;
+  text-shadow: none;
+  opacity: 0.9;
+  text-shadow: 1px 1px 17px #fff;
 }
 
 .info ul{
@@ -126,7 +137,7 @@ h2{
 	text-align: center;
 border-bottom: #195b39 10px solid;
   line-height: 0;
-  color: #E6B8BE;
+  color: #DDA2AA;
   font-size: 150%;
   text-shadow: 0.05em 0.05em 0.06em #333;
 }
