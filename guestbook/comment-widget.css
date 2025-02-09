@@ -70,7 +70,7 @@
   text-decoration: none;
   text-align: center;
   background-color: transparent;
-  color: #333;
+  color: #d18e90;
   border: 2px solid #e8bf9d;
   font: normal 100% 'Lato';
 }
@@ -87,6 +87,7 @@ border: 2px solid #d18e90;
     padding: 20px;
     background-image: linear-gradient(180deg, #ffffff 46.88%, #fce2e3 46.88%, #fce2e3 50%, #ffffff 50%, #ffffff 96.88%, #fce2e3 96.88%, #fce2e3 100%);
 background-size: 32.00px 32.00px;
+margin: 0 10%;
 }
 #c_container {padding: 20px 0;}
 
