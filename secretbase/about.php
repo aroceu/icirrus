@@ -34,8 +34,10 @@
 <h2>Credits</h2>        
 
 <ul>
-	<li><span>Secret Base made with the <a href="https://pamtre-berry.neocities.org/fun/secretbase#" target="_blank">Secret Base Maker</a> on Pamtre-Berry.</li>
-	<li><span>Masterball PNGs from <a href="https://mewheart.neocities.org/" target="_blank">mewheart</a>.</li>
+	<li><span>Secret Base made with the <a href="https://pamtre-berry.neocities.org/fun/secretbase#" target="_blank">Secret Base Maker</a> on Pamtre-Berry.</span></li>
+	<li><span>Masterball PNGs from <a href="https://mewheart.neocities.org/" target="_blank">mewheart</a>.</span></li>
+	<li><span>Background texture by <a href="https://www.joxadesign.com" target="_blank">Janos Koos</a>.</span></li>
+
 </ul>
 
 </div>
