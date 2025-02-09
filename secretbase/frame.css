@@ -7,8 +7,9 @@ body{
 	background: url('welcome.png') no-repeat;
 	background-size: cover;
 	width: 282px;
-	height: 189px;
-	margin: 4em 3em;
+  height: 189px;
+  margin: 3em 2em;
+  transform: rotate(-20deg);
 }
 
 .welcometxt, .welcome3txt{
@@ -22,9 +23,9 @@ body{
 	background: url('welcome2.png') no-repeat;
 	background-size: cover;
 	width: 282px;
-	height: 189px;
-	margin: -16em 3em;
-	float: right;
+  height: 189px;
+  margin: -5em 3em;
+  float: right;
 }
 
 .welcome2txt{
@@ -38,9 +39,9 @@ body{
 	background: url('welcome3.png') no-repeat;
 	background-size: cover;
 	width: 282px;
-	height: 189px;
-	margin: 1em auto;
-	transform: rotate(15deg);
+  height: 189px;
+  margin: 8em 0 0 3em;
+  transform: rotate(15deg);
 }
 
 .welcome, .welcome2, .welcome3{

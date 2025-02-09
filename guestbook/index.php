@@ -7,7 +7,7 @@
 <title>MASTERBALL / GUESTBOOK</title>
 <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
 
 <link href="https://fonts.googleapis.com/css2?family=Clicker+Script&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 

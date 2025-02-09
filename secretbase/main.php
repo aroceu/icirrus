@@ -6,12 +6,23 @@
 				<p align="right">-A</p></div>
 		</div>
 
+		<div id="darumaka" class="polaroid">
+			<img src="darumaka.jpg"></div>
+
 <div class="welcome2">
 			<div class="welcome2txt">This is a collection of all of my IRL Pok&eacute;mon items, which I've accumulated over the years. They are organized by type, and are ones that are still in my possession.</p></div>
 		</div>
 
+		<div id="substitute">
+			<img src="substitute.png">
+		</div>
+
 		<div class="welcome3">
 			<div class="welcome3txt">The internal pages in my secret base use iframes, so be sure to scroll within this section to see everything!</p></div>
+		</div>
+
+		<div id="chansey" class="polaroid">
+			<img src="chansey.jpg">
 		</div>
 
 <div id="footer">
