@@ -52,7 +52,7 @@ body{
 	font: italic 200% 'VT323';
 margin-top: 2em;
   clear: both;
-  color: #4f3c2d;
+  color: #4f3c2d!important;
 }
 
 .collection{
