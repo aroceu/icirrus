@@ -122,7 +122,7 @@ html {
 
         <hr />
 
-        <p align="center" class="footer"><a href="/home">clear</a> &bull; <a href="/docs">documentation</a> &bull; <a href="/map">sitemap</a></p>
+        <p align="center" class="footer"><a href="/home">clear</a> / <a href="/docs">documentation</a> / <a href="/map">sitemap</a></p>
 
         </div>
 
