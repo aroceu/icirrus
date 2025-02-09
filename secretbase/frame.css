@@ -11,7 +11,7 @@ body{
 	margin: 4em 3em;
 }
 
-.welcometxt{
+.welcometxt, .welcome3txt{
 	padding-top: 38px;
   padding-left: 44px;
   padding-right: 38px;
@@ -43,11 +43,8 @@ body{
 	transform: rotate(15deg);
 }
 
-.welcome3txt{
-	padding-top: 38px;
-  padding-left: 44px;
-  padding-right: 38px;
-  color: #333;
+.welcome, .welcome2, .welcome3{
+	line-height: 100%;
 }
 
 #footer{
