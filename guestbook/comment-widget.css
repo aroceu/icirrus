@@ -60,9 +60,9 @@
     overflow: auto;
     background: transparent; /* F2U background provided by https://sadgrl.online/webmastery/downloads/tiledbgs */
     background-attachment: fixed;
-    font-family: 'Press Start 2P';
-    font-size: 14px;
-    color: #211F24;
+    font-family: 'Lato';
+    font-size: 100%;
+    color: #333;
 }
 
 #c_widget button, #c_widget input[type=submit] {
@@ -70,30 +70,38 @@
   text-decoration: none;
   text-align: center;
   background-color: transparent;
-  color: #211F24;
-  border: 3px solid #528352;
-  font: normal 100% 'Press Start 2P';
+  color: #333;
+  border: 2px solid #e8bf9d;
+  font: normal 100% 'Lato';
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-    border: 3px solid #385030;
+border: 2px solid #d18e90;
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
-    color: #697f69;
-    border: 3px solid #697f69;
+border: 2px solid #d18e90;
 }
 
 /* Input section */
 #c_inputDiv {
     padding: 20px;
     background-color: transparent;
-  border: 10px solid #385030;
 }
 #c_container {margin-top: 10px;}
 
 #c_widgetTitle {
     margin: 0;
     padding: 0;
+    display: none;
+}
+
+#c_widget label{
+    width: 100px;
+    font-weight: bold;
+    color: #d18e90;
+    display: inline-block;
+    width: 15em;
+    padding: 5px 0;
 }
 
 .c-inputWrapper {
@@ -103,13 +111,13 @@
 }
 .c-input {
     padding: 4px;
-  color: #211F24;
-  border: 3px solid #528352;
+  color: #333;
+  border: 2px solid #e8bf9d;
   outline: none;
   background: transparent;
-  font: normal 100% 'Press Start 2P';
+  font: normal 100% 'Lato';
 }
-.c-input:focus { border: 3px solid #385030;}
+.c-input:focus { border: 2px solid #d18e90;}
 
 .c-textInput {
     width: calc(100% - 10px);
@@ -145,7 +153,7 @@
     text-transform: lowercase;
     color: #385030;
 }
-.c-site:hover {color: #211F24;}
+.c-site:hover {color: #333;}
 .c-timestamp {
     float: right;
     opacity: 60%;
@@ -155,7 +163,7 @@
     margin-top: 10px;
     padding: 0;
     text-align: justify;
-    color: #211F24;
+    color: #333;
 }
 
 /* Pagination */
