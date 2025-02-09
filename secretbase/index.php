@@ -288,7 +288,7 @@ li a img{
 				<li><a href="inventory/accessories" target="mainframe">Accessories</a></li>
 				<li><a href="inventory/clothes" target="mainframe">Clothes</a></li>
 				<li><a href="about" target="mainframe">About</a></li>
-				<li><a href="../"><img src="masterball.gif"> Exit</a></li>
+				<li><a href="/"><img src="masterball.gif"> Exit</a></li>
 			</li>
 		</ul>
 
