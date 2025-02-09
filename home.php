@@ -75,7 +75,7 @@ nav .item a:hover, nav .item a:focus{
 
 img.navpng{
     padding-right: 5px;
-    width:25px;
+    height:21px;
 }
 
 .tooltip {
@@ -191,7 +191,7 @@ nav p{
         <p>&nbsp;</p>
         <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="secretbase" rel="me" class="secretbase"><img src="https://icirr.us/rope.png" class="navpng" alt="">Secret Base</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my IRL collection</span>
+        <span class="item"><a href="secretbase" rel="me" class="secretbase"><img src="https://icirr.us/rope.png" class="navpng" alt="">Secret Base</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my IRL trinkets</span>
         <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->

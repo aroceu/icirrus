@@ -133,8 +133,9 @@ h2{
 	text-transform: lowercase;
 	letter-spacing: 3px;
 	text-align: center;
-	border-bottom: #195b39 10px solid;
-	line-height: 0;
-	color: #f9ddd1;
-	font-size: 150%;
+border-bottom: #195b39 10px solid;
+  line-height: 0;
+  color: #E6B8BE;
+  font-size: 150%;
+  text-shadow: 0.05em 0.05em 0.06em #333;
 }

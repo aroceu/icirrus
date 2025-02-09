@@ -64,7 +64,7 @@ letter-spacing: 1px;
 
   .three{
     top: 6em;
-  right: -1.5em;
+  right: -2em;
   }
 
   .ball:hover{
@@ -156,6 +156,40 @@ letter-spacing: 1px;
 
 #footer a:hover, #footer a:focus{
   color:#88D870;
+}
+
+  @media only screen and (max-width: 430px) and (min-width: 0px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#grass{
+  margin-top: 5%;
+  padding-top: 25em;
+}
+
+#bag{
+  height: 100px;
+  top: 23%;
+  left: 30%;
+  width: 173px;
+}
+
+.one {
+  top: 70%;
+  left: -15%;
+}
+
+.two{
+  top: 100%;
+  left: 33%;
+}
+
+.three{
+  top: 70%;
+  right: -5%;
+}
 }
 
 </style>

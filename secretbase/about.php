@@ -3,6 +3,8 @@
 
 <div class="info">
 
+	<h2>About</h2>
+
 <p><span>Though not intentionally, I constructed this section around the eighth anniversary of this website, in February 2025. I'm the type of person who prefers buying merch with things I like on it over designs that I find too commonplace or have little to no meaning for me. So I own a lot of Pok&eacute;mon merch.</span></p>
 
 <p><span>There's two major events that I cite quite often in my blurbs around here: my traveling during 2016, and a flood that I experienced in 2021. In 2016 I was doing a lot of traveling after dropping out of college for the first time. I decided to go to Hong Kong and do a lot of bargain shopping for a lot of East Asian merch, which I was obsessed with at the time (Haikyuu!!, Love Live!, a lot of other sports anime, and of course, Pok&eacute;mon). My plans also included going to Osaka, Japan, just for two days, and only to visit the Pok&eacute;mon Center store.</span></p>
