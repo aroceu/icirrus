@@ -17,7 +17,7 @@
 	<img src="pink.png">
 	</div>
 
-	<p><span>My friend <a href="https://outstretched.dreamwidth.org" target="_blank">Ciry</a> was selling some items in 2022, so I bought these two pieces from him. Raikou lives in my bathroom.</span></p>
+	<p><span>My friend <a href="https://outstretched.dreamwidth.org" target="_blank">Skylark</a> was selling some items in 2022, so I bought these two pieces from him. Raikou lives in my bathroom.</span></p>
 
 	<div class="item">
 	<img src="fan-poster.png">
