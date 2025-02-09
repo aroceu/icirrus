@@ -212,12 +212,12 @@ height: 61px;
 
 h1{
 	font: normal 280% 'Silkscreen';
-	text-shadow: 2.5px 2.5px 0 #46894e;
-	text-align: center;
-padding: 0.5em;
-width: auto;
+text-shadow: 2.5px 2.5px 0 #4f3c2d;
+  text-align: center;
+  padding: 0.5em;
+  width: auto;
   margin: 0 auto;
-  border-bottom: 10px solid #4f3c2d;
+  border-bottom: 20px ridge #4f3c2d;
   background: url('box.png');
 }
 
@@ -251,9 +251,7 @@ h1 a{
 }
 
 h1 a:hover{
-	color:  #4f3c2d;
-		text-shadow: 2.5px 2.5px 0 #fff;
-
+	color:  #7dd195;
 }
 
 li a img{
