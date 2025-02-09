@@ -494,7 +494,7 @@ img.shroomish {
 <a href="https://mewheart.neocities.org/">
 <img src="yellow1.gif"><img src="yellow2.gif"><img src="yellow3.gif"><img src="blue.gif">
 <br /><img src="aipom.gif"><img src="gold.gif"><img src="girlpikachu.gif"><img src="cyndaquil-small.gif"><img src="fuckeduppika.gif"><img src="girljigglypuff.gif"><img src="duskull.gif"><br />
-<img src="jigglypuff-small.gif"><img src="gengar.gif"><img src="ditto.gif"><img src="ampharos.gif"><img src="hoppip.gif"><img src="misdreavus.gif"><img src="phanpysmall.gif">
+<img src="jigglypuff-small.gif"><img src="gengar.gif"><img src="ditto.gif"><img src="ampharos.gif"><img src="hoppip.gif"><img src="misdreavus.gif"><img src="phanpy-small.gif">
 </a>
 </div>
 

@@ -8,8 +8,7 @@ body{
 	background-size: cover;
 	width: 282px;
 	height: 189px;
-	transform: rotate(15deg);
-	margin: 6em 3em;
+	margin: 4em 3em;
 }
 
 .welcometxt{
@@ -24,8 +23,7 @@ body{
 	background-size: cover;
 	width: 282px;
 	height: 189px;
-	transform: rotate(-15deg);
-	margin: -18em 3em;
+	margin: -16em 3em;
 	float: right;
 }
 
@@ -42,6 +40,7 @@ body{
 	width: 282px;
 	height: 189px;
 	margin: 1em auto;
+	transform: rotate(15deg);
 }
 
 .welcome3txt{
@@ -101,7 +100,7 @@ body{
 }
 
 a:link, a:visited{
-	color: #e0a8bc;
+	color: #e38aaa;
 	text-decoration: none;
 }
 

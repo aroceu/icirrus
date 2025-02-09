@@ -51,7 +51,7 @@
 	<img src="goomy-blanket.png">
 	</div>
 
-	<p><span>I bought the display below from <a href="https://www.etsy.com/shop/IllustratedJoe">IllustratedJoe</a> on Etsy.</span></p>
+	<p><span>I bought the display below from <a href="https://www.etsy.com/shop/IllustratedJoe" target="_blank">IllustratedJoe</a> on Etsy.</span></p>
 
 	<div class="item">
 	<img src="latis-display.png">

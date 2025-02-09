@@ -16,6 +16,6 @@
 
 <div id="footer">
 
-	<a href="">Exit the Secret Base</a>
+	<a href="../">Exit the Secret Base</a>
 
 </div>

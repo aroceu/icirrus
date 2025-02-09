@@ -267,7 +267,7 @@ li a img{
 		<a href="inventory/posters" target="mainframe"><div id="poster"></div></a>
 		<a href="inventory/clothes" target="mainframe"><div id="bluebrick"></div></a>
 		<a href="inventory/accessories" target="mainframe"><div id="redbrick"></div></a>
-		<a href="about.html" target="mainframe"><div id="pc"></div></a>
+		<a href="about" target="mainframe"><div id="pc"></div></a>
 		<a href="inventory/collectibles" target="mainframe"><div id="collectibles"></div></a>
 		<a href="inventory/plushies/small" target="mainframe"><div id="smallplush"></div></a>
 		<a href="inventory/plushies/big" target="mainframe"><div id="bigplush"></div></a>
@@ -283,7 +283,8 @@ li a img{
 				<li><a href="inventory/collectibles" target="mainframe">Collectibles</a></li>
 				<li><a href="inventory/accessories" target="mainframe">Accessories</a></li>
 				<li><a href="inventory/clothes" target="mainframe">Clothes</a></li>
-				<li><a href="about" target="mainframe"><img src="masterball.gif"> About <img src="masterball.gif"></a></li>
+				<li><a href="about" target="mainframe">About</a></li>
+				<li><a href="../"><img src="masterball.gif"> Exit</a></li>
 			</li>
 		</ul>
 
