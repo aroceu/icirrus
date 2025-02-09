@@ -316,10 +316,14 @@ blockquote{
 
 <blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br />I'd been meaning to make some sort of personal Pok&eacute;mon-related site for a while, but I was never into making webshrines or fansites. But then I figured it'd be pretty neat to archive all my pok&eacute;mon teams, since I love all of them and I play a <i>lot</i> of pok&eacute;mon. So this ended up happening.</p>
-<p><b>Icirrus</b> is the URL of this website because Icirrus City (in Unova) is my favorite city in all of the Pok&eacute;mon regions &mdash; primarily for its music. And I like to think my vibes are pretty ice- and cloud-like too.</p>
-</b>I chose <b>Masterball</b> as the name of this collection as a sort of egotistic title of how long and beyond semi-decent amount of time I've been playing Pok&eacute;mon. Also, masterballs are the most powerful item in the entire series (aside from maybe Max Revives, but that can't be made into one word) and I like to think I'm pretty powerful. Also, also, the few times I used Action Replays to hack the game, I got like three hundred masterballs.</p>
-<p>Thanks for visiting this self-indulgent website!</p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the creative drive or need to, because my love affair with Pokemon is ongoing. Pokemon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &emdash; or even more &emdash; intensity and passion as I did when I was a child. </p>
+
+<p>In the same way, my love for architectural design comes through my interests in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been turn on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
+
+<p>If you've made it this far, thanks for visiting! I love sharing this passion project with others, especially in the hopes of them making websites for themselves as well. </p>
+
+<p>See <a href="https://icirr.us/docs">documentation</a> for more information on the process and history of making this site.</p>
+
 <p><small>Pok&eacute;mon &copy; GameFreak, Nintendo, & the Pok&eacute;mon Company. No copyright infringement intended.</small></p>
 
 <p align="center"><img src="pkmntrainer.gif"></p>
