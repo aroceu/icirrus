@@ -16,6 +16,6 @@
 
 <div id="footer">
 
-	<a href="../">Exit the Secret Base</a>
+	In my Secret Base, we do Single Battles! Are you ready for this?
 
 </div>
