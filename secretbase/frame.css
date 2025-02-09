@@ -136,6 +136,7 @@ border-bottom: #195b39 10px solid;
   top: 30px;
   right: 130px;
   transform: rotate(10deg);
+  box-shadow: 3px 3px 3px #333;
 }
 
 #substitute{
@@ -149,6 +150,7 @@ border-bottom: #195b39 10px solid;
 	position: absolute;
   bottom: 130px;
   right: 100px;
+  box-shadow: 3px 3px 3px #333;
 }
 
 #substitute img{
