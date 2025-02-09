@@ -9,9 +9,9 @@
 
 <p><span>And so I did that too. I bought a lot, though at least 60% of my purchases were gifts for my friends, rather than for me. But I still purchased several things for myself, which you'll see here.</span></p>
 
-<p><span>However, in 2021, when I was in an in-between stage of moving, the space that had been storing the majority of my material possessions got flooded, and I ended up losing a great deal of things that meant a lot to me through that. Some items I recovered, but a lot I didn't. Most of the plushies here witnessed that flood, but there were some I couldn't recover for my own health and safety. But quite a bit of the Pok&eacute;mon merch I used to own are now in pieces in a landfill somewhere, probably.</span></p>
+<p><span>However, in 2021, when I was in an in-between stage of moving, the space that had been storing the majority of my material possessions got flooded, and I ended up losing a great deal of things that meant a lot to me through that. Some items I recovered, but a lot I didn't. Most of the plushies here witnessed that flood, but there were some I couldn't recover for my own health and safety. So there's probably a landfill somewhere with my old ruined Pok&eacute;mon merch.</span></p>
 
-<p><span>Still, I like owning things and spending money I may or may not have, so my collection is quite abundant here regardless. I'm a material Pok&eacute;mon fan, what can I say.</span></p>
+<p><span>Still, I like owning things and spending money I may or may not have, so my collection is quite abundant here regardless. I'm a materialistic Pok&eacute;mon fan, what can I say.</span></p>
 
 <h2>Things I Used To Own</h2>
 

@@ -58,7 +58,7 @@ nav .item a.wild:link, nav .item a.wild:visited{
 }
 
 nav .item a.secretbase:link, nav .item a.secretbase:visited{
-    color: ##806028;
+    color: #806028;
 }
 
 nav .item a.xtransceiver:link, nav .item a.xtransceiver:visited{

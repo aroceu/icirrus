@@ -61,7 +61,7 @@
 	<img src="vulpix-alola-1.png">
 	</div>
 
-	<p><span>Some event Pikachus I bought when I visited Osaka in 2016. I wasn't sure about buying them at the time because I had only started getting into the idea of collecting and didn't really care that much for Pikachu as a species. But now I'm beyond happy that I owned it because it's such a good and distinct design and makes me feel special in owning it.</span></p>
+	<p><span>Some event Pikachus I bought when I visited Osaka in 2016. I wasn't sure about buying the snowy one at the time because I had only started getting into the idea of collecting and didn't really care that much for Pikachu as a species. But now I'm beyond happy that I bought it because it's such a good and distinct design and makes me feel special in owning it.</span></p>
 
 	<div class="item">
 	<img src="pikachu-snow.png">
