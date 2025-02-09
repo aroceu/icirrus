@@ -283,7 +283,7 @@ flex: 50%;
 
 	<div id="container">
 
-				<h1>Trading Card Game Pocket</h1>
+				<h1>The Pocket Trading Card Game</h1>
 
 		<div id="blurb">
 

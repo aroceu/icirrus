@@ -512,7 +512,6 @@ html {
 <div id="semicircle">
         <div id="btn-semi">
                 <a href="https://icirr.us/home"><div id="redsemi1">
-                        <div class="close">Home</div>
                 </div></a>
                 <div id="breakline"></div>
         </div>

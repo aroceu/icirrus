@@ -1,0 +1,143 @@
+
+body{
+	 font: normal 100% 'VT323';
+}
+
+.welcome{
+	background: url('welcome.png') no-repeat;
+	background-size: cover;
+	width: 282px;
+	height: 189px;
+	transform: rotate(15deg);
+	margin: 6em 3em;
+}
+
+.welcometxt{
+	padding-top: 38px;
+  padding-left: 44px;
+  padding-right: 38px;
+  color: #333;
+}
+
+.welcome2{
+	background: url('welcome2.png') no-repeat;
+	background-size: cover;
+	width: 282px;
+	height: 189px;
+	transform: rotate(-15deg);
+	margin: -18em 3em;
+	float: right;
+}
+
+.welcome2txt{
+	padding-top: 38px;
+  padding-left: 44px;
+  padding-right: 38px;
+  color: #fff;
+}
+
+.welcome3{
+	background: url('welcome3.png') no-repeat;
+	background-size: cover;
+	width: 282px;
+	height: 189px;
+	margin: 1em auto;
+}
+
+.welcome3txt{
+	padding-top: 38px;
+  padding-left: 44px;
+  padding-right: 38px;
+  color: #333;
+}
+
+#footer{
+	text-align: center;
+	font: normal 200% 'VT323';
+	text-transform: uppercase;
+	margin-top: 2em;
+	clear: both;
+}
+
+#footer a:link, #footer a:visited{
+	color: #fff;
+		text-shadow: 0.08em 0.08em 0 #195b39;
+		text-decoration: none;
+}
+
+#footer a:hover, #footer a:focus{
+	color: #e0a8bc;
+}
+
+.collection{
+	text-align: center;
+	display: flex;
+  flex-wrap: wrap;
+    width: 100%;
+}
+
+.item{
+	flex: 50%;
+  max-width: 50%;
+  padding-top: 1em;
+  margin: 0 auto;
+}
+
+.collection img{
+	max-height: 200px;
+	image-rendering: pixelated;
+	max-width: 100%;
+}
+
+.collection p{
+	font-size: 135%;
+	padding-top: 1.5em;
+	text-align: left;
+	width: 100%;
+}
+
+.collection p:first-child{
+	padding-top: 0;
+}
+
+a:link, a:visited{
+	color: #e0a8bc;
+	text-decoration: none;
+}
+
+a:hover, a:focus{
+	box-shadow: inset 0 -10px 0 0 #7dd195;
+	color: inherit;
+}
+
+.info{
+	font-size: 130%;
+	text-align: left;
+	width: 100%;
+}
+
+.info p{
+		padding-top: 0;
+}
+
+.info span, .collection span{
+		background: #fff;
+		color: #514233;
+		text-shadow: none;
+		opacity: 0.9;
+}
+
+.info ul{
+	color: #fff;
+	text-shadow: 2px 2px 0 #514233;
+}
+
+h2{
+	text-transform: lowercase;
+	letter-spacing: 3px;
+	text-align: center;
+	border-bottom: #195b39 10px solid;
+	line-height: 0;
+	color: #f9ddd1;
+	font-size: 150%;
+}

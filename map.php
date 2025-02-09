@@ -229,7 +229,7 @@ html {
 		            			<ul>
 		            				<li>Repo Updates - bisharp</li>
 		            				<li>Contact/Add (in game) - aegislash</li>
-		            				<li>About (me as a player) - aggron</li>
+		            				<li>About (me as the webmaster) - aggron</li>
 		            				<li>About (the site) - excadrill</li>
 		            				<li>Linkback - tinkaton</li>
 		            			</ul>
@@ -242,6 +242,16 @@ html {
 		            		<li><a href="https://icirr.us/wild/go">Pok&eacute;mon Go</a></li>
 		            		<li><a href="https://icirr.us/wild/tcgp">Trading Card Game Pocket</a></li>
 		            			</ul>
+
+		            <li><a href="https://icirr.us/secretbase">Secret Base</a></li>
+		            	<ul><li><a href="https://icirr.us/secretbase/about/">About</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/plushies/small">Small Plushies</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/plushies/big">Big Plushies</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/collectibles">Collectibles</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/accessories">Accessories</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/clothes">Clothes</a></li>
+		            		<li><a href="https://icirr.us/secretbase/inventory/posters">Posters</a></li>
+		            	</ul>
 		            <li><a href="https://icirr.us/guestbook">Xtransceiver (guestbook)</a></li>
 		            <li>Map <i><b>You are here!</b></i></li>
 		            <li><a href="https://icirr.us/docs">Documentation</a></li>

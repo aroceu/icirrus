@@ -122,6 +122,11 @@ html {
 	<a href="https://enigmadreams.neocities.org/"><img src="buttons/enigmadreams.png" alt="enigmadreams"></a>
 	<a href="https://sylphofeons.neocities.org"><img src="buttons/sylphofeons.png" alt="sylphofeons"></a>
 	<a href="https://buriedrelic.neocities.org/"><img src="buttons/buriedrelic.png" alt="buriedrelic"></a>
+	<a href="https://pkmnbreedersam.neocities.org/"><img src="buttons/pkmnbreedersam.png" alt="pkmnbreedersam"></a>
+	<a href="http://www.sweetcharm.net/PokemonSite/Outside/outside.html"><img src="buttons/clover-sweetcharm.gif" alt=""></a>
+	<!-- more ~official~ stuff (still fan-run) -->
+		<a href="https://letsfindpokemon.info"><img src="buttons/pokemonfound.png" alt="pokemonfound"></a>
+	<a href="https://neoskitties.org/"><img src="buttons/neoskitties.png" alt="neoskitties"></a>
 	<a href="https://altissimo1.github.io/"><img src="buttons/altissimo1.png" alt="altissimo1"></a>
 	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png" alt="sunyshore.com"></a>
 	<a href="https://serebii.net"><img src="buttons/serebii.png" alt="serebii.net"></a>

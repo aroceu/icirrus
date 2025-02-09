@@ -42,8 +42,12 @@
   max-width: 50%;
 }
 
+a:link, a:visited{
+	text-decoration: none;
+}
+
 		#stufful{
-			background: url('stufful-d.png') no-repeat;
+			background: url('stufful-d2.png') no-repeat;
 			background-size: cover;
 			height: 330px;
 			width: 250px;
@@ -95,21 +99,21 @@
 		#horsea{
 			background: url('horsea.gif') no-repeat;
 			background-size: cover;
-			height: 312px;
-			  width: 206px;
+			height: 151px;
+			  width: 100px;
 			  position: absolute;
-			  top: 500px;
+			  top: 1430px;
 			  left: 44%;
 		}
 
 		#cyndaquil{
 			background: url('cyndaquil.gif') no-repeat;
 			background-size: cover;
-			height: 220px;
-  width: 260px;
+height: 157px;
+  width: 183px;
   position: absolute;
-  top: 660px;
-  left: 8%;
+  top: 500px;
+  right: 30px;
 		}
 
 		#phanpy{
@@ -128,8 +132,38 @@
 			height: 240px;
   width: 245px;
   position: absolute;
-  top: 1000px;
-  left: 41%;
+  top: 850px;
+  left: 42%;
+		}
+
+		#celebi{
+			background: url('celebi.gif') no-repeat;
+			background-size: cover;
+			height: 240px;
+  width: 245px;
+  position: absolute;
+  top: 1150px;
+  right: 10px;
+		}
+
+		#corsola{
+			background: url('corsola.gif') no-repeat;
+			background-size: cover;
+			height: 220px;
+  width: 225px;
+  position: absolute;
+  top: 860px;
+  left: 10px;
+		}
+
+		#flaaffy{
+			background: url('flaaffy.gif') no-repeat;
+			background-size: cover;
+height: 253px;
+  width: 210px;
+  position: absolute;
+  top: 1130px;
+  left: 48%;
 		}
 
 		.box{
@@ -165,6 +199,13 @@
 			padding: 10px 30px;
 		}
 
+		#assembled{
+margin: 2em auto 3em;
+			border: 2px solid #68c0d6;
+			border-radius: 30px;
+			padding: 10px 30px;
+		}
+
 		#ichooseyou a:link, #ichooseyou a:visited{
 			color: #fff;
 			letter-spacing: 1px;
@@ -185,7 +226,7 @@
 			vertical-align: sub;
 		}
 
-		.right .row:first-child{
+		.right .row:first-child, .left .box:first-child{
 			margin-top: 0!important;
 		}
 
@@ -203,19 +244,20 @@
 			padding: 0;
 		}
 
-		#pet{
+		#pet, #cards{
 			background: url('wood.jpg') repeat;
 		}
 
-		#plushies, #credits{
+		#plushies, #credits, #scrunklies{
 						background: url('dotted.png') repeat;
 
 		}
 
 		img.shroomish{
 			transform: rotate(30deg);
-			height: 270px;
+			height: 260px;
 			float: right;
+			margin-bottom: 5em;
 		}
 
 		a img:hover{
@@ -223,8 +265,6 @@
 		}
 
 		#credits{
-			clear: both;
-			margin-top: 23em;
 			width: 65%;
 			color: #444;
 		}
@@ -250,6 +290,30 @@
 			display: none;
 		}
 
+		#scrunklies{
+			 display: flex;
+  flex-wrap: wrap;
+  width: 50%;
+  float: left;
+		}
+		scrunkly{
+			flex: 50%;
+  max-width: 50%;
+		}
+
+		#mewheart{
+			text-align: center;
+		}
+
+		#cards{
+			clear: both;
+			text-align: center;
+			margin: 3em auto;
+		}
+
+		#cards img{
+			height: 200px;
+		}
 
 @media only screen and (max-width: 1025px) and (min-width: 0px) {
 html {
@@ -268,7 +332,7 @@ padding: 0;
   max-width: 100%;
 }
 
-#jumpluff, #chikorita, #cleffa, #horsea, #cyndaquil, #phanpy, #furret, #stufful, #rowlet{
+#jumpluff, #chikorita, #cleffa, #horsea, #cyndaquil, #phanpy, #furret, #stufful, #rowlet, #celebi, #corsola, #flaaffy{
 	display: none;
 }
 
@@ -282,12 +346,14 @@ padding: 0;
 
 #shroomish{
 	text-align: center;
+	margin: 1em 0 0;
 }
 
 img.shroomish {
   transform: none;
   height: 200px;
   float: none;
+  margin-bottom: 0;
 }
 
 #dressup img{
@@ -299,11 +365,24 @@ img.shroomish {
 }
 
 #credits{
-			clear: both;
 			margin-top: 1em;
 			color: #444;
 			width: 90%;
 
+		}
+
+		#scrunklies{
+			width: 70%;
+			float: none;
+		}
+
+		#cards{
+			margin: 2em auto;
+		}
+
+		#cards img{
+			width: 32%;
+			height: auto;
 		}
 
 }
@@ -334,19 +413,48 @@ img.shroomish {
 <img src="jigglypuff.png"> <img src="oddish.png"> <img src="growlithe.png"> <img src="ponyta.png"> <img src="rattata.png"> <img src="chansey.png"> <img src="nidoran.png">
 </div>
 
+<div id="scrunklies" class="box">
+
+	<a href="https://noseclub.bluwiikoon.art/index.shtml
+"><scrunkly>
+	<img src="aggron.png">
+	</scrunkly>
+
+	<scrunkly>
+	<img src="ponyta-g.png">
+	</scrunkly>
+
+	<scrunkly>
+	<img src="marowak-a.png">
+</scrunkly>
+
+<scrunkly>
+	<img src="sableye.png">
+</scrunkly>
+
+</a>
+
+</div>
+
 <div id="shroomish">
 <img src="shroomish.png" class="shroomish">
+</div>
+
+<div id="cards" class="box">
+
+	<a href="https://sephiria.com/gifts/claim"><img src="kingdra-tcg.png"> <img src="tropius-tcg.png"> <img src="screamtail-tcg.png"></a>
 </div>
 
 <div class="box" id="credits">
 
 	<p>This page is an assortment of digital Pok&eacute;mon adoptables, collectibles, and little guys.</p>
-	<p>Rowlet made with the <a href="https://benisland.neocities.org/petpet/">Petpet Generator</a>.
-		<br />Whimsicott made with <a href="https://pamtre-berry.neocities.org/fun/dressup">Pokemon Contest Dress Up</a>.
-		<br />Shroomish made with <a href="https://picrew.me/ja/image_maker/1075494">this picrew</a>.
-		<br />TCG Pixel Stamps by <a href="https://newlambda.neocities.org/games/pokesprites
-">:/newlambda</a>.
-		<br />Pok&eacute;mon Stadium GIFs by <a href="https://bluemoonfalls.com/pages/general/stadium-gif-archive">Bluemoon Falls</a>.</p>
+	<p>Rowlet made with the <a href="https://benisland.neocities.org/petpet/">Petpet Generator</a>.</p>
+	<p>Whimsicott made with <a href="https://pamtre-berry.neocities.org/fun/dressup">Pokemon Contest Dress Up</a>.</p>
+	<p>Shroomish made with <a href="https://picrew.me/ja/image_maker/1075494">this picrew</a>.</p>
+	<p>TCG Pixel Stamps by <a href="https://newlambda.neocities.org/games/pokesprites
+">:/newlambda</a>.</p>
+	<p>Pok&eacute;mon Stadium GIFs by <a href="https://bluemoonfalls.com/pages/general/stadium-gif-archive">Bluemoon Falls</a>.</p>
+	<p>Assembled animated Ranger sprits by <a href="https://kitschymew.neocities.org/collection/assembled-sprites/">kitschymew</a>.
 		<p>Stufful is by me :)</p>
 
 </div>
@@ -381,6 +489,22 @@ img.shroomish {
 <a href="https://pamtre-berry.neocities.org/fun/dressup"><img src="whimsicott.png"></a>
 </div>
 
+<div id="mewheart" class="transparent">
+
+<a href="https://mewheart.neocities.org/">
+<img src="yellow1.gif"><img src="yellow2.gif"><img src="yellow3.gif"><img src="blue.gif">
+<br /><img src="aipom.gif"><img src="gold.gif"><img src="girlpikachu.gif"><img src="cyndaquil-small.gif"><img src="fuckeduppika.gif"><img src="girljigglypuff.gif"><img src="duskull.gif"><br />
+<img src="jigglypuff-small.gif"><img src="gengar.gif"><img src="ditto.gif"><img src="ampharos.gif"><img src="hoppip.gif"><img src="misdreavus.gif"><img src="phanpysmall.gif">
+</a>
+</div>
+
+<div id="assembled" class="box">
+	<img src="cresselia.gif">
+	<img src="vaporeon.gif">
+		<img src="babykanga.gif">
+	<img src="umbreon.gif"></a>
+</div>
+
 <div class="box" id="exit">
 	<a href="https://icirr.us/gym">Back to Gym</a> :: <a href="https://icirr.us/home">Masterball</a>
 
@@ -404,7 +528,13 @@ img.shroomish {
 
 <div id="furret"></div>
 
+<div id="celebi"></div>
+
+<div id="corsola"></div>
+
 <div id="stufful"></div>
+
+<div id="flaaffy"></div>
 
 </body>
 

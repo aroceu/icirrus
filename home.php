@@ -183,7 +183,7 @@ nav p{
     <nav>
         <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game archive</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, & digital adoptables</span>
+        <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, cliques, & adoptables</span>
         <p>&nbsp;</p>
         <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
         <p>&nbsp;</p>

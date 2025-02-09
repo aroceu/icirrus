@@ -72,6 +72,7 @@ blockquote{
 	font-weight: normal;
 	letter-spacing: 1px;
 	text-align: center;
+	margin-top: 0.5em;
 }
 
 .name{
