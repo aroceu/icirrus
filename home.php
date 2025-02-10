@@ -43,10 +43,11 @@ nav .item{
 nav .item a:link, nav .item a:visited{
     text-transform: uppercase;
   text-decoration: none;
+  font-weight: bold;
 }
 
 nav .item a.trainer:link, nav .item a.trainer:visited{
-      color: #3C4857;
+      color: #b7574d;
 }
 
 nav .item a.gym:link, nav .item a.gym:visited{
