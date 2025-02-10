@@ -119,7 +119,8 @@ margin: 0 10%;
   background: transparent;
   font: normal 100% 'Lato';
 }
-.c-input:focus { border: 2px solid #d18e90;}
+.c-input:focus { border: 2px solid #d18e90;
+background: #f9eee6}
 
 .c-textInput {
     width: calc(100% - 10px);
