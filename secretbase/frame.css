@@ -153,14 +153,14 @@ border-bottom: #bf9d82 10px solid;
 #darumaka{
 	position: absolute;
   top: 30px;
-  right: 130px;
+  right: 10%;
   transform: rotate(10deg);
   box-shadow: 3px 3px 3px #333;
 }
 
 #substitute{
 	position: absolute;
-  left: 180px;
+  left: 20%;
   margin-top: -25px;
   transform: rotate(-10deg);
 }
@@ -168,7 +168,7 @@ border-bottom: #bf9d82 10px solid;
 #chansey{
 	position: absolute;
   bottom: 130px;
-  right: 100px;
+  right: 10%;
   box-shadow: 3px 3px 3px #333;
 }
 

@@ -13,6 +13,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
 
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
 <style type="text/css">
 
@@ -262,6 +263,68 @@ li a img{
 	height: 16px;
 }
 
+.mobilenav, .close{
+			display: none;
+		}
+
+/** tablets (two sizes) **/
+
+@media only screen and (max-width: 1179px) and (min-width: 1150px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#container{
+	right: -20%;
+}
+
+}
+
+@media only screen and (max-width: 1149px) and (min-width: 750px) {
+
+html {
+-webkit-text-size-adjust: none;
+}
+
+#base{
+	display: none;
+}
+
+#container{
+	position: static;
+	width: 70%;
+}
+
+}
+
+/** smartphones **/
+
+@media only screen and (max-width: 749px) and (min-width: 0px) {
+
+#base{
+	display: none;
+}
+
+#container{
+	position: static;
+	width: 95%;
+}
+
+.textnav{
+  position: static;
+  width: auto;
+  text-align: center;
+  margin: 0 auto;
+  background: #195b39;
+}
+
+.mobilenav{
+	display: block;
+}
+
+}
+
 </style>
 
 </head>
@@ -278,10 +341,15 @@ li a img{
 		<a href="inventory/plushies/small" target="mainframe"><div id="smallplush"></div></a>
 		<a href="inventory/plushies/big" target="mainframe"><div id="bigplush"></div></a>
 
+</div>
 
+	
+
+	<div class="mobilenav">
+		<div class="navigationbutton"><button style="" onclick="toggleNavigation()">Click for Navigation</button></div>
 	</div>
 
-	<div class="textnav">
+	<div class="textnav" id="navigation">
 			<ul>
 				<li><a href="inventory/plushies/small" target="mainframe">Small Plushies</a></li>
 				<li><a href="inventory/plushies/big" target="mainframe">Big Plushies</a>
@@ -291,10 +359,15 @@ li a img{
 				<li><a href="inventory/clothes" target="mainframe">Clothes</a></li>
 				<li><a href="about" target="mainframe">About</a></li>
 				<li><a href="/home"><img src="masterball.gif"> Exit</a></li>
+
+					<div class="close"><li><a onclick="toggleNavigation()">Close</a></li></div> <!-- make invisible on desktop -->
+
 			</li>
 		</ul>
 
 	</div>
+
+
 
 	<div id="container">
 		<div id="content">
@@ -307,6 +380,27 @@ li a img{
 
 	</div>
 	</div>
+
+	<script>
+     
+     function toggleNavigation() {
+    var element = document.getElementById("navigation");
+    if (element.style.display == "block") {
+        element.style.display = "none";
+    } else {
+        element.style.display = "block";
+    }
+}
+
+function navigation_open() {
+  document.getElementById("navigation").style.display = "block";
+}
+
+function navigation_close() {
+  document.getElementById("navigation").style.display = "none";
+}
+
+</script>
 
 </body>
 
