@@ -129,7 +129,7 @@ html {
 
         <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
 
-                <p><a href="/home" class="close">close out of the guestbook</a></p></div>
+                <p align="center"><a href="/home" class="close">close out of the guestbook</a></p></div>
 
         <hr />
 
