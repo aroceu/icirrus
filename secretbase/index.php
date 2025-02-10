@@ -402,10 +402,12 @@ html {
   font: normal 150% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+  background: #fff;
 }
 
 .navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus{
 	color: #97806B;
+	background: #fff;
 } 
 
 .textnav li:hover, .textnav li:active{

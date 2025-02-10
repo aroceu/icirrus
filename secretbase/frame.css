@@ -190,5 +190,9 @@ border-bottom: #bf9d82 10px solid;
 	display: none;
 }
 
+.welcome, .welcome3 {
+	transform: none;
+}
+
 }
 
