@@ -360,23 +360,25 @@ html {
 
 .textnav li:hover, .textnav li:active{
 	background: #e0a8bc;
-}
-
-.close{
-	  display: block;
+	box-shadow: none;
 }
 
 .close li{
 	background: #fff;
 	width: 100%;
   padding: 0.2em;
-  font: normal 110% 'Silkscreen';
+  font: normal 100% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+  color: #97806B;
 }
 
 .close li a:link, .close li a:visited{
 	  color: #195b39;
+}
+
+.close{
+	  display: block;
 }
 
 }
@@ -439,9 +441,10 @@ html {
 	background: #fff;
 	width: 100%;
   padding: 0.2em;
-  font: normal 110% 'Silkscreen';
+  font: normal 100% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+  color: #97806B;
 }
 
 .close li a:link, .close li a:visited{
