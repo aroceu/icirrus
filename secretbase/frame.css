@@ -183,3 +183,12 @@ border-bottom: #bf9d82 10px solid;
   border-right: 10px solid #fff;
   border-bottom: 40px solid #fff;
 }
+
+@media only screen and (max-width: 430px) and (min-width: 0px) {
+
+#darumaka, #chansey, #substitute{
+	display: none;
+}
+
+}
+

@@ -339,6 +339,27 @@ html {
   display: block;
 }
 
+#content{
+	clip-path: none;
+}
+
+.navigationbutton button{
+	width: 100%;
+  padding: 0.2em;
+  color: #195b39;
+  font: normal 150% 'Silkscreen';
+  text-transform: lowercase;
+  letter-spacing: -2px;
+}
+
+.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus{
+	color: #97806B;
+} 
+
+.textnav li:hover, .textnav li:active{
+	background: #e0a8bc;
+}
+
 }
 
 /** smartphones **/
@@ -370,9 +391,25 @@ html {
 	 display: none;
 }
 
-#navigation .close li {
-  padding: 5px;
-  display: block;
+#content{
+	clip-path: none;
+}
+
+.navigationbutton button{
+	width: 100%;
+  padding: 0.2em;
+  color: #195b39;
+  font: normal 150% 'Silkscreen';
+  text-transform: lowercase;
+  letter-spacing: -2px;
+}
+
+.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus{
+	color: #97806B;
+} 
+
+.textnav li:hover, .textnav li:active{
+	background: #e0a8bc;
 }
 
 }
@@ -411,8 +448,6 @@ html {
 				<li><a href="inventory/clothes" target="mainframe">Clothes</a></li>
 				<li><a href="about" target="mainframe">About</a></li>
 				<li><a href="/home"><img src="masterball.gif"> Exit</a></li>
-
-					<div class="close"><li><a onclick="toggleNavigation()">Close</a></li></div> <!-- make invisible on desktop -->
 
 			</li>
 		</ul>
