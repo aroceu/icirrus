@@ -400,6 +400,7 @@ html {
   text-align: center;
   margin: 0 auto;
   background: #195b39;
+  font-size: 110%;
 }
 
 .mobilenav{
@@ -418,7 +419,7 @@ html {
 	width: 100%;
   padding: 0.2em;
   color: #195b39;
-  font: normal 150% 'Silkscreen';
+  font: normal 110% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
   background: #fff;
@@ -431,6 +432,7 @@ html {
 
 .textnav li:hover, .textnav li:active{
 	background: #e0a8bc;
+	box-shadow: none;
 }
 
 .close li{
@@ -449,6 +451,7 @@ html {
 .close{
 	  display: block;
 }
+
 
 }
 
