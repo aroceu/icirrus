@@ -1,7 +1,8 @@
-<html lang="en">
-
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="initial-scale=1.0">
+<!doctype html lang="en">
+<head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
 
 <title>GYM / BAG</title>
 

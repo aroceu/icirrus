@@ -1,8 +1,12 @@
-<html>
+<!doctype html lang="en">
 <head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
 
 <title>MASTERBALL / SECRET BASE</title>
 
+<link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=VT323&display=swap" rel="stylesheet">

@@ -1,10 +1,10 @@
-<!doctype html>
-<html lang="en">
+<!doctype html lang="en">
+<head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="robots" content="noai, noimageai">
 
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="viewport" content="initial-scale=1.0">
-
-	<title>GYM / PKMN</title>
+<title>GYM / PKMN</title>
+<meta name="viewport" content="initial-scale=1.0">
 
   <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 

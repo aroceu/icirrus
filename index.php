@@ -1,4 +1,4 @@
-<html lang="en">
+<!doctype html lang="en">
 <head>
       <meta name="description" content="yeah i'm a pokemon master suck it">
               <meta name="robots" content="noai, noimageai">

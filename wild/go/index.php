@@ -1,7 +1,11 @@
-<html lang="en">
+<!doctype html lang="en">
 <head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
+
 <title>WILD AREA / POK&eacute;GO</title>
-        <meta name="viewport" content="initial-scale=1.0">
+
 <link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>

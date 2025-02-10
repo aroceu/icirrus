@@ -1,11 +1,10 @@
-<html lang="en">
+<!doctype html lang="en">
 <head>
-      <meta name="description" content="yeah i'm a pokemon master suck it">
-      <meta name="viewport" content="initial-scale=1.0" />
-              <meta name="robots" content="noai, noimageai">
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
 
 <title>MASTERBALL / HOME</title>
-<meta name="viewport" content="initial-scale=1.0">
 
 <link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
 

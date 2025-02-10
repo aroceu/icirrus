@@ -1,8 +1,12 @@
-<!doctype html>
-<html lang="en"><head>
-<title>A WILD ??? APPEARED...</title>
+<html lang="en">
+<head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="robots" content="noai, noimageai">
+
+<title>A WILD ?? APPEARED...</title>
 <meta name="viewport" content="initial-scale=1.0">
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+
+<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
 <style type="text/css">
     body{
         background: #000;

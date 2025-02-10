@@ -1,3 +1,5 @@
+<!doctype html lang="en">
+
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
 <script type="text/javascript" src="../../animatedcollapse.js">
@@ -43,17 +45,14 @@ $(function() {
 </script>
 
 
-
-<!doctype html>
-
-<html lang="en">
-
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	  <meta name="viewport" content="initial-scale=1.0" />
-<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
-
+<head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
 
 <title>GYM / FIGHT</title>
+<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
+
 <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 
 <style type="text/css">

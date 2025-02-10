@@ -1,8 +1,11 @@
-<html lang="en">
+<!doctype html lang="en">
+<head>
+<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="viewport" content="initial-scale=1.0" />
+<meta name="robots" content="noai, noimageai">
 
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>NO! THERE'S NO RUNNING FROM A TRAINER BATTLE!</title>
-<meta name="viewport" content="initial-scale=1.0">
+
 <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
 
