@@ -531,7 +531,7 @@ img.pokecard{
 <li>Statistically, my favorite type is dragon, though I chalk this up to dragons being my favorite animal in general. Steel types are second.</li>
 <li>My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
 <li>The game I put the most hours in is Shield because I was addicted to shiny den hunting for months, at over 800 hours.</li>
-<li>Even though Pok&eacute;mon is my favorite overall franchise, my favorite series as actual <i>games</i> is Splatoon.</li>
+<li>Even though Pok&eacute;mon is my favorite overall franchise, my favorite series as an actual game is Splatoon.</li>
 </ul>
 </div>
 <div style="clear: both;"></div>

@@ -75,8 +75,7 @@
   font: normal 100% 'Lato';
 }
 #c_widget button:hover, #c_widget input[type=submit]:hover {
-background: #e4cebd;
-  color: #fff;
+background: #f9eee6;
 }
 #c_widget button:disabled, #c_widget input[type=submit]:disabled {opacity: 60%;}
 #c_widget button:disabled:hover, #c_widget input[type=submit]:disabled:hover {
@@ -140,7 +139,7 @@ margin: 0 10%;
     margin-top: 10px;
     margin-bottom: 10px;
     padding: 20px 20px 30px 20px;
-  background: #fef3e1;
+  background: #f0f0f0;
 }
 .c-reply:last-child {margin-bottom: 0;}
 

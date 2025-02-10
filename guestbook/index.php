@@ -16,6 +16,7 @@
                 background: url('bg4.png') repeat;
                 font: normal 100%/160% 'Lato', sans-serif;
                 color: #333;
+                overflow-x: hidden;
         }
 
 #interviewers{

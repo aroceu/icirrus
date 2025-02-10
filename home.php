@@ -19,7 +19,7 @@ body{
 }
 
 #container{
-    width: 41vw;
+    width: 42vw;
     margin: 5em auto;
 }
 
