@@ -15,6 +15,27 @@
 
 	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery-1.10.1.min.js"></script>
 
+		<script type="text/javascript">
+     
+     function toggleNavigation() {
+    var element = document.getElementById("navigation");
+    if (element.style.display == "block") {
+        element.style.display = "none";
+    } else {
+        element.style.display = "block";
+    }
+}
+
+function navigation_open() {
+  document.getElementById("navigation").style.display = "block";
+}
+
+function navigation_close() {
+  document.getElementById("navigation").style.display = "none";
+}
+
+</script>
+
 <style type="text/css">
 
 	*{
@@ -411,27 +432,6 @@ html {
 
 	</div>
 	</div>
-
-	<script>
-     
-     function toggleNavigation() {
-    var element = document.getElementById("navigation");
-    if (element.style.display == "block") {
-        element.style.display = "none";
-    } else {
-        element.style.display = "block";
-    }
-}
-
-function navigation_open() {
-  document.getElementById("navigation").style.display = "block";
-}
-
-function navigation_close() {
-  document.getElementById("navigation").style.display = "none";
-}
-
-</script>
 
 </body>
 
