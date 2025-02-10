@@ -236,7 +236,7 @@ text-shadow: 2.5px 2.5px 0 #4f3c2d;
 	letter-spacing: -2px;
 }
 
-.textnav ul li{
+ul.textnav{
 	list-style-type: none;
 	margin: 0;
 }
