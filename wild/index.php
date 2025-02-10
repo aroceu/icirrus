@@ -202,7 +202,7 @@ top: -10px;
 }
 
 .preview {
-  margin-left: 45px;
+  margin-left: 35px;
   margin-bottom: -150px;
   position: relative;
   top: -40px;
