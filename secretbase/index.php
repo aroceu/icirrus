@@ -308,6 +308,15 @@ html {
 	display: block;
 }
 
+#navigation{
+	 display: none;
+}
+
+#navigation .close li {
+  padding: 5px;
+  display: block;
+}
+
 }
 
 /** smartphones **/
