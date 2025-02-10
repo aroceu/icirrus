@@ -370,7 +370,7 @@ html {
 	background: #fff;
 	width: 100%;
   padding: 0.2em;
-  font: normal 150% 'Silkscreen';
+  font: normal 110% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
 }
@@ -439,7 +439,7 @@ html {
 	background: #fff;
 	width: 100%;
   padding: 0.2em;
-  font: normal 150% 'Silkscreen';
+  font: normal 110% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
 }
