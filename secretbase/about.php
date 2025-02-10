@@ -15,7 +15,7 @@
 
 <p><span>Still, I like owning things and spending money I may or may not have, so my collection is quite abundant here regardless. I'm a materialistic Pok&eacute;mon fan, what can I say.</span></p>
 
-<h2>Things I Used To Own</h2>
+<h2>Used To Own</h2>
 
 <p><span>Some of these I've only recently misplaced, while others are gone and only exist in my memory.</span></p>
 
