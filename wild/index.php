@@ -27,20 +27,25 @@ letter-spacing: 1px;
   }
 
   #grass{
-    margin-top: 7em;
-        padding-top: 25em;
-    background: #385830 url('bg.png') no-repeat center center;
-    background-size: contain;
+ background: #385830 url('bg.png') no-repeat center center;
+ background-size: cover;
+height: 500px;
+  width: 700px;
+  margin: 5em auto 0;
   }
 
   #bag{
-    position: absolute;
-    background: url('bag.png') no-repeat center center;
-    background-size: cover;
-    height: 150px;
-   top: 8em;
-  left: 42%;
-    width: 259px;
+position: relative;
+  background: url('bag.png') no-repeat center center;
+    background-size: auto;
+  background-size: cover;
+  height: 150px;
+  width: 261px;
+  margin: auto;
+  top: 35px;
+  right: 0;
+  bottom: 0;
+  left: 5px;
   }
 
   .ball{
@@ -53,18 +58,18 @@ letter-spacing: 1px;
   }
 
   .one{
-    top: 6em;
-  left: -3em;
+top: 120px;
+  left: -60px;
   }
 
-  .two{
-    top: 10em;
-  left: 4.5em;
+  .two {
+top: 180px;
+  left: 90px;
   }
 
   .three{
-    top: 6em;
-  right: -2em;
+top: 120px;
+  right: -60px;
   }
 
   .ball:hover{
@@ -116,12 +121,13 @@ letter-spacing: 1px;
 
         .preview{
           background: #fff;
-          border-radius:150px;
-          height: 150px;
-          width: 150px;
-          margin-left: 1.7em;
-          margin-bottom: -7.8em;
-          margin-top: -2em;
+  border-radius: 150px;
+  height: 150px;
+  width: 150px;
+  margin-left: 45px;
+  margin-bottom: -150px;
+  position: relative;
+  top: -40px;
         }
 
         .nobg{
@@ -147,6 +153,7 @@ letter-spacing: 1px;
   color: #88D870;
   text-transform: uppercase;
   font-size: 110%;
+  margin: 1.5em 0;
 }
 
 #footer a:link, #footer a:visited{
@@ -158,38 +165,61 @@ letter-spacing: 1px;
   color:#88D870;
 }
 
-  @media only screen and (max-width: 430px) and (min-width: 0px) {
+  @media only screen and (max-width: 599px) and (min-width: 0px) {
 
 html {
 -webkit-text-size-adjust: none;
 }
 
 #grass{
-  margin-top: 5%;
-  padding-top: 25em;
-}
+height: 350px;
+    width: 100vw;
+    margin: 5em auto 0;
+  }
 
 #bag{
-  height: 100px;
-  top: 23%;
-  left: 30%;
-  width: 173px;
+top: -10px;
+    height: 135px;
+    width: 235px;
+  }
+
+  .one {
+  top: 120px;
+  left: -40px;
 }
 
-.one {
-  top: 70%;
-  left: -15%;
+.two {
+  top: 165px;
+  left: 90px;
 }
 
-.two{
-  top: 100%;
-  left: 33%;
+.three {
+  top: 120px;
+  right: -35px;
 }
 
-.three{
-  top: 70%;
-  right: -5%;
+.ball img {
+  height: 50px;
+  width: 50px;
 }
+
+.preview {
+  margin-left: 45px;
+  margin-bottom: -150px;
+  position: relative;
+  top: -40px;
+}
+
+.box {
+  width: auto;
+  margin: 300px -10vw;
+  padding: 1em;
+}
+
+#footer{
+  margin: 120px auto 1em;
+}
+
 }
 
 </style>
@@ -243,10 +273,14 @@ html {
 
 </div>
 
+</div>
+
 <div id="footer">
 
   <a href="https://icirr.us/home">Retreat from the tall grass...</a>
   <br />(go back to home)
+
+</div>
 
 </body>
 
