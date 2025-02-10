@@ -84,11 +84,12 @@ a:hover, a:focus{
         color: #e8bf9d;
 }
 
-.close a:link, .close a:visited{
+a.close:link, a.close:visited{
         display: block;
   border: 2px solid #d18e90;
   width: fit-content;
   padding: 0.5em 1em;
+  text-align: center;
 }
 
   @media only screen and (max-width: 430px) and (min-width: 0px) {
@@ -128,7 +129,7 @@ html {
 
         <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
 
-                <p align="center"><a href="/home" class="close">close out of the guestbook</a></p></div>
+                <p><a href="/home" class="close">close out of the guestbook</a></p></div>
 
         <hr />
 
