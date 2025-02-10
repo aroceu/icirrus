@@ -350,14 +350,29 @@ html {
   font: normal 150% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+  background: #fff;
 }
 
-.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus{
+.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus, .close li a:hover, .close li a:hover, .close li a:active{
 	color: #97806B;
+	background: #fff;
 } 
 
 .textnav li:hover, .textnav li:active{
 	background: #e0a8bc;
+}
+
+.close li{
+	background: #fff;
+	width: 100%;
+  padding: 0.2em;
+  font: normal 150% 'Silkscreen';
+  text-transform: lowercase;
+  letter-spacing: -2px;
+}
+
+.close li a:link, .close li a:visited{
+	  color: #195b39;
 }
 
 }
@@ -405,13 +420,26 @@ html {
   background: #fff;
 }
 
-.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus{
+.navigationbutton button:hover, .navigationbutton button:active, .navigationbutton button:focus, .close li a:hover, .close li a:hover, .close li a:active{
 	color: #97806B;
 	background: #fff;
 } 
 
 .textnav li:hover, .textnav li:active{
 	background: #e0a8bc;
+}
+
+.close li{
+	background: #fff;
+	width: 100%;
+  padding: 0.2em;
+  font: normal 150% 'Silkscreen';
+  text-transform: lowercase;
+  letter-spacing: -2px;
+}
+
+.close li a:link, .close li a:visited{
+	  color: #195b39;
 }
 
 }
@@ -450,7 +478,7 @@ html {
 				<li><a href="inventory/clothes" target="mainframe">Clothes</a></li>
 				<li><a href="about" target="mainframe">About</a></li>
 				<li><a href="/home"><img src="masterball.gif"> Exit</a></li>
-
+					<div class="close"><li><a onclick="toggleNavigation()">Close</a></li></div> <!-- make invisible on desktop -->
 			</li>
 		</ul>
 
