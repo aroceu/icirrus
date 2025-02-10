@@ -296,6 +296,18 @@ html {
 	width: 70%;
 }
 
+.textnav{
+  position: static;
+  width: auto;
+  text-align: center;
+  margin: 0 auto;
+  background: #195b39;
+}
+
+.mobilenav{
+	display: block;
+}
+
 }
 
 /** smartphones **/
