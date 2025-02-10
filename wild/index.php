@@ -64,7 +64,7 @@ top: 120px;
 
   .two {
 top: 180px;
-  left: 90px;
+  left: 95px;
   }
 
   .three{
