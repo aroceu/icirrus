@@ -13,7 +13,7 @@
 	<img src="phanpy.png">
 	</div>
 
-	<p><span>The Amaura line was one of my top favorites for in 2015-2020 and I'm still quite fond of it today. I love these two Amauras.</span></p>
+	<p><span>The Amaura line was one of my top favorites in 2015-2020 and I'm still quite fond of it today. I love these two Amauras.</span></p>
 
 	<div class="item">
 	<img src="amaura-1.png">
