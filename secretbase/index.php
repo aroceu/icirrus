@@ -452,6 +452,10 @@ html {
 	  display: block;
 }
 
+h1{
+	font: normal 160% 'Silkscreen';
+}
+
 
 }
 
