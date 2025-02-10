@@ -370,8 +370,8 @@ html {
 		<div class="navigationbutton"><button style="" onclick="toggleNavigation()">Click for Navigation</button></div>
 	</div>
 
-	<div class="textnav" id="navigation">
-			<ul>
+	<div id="navigation">
+			<ul class="textnav">
 				<li><a href="inventory/plushies/small" target="mainframe">Small Plushies</a></li>
 				<li><a href="inventory/plushies/big" target="mainframe">Big Plushies</a>
 				<li><a href="inventory/posters" target="mainframe">Posters</a></li>
