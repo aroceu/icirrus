@@ -236,8 +236,9 @@ text-shadow: 2.5px 2.5px 0 #4f3c2d;
 	letter-spacing: -2px;
 }
 
-.textnav ul{
+.textnav ul li{
 	list-style-type: none;
+	margin: 0;
 }
 
 .textnav a:link, .textnav a:visited{
@@ -342,6 +343,15 @@ html {
 
 .mobilenav{
 	display: block;
+}
+
+#navigation{
+	 display: none;
+}
+
+#navigation .close li {
+  padding: 5px;
+  display: block;
 }
 
 }
