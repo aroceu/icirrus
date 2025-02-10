@@ -13,7 +13,7 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
 
-	<script type="text/javascript" src="https://aroceu.com/gifts/scripts/jquery-1.10.1.min.js"></script>
+	<script type="text/javascript" src="https://icirr.us/scripts/jquery-1.10.1.min.js"></script>
 
 		<script type="text/javascript">
      
