@@ -369,6 +369,7 @@ html {
   font: normal 150% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+    display: none;
 }
 
 .close li a:link, .close li a:visited{
@@ -436,6 +437,7 @@ html {
   font: normal 150% 'Silkscreen';
   text-transform: lowercase;
   letter-spacing: -2px;
+  display: none;
 }
 
 .close li a:link, .close li a:visited{
