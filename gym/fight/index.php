@@ -341,8 +341,6 @@ blockquote{
 
 </div>
 
-aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)
-
 <div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (welcome to my gym)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aggron.gif" alt="shiny aggron (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="mawile-mega.gif" alt="shiny mega mawile (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="ferrothorn.gif" alt="ferrothorn (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> <a href="javascript:animatedcollapse.toggle('more')" class="tooltip"><img src="corviknight.gif" alt="corviknight (you might be looking for...)" class="corvi"><span class="tooltiptext">you might be looking for...</span></a></div>
 
 <div id="info">
