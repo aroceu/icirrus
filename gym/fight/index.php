@@ -74,7 +74,7 @@ body{
 	padding: 2em 2em 2em;
 	box-shadow: 0.5em 0.5em 0em #555;
 	margin: 5em auto;
-	width: 35em;
+	width: 50em;
 	text-align: center;
 }
 
@@ -223,7 +223,7 @@ input#submit{
 	text-align: center;
 }
 
-img.corviknight{
+img.corvi{
 	vertical-align: -2em;
   margin-left: -1em;
 }
