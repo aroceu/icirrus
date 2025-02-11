@@ -109,13 +109,14 @@ a:hover, a:focus{
 }
 
 .info a:link, .info a:visited{
-	color: #bb3767;
+	color: #f1a0be;
 }
 
 .info a:hover, .info a:focus{
 background: #fff;
   box-shadow: none;
-  color: #195b39;
+  text-shadow: none;
+  color: #7dd195;
 
 }
 
@@ -127,10 +128,10 @@ background: #fff;
 }
 
 .info span{
-	color: #483827;
+	color: #fff;
   text-shadow: none;
   opacity: 0.9;
-  text-shadow: 1px 1px 15px #fff;
+  text-shadow: 2px 2px 3px #483827;
 }
 
 .info ul{

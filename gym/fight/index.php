@@ -17,6 +17,7 @@ animatedcollapse.addDiv('add', 'hide=1,fade=1, group=pkmn')
 animatedcollapse.addDiv('trainer', 'hide=1, fade=1, group=pkmn')
 animatedcollapse.addDiv('about', 'hide=1, fade=1, group=pkmn')
 animatedcollapse.addDiv('linkback', 'hide=1, fade=1, group=pkmn')
+animatedcollapse.addDiv('more', 'hide=1, fade=1, group=pkmn')
 animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
 	//$: Access to jQuery
 	//divobj: DOM reference to DIV being expanded/ collapsed. Use "divobj.id" to get its ID
@@ -279,7 +280,7 @@ blockquote{
 <div class="box"> <div class="pkmn">
 
 <div id="mobileparty">
-	<center><img src="mobileparty.png" style="margin-bottom: -1em" alt="a party of steel pokemon: bisharp (shiny), aegislash (shiny), mega aggron (shiny), excadrill (shiny), and tinkaton"></center>
+	<center><img src="mobileparty.png" style="margin-bottom: -1em" alt="a party of steel pokemon: aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)"></center>
 
 	<h1>welcome to my gym</h1>
 
@@ -340,7 +341,9 @@ blockquote{
 
 </div>
 
-<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="bisharp.gif" alt="shiny bisharp (welcome to my gym)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="aggron.gif" alt="shiny mega aggron (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="tinkaton.png" alt="tinkaton (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> </div>
+aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)
+
+<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (welcome to my gym)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aggron.gif" alt="shiny aggron (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="mawile-mega.gif" alt="shiny mega mawile (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="ferrothorn.gif" alt="ferrothorn (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> <a href="javascript:animatedcollapse.toggle('more')" class="tooltip"><img src="corviknight.gif" alt="corviknight (you might be looking for...)" class="corvi"><span class="tooltiptext">you might be looking for...</span></a></div>
 
 <div id="info">
 	<p align="center"><a href="https://github.com/aroceu/icirrus">View this project on Github</a></p>
@@ -388,8 +391,6 @@ blockquote{
 
 <p>If you've made it this far, thanks for visiting! I love sharing this passion project with others, especially in the hopes of them making websites for themselves as well. </p>
 
-<p>See <a href="https://icirr.us/docs">documentation</a> for more information on the process and history of making this site.</p>
-
 <p><small>Pok&eacute;mon &copy; GameFreak, Nintendo, & the Pok&eacute;mon Company. No copyright infringement intended.</small></p>
 
 <p align="center"><img src="pkmntrainer.gif"></p>
@@ -402,7 +403,21 @@ blockquote{
 <p><img src="linkback/pastel8831.png" alt="88x31 button pastel style"> <img src="linkback/pix8831.png" alt="88x31 button pixel style"></p>
 <p>Buttons for linking and whatnot. Please don't hotlink!</p>
 
-</div></div>
+</div>
+
+<div id="more"><br />
+
+	<p>You might also be looking for:</p>
+	<ul>
+		<li><a href="https://icirr.us/map">Site Map</a></li>
+		<li><a href="https://icirr.us/guestbook">Guestbook</a></li>
+		<li><a href="https://icirr.us/docs">Documentation</a></li>
+	</ul>
+
+</div>
+
+
+</div>
 
 
 </body>

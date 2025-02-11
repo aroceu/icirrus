@@ -227,11 +227,12 @@ html {
 		            	<ul>
 		            		<li><a href="https://icirr.us/gym/fight">Fight (site metadata)</a></li>
 		            			<ul>
-		            				<li>Repo Updates - bisharp</li>
-		            				<li>Contact/Add (in game) - aegislash</li>
-		            				<li>About (me as the webmaster) - aggron</li>
+		            				<li>Repo Updates - aegislash</li>
+		            				<li>Contact/Add (in game) - aggron</li>
+		            				<li>About (me as the webmaster) - mega mawile</li>
 		            				<li>About (the site) - excadrill</li>
-		            				<li>Linkback - tinkaton</li>
+		            				<li>Linkback - ferrothorn</li>
+		            				<li>Other site metadata links - corviknight</li>
 		            			</ul>
 		            		<li>Bag (in-page interactive quick links)</li>
 		            		<li><a href="https://icirr.us/gym/pkmn">Pok&eacute;mon (digital adoptables)</a></li>
