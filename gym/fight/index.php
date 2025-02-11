@@ -347,6 +347,14 @@ blockquote{
 <p>Buttons for linking and whatnot. Please don't hotlink!</p>
 </center>
 
+<h1>you might be looking for...</h1>
+
+	<ul>
+		<li><a href="https://icirr.us/map">Site Map</a></li>
+		<li><a href="https://icirr.us/guestbook">Guestbook</a></li>
+		<li><a href="https://icirr.us/docs">Documentation</a></li>
+	</ul>
+
 <div id="footer"><a href="../">Back To Gym</a> :: <a href="/home">Masterball</a></div>
 
 </div>
