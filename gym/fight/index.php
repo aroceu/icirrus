@@ -290,7 +290,7 @@ blockquote{
 <div class="box"> <div class="pkmn">
 
 <div id="mobileparty">
-	<center><img src="mobileparty.png" style="margin-bottom: -1em" alt="a party of steel pokemon: aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)"></center>
+	<center><img src="mobileparty.png" style="margin-bottom: -1em; max-width: 100%;" alt="a party of steel pokemon: aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)"></center>
 
 	<h1>welcome to my gym</h1>
 
