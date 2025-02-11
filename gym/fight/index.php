@@ -89,7 +89,7 @@ body{
 .pkmn{
 }
 
-#info, #add, #trainer, #pokego, #about, #linkback, #footer{
+#info, #add, #trainer, #pokego, #about, #linkback, #footer, #more{
 	font: normal 95%/160% 'Inconsolata', monospace, monospace;
 	color: #444;
 }
@@ -104,7 +104,7 @@ a:hover, a:active, a:focus{
 
 b{ color: #555; text-transform: uppercase;}
 
-#info, #about, #trainer{
+#info, #about, #trainer, #more{
 	text-align: left;
 }
 
@@ -221,6 +221,16 @@ input#submit{
 	display: none;
 	margin: 0 auto;
 	text-align: center;
+}
+
+img.corviknight{
+	vertical-align: -2em;
+  margin-left: -1em;
+}
+
+ul{
+	list-style-type: circle;
+	list-style-image: url('https://icirr.us/mb.png');
 }
 
   @media only screen and (max-width: 768px) and (min-width: 0px) {
