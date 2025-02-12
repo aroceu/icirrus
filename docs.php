@@ -92,7 +92,7 @@ h3{
 }
 
 h3::before{
-	content: "—";
+	content: "— ";
 }
 
 h4{
@@ -103,6 +103,11 @@ h4{
 
 code{
 	font: normal 100% 'Inconsolata';
+	color: #E3A250;
+}
+
+li{
+	margin: 1em 0;
 }
 
   @media only screen and (max-width: 810px) and (min-width: 431px) {
@@ -157,6 +162,11 @@ overflow-x: none;
 			<li><a href="#construction">Construction</a></li>
 				<ul>
 					<li><a href="#design">Design Notes</a></li>
+					<ul>
+						<li><a href="#sections">Sectional Distinction</a></li>
+						<li><a href="#fonts">Fonts</a></li>
+						<li><a href="#different">What's different about this site?</a></li>
+					</ul>
 					<li><a href="#process">Process</a></li>
 						<ul>
 							<li><a href="#scrapped">Initial/Scrapped Plans</a></li>
@@ -256,7 +266,7 @@ overflow-x: none;
 
 <b>Why two names?</b>
 
-<p>While I was pondering over domain ideas, I already knew without question that I didn't want a domain like masterball.com, or .org, or .info. I didn't want <i>masterball</i> to be in the URL - it felt too committed, even if this site has still been named Masterballl ever since. When it comes to things that are a creative reflection of my identity, I like to make choices that feel right just for me, even if it seems senseless to others. I don't like conforming to expectations. I like being able to do whatever I want.</p>
+<p>While I was pondering over domain ideas, I already knew without question that I didn't want a domain like masterball.com, or .org, or .info. I didn't want <i>masterball</i> to be in the URL - it felt too committed, even if this site has still been named Masterball ever since. When it comes to things that are a creative reflection of my identity, I like to make choices that feel right just for me, even if it seems senseless to others. I don't like conforming to expectations. I like being able to do whatever I want.</p>
 
 <p>So it had never really been a serious point of consideration, though I entertained the thought once or twice. Now, years later, I like the idea that my website has two names - who says that it should only have one? I use them both pretty interchangeably, though I suppose I'd say its preferred name is Masterball and icirr.us is on the birth certificate. But it's neither deliberate nor accidental, just a result of some decisions I made because they felt right to me in the moment, and continue to make me happy now. I also pretty much have two names here myself, anyway.</p>
 
@@ -273,7 +283,7 @@ overflow-x: none;
 
 <p>Aside from this documentation, I don't spend a lot of words to talk about a lot on other parts of this website. I like to keep things brief, which complements my minimalistic affinities. My feelings are ever-changing, anyway, and while this site basically has my history with Pokemon on display, I don't intend for it to read like an encyclopedia or an informative website. Instead, it's a lot like a museum gallery: the exhibits speak for themselves, and I hope that visitors take something away from it, even if that visitor is just me reminiscing about my first year of college where I spent an entire day in Black 2 looking for a female Eevee. </p>
 
-<h4>Sectional Distinction</h4>
+<h4 id="sections">Sectional Distinction</h4>
 
 <p>When coming up with the sections and how the visitors interact with the site, I wanted the undeniable identity of this being a Pokemon website not just make itself evident through its content or design, but practically oozing with it. I decided from the jump that everything would use Pokemon terminology in some way, even if that may make it harder to navigate for someone with a different level of familiarity than me. This doesn't impede my ability to make things more accessible anyway, but I also know that that can only go so far when I'm naming everything after Pokemon gimmicks. </p>
 
@@ -281,13 +291,13 @@ overflow-x: none;
 
 <p>The Bag in the gym is essentially an extremely reductionist presentation of these ideas: without explanation, it prompts you to pick an item leading you to another area of the site that you could otherwise access from the more explanatory home page. Though the bag exists out of menu completion, I like that it tests your familiarity with the functional nature of this website  (and Pokemon.) The link names don't always match the name of the sections, largely because I only want the bag to list key items (except for the masterball, of course.) Still, there is some relevance between a section and how it's referred to in the bag. And it's a nice way for me to keep a reference to the guestbook being formerly designed and named as an Xtransceiver. </p>
 
-<h4>Fonts</h4>
+<h4 id="fonts">Fonts</h4>
 
 <p>I don't really complicate it with the font choices here. Century Gothic was my favorite font when I was younger, but I have a Mac and like the aesthetic display of Futura, which is similar to it, a little more. (It's still Century Gothic on PC though.) Both fonts fit with the minimalism aesthetic in their sans-serif nature, yet have a unique look, as I hope this website feels despite its plainness in parts. </p>
 
 <p>I use other fonts when the content calls for it. The trainer section is styled most similarly to the home and landing page because for all intents and purposes, it *is* the main showcase of this site. The uniformity of font use reflects that. Other sections - the Gym, the Wild Area, the Secret Base - use fonts that better fit the content, and more often than not are monospace, primarily to emulate the video game feel. Inconsolata (the Gym and Fight font) is the font I've used the most on my other websites; chronologically, however, I believe it started here. It's more of my love-for-websites font, which fits with being the font of my site's metadata. </p>
 
-<h4>What's different about this site?</h4>
+<h4 id="different">What's different about this site?</h4>
 
 <p>As I've mentioned before, I have other website projects. This is just one of many, but it's a pretty big one nonetheless, due to the omnipresence of Pokemon in my life. I've made a conscious effort to make this one different in a lot of ways, though, centered around a single idea with a clear focus (Pokemon), while my other projects have more personal or less franchise-driven intents. But I like channeling my more superficial and consumerist tendencies here. </p>
 
@@ -302,9 +312,11 @@ overflow-x: none;
 
 <li>Radio buttons as in-page navigation in the Wild Area. This was brand new for me, relatively speaking, though I had always known how radio buttons worked in code. I didn't have a project to use them on before, so this was an exciting first time using it.</li>
 
+</ul>
+
 <p>Much like my other sites, Masterball is mostly focused on organizational design with an emphasis on substance, because that's how I operate as an artist and a visual architect. If I were another person I'd say that I could change this around if I ever wanted to - but I won't, because this is just a part of who I am and how my creative brain works. Even with writing, I spend a lot of time thinking about syntax and vocabulary to strengthen my voice and style in prose. I'm consistent, I suppose. And an over-thinker. </p>
 
-<h4>Process</h4>
+<h3 id="process">Process (initial launch in February 2017)</h3>
 
 <p>Beyond conceptualizing and drawing wireframes, the first thing I did was make the index page and create the graphics in Photoshop. I wanted an obvious and visually appealing masterball motif, so I opted to make it more pastel than accurate to game sprites. I'd initially made the vector as a masterball idea to then convert into splash page graphics, and liked it so much that I made linkback buttons out of it right afterward.</p>
 
@@ -332,7 +344,7 @@ overflow-x: none;
 
 <p>I saved and tested all the webpages locally as HTML and CSS files, then converted them to PHP and uploaded the entire project via FTP at the end. I will note that these days, however, I upload via Github Desktop, so now I can skip a few steps.</p>
 
-<h5>Scrapped/Initial Plans</h5>
+<h4 id="scrapped">Scrapped/Initial Plans</h4>
 
 <p>This website has gone through a lot of changes, both big and small, despite the amount of things that have also stayed the same. Here's a list of design and organizational choices I had made for previous iterations of this project that are no longer present:</p>
 
@@ -353,7 +365,7 @@ overflow-x: none;
 	<li>My error page used to have a white background, but now it's all black.</li>
 </ul>
 
-<h5>November 2024: The Responsive Update</h5>
+<h3 id="nov24">November 2024: The Responsive Update</h3>
 
 <p>I'd known how to make my code responsive before I even started this website. But - and this isn't the first place I'm complaining about it - I don't like making my designs responsive, even though I absolutely understand its necessity. It's generally about resizing in a preset boundary with barely any reason to make decisions when it comes to aesthetic design, and therefore is webdesign but without the part that's actually fun to me.</p>
 
@@ -382,7 +394,7 @@ overflow-x: none;
 
 <p>I worked on this all through my Thanksgiving holiday in 2024, while my mom was visiting me. This isn't that important, but that memory will forever be tied to that development stage of this site now.</p>
 
-<h5>February 2025: The Wild Area & Secret Base Update</h5>
+<h3 id="feb25">February 2025: The Wild Area & Secret Base Update</h5>
 
 <p>I had TCGP and PokeRogue as the elements of this site that I would work on next. But as I had a lot less to show about PokeRogue, and a lot more with TCGP due to my luck with pulls, I decided to work on the TCGP page. I ran into some creative difficulties in the process since I barely had even a visual idea of how I wanted it to look, just that it should be as true and necessary as any other section. I settled on the motif of a binder of cards but still displayed as a vertical scrolling webpage to emulate the mobile app feel, with a large empty section to showcase the binder image as its cover. The background was an annoying point of indecision that I put off until the end. Eventually I realized that a wood pattern would make it look like a binder on a desk and enhance that vibe even more.</p>
 
@@ -404,7 +416,7 @@ overflow-x: none;
 
 <p>The Secret Base was a day-long project; I passed out early on Sunday morning. I woke up several hours later suddenly with an idea of how to make the guestbook look cuter in a way that I liked. So I worked on it immediately, after being asleep barely 10 minutes prior, now looking up PNGs of Gabby and Ty from Ruby/Sapphire/Emerald and creating a design I was a lot more fond of than its initial Xtransceiver layout. I was pretty much done by the end of the weekend, and it felt quite fitting as this was also around the eighth anniversary of this website's launch. </p>
 
-<h2>Site Walkthrough</h2>
+<h2 id="walkthrough">Site Walkthrough</h2>
 
 <p>Upon entering the site, the visitor gets presented with the image of a large masterball and the instruction to open it (or click on an adjoining link) to begin one's journey on the website.</p>
 
@@ -494,7 +506,7 @@ overflow-x: none;
 
 <p>6. The <b>Site Map</b> is a hierarchal list of all pages on this website. It also contains some explanations for smaller sections that are not accessibly and summarily explained on their respective page. There is no further navigation here, as the map itself is navigation. The Github repository and documentation are linked here as well.</p>
 
-<h3>Future Plans</h3>
+<h3 id="future">Future Plans</h3>
 
 <ul>
 	<li>Victory Road for fangames, including PokeRogue.</li>
@@ -507,7 +519,7 @@ overflow-x: none;
 	<li>If I ever play spinoff games enough to want to archive them here, they'll be in a section called "Battle Frontier" because dude, I really like Emerald, okay. Its bag link will be the S.S. Ticket.</li>
 </ul>
 
-<h3>End Credits</h3>
+<h3 id="credits">End Credits</h3>
 
 <ul>
 	<li><a href="https://play.pokemonshowdown.com/sprites/">Pok&eacute;mon Showdown</a> for trainer sprites and animated Pok&eacute;mon sprites</li>
@@ -522,6 +534,7 @@ overflow-x: none;
 	<li><a href="https://virtualobserver.moe/ayano/comment-widget">Comment widget by Virtual Observer</a> for the guestbook</li>
 	<li>Secret Base made with the <a href="https://pamtre-berry.neocities.org/fun/secretbase#">Secret Base Maker on Pamtre-Berry</a>. Additional graphic credits are in the Secret Base "about" section.</li>
 	<li>I found the graphic for the Pok&eacute;mon Go Valor vector ages ago, though could not tell you now where or how I got it beyond a simple Google search.</li>
+	<li><a href="https://fonts.google.com/">Google Fonts</a></li>
 	<li>Photoshop 2024 &mdash; ball page backgrounds were handmade by me</li>
 	<li>Github Desktop</li>
 	<li>SublimeText</li>
@@ -531,13 +544,31 @@ overflow-x: none;
 
 <p>The Gym &rarr; Pokemon section has its own list of credits, as it is a page of things I've collected from other people's websites.</p>
 
-<h2>Disclaimers, Privacy, & Accessibility</h2>
+<h2 id="disclaimers">Disclaimers, Privacy, & Accessibility</h2>
 
 <p>Though I have done my best, some webpages on this site do not have a fully accessible color contrast ratio but do not require the visitor to spend more than a minute or so of reading.</p>
 
-<p>This website was made for creative and entertainment purposes. I am not receiving anything monetarily through this website. No copyright infringement intended.</p>
+<p>All pages are handcoded by me.</p>
 
-<p>See <a href="https://aroceu.com/docs">my full documentation</a> for further notes regarding privacy.</p>
+<p>As a big believer in accessibility and privacy, I have done my best to make my websites as accessible and uninterested in visitor information as possible. This includes:</p>
+
+<ul>
+	<li>Not using tracking cookies for analytics.</li>
+<li>No third-party advertisements, sponsorships, corporate endorsements, or pop-ups.</li>
+<li>Using semantic HTML as much as possible for screenreaders.</li>
+</ul>
+
+<p>Additionally, this website:</p>
+
+<ul>
+	<li>Uses javascript for same-page navigation, galleries, custom fonts, and collapsible components.</li>
+  <li>Makes simple use of iFrames to convey a small amount of information between separated content.</li>
+  <li>Does not use any audio on webpages, auto-play or otherwise.</li>
+ 	<li>Does not make any use of AI-generated text, images, or content.</li>
+ 	<li>Allows little to no access for AI scraping, web crawlers, or search engines. I don't mind being shared or archived but I don't want my data to be commodified either.</li>
+ </ul>
+
+<p>This website was made for creative and entertainment purposes. I am not receiving anything monetarily through this website. No copyright infringement intended.</p>
 
 </div>
 
