@@ -187,9 +187,9 @@ overflow-x: none;
 			<li><a href="#walkthrough">Site Walkthrough</a></li>
 				<ul>
 					<li><a href="#future">Future Plans</a></li>
-					<li><a href="#credits">End Credits</a></li>
-					<li><a href="#disclaimers">Disclaimers, Privacy, and Accessibility</a></li>
 				</ul>
+			<li><a href="#credits">End Credits</a></li>
+			<li><a href="#disclaimers">Disclaimers, Privacy, and Accessibility</a></li>
 			</ul>
 
 		<h2 id="intro">Introduction</h2>
@@ -240,9 +240,9 @@ overflow-x: none;
 
 <p>Well&mdash;not everything. But it did encourage me to think about (and subsequently change) the structure of this site, after retaining the same architecture for over seven years. And I knew I wanted to, anyway. This site was made while I was a creative writing dropout, but several years later I was someone who'd studied Computer Science for three years and had a steady job. Now I had more learned knowledge in code, design, and overall development reasoning. So the idea of changing this website that had been pretty much the same for several years was both daunting but also exciting. It made me think of how to make it accessible and navigable while still retaining my stylistic touch and ambition to make it a unique experience of its own. </p>
 
-<p>And all these years later, I finally understood something critical about myself: that I like making websites as a hobby and purely for fun. Though not the reason I dropped out the second time, I'm somewhat glad I never finished getting a CS degree. My interest in majoring in it in the first place back in high school was driven by my interest in webdesign and therefore no different than my interest in studying creative writing, too: I like doing them for fun, for me, in my own time, and not for anyone else. This is a passion project as much as any of my other websites or stories, and I want it to be thorough, accurate,and true to who I am as a person, Pok&eacute;mon fan, <em>and</em> webdesigner. So upon getting prompted to think of new ways to improve my site, and then doing so, it was quick work for me to reorganize pages I had made several years ago into making more sense, and come up with new ideas. </p>
+<p>And all these years later, I finally understood something critical about myself: that I like making websites as a hobby and purely for fun. Though not the reason I dropped out the second time, I'm somewhat glad I never finished getting a CS degree. My interest in majoring in it in the first place back in high school was driven by my interest in webdesign and therefore no different than my interest in studying creative writing, too: I like doing them for fun, for me, in my own time, and not for anyone else. This is a passion project as much as any of my other websites or stories, and I want it to be thorough, accurate, and true to who I am as a person, Pok&eacute;mon fan, <em>and</em> webdesigner. So upon getting prompted to think of new ways to improve my site, and then doing so, it was quick work for me to reorganize pages I had made several years ago into making more sense, and to come up with new ideas. </p>
 
-<p>So here I am several years later: with a project I started when I was at an aimless point in my life and just wanted something to work on, to now where I'm eager to develop this project as I traverse the inevitability of time. I'm much more confident in who I am and what I want, and one thing that I will continue to want is to change, to improve, even if it's in ways that only matter to me. Though this website is nominally centered around my love for Pok&eacute;mon, it's also centered around my life. Pok&eacute;mon is the franchise I've loved the longest with a consistent intensity more than anything else, even if I've written more fanfiction for other media or put more hours into other video games. But ever since I watched the Pok&eacute;mon anime for the first time in that kindergarten classroom (which I can still recall with clarity because it's tied to that specific memory), I was hooked. Pok&eacute;mon had taken its hold onto me. Even as the years passed, I always returned for more.</p>
+<p>So here I am several years later: with a project I started when I was at an aimless point in my life and just wanted something to work on, to now where I'm eager to add and evolve this website as I traverse the inevitability of time. I'm much more confident in who I am and what I want, and one thing that I will continue to want is to change, to improve, even if it's in ways that only matter to me. Though this website is nominally centered around my love for Pok&eacute;mon, it's also centered around my life. Pok&eacute;mon is the franchise I've loved the longest with a consistent intensity more than anything else, even if I've written more fanfiction for other media or put more hours into other video games. But ever since I watched the Pok&eacute;mon anime for the first time in that kindergarten classroom (which I can still recall with clarity because it's tied to that specific memory), I was hooked. Pok&eacute;mon had taken its hold onto me. Even as the years passed, I always returned for more.</p>
 
 <h3 id="purpose">Site Purpose</h3>
 
@@ -529,7 +529,7 @@ overflow-x: none;
 	<li>If I ever play spinoff games enough to want to archive them here, they'll be in a section called "Battle Frontier" because I just really like Emerald, okay. Its bag link will be the S.S. Ticket.</li>
 </ul>
 
-<h3 id="credits">End Credits</h3>
+<h2 id="credits">End Credits</h3>
 
 <ul>
 	<li><a href="https://play.Pok&eacute;monshowdown.com/sprites/">Pok&eacute;mon Showdown</a> for trainer sprites and animated Pok&eacute;mon sprites</li>
