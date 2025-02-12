@@ -153,7 +153,7 @@ html {
 
 <div class="box">
 
-<h1><img src="orasmay.png" alt=""> #49385 ALICE</h1>
+<h1><img src="orasmay.png" alt=""> #49385</h1>
 <hr />
 
 <ul><li><b>DATE STARTED</b> 21 NOVEMBER 2014</li>

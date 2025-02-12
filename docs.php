@@ -238,7 +238,7 @@ overflow-x: none;
 
 <p>But starting in September 2024 I got the webdesign itch like I hadn't before, not since I was 15 and addicted to making several HTML/CSS layouts every day. I worked on my other web projects, and in lieu of that I touched up some things about Masterball that I thought I could do better. I decided to hunt for more affiliates just to keep my button wall more up to date and with less broken links. I reached out to some webmasters after clicking around here and there, which resulted in me getting an email from <a href="https://dragonflycave.com">Butterfree</a> that changed everything.</p>
 
-<p>Well&mdash;not everything. But it did encourage me to think about (and subsequently change) the structure of this site, after retaining the same architecture for over seven years. And it felt right, anyway: this site was made while I was a creative writing dropout, but several years later I was someone who'd studied Computer Science for three years and with a steady job. I knew that I now had more learned knowledge in code, design, and overall development reasoning. So the idea of changing this website that had been pretty much the same for several years was both daunting but also exciting. It made me think of how to make it accessible and navigable while still retaining my stylistic touch and ambition to make it a unique experience of its own. </p>
+<p>Well&mdash;not everything. But it did encourage me to think about (and subsequently change) the structure of this site, after retaining the same architecture for over seven years. And it felt right, anyway: this site was made while I was a creative writing dropout, but several years later I was someone who'd studied Computer Science for three years and had a steady job. I knew that I now had more learned knowledge in code, design, and overall development reasoning. So the idea of changing this website that had been pretty much the same for several years was both daunting but also exciting. It made me think of how to make it accessible and navigable while still retaining my stylistic touch and ambition to make it a unique experience of its own. </p>
 
 <p>And all these years later, I finally understood something critical about myself: that I like making websites as a hobby and purely for fun. Though not the reason I dropped out the second time, I'm somewhat glad I never finished getting a CS degree. My interest in majoring in it in the first place back in high school was driven by my interest in webdesign and therefore no different than my interest in studying creative writing, too: I like doing them for fun, for me, in my own time, and not for anyone else. This is a passion project as much as any of my other websites or stories, and I want it to be thorough, accurate,and true to who I am as a person, Pok&eacute;mon fan, <em>and</em> webdesigner. So upon getting prompted to think of new ways to improve my site, and then doing so, it was quick work for me to reorganize pages I had made several years ago into making more sense, and come up with new ideas. </p>
 
@@ -303,9 +303,9 @@ overflow-x: none;
 
 <h4 id="fonts">Fonts</h4>
 
-<p>I don't really complicate it with the font choices here. Century Gothic was my favorite font when I was younger, but I have a Mac and like the aesthetic display of Futura, which is similar to it, a little more. (It's still Century Gothic on PC though.) Both fonts fit with the minimalism aesthetic in their sans-serif nature, yet have a unique look, as I hope this website feels despite its plainness in parts. </p>
+<p>I don't really complicate it with the font choices here. Century Gothic was my favorite font when I was younger, but I have a Mac and like the aesthetic display of the similar font Futura a little more. (The main font is still Century Gothic on PC though.) Both fonts fit with the minimalism aesthetic in their sans-serif nature, yet have a unique look, as I hope this website also feels despite its plainness in parts. </p>
 
-<p>I use other fonts when the content calls for it. The trainer section is styled most similarly to the home and landing page because for all intents and purposes, it <em>is</em> the main showcase of this site. The uniformity of font use reflects that. Other sections&mdash;the Gym, the Wild Area, the Secret Base&mdash;use fonts that better fit the content, and more often than not are monospace, primarily to emulate the video game feel. <a href="https://fonts.google.com/specimen/Inconsolata">Inconsolata</a> (the Gym and Fight font) is the font I've used the most on my other websites; chronologically, however, I believe it started here. It's more of my love-for-websites font, which fits with being the font of my site's metadata. </p>
+<p>I use other fonts when the content calls for it. The trainer section is styled most similarly to the home and landing page because for all intents and purposes, it <em>is</em> the main showcase of this site. The uniformity of font use reflects that. Other sections&mdash;the Gym, the Wild Area, the Secret Base&mdash;use fonts that better fit the content, and more often than not are monospace, primarily to emulate the video game feel. <a href="https://fonts.google.com/specimen/Inconsolata">Inconsolata</a> (the Gym and Fight font) is the font I've used the most on my other websites; chronologically, however, I believe it started here. It's more of my love-for-websites font, which fits with being used for my site's metadata. </p>
 
 <h4 id="different">What's different about this site?</h4>
 
@@ -318,9 +318,9 @@ overflow-x: none;
 
 <li>Emulating another existing design and layout idea rather than creating or transforming my own, coming through the Pok&eacute;mon Go page being reminiscent of the app.</li>
 
-<li>Image mapping in the Secret Base. I've had experience with image mapping before when I was younger and still learning everything, but even that was through my photo editor at the time. For years, I hadn't found a reason to even want to use image maps, but this site gave me a reason to./li>
+<li>Image mapping in the Secret Base. I've had experience with image mapping, from when I was younger and still learning everything, but even that was through my photo editor at the time. For years, I hadn't found a reason to even want to use image maps, but this site gave me a reason to.</li>
 
-<li>Radio buttons as in-page navigation in the Wild Area. This was brand new for me, relatively speaking, though I had always known how radio buttons worked in code. I didn't have a project to use them on before, so this was an exciting first time using it.</li>
+<li>Radio buttons as in-page navigation in the Wild Area. This was brand new for me, relatively speaking, though I had always known how radio buttons worked in code. I didn't have a project that needed them before, so this was an exciting first time use.</li>
 
 </ul>
 
@@ -352,7 +352,7 @@ overflow-x: none;
 
 <p>Lastly, I made the Pok&eacute;mon Go section, which was the Pok&eacute;mon link in the Gym at the time. I'd put it off to work on at the end because it required me to archive game data again, when the other sections were more about the site. Still, I'd known from the start that I wanted the webpage to look like it had been taken straight from the Pok&eacute;mon Go app, so I implemented a CSS gradient background, turned my in-game trainer into a PNG, and archived my dex progress by displaying hundreds of sprites on one page. I've updated the trainer info off and on as often as I play Pok&eacute;mon Go, though I like my current avatar a lot that I don't anticipate changing it much any time soon.</p>
 
-<p>I saved and tested all the webpages locally as HTML and CSS files, then converted them to PHP and uploaded the entire project via FTP at the end. I will note that these days, however, I upload via Github Desktop, so now I can skip a few steps.</p>
+<p>I saved and tested all the webpages locally as HTML and CSS files, then converted them to PHP and uploaded the entire project via FTP at the end. However, as of October 2024, I upload via Github Desktop, so now I can skip a few steps.</p>
 
 <h3 id="nov24">November 2024: The Responsive Update</h3>
 
