@@ -156,7 +156,7 @@ overflow-x: none;
 
 		<p class="update"><i>Last Updated: 11 February 2025</i></p>
 
-		<p>This is a manual on how and why I built <b>Masterball</b>, as of this documentation being last updated. It is very long, with a lot of lists and subsections, and is mostly for me to vocalize the thoughts and reflections I had while (and after) making this website.</p>
+		<p>This is a manual on how and why I built <b>Masterball</b>, as of this documentation being last updated. It is very long, with a lot of lists and subsections, and is mostly for me to verbalize the thoughts and reflections I had while (and after) making this website.</p>
 
 		<p>I may make changes or rewrite this wholecloth in the future. Here is how I've documented the site for now.</p>
 
