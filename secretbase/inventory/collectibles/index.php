@@ -3,13 +3,13 @@
 
 <div class="collection">
 
-	<p><span>A birthday gift from a friend in 2019.</span></p>
+	<p><span>A birthday gift from Eri in 2019.</span></p>
 
 	<div class="item">
 	<img src="galar-ponyta.png">
 	</div>
 
-	<p><span>From the Splatoon 3 Water vs. Fire vs. Grass Pok&eacute;mon Splatfest in late 2022. I also received the Fire one, but mailed that one to my friend Sani because she wanted it, since it's orange.</span></p>
+	<p><span>From the Splatoon 3 Water vs. Fire vs. Grass Pok&eacute;mon Splatfest in late 2022. I also received the Fire one, but mailed it to my friend Sani because she wanted it, since it's orange.</span></p>
 
 	<div class="item">
 	<img src="splat-keychains.png">

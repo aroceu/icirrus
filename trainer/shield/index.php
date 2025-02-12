@@ -53,8 +53,8 @@ a.movesetlink:hover{
 <div id="ava"><img src="gloria.png" alt="Female player character in Pokemon Sword/Shield"></div>
 <div id="meta"><h1>Shield <i>Gen VIII</i></h1>
 <h2>2019 Galar Region</h2>
-<div class="talk"><p>I knew I was going to get Shield despite the vast amount of criticism it got&mdash;and, uh, despite that criticism, I've actually put my new most hours into it - 500 and counting. It's due to that I play with friends a lot, have made a lot of new friends through it, and the shiny raid exploits. Which, speaking of, <a href="shiny">I now have a whole subsection for my gen 8 shinies</a>. (And I wrote a guide for it which I linked there.)</p>
-<p>Yes, I'm aware of the very unfortunate circumstance that I named these pokemon after Harry Potter characters shortly before JK Rowling showed her whole ass in being a TERF. I do not support this at all. The nickname of my Pok&eacute;mon is not an endorsement of her views.</p></div></div>
+<div class="talk"><p>I knew I was going to get Shield despite the vast amount of criticism it got&mdash;and, uh, despite that criticism, I've actually put my new most hours into it, because of my addiction to shiny raid exploits. Which, speaking of, <a href="shiny">I now have a whole subsection for my gen 8 shinies</a>.</p>
+<p>I'm aware of the very unfortunate circumstance that I named these pok&eacute;mon after Harry Potter characters shortly before JK Rowling showed her whole ass in being a TERF. I do not support this ideology. The nickname of my Pok&eacute;mon should not be taken as an endorsement of her views.</p></div></div>
 </div></div>
 
 <div id="pokes">

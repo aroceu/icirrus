@@ -47,7 +47,7 @@ $(function() {
 
 
 <head>
-<meta name="description" content="yeah i'm a pokemon master suck it">
+<meta name="description" content="yeah i'm a pok&eacute;mon master suck it">
 <meta name="viewport" content="initial-scale=1.0" />
 <meta name="robots" content="noai, noimageai">
 
@@ -292,7 +292,7 @@ blockquote{
 <div id="mobileparty">
 	<center><img src="mobileparty.png" style="margin-bottom: -1em; max-width: 100%;" alt="a party of steel pokemon: aegislash (shiny), aggron (shiny), mega mawile (shiny), excadrill (shiny), ferrothorn (shiny), and corviknight (shiny)"></center>
 
-	<h1>welcome to my gym</h1>
+	<h1>updates</h1>
 
 	<p><a href="https://github.com/aroceu/icirrus">View this project on Github</a></p>
 
@@ -310,7 +310,7 @@ blockquote{
     <blockquote><center>30s, Chinese-American, she/her/any<br />
     	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water"><img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
-<p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
+<p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary understanding of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
 <p><img src="clair.png" alt="clair" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
 
@@ -320,15 +320,15 @@ blockquote{
 
 <p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls as often as my ADHD allows me to remember to.</p>
 
-<p>My life since 2004 has just been me going "Pokemon!!!!!!" every so often, even now, over 20 years later. And I wouldn't have it any other way.</p>
+<p>My life since 2004 has just been me going "Pok&eacute;mon!!!!!!" every so often, even now, over 20 years later. And I wouldn't have it any other way.</p>
 
 <h1>site info</h1>
 
 <blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pokemon is ongoing. Pokemon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pok&eacute;mon is ongoing. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
 
-<p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been turn on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
+<p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been done on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
 
 <p>If you've made it this far, thanks for visiting! I love sharing this passion project with others, especially in the hopes of them making websites for themselves as well. </p>
 
@@ -347,7 +347,9 @@ blockquote{
 <p>Buttons for linking and whatnot. Please don't hotlink!</p>
 </center>
 
-<h1>you might be looking for...</h1>
+<h1>additional links</h1>
+
+<p>You might also be looking for:</p>
 
 	<ul>
 		<li><a href="https://icirr.us/map">Site Map</a></li>
@@ -359,7 +361,7 @@ blockquote{
 
 </div>
 
-<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (welcome to my gym)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aggron.gif" alt="shiny aggron (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="mawile-mega.gif" alt="shiny mega mawile (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="ferrothorn.gif" alt="ferrothorn (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> <a href="javascript:animatedcollapse.toggle('more')" class="tooltip"><img src="corviknight.gif" alt="corviknight (you might be looking for...)" class="corvi"><span class="tooltiptext">you might be looking for...</span></a></div>
+<div id="party"><a href="javascript:animatedcollapse.toggle('info')" class="tooltip"><img src="aegislash.gif" alt="shiny aegislash (updates)"><span class="tooltiptext">welcome to my gym</span></a> <a href="javascript:animatedcollapse.toggle('add')" class="tooltip"><img src="aggron.gif" alt="shiny aggron (contact & add me)"> <span class="tooltiptext">contact & add me!</span></a> <a href="javascript:animatedcollapse.toggle('trainer')" class="tooltip"><img src="mawile-mega.gif" alt="shiny mega mawile (trainer info)"><span class="tooltiptext">trainer info</span></a> <a href="javascript:animatedcollapse.toggle('about')" class="tooltip"><img src="excadrill.gif" alt="shiny excadrill (site info)"><span class="tooltiptext">site info</span></a> <a href="javascript:animatedcollapse.toggle('linkback')" class="tooltip"><img src="ferrothorn.gif" alt="ferrothorn (linkback buttons)"><span class="tooltiptext">linkback/buttons</span></a> <a href="javascript:animatedcollapse.toggle('more')" class="tooltip"><img src="corviknight.gif" alt="corviknight (additional links)" class="corvi"><span class="tooltiptext">additional links</span></a></div>
 
 <div id="info">
 	<p align="center"><a href="https://github.com/aroceu/icirrus">View this project on Github</a></p>
@@ -386,7 +388,7 @@ blockquote{
     <blockquote><center>30s, Chinese-American, she/her/any<br />
     	<img src="water.png" style="vertical-align: baseline!important; height: 14px!important" alt="Water"><img src="fairy.png" style="vertical-align: baseline!important; height: 14px!important" alt="Fairy"></center></blockquote>
 
-<p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary knowledge of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
+<p><br /> My overall playstyle when playing Pok&eacute;mon is focused on the collecting and completion aspects, as well as my enjoyment of the plots, characters, and general aesthetics. I have very rudimentary understanding of competitive Pok&eacute;mon, but I do enjoy watching and understanding the more strategic elements of the franchise, including speedruns and Nuzlockes.</p>
 
 <p><img src="clair.png" alt="clair" style="float: left; padding: 10px 10px 0 10px;">Other than that, I'm a casual and enthusiastic player. I like to keep up with news, and have played nearly every mainline series game since Ruby/Sapphire, with the exception of Ultra Sun/Moon, and Scarlet/Violet, both of which I own but have not found the chance to play yet.</p>
 
@@ -396,14 +398,14 @@ blockquote{
 
 <p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls as often as my ADHD allows me to remember to.</p>
 
-<p>My life since 2004 has just been me going "Pokemon!!!!!!" every so often, even now 20 years later. And I wouldn't have it any other way.</p>
+<p>My life since 2004 has just been me going "Pok&eacute;mon!!!!!!" every so often, even now 20 years later. And I wouldn't have it any other way.</p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pokemon is ongoing. Pokemon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pok&eacute;mon is ongoing. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
 
-<p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been turn on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
+<p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been done on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
 
 <p>If you've made it this far, thanks for visiting! I love sharing this passion project with others, especially in the hopes of them making websites for themselves as well. </p>
 

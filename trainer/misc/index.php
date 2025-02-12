@@ -2,7 +2,7 @@
 
 <style type="text/css">
 body{
-    background: #ffb83d;
+    background: #eaa938;
 	/* background: #e7b0b6; */
 }
 
@@ -21,7 +21,7 @@ body{
 <div id="ava"><img src="yellow.png" alt="Pokemon trainer Yellow from Pokemon Special (manga)"></div>
 <div id="meta"><h1>MISC<i>ELLANEOUS</i></h1>
 <h2>2003 - 2019</h2>
-<div class="talk">Here are all my "miscellaneous" pok&eacute;mon, aka 'mon that I've trained and loved but have never been part of an official and organic team.</p></div></div>
+<div class="talk">Here are all my "miscellaneous" pok&eacute;mon, aka 'mon that I've trained and loved but have never been part of a first or full team.</p></div></div>
 </div></div>
 
 <div id="pokes">

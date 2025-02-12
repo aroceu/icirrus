@@ -21,7 +21,7 @@ body{
 <div id="ava"><img src="white.png" alt="Female player character in Pokemon Black/White"></div>
 <div id="meta"><h1>Black <i>Gen V</i></h1>
 <h2>2011 Unova Region</h2>
-<div class="talk"><p>Pok&eacute;mon Black, as of my writing this, is the game I have the most logged hours in. Though it's been a while, I have about 390 hours of saved gameplay. This was also the first game I ever EV bred/trained for&mdash;my &hearts;, Bisharp&mdash;and filled up my <i>entire</i> Pok&eacute;dex for. So it's a lot, also one of my favorite games story-wise.</p></div></div>
+<div class="talk"><p>Pok&eacute;mon Black <strike>as of my writing this</strike> is the game I have the second most logged hours in. Though it's been a while, I have about 390 hours of saved gameplay. This was also the first game I ever EV bred/trained for, with Bisharp, and filled up my <i>entire</i> Pok&eacute;dex for. So it's a lot, and one of my favorite games story-wise.</p></div></div>
 </div></div>
 
 <div id="pokes">

@@ -25,7 +25,7 @@ h1, h2{
 <div id="ava"><img src="may.png" alt="Female player character in Pokemon Omega Ruby/Alpha Sapphire"></div>
 <div id="meta"><h1>OMEGARUBY <i>Gen VI</i></h1>
 <h2>2014 Hoenn Region</h2>
-<div class="talk"><p>The reboot of my first ever game! <omega>&hearts;</omega> I was ecstatic when it was originally announced, and the game did not fail to live up to my expectations. Currently my top favorite, and holds all the Pok&eacute;mon I've listed on this site, up to this generation. <a href="log">View my casual playthrough and progress log.</a></div></div>
+<div class="talk"><p>The reboot of my first ever game! <omega>&hearts;</omega> I was ecstatic when it was originally announced, and the game did not fail to live up to my expectations. It's the game that meant the most to me at the time, and I will always defend it with my whole chest. <a href="log">View my casual playthrough and progress log.</a></div></div>
 </div></div>
 
 <div id="pokes">

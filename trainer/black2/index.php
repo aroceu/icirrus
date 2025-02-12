@@ -29,7 +29,7 @@ body{
 <div id="ava"><img src="rosa.png" alt="Female player character in Pokemon Black2/White2"></div>
 <div id="meta"><h1>Black 2 <i>Gen V</i></h1>
 <h2>2012 Unova Region</h2>
-<div class="talk"><p>The most important thing about my playing Pok&eacute;mon Black 2 is that I spent 12 hours looking for and catching a female eevee.</p></div></div>
+<div class="talk"><p>The most important thing about my playing Pok&eacute;mon Black 2 is that I spent 12 hours looking for and catching a female eevee. Just kidding &mdash; I love this game a lot. My favorite part was exploring the Strange House, and is undoubtedly the most memorable experience I've ever had playing a Pok&eacute;mon game.</p></div></div>
 </div></div>
 
 <div id="pokes">

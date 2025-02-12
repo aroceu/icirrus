@@ -31,7 +31,7 @@ h1, h2{
 <div id="ava"><img src="x.png" alt="Female player character in Pokemon XY"></div>
 <div id="meta"><h1>X <i>Generation VI</i></h1>
 <h2>2013 Kalos Region</h2>
-<div class="talk"><p>I got my 3DS XL in the summer of 2013 just because Pok&eacute;mon X and Y would be released later that year; when it did come out, I beat it in under twenty-four hours. And despite some of its flaws, I decided to play it again (after transferring my first team) in 2016 since my original memories with the game weren't that good anyway. Both teams are listed here.</p></div></div>
+<div class="talk"><p>I got my 3DS XL in the summer of 2013 just because Pok&eacute;mon X and Y would be released later that year; when it did come out, I beat it in under twenty-four hours. And despite some of its flaws, I decided to play it again (after transferring my first team) in 2016 during my hyperfixation on <i>The Social Network</i> since my original memories with the game weren't that good anyway. Both teams are listed here.</p></div></div>
 </div></div>
 
 <div id="pokes">

@@ -149,7 +149,7 @@ html {
 <li>Not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
 <li>Collectives and anything personal (or not) are fine!</li></ul> 
 
-<p>And if you're already here, feel free to link me back without asking &mdash; or you can say hi, I don't mind either way :)</p>
+<p>And if you're already here, feel free to link me back without asking. Or you can say hi, I don't mind either way :)</p>
 
 <p>If you're looking for linkback buttons, they can be found by <a href="../fight/">fighting</a> the gym &mdash; just click the ferrothorn.</p>
 

@@ -191,6 +191,10 @@ i{
 	text-transform: uppercase;
 }
 
+em{
+	color: #b7574d;
+}
+
 mball{
 	color: #7E5FC6;
 	text-transform: uppercase;
@@ -490,11 +494,11 @@ img.pokecard{
 <div class="right"><b>ID:</b> #49385 (ORASXY) <br /><b>NATURE:</b> Mild, likes to fight</div></div>
 			<div id="trainerinfo">
 
-	<p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with this game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
-	<p><img src="arrowkingdra.png" class="meimg" alt="Digital art of me as an octoling attacking alongside a kingdra">I've been into Pok&eacute;mon since 1998, when the anime first came out, but I didn't actually own a game until August 2003 after watching my camp friends play it all summer. I really didn't know anything about the gameplay, but I was still so enthusiastic about it that some of my classmates gave me the nickname "Pok&eacute;mon Master" anyway. Which I still am, by the way. My obsession for other things will come and go, but Pok&eacute;mon will always own at least 30% of my heart.</p>
-	<p>Since then, I've played and owned at least one game in nearly every generation that's come out. Though I'm a Hoenn kid, I do consider Gen V to be the best both gameplay and story-wise; and I remain relentlessly optimistic for the games to come, especially as Legends Arceus is the most fun I've ever had playing Pok&eacute;mon, period.</p>
-	<p>I'm neither outdoorsy nor a serious animal-lover IRL (I do have a dog though), but I'd like to believe I would be a little more in the Pok&eacute;mon world and I do care about protecting those in need, hence being a Ranger. The type of Pok&eacute;mon I like fit as well - I've always been drawn to grass starters. Most of all, I remember the first time I saw the sprite for a female Pok&eacute;mon Ranger in Ruby on Route 119, and I'd never connected to an NPC class more ever since, much less based purely on aesthetic.</p>
-	<p>Overall, I'm a casually enthusiastic collector with mildly competitive knowledge but not enough interest in it. In the end, my main enjoyment with Pok&eacute;mon is loving them.</p>
+	<p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with each game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
+	<p><img src="arrowkingdra.png" class="meimg" alt="Digital art of me as an octoling attacking alongside a kingdra">I've been into Pok&eacute;mon since 1998, when the anime first came out, but I didn't actually own a game until August 2003 after watching my camp friends play it all summer. I didn't understand the gameplay all that well, but I was still so enthusiastic about it that the older kids in my after school care gave me the nickname "Pok&eacute;mon Master" anyway. Which I still am, by the way. My obsession for other things will come and go, but Pok&eacute;mon will always own at large part of my heart.</p>
+	<p>Since then, I've played and owned at least one game in nearly every generation since. Though I'm a Hoenn kid, I do consider Gen V to be the best both gameplay and story-wise. I remain relentlessly optimistic for the games to come, especially as Legends Arceus is the most fun I've ever had playing Pok&eacute;mon, period.</p>
+	<p>I'm neither outdoorsy nor a serious animal-lover IRL, but I'd like to believe I would be a little moreso in the Pok&eacute;mon world. I care a lot about protecting those in need, hence being a Ranger. The type of Pok&eacute;mon I like fit as well - I've always been drawn to grass starters. Most of all, I remember the first time I saw the sprite for a female Pok&eacute;mon Ranger in Ruby on Route 119, and thought, <em>wow, she's cool, I wish that were me</em>, based purely on the aesthetic of her sprite. And really, that's all the reason I need to consider myself in the Ranger class.</p>
+	<p>Overall, I'm a casually enthusiastic collector now with some competitive knowledge but not enough interest in it. In the end, my main enjoyment with Pok&eacute;mon is loving them.</p>
 
 	<hr />
 
@@ -514,9 +518,9 @@ img.pokecard{
 
 <p><img src="https://icirr.us/trainer/mienshao.gif" class="mienshao favmon" alt="Mienshao"><b>mienshao</b> <img src="https://icirr.us/mb.png" alt=""> My favorite pok&eacute;mon in gen V which is one of my favorite generations <strike>rip my love for bisharp tbh</strike>, and also my favorite fighting type, which I've always liked in theory but much more rarely in practice. Mienshao, however, fits the bill perfectly for me &mdash; an elegant long-range fighter with the drawback of being frail if it gets hit more than once. Sounds familiar, doesn't it? Not to mention its lovely color palette, because honestly I liked it the moment I saw it before I even knew how it played. I love pastels, and you can never go wrong with pinks. I don't feel any particular way about ermines, but maybe I should.</p>
 
-<p><img src="https://icirr.us/trainer/luxray.gif" class="luxray favmon" alt="Luxray"><b>luxray</b> <img src="https://icirr.us/mb.png" alt=""> Much like all of the others here, I knew I loved luxray the moment I saw it. I hadn't been impressed by its pre-evolutions much for the first time when I was 14 &mdash; I feel differently now, because shinx is much cuter in Legends Arceus &mdash; but my opinion changed the moment my luxio evolved into luxray. I'm an edgy bitch who likes edgy badass pok&eacute;mon, and though luxray isn't exactly remarkably out there, that's precisely why I like it the way it is. I love the blue and yellow as well, and the dark blue is what makes it my favorite electric-type design, getting one over another electric dog (manectric.)</p>
+<p><img src="https://icirr.us/trainer/luxray.gif" class="luxray favmon" alt="Luxray"><b>luxray</b> <img src="https://icirr.us/mb.png" alt=""> Much like the others here, I knew I loved luxray the moment I saw it. I hadn't been impressed by its pre-evolutions when I first saw them at age 14 &mdash; I feel differently now, because shinx is much cuter in Legends Arceus &mdash; but my opinion changed the moment my luxio evolved into luxray. I'm an edgy bitch who likes edgy badass pok&eacute;mon, and though luxray isn't exactly remarkably out there, that's precisely why I like it the way it is. I love the blue and yellow as well, and the dark blue is what makes it my favorite electric-type design, getting one over another electric dog I like a lot (manectric.)</p>
 
-<p><img src="https://icirr.us/trainer/aggron.gif" class="aggron favmon" alt="Aggron"><b>aggron</b> <img src="https://icirr.us/mb.png" alt=""> I liked aron the first time I saw it in Dewford cave, felt ambivalent about lairon, and then popped off when I saw aggron. My love for aggron was the first time I loved steel types, which has become my main 'type' today. Though aggron isn't particularly elegant, it's also not <em>not</em> elegant. Paired with the edgy badassness that I like, and with having such a cute first evolution, the feelings I had for aggron in 2004 are the same ones that I have even today. Lairon <em>is</em> cool, but in the sense that they really did succeed at making an awkward teenager mid-evolution out of it. </p>
+<p><img src="https://icirr.us/trainer/aggron.gif" class="aggron favmon" alt="Aggron"><b>aggron</b> <img src="https://icirr.us/mb.png" alt=""> I liked aron the first time I saw it in Dewford cave, felt ambivalent about lairon, and then fell in love when it turned into aggron. My adoration for aggron was the first time I loved steel types, which has become my main 'type' today. Though aggron isn't particularly elegant, it's also not <em>not</em> elegant. Paired with the edgy badassness that I like, and having such a cute first evolution, the feelings I had for aggron in 2004 are the same ones that I have even today.</p>
 
 <hr />
 
@@ -531,7 +535,7 @@ img.pokecard{
 <li>Statistically, my favorite type is dragon, though I chalk this up to dragons being my favorite animal in general. Steel types are second.</li>
 <li>My first Pok&eacute;mon card was the only bit of Pok&eacute;mon I ever really had between 1998 and 2004 (well, aside from the VHS tapes of <i>Pok&eacute;mon: the First Movie</i> and the first 3 episodes) &mdash; Jigglypuff from the 1999 Jungle expansion.</li>
 <li>The game I put the most hours in is Shield because I was addicted to shiny den hunting for months, at over 800 hours.</li>
-<li>Even though Pok&eacute;mon is my favorite overall franchise, my favorite series as an actual game is Splatoon.</li>
+<li>Even though Pok&eacute;mon is my favorite overall franchise, my favorite game (series or not) is Splatoon.</li>
 </ul>
 </div>
 <div style="clear: both;"></div>

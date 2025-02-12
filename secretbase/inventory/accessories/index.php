@@ -8,13 +8,13 @@
 	<img src="snapback.png">
 	</div>
 
-	<p><span>I used to be really into the substitute plushie (which is evident here) so I had to get these earrings when I visited Osaka in 2016. They're still my favorite earrings today.</span></p>
+	<p><span>I used to be really into the substitute plush so I had to get these earrings when I visited Osaka in 2016. They're still my favorite earrings today.</span></p>
 
 	<div class="item">
 	<img src="substitute-earrings.png">
 	</div>
 
-	<p><span>I'm a bandana wearer, though I haven't in recent years just due to leaving it short. But I do wear them a lot when my hair is long, and so when I saw the Original Stitch collection was selling bandanas, I knew I had to get one. And then I got three.</span></p>
+	<p><span>I'm a bandana wearer, though I haven't in recent years just due to having kept my hair short. But I do wear them when my hair is long, and so when I saw the Original Stitch collection was selling bandanas, I knew I had to get one. And then I got three.</span></p>
 
 	<div class="item">
 	<img src="seadra-bandana.png">
@@ -28,7 +28,7 @@
 	<img src="kingdra-bandana.png">
 	</div>
 
-	<p><span>Some old phone accessories. The Jigglypuff grip is more recent, but the phone case was for my phone from 2019-2021.</span></p>
+	<p><span>Some old phone accessories. I used the Jigglypuff grip in 2023, and the phone case was for an old phone from 2019-2021.</span></p>
 
 	<div class="item">
 	<img src="latis-phone.png">

@@ -350,9 +350,9 @@ $(function() {
 
 			<div id="chat">
 
-				<p>Due to the shiny raid den exploit, shiny hunting has been extremely easy in this game. So I figured that instead of overwhelming my <a href="/trainer/shiny">shiny page</a> with all the shinies I've obtained, I'll just make an entire subsection to them instead.</p>
+				<p>Due to the shiny raid den exploit, shiny hunting is extremely easy in this game. I figured that instead of overwhelming my <a href="/trainer/shiny">shiny page</a> with all the shinies I've obtained, I'll just make an entire subsection for them instead.</p>
 
-				<p>Below are shinies I've established mostly for competitive (Battle Tower Singles more than anything else) and rare shinies in rare pok&eacute;balls. I have both hosted many shiny dens myself, but as of 2022 only have interest in raiding (aka hoarding.) </p>
+				<p>Below are shinies I've established mostly for competitive (Battle Tower Singles more than anything else) and rare shinies in rare pok&eacute;balls. I have hosted many shiny dens myself, but as of 2022 only have interest in raiding, aka hoarding. </p>
 
 				<p class="mobilenote"><small>This page does not look fantastic responsively, but it still works.</small></p>
 

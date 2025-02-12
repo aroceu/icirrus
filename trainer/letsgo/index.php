@@ -35,7 +35,7 @@ body{
 <div id="ava"><img src="elaine.png" alt="Female player character in Pokemon Let's Go"></div>
 <div id="meta"><h1>LET'S GO <i>PIKACHU!</i></h1>
 <h2>2018 Kanto Region</h2>
-<div class="talk"><p>After a lot of deliberating, and then remembering that this series paired with the mobile game, I finally decided to get this about a month after it came out. I was initially annoyed at yet another Kanto remake, but then I realized that this would be a lot of kids' first Pok&eacute;mon game, and they were starting off with Kanto much like those of us who've been there since the beginning. Besides, I never played Pok&eacute;mon Yellow.</p></div></div>
+<div class="talk"><p>After a lot of deliberating, and then remembering that this series paired with the mobile game, I finally decided to get this about a month after it came out. I was initially annoyed at yet another Kanto remake, but then I realized that this would be a lot of kids' first Pok&eacute;mon game, and they were starting off with Kanto much like the older generations who were there since the beginning. Besides, I never played Pok&eacute;mon Yellow.</p></div></div>
 </div></div>
 
 <div id="pokes">

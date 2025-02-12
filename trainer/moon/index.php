@@ -27,7 +27,7 @@ h1, h2{
 <div id="ava"><img src="moon.png" alt="Female player character in Pokemon Sun/Moon"></div>
 <div id="meta"><h1>MOON <i>GEN VII</i></h1>
 <h2>2016 Alola Region</h2>
-<div class="talk"><p>Such an anticipated game that was wholly worth it. I went to a Pok&eacute;mon Center in Japan before it came out and bought a few plushies because I was so excited! My nicknames this round actually had a theme&mdash;dorky petnames because I love pok&eacute;mon so much <moonish>&hearts;</moonish></p></div></div>
+<div class="talk"><p>A game that I anticipated a lot due to the attractive NPCs and even more fun species previews. I went to the Pok&eacute;mon Center in Osaka, Japan before it came out and bought a few plushies because I was so excited for it! My nicknames this round actually had a theme&mdash;dorky petnames because I love pok&eacute;mon so much <moonish>&hearts;</moonish></p></div></div>
 </div></div>
 
 <div id="pokes">

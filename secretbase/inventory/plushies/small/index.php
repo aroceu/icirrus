@@ -127,7 +127,7 @@
 	<img src="sandshrew-alola.png">
 	</div>
 
-	<p><span>I got this one from Hong Kong. I had another Charizard in a similar style but he was sitting up, but he got lost in the flood :(</span></p>
+	<p><span>I got this one from Hong Kong. I had another Charizard in a similar style, sleeping while sitting up, but he got lost in the flood :(</span></p>
 
 	<div class="item">
 	<img src="charizard-sleeping.png">

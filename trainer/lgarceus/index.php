@@ -76,7 +76,7 @@ b.shinyboxlink{
 <div id="ava"><img src="akari.png" alt="Female player character in Pokemon Legends Arceus"></div>
 <div id="meta"><h1>LEGENDS <i>ARCEUS</i></h1>
 <h2>2022 Hisuian Region</h2>
-<div class="talk"><p>I'm gonna be real&mdash;this is hands down my favorite Pok&eacute;mon game of all time, The uniqueness of the gameplay, plus its entire basis catering not only to my completionist side but collectors' side is the entire reason why I love and play Pok&eacute;mon in the first place. I haven't put as many hours into it as I would like because I know it'll take over my entire life if I do&mdash;and I will. Also, catching shinies. Which I also plan to log extensively.</p></div></div>
+<div class="talk"><p>I'm gonna be real&mdash;this is hands down my favorite Pok&eacute;mon game of all time, The uniqueness of the gameplay is incredibly fun, and the emphasis on collection and completionism within the game caters to exactly why I love and play Pok&eacute;mon in the first place. I haven't put as many hours into it as I would like because I know it'll take over my entire life if I do. But I will.</p></div></div>
 </div></div>
 
 <div id="pokes">
