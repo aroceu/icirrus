@@ -4,7 +4,7 @@
       <meta name="description" content="yeah i'm a pokemon master suck it">
               <meta name="robots" content="noai, noimageai">
 
-<title>MASTERBALL / DOCUMENTATION</title>
+<title>MASTERBALL / DOCS</title>
 <meta name="viewport" content="initial-scale=1.0">
 
 <link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
@@ -120,213 +120,372 @@ overflow-x: none;
 
 	<div id="content">
 
+		<p>This is a manual on how and why I built <i>Masterball</i>, and what I would like it to be, as of the time of writing this (11 February 2025). It is very long, with a lot of lists and subsections, and mostly for me to vocalize a lot of my thoughts and reflections while making this website.</p>
+
+		<p>I may make changes to this documentation or rewrite it wholecloth in the future. Here is how I've documented the site for now.</p>
+
 	<h2>Table of Contents</h2>
 
 		<ul>
 			<li><a href="#intro">Introduction</a></li>
-			<li><a href="#background">Background</a></li>
-			<li><a href="#name">Name</a></li>
-			<li><a href="#process">Process</a></li>
-			<li><a href="#scrapped">Scrapped/Initial Plans</a></li>
-			<li><a href="#future">Future Plans</a></li>
-			<li><a href="#walkthrough">Walkthrough</a></li>
-			<li><a href="#credits">End Credits</a></li>
-		</ul>
+				<ul>
+					<li><a href="#background">Background</a></li>
+					<li><a href="#purpose">Site Purpose</a></li>
+					<li><a href="#name">Name</a></li>
+				</ul>
+			<li><a href="#construction">Construction</a></li>
+				<ul>
+					<li><a href="#design">Design Notes</a></li>
+					<li><a href="#process">Process</a></li>
+						<ul>
+							<li><a href="#scrapped">Initial/Scrapped Plans</a></li>
+						</ul>
+					<li><a href="#nov24">Responsive Update (November 2024)</a></li>
+					<li><a href="#feb25">Wild Area & Secret Base Update (February 2025)</a></li>
+				</ul>
+			<li><a href="#walkthrough">Site Walkthrough</a></li>
+				<ul>
+					<li><a href="#future">Future Plans</a></li>
+					<li><a href="#credits">End Credits</a></li>
+					<li><a href="#disclaimers">Disclaimers, Privacy, and Accessibility</a></li>
+				</ul>
+			</ul>
 
-<h2 id="intro">Introduction</h2>
+		<h2 id="intro">Introduction</h2>
 
-<p>I made this website in February of 2017 and am writing this documentation on December 1 of 2024, so the details may be fuzzy or glossed over in parts. I also may be surprisingly specific and detailed in others, because that's how my memory works. Additionally, my own coding ability (as well as thinking in more practical and strategic ways) has improved quite a bit since then &mdash; I hadn't studied computer science then, and I have for a couple of years now, though that doesn't make a huge improvement, really. But it's still a near 8-year gap.</p>
+		<p>I made this website in February of 2017, but only started writing documentation for it in late November/early December 2025, and have continued it since then. I consider this documentation to be mostly accurate due to my trust in my own memory, but as memories work there are still some pieces of the earlier process that I recall only vaguely, if at all. Additionally, the depth of my understanding of code, design, and web development has evolved over time, and continues to even today. My experience with web development and front-end code is and has only been entirely self-taught with minimal tutorial usage because I'm impatient. I started web designing like playing a video game without reading the instructions first, just like when I was younger and playing Pokemon for the first time.</p>
 
-<p>Like I stated in the site info, I made Icirrus/Masterball because I'd always wanted to make a site dedicated to my love for Pok&eacute;mon, but for the longest time didn't know what. I love individual species, yes; I also love ships and characters and games. I like a lot of stuff about Pok&eacute;mon, but my biggest weakness when it comes to making sites based on things I love &mdash; and not just me &mdash; was the writing portion of it all. Don't get me wrong, I <i>love</i> writing. And I also love thinking. There's just a lot to write, and a lot to think about, and I'm a perfectionist and have an attention disorder so that's just not something I could ever really do. I'm far more interested in the designing aspect of making websites; writing the content is oftentimes an excuse to show off my designs.</p>
+<p>The first website I owned dedicated to Pokemon was a fanlisting for Pokeballs, adopted from <a href="https://hey.georgie.nu">Georgie</a> in 2011. My interest in maintaining fanlistings fell through; still, in the back of my head I knew I liked the idea of owning a website related to my love for Pokemon. All the creative independent sites I'd been exposed to in my internet space so far had been shrines for specific species or characters or ships, or fanlistings which had more commitment in maintaining the listing regularly. So the thought of making similar shrines and fanlistings occurred to me repeatedly, but if I was honest with myself, wasn't very appealing.</p>
 
-<p>And even then, I have my own hangups about my own design skills &mdash; mostly in that as much as I love looking at sites with elaborate graphics and banners, I also know it's not my calling as a webdesigner. I'm better off admiring them than making them, but otherwise I wanted to make something that I would feel confident and proud of making. And I know myself &mdash; though I may have had a vague interest in visual arts when I was younger, as many of my other hobbies and aspects of my life fell into place, I became someone who enjoyed looking at it more than creating it.</p>
+<p>And while there are Pokemon species and characters and ships I love, I wasn't that interested at the time in making web shrines. Shrines require a lot of work in writing, particularly the style of balancing the personal with the informative, something I've only been more confident with in recent years. And it's a <i>lot</i> of writing. I admire friends and sites I know with a ton of elaborately crafted and exhaustively written web shrines, but when I sit down at my computer, it's hard for me to fathom even starting one.</p>
 
-<p>So where did this leave me, someone who likes making websites and Pok&eacute;mon but with my unique skill set? Well, in January of 2017 it occurred to me that my main love for Pok&eacute;mon was my history with each game, and therefore each party and Pok&eacute;mon I have. My brother was the one who liked resetting a lot &mdash; I never really reset, because once I played a game, it was the only time I'd play it. (Except for that one time where I had a bootleg copy of Emerald that would never save, so I played for long stretches of time.) But even still I moved my old Pok&eacute;mon to newer games and made sure they were compatible with the latest game, so they were accessible to me whenever I wanted. My own Pok&eacute;mon are everything to me, and undoubtedly why I love the franchise so much in the first place.</p>
+<p>My favorite thing about making websites at all is the design component. I do love writing and storytelling and analyzing, but it feels like a different task when the element of aesthetic design is added as well. Design and customization is purely indulgent for me; the work I put into writing things for my websites and making content for them is oftentimes an excuse for me to show off my designs. Yet I love Pokemon <i>so much</i>. So how was I to make a website dedicated to both of these things I love?</p>
 
-<p>So that was the idea: not a shrine to a particular aspect of Pok&eacute;mon, but rather to my relationship with it.</p>
+<p>In January of 2017 I was thinking about my digital presence, perhaps a bit too much. But I asked myself again: what do I love about Pokemon? How can I create a personal and indulgent website about the franchise I've loved the longest, in a way that feels accurate to the relationship I have with it? And then it was so obvious: my teams in all of the games I'd played. I really only ever play a Pokemon game once, because I get so attached to the little bytes and pixels in my game data that I don't have the heart to reset and start all over and wipe my old team away. (Except for that one time where I had a bootleg copy of Emerald that would never save, so I played it for long stretches of time.) I love Pokemon because I love <i>my</i> Pokemon. Since I wanted to make a site driven by my relationship with Pokemon so badly, I could just make a site centered around it.</p>
 
-<h2 id="background">Background</h2>
+<p>So that's what I did. I've also moved all of the Pokemon archived here to the most recent storage systems (currently Pokemon Home) so I can reset the games now while my favorites are still accessible to me. But I still really only ever play the games once.</p>
 
-<p>My life at the time was in an in-between state. I'd dropped out of college (for the first time) a year and a half prior in 2015, and spent the majority of 2016 traveling with the excuse of finding myself, but mostly I used my credit card on trinkets I liked. Including a lot of Pok&eacute;mon plushies at the Osaka Pok&eacute;mon Center.</p>
+<h3 id="background">Background</h2>
 
-<p>Maybe I was finding myself a little along the way.</p>
+<p>As the seeds of this idea drifted toward me in January 2017, my life had been in an in-between state. I'd dropped out of college for the first time in 2015, and spent the majority of 2016 traveling with the excuse of finding myself, though I was mostly just spending my credit card on trinkets I liked. One of the places I traveled to was Osaka, Japan, and the only thing I planned on doing there was visiting the Pokemon Center and buying merchandise for me and my friends. I'm sure I found a bit of myself somewhere along the way.</p>
 
-<p>Returning to live with my mom at the time was tumultuous for a lot of reasons I won't get into now; but one thing I will say was that it was a good excuse for me to sit on my ass and do nothing. Which meant it was a good time for my hobbies, particularly making websites. Since I genuinely had nothing else going on in my life, I made the majority of this website &mdash; particularly all the Trainer pages &mdash; in one sitting because of this, as well as the Gym and Pok&eacute;Go pages and all their accompanying graphics. I've edited here and there, but the base skeleton of this website was made in 2017.</p>
+<p>After dropping out and traveling, I lived with my mom and had few obligations and a lot of mental health issues. So it was a good time for me to put way too much time into my hobbies, especially in my still starry-eyed fascination with web development and design. After the idea of creating a personal archive crystallized in my head, I worked on it immediately and obsessively, as I do with any creative project I take on. </p>
 
-<p>Which is also why the Trainer pages employ perhaps an incredibly inefficient and insane way of translating skins across different pages. I know now how to make it more practical, but eh. I'm not sure if it's a big deal at this rate. Still, yeah @ 2017 self, using root variables would <i>probably</i> be a little easier than whatever my current template.css has going on. Oh well. You live and you learn. (I might fix it one day, but no promises.)</p>
+<p>The details of creating this website from the ground up are a little fuzzy to me, but what I do remember with resounding clarity is that I designed and created all of the mainline game archive pages up to that point in one sitting, more or less. As the entire spotlight of this site, they were the pages I was excited to work on the most, even if listing all of their ribbons and moves and balls they were caught in and characteristics turned menial and daunting at points. But this is one of the rare projects where, to me, the process isn't as important. It's the end result, and the satisfaction that I could archive something that means so much to me in a digital and creative way.</p>
 
-<p>The design for the trainer pages is simplistic, but that's the whole idea: the focus is on the Pok&eacute;mon, and what I find fun to share about them, and the feelings each page gives me. This website was never made for a "visitor," just for me &mdash; which is my whole mindset when creating websites in the first place. When I look at my favorite Pok&eacute;mon and my teams, I don't need things in the background to distract me, or even really anything beyond the Pok&eacute;mon themselves. Tell me the game it was, the year I played it, and a short little blurb of how I felt about it, and I'll get sent back to watching my camp friend playing Pok&eacute;mon Ruby on her GameBoy Advance in the gym (I'm still friends with her on Instagram), or that time I decided to play FireRed with only two Pok&eacute;mon, or all the complicated messy emotions I felt about my initial X team that I decided to run a team based on my hyperfixation with <i>The Social Network</i> 3 years later instead. It's a time capsule built for me, about me.</p>
-
-<p>This doesn't mean I don't have to make it accessible for others, of course &mdash; but I'm getting ahead of myself here. Making this website was with a lot of my most basic skillsets, but not with enough contextual knowledge, so to speak. The code I had for the trainer page pop-up (which I retained until my most recent updateheaval, wherein I made it a separate page) was old school outdated code that I didn't realize until I asked about it on StackExchange. At least I could navigate my knowledge of tables, though it certainly didn't make me like tables any more.</p> 
-
-<p>The Gym section provided its own issues as well &mdash; though I'd had an idea of what the Trainer pages would look like (either drawn out or abstracted in my head, who knows anymore), the "gym" was a lot less clear, though I knew I wanted it to have site information and maybe a Pok&eacute;mon Go section, because it was 2017 and I was still playing it avidly. "Run", of course, would have exit links out. The issue that made me realize how little I knew was the "Bag" section at the time &mdash; my ideal was to make it an in-page bag that could navigate in and out of the "Gym" menu, but I didn't trust my Javascript skills at the time so I figured, how hard could a "bag" page with some flavor text for a bike and open/close another map menu be? Pretty damn hard, I'll tell you that. That alone &mdash; particularly what I wanted the flavor text to do &mdash; took me an entire day to figure out, though I managed to make it work.</p>
-
-<p>And with the fighting section I didn't have anything in mind, so I decided, fuck it, I can just go with a super basic look and make it work, because the rest of the site is kind of basic-looking anyway. What I want the appeal of this website to be isn't necessarily the elaboration of any design, but the elaboration of navigation. My favorite thing about any website I find cool is not only the design (though of course, a huge aspect of it), but also the experience. If the website itself is fun and interesting to experience, even if it's complicated or messy or a little bit ugly, then I'll love it. I love exploring websites and opening doors and finding secrets; and yes, I was an avid fan of I Spy games when I was younger. I had a game that I played repeatedly for an entire summer.</p>
-
-<p>So that's the kind of approach I've always had for Masterball/Icirrus &mdash; make it an experience, fun, and about me. It doesn't have to make sense or be perfect as long as I'm happy with it. But &mdash; I suppose that's the approach I have with everything these days too.</p>
-
-<h2 id="name">Name</h2>
-
-<p>I talked about it a bit on the site info, but I'll go more into detail here because I do think it's integral to this site's identity. Because it's its name.</p>
-
-<p>The site was originally named <i>MASTERBALL</i>, because it was hosted under my old domain at pkmn.arose.nu. I didn't have a domain for it, partially for financial reasons at the time, but also because even if I did, I didn't know if I wanted it to be something like masterball.com/org/net/info/whatever else. I didn't want its name to feel too tied to its identity &mdash; and I suppose this comes from my fear of permanence, with how incredibly indecisive I can be.</p>
-
-<p>I picked the name "Masterball" in the first place because I'd been called "Pok&eacute;mon Master" as a nickname in 4th grade (when the older kids in my afterschool care gave everyone nicknames &mdash; that was me, Pok&eacute;mon Master), as well as the fact that it is indeed true that every time I've tried to cheat in my old games, the first mod I'd enable is an infinite supply of masterballs. What can I say, I've spent hours of my 9-year old life staring at Rayquaza and Registeels and wishing they'd stay in the goddamn ball.</p>
-
-<p>Still was the element of commitment, and that's not exactly my strong suit. However, I did decide some years ago that Icirrus City is my favorite Pok&eacute;mon City of all time (though sometimes I forgot how to spell it) &mdash; only <a href="https://www.youtube.com/watch?v=-TlmsGam4ks">because of its music</a>, though it is a banger. I love percussive as well as interactive elements, and this city adding claps into the music when you got close to the ring of NPCs dancing in-game was my favorite thing when I was 16; and still was when I was 23.</p>
-
-<p>At the end of 2017 I moved out from my mom's and with some friends with the intention of returning to college (which would then be put on an indefinite hiatus so to speak, due to covid and my own personal ambitions). Though I didn't have a job at the time, I did have money because I was in school again (an agreement with my parents), and .us domains are pretty cheap, so...</p>
-
-<p>I'm pretty sure I'd been thinking about having <b>icirr.us</b> as its URL for a while &mdash; it was just a matter of committing to it. Especially as I'd decided to let arose.nu expire in 2018, so I'd need to move the Pok&eacute;mon section to a new domain regardless. I couldn't think of anything better in that time, anyway &mdash; I bought the domain over a year after I'd made most of the site in the first place, and it was still a work-in-progress. Plus, like I've said in other places, I liked Pok&eacute;mon before I've even been online. Having it be its own separate website away from anything specifically IRL or "online" was its optimal place for me, and Masterball/Icirrus reflects that &mdash; not tied to me specifically, but still representative of something I love or feels reflective of my love for Pok&eacute;mon in some way.</p>
-
-<p>I feel a little differently now, largely because I've decided that anything to do with my skills or interests with web development or design would be strictly hobbyist. Whenever I try to monetize the things I love, I hate it and I hate myself and also I just don't do it, so it's best for me to continue to enjoy the things I love and find something dull to make money instead. Which is where I'm currently at in my life, so good for me. And good for my websites, which I can now tie to my online identity with a bit more comfort.</p>
-
-<p>It does have my IRL name and is the website I show to IRL people when they ask about the kind of websites I like to make, though, so you know. My own mileage may vary and whatnot.</p>
-
-<h2 id="process">Process</h2>
-
-<p>Despite my memory being fuzzy, I do remember that I had sketched out the wireframe of this website, at least &mdash; though it may not make sense to the unsuspecting visitor, this website has always made sense to me in my head. I would have one section that would be the team archival aspect and everything related to my love for specific Pok&eacute;mon (Trainer), and another for everything else. Though for the moment, "everything else" was largely limited to only four possible options.</p>
-
-<p>Icirrus/Masterball has always been a work in progress, though &mdash; not just in terms of development, but how I think of it in my head. I'm never gonna finish playing Pok&eacute;mon games, you know; and in the same vein, I know I'm capable of thinking of more creative things to implement that may not come to me now. So I didn't fuss about the future, because I knew I would end up adding more anyway. I always do.</p>
-
-<p>Much like many of my other websites, I started by writing everything in HTML, and then converting to a separate stylesheet, and then PHP later. Of course, in this pre-root variable era for me, the stylesheet became quite bloated, but I didn't really realize at the time. (Nor do I care much even now.) The graphics in particular were actually quite fun, mostly because it required for me to find the particular image &mdash; I wanted them to be game-specific as well, and not just the most recent sprite for a game I played in 2004. I enjoyed making the trainer graphics as well, because I do almost always play as the girl &mdash; and I like their designs a lot, so it's fun to pick how I want them to appear on the page, especially as reminiscent of my experience with the game. For example, I used a small pixelated sprite for May in my Ruby page, but the high def PNG in my Omega Ruby page, because those are the games those specific avatars are tied to. Other game-specific stuff that I translated (though may not have necessarily enjoyed and mostly did out of completion) were the specific balls I had caught each Pok&eacute;mon in, and their ribbons.</p>
-
-<p>That was the matter of thinking it through though, while the moves, though functionally useless (and not very good from a competitive standpoint), were just fun to add on the page and make a little dropdown box. I also went with blurbs for each games rather than anything longer, because I'm self-conscious about writing about myself in long-form (which may not be as evident here) and wanted to talk about my experiences with each game in a digestible way that wouldn't require for you to stay on a webpage that may not be best to read on for too long.</p>
-
-<p>I gathered all the images offline; I actually constructed the pages/folders I was coding on locally to work in the same way it would online, which I tend to do for larger projects like this anyway. I don't quite remember when I made the index page (and its accompanying graphics), though 7 years later I think I did a great job and wouldn't want to change it unless I got inspiration for something better. I genuinely don't remember what technique I used to make the code and graphics work &mdash; if I borrowed someone else's logic, or used image mapping, or just figured it out on my own &mdash; but damn, it still holds up today. Thanks past me.</p>
-
-<p>The specialized pastel graphics I made are quite fun as well. It wasn't part of the original plan I believe, but the more I created this pastel 2D masterball aesthetic, the easier it was for me to make graphics with the same motif. Like I said before, I'm not much of a visual artist &mdash; but this is more vectoring than anything, and with a pretty simplistic shape to go off and a distinct design, it took a good amount of creativity that I was more comfortable with than not. Plus, I had a student copy of Photoshop.</p>
-
-<p>I like that all the trainer pages have such vastly different color themes despite following the same template. When I was younger, for my second main domain I tried to do something similar, but for my different hobbies online. I'd always liked the idea of making a bunch of differently colored and stylized websites all under the same umbrella; but doing it for my hobbies felt like I was splintering myself apart, and didn't satisfy that desire the way I wanted. Doing it for my Pok&eacute;mon team archive makes more sense though, because the colors are respective to the games, and are actually more necessary and relevant for these pages. I love design because so often it depends on function, and being able to scratch this itch I've had for making multi-color but interconnected webpages shows how integral function can be in design. Additionally, adding more platform-specific quirks&mdash;the use of shadowing for 3DS games to give it a "3D" effect, borders on the sides of Switch games&mdash;makes those designs so much more fun and unique across the board.</p>
-
-<p>I chose Futura (Century Gothic for PC) and Lato as the primary fonts of this site, due to their lightweight readability and having similar vibes as sans-serif fonts. Century Gothic was always one of my favorite fonts when I was younger, and Futura is like a more readable version of it. Lato works better for longer blocks of text. I also use Inconsolata as the main monospace font in the Gym area, though I'd actually made this site before I became obsessed with using Inconsolata on all my other websites too. This was just the beginning of it.</p>
-
-<p>I made the gym second &mdash; and then the "Fight" section, because that's where I'd dump all I'd want to share about this site at the time. It was also fun to think of myself as a gym leader, though for a while there I was an ice-type leader &mdash; I swapped to steel sometime around 2020, because I realized that I am more drawn to steel-types as a type than anything. They're kind of similar in literal idea in a way, but Steel is better in a lot of ways. And I think I'm a lot better now in a lot of ways too. Even though my love for bisharp has dropped since the release of kingambit, it still leads my gym team. I am a girl with a glass cannon in every respect, after all.</p>
-
-<p>Then I had my issues with making the Bag/Town Map, but made it work sooner or later with my limited knowledge of Javascript, and a lot of handholding from StackExchange. Where would any of us be without StackExchange, especially when you're just a hobbyist.</p>
-
-<p>After that I made the "flee" section, because I knew the Pok&eacute;Go section would take the longest, due to what I had in mind. The exit links out weren't necessarily easier (but they were); I knew I wanted to use a ball theming similar to the front page. What made most sense to me was a love ball since the exits would be referring to sites and people that I love &mdash; which isn't exactly wholly accurate as they're largely strangers now, but the idea is there and I still stand by it. Plus, having the love ball heart on the side is a pretty fun visual touch.</p>
-
-<p>I like using text from the games too; it's a fun surprise when you're not really expecting it. And in the Pok&eacute;Go section, I kind of employ that idea for the full page &mdash; as if I'd translated the Pok&eacute;mon Go app into a webpage. I knew that's what I wanted to do because I knew I could do it, I would just need to get the appropriate graphics and make them myself. And honestly, despite the incredible inefficiency with the images on this page, I think I was quite successful with it. And that it slaps.</p>
-
-<p>The Pok&eacute;Go section was the last one I'd made because I knew how much graphical content it required especially in the editing department &mdash; not the dex, but the backgrounds and my avatar. The gradient background was also the first time I used it on a personal project as well, I believe, though I'd experimented with it before. The dex being based on seen/caught/unknown is a nice touch as well, though I think with 400 images on each page load now I may need to rethink it.</p>
-
-<p>I didn't originally plan to have Favorites and the Shiny Gallery on my Trainer page. I do think I had the Miscellaneous page planned, though &mdash; I'd just beaten the Battle Maison in Omega Ruby to get my gold trainer badge and wanted to show it off. But having just Miscellaneous as an additional page on the trainer page looked awkward, and it quickly occurred to me that hey, there are a lot of other things about Pok&eacute;mon I really really like, so why not make a page of the other things I really really like? And then after making this website I got really obsessed with shiny hunting in Omega Ruby (and XY because I used the Pal Park) &mdash; I used to liveblog it on Plurk. So then I made a gallery of the small list of shinies at the time then too.</p>
-
-<p>Since then, I've added pages for each new Pok&eacute;mon game I've played, though it's not a lot nor all the ones I've owned...oops. (I also really adore Pok&eacute;mon Snap, though I'm not sure how to make a webpage out of that.) I planned on playing Ultra Sun <i>and</i> Moon and didn't; and I still have my barely-played copy of Violet too. At least Let's Go and Shield were within a reasonable amount of time after I'd played them &mdash; it took me nearly 2 years to get the Legends Arceus section up after I'd played it. And it's still my favorite game.</p>
-
-<p>Anyway, here's my process for making a new game page:</p>
-
-<ol>
-	<li>Decide on a color scheme/format &mdash; I may draw it, though I may not as the page organization is usually already preset.</li>
-	<li>Find all the game-accurate sprites for my party.</li>
-	<li>Find and make the game-accurate avatar for my in-game character.</li>
-	<li>Copy the code for an existing game page and modify the code/HTML locally without any external spreadsheets, for decisive stylization purposes. If the game is on a new console, then think of a way the webpage can reflect the console's main gimmick.</li>
-	<li>Write the blurb/meta and input my team's metadata, which honestly is a pain in the ass.</li>
-	<li>Upload everything online.</li>
-	<li>Translate all the stylization code into the CSS template and make sure the page works/looks good.</li>
-	<li>Add the game in the footer.</li>
-	<li>Add the game on the trainer page menu.</li>
-	<li>As of 2024: Push through Github (Desktop), and then pull updated repo through cPanel</li>
-</ol>
-
-<p>With sections like these, I write all the actual page content in HTML first, and then convert it to a webpage right before uploading. Writing is the most tedious part for me &mdash; I still love it though, but damn does it take time and energy and focus that I don't always have.</p> 
-
-<p>This is also why Icirrus/Masterball has been online for 7 years, and I finally made it responsive in 2024 after wanting to clean my Exits and applying for some affiliation just so I had more buttons I could link from/to. I received a kind but critical email about how difficult it was to navigate this site, and though my initial instinct was, well that's the whole <i>point</i>, I realized that, well. Maybe I could make this site a little more comprehensible.</p>
-
-<p>And so came the November 29, 2024 facelift of this site: transforming the index page, which originally had "Trainer" and "Gym" as navigation on the grey ball line, into a splash page that would open you up (via ball button) into a main navigation page instead. I had a few ideas for what the ball button would lead to &mdash; I'd actually made graphics for and configured it to be an interactive link &mdash; but this honestly feels so much better, because it makes sense, interaction-wise. It also makes it easier to see all the main sections of this site; <i>and</i> if I wanted to add something new, I wouldn't have to worry about it being in only one of two/three sections of Trainer/Gym/secret third thing. It would just go on this main navigation.</p>
-
-<p>I was also made to think about how much I was willing to talk about myself &mdash; and it's been several years, so I'm a little more comfortable with writing about myself in long-form format. It's why I changed the Trainer "about" section into its own separate page, and wrote sections about my relationships with each of my favorite Pok&eacute;mon, which I didn't have before. I'd mostly sprinkled fun facts about myself across multiple pages, but it makes more sense to have one large page instead of an in-page pop up for me to actually talk about myself as a player and fan of the game in more in-depth ways.</p>
-
-<p>Another major change I made with this update was adding the Map, originally in the Gym/Bag section. Though the Gym/Bag/Map was fun, it wasn't really that efficient or easy to access. It also didn't really embody the idea of a "map" &mdash; but my current one does, and I'm really happy with it. For one, it has a PNG of the in-game town map. But for another, it shows the map in a stem form, which was CSS logic I totally nabbed from another site &mdash; since September I'd been obsessed with browsing and finding new personal sites again, and ran into several that had a sitemap constructed the same way, so when it came to making this page it wasn't hard for me to find the code that I wanted to borrow. So to speak.</p>
-
-<p>Then was the Gym/Bag reorganizing. Now that I had a more functional map, the "Gym" one was basically redundant. And I thought, hey, I could just do the thing I wanted to do in the first place, with making the Bag an in-page thing. I understand Javascript (and coding in general) a lot better than I did in 2017, anyway. So for something that once took me several hours to do a pretty simple thing, implementing this change took me maybe all of 20 minutes. How much I've grown.</p>
-
-<p>Lastly was making the site mobile responsive, which isn't that thrilling but is why I did all of this in the first place &mdash; I just saved it for the end. Responsive design, you may know, is my least favorite part of all this because I find it tedious despite knowing it's necessary. I will say it wasn't as bad for this site because it was actually pretty fun thinking of the ways each page could look on mobile, and a lot less time to implement due to how the page already worked in terms of scaling. I'd put it off for 7 years and had slotted it to take me 18 hours, but really it took me a morning and then some. And also 7 years of putting it off.</p>
-
-<h2 id="scrapped">Scrapped/Initial Plans</h2>
-
-<p>Through all of this, this site has gone through some changes &mdash; and it may still in the future, who's to say. However, this documentation is relevant for how things are now past November 2024, so here are some noticeable things I've changed:</p>
+<p>The pages that I designed in their beginning stages that are still pretty much the same today are:</p>
 
 <ul>
-	<li>The front page used to have navigation in the ball line instead of being a splash page. It also didn't have text in the middle to let you know where to go or what to click on.</li>
-	<li>I originally had planned for there to be a "Someone's PC" option next to "Trainer" and "Gym" in the index page navigation. However, since I couldn't think of what to make "Someone's PC" to be (I think shrines/fanlistings when I was still interested and thought I cared enough to make them), I eventually scrapped the idea.</li>
-	<li>Before it was mobile responsive, the mobile version of the front page was designed in a premier ball letting you know that this site was not mobile responsive yet.</li>
-	<li>The NPC in my Trainer page as well as its accompanying gif in the "About" blurb used to be an Ace Trainer &mdash; but I eventually changed this when I contended with the fact that all things considered, I'm really not much of a battler. It's not to say I don't like it or I don't know how, but it never had my attention as much as the collecting and obsession I had with Pok&eacute;mon that were personal to me in some way. Being a Ranger fits this better, plus I always liked the Ranger aesthetic. The girl Ace Trainer was cute, but I don't think she's me.</li>
-	<li>Fighting the gym used to have a contact form, though due to my own lack of knowledge/experience with PHP forms I decided to remove it. It wasn't very practical with the Javascript dropdown anyway; and we should bring back the art of the email.</li>
-	<li>The Pok&eacute;Go portion used to have IRL "gyms" that I had conquered, but decided to remove it as it technically doxxed me (despite being public places, so not really.) Gyms in Go don't work like that anymore anyway, but if you are interested the code on the page still exists.</li>
-	<li>The Pok&eacute;mon section of the Gym used to lead my Pok&eacute;mon Go archive. This got changed when I added the TCGP section and decided that the mobile games should have their own corner, so I changed the Pok&eacute;mon link to have adoptables and cliques instead.</li>
-	</ul>
+	<li>The splash page (with minor edits).</li>
+	<li>The trainer landing page (with minor edits).</li>
+	<li>All game pages from Ruby to Moon.</li>
+	<li>Favorites, Miscellaneous, and the Shiny Gallery got added soon afterward.</li>
+	<li>The Gym landing page.</li>
+	<li>Within the gym: Fight (site metadata, with minor edits), Bag (at the time, an external page rather than an in-page JavaScript toggle), Flee (exits, and also got added about a week later).</li>
+	<li>The Pokemon Go page, because I'd also spent a lot of 2016 playing PokeGo while traveling.</li>
 
-<h2 id="walkthrough">Walkthrough</h2>
+<p>The design for the mainline game pages is simplistic, but that's intentional: I'm a minimalist and not as inclined to elaborate graphic design, so I make the focus on the content the crux of a webpage's design instead. Plus, when I was 18 I liked the idea of having a network of webpages that each had a distinct color theme that I could collate together like a rainbow. I tried to implement that rainbow idea for my more personal website projects, but that didn't bring me the satisfaction I'd hoped. Distinguishing my Pokemon parties across different games, however, certainly does. It feels a little full circle being able to channel this older creative idea into this newer, more suitable one.</p>
+
+<p>During these beginnings, I was happy with contending with my inclination towards minimalism without needing to depend on graphics in a designing manner in order to bring my vision for this site to life. Yet even so, I began to realize with progressive clarity at how much general web development and coding knowledge I was lacking in, especially as I'm not the sort to really keep up with modern developments in code. I didn't use root variables to translate skins (and still don't, though this may change), I struggled with making the JavaScript in the first iteration of the Bag page to work, and for the more autobiographical section of my Trainer page, I didn't know until years later when I asked on StackExchange that I was using depreciated JavaScript logic. My passion has always been there, but since I've never really formally learned or been taught to think about webdesign in a technical manner, I knew that there was an entire ocean of contextual knowledge that I was missing out on.</p>
+
+<p>But it was nice to have as a project, and served its purpose at the time: to look cool, to archive some pixels that I love, and, for me, to feel proud of it anyway. I then returned to college in fall 2017, this time majoring in Computer Science. I'd been conflicted about what I wanted to major in back when I was in high school, based on the two things I loved doing the most: telling stories, and making websites look pretty. I'd initially decided on Creative Writing, but upon learning that assigned reading in school only gets harder when it's my academic major, I swapped to Computer Science the second time.</p>
+
+<p>I didn't learn any more about web development just by majoring in CS. But in my own time, I did, even if just a little bit. In the academic environment (and with ADHD medication) I learned to think about code algorithmically, strategically, modularly. I learned better the components of making things interact and operate and display from a coding angle. I learned the whys behind the best practices, not just the whats and the hows. I dropped out of college again 2.5 years later because of my mental health (again) and covid, but even though I didn't write any programs beyond my college assignments, I understood coding and development, as a whole, with a lot more coherence and confidence than I had before.</p>
+
+<p>This is mostly to say that there are significant portions of this website that I made before thinking about it technically, and the updates I've made since then have fallen more in line with this more functional and structural mentality. Websites had always been about the front-end experience to me; I used to think, who cares what it looks like from the back-end? But the truth is that <i>I</i> care about what it looks like from the back-end, especially as this is an ongoing project for me, so I need a comprehensible system that allows me to update it in the future without much hassle. Since the initial launch of this site and prior to November 2024, the only updates I made were adding new pages for new games I played, and eventually removing initially planned portions that I realized I had no interest in following through with.</p>
+
+<p>But starting in September 2024 I got the webdesign itch like I hadn't before, not since I was 15 and addicted to making several HTML/CSS layouts every day. I worked on my other web projects, and in lieu of that I touched up some things about Masterball that I thought I could do better. I decided to hunt for more affiliates just to keep my button wall more up to date and with less broken links. I reached out to some webmasters after clicking around here and there, which resulted in me getting an email from <a href="https://dragonflycave.com">Butterfree</a> that changed everything.</p>
+
+<p>Well - not everything. But it did encourage me to think about (and subsequently change) the structure of this site, after retaining the same architecture for over seven years. And it felt right, anyway: this site was made while I was a creative writing dropout, but several years later I was someone who'd studied Computer Science for three years and with a steady job. I knew that I now had more learned knowledge in code, design, and overall development reasoning. So the idea of changing this website that had been pretty much the same for several years was both daunting but also exciting. It made me think of how to make it accessible and navigable while still retaining my stylistic touch and ambition to make it a unique experience of its own. </p>
+
+<p>And all these years later, I finally understood something critical about myself: that I like making websites as a hobby and purely for fun. Though not the reason I dropped out the second time, I'm somewhat glad I never finished getting a CS degree. My interest in majoring in it in the first place back in high school was driven by my interest in webdesign and therefore no different than my interest in studying creative writing, too: I like doing them for fun, for me, in my own time, and not for anyone else. This is a passion project as much as any of my other websites or stories, and I want it to be as thorough and accurate and true to who I am as a person and a Pokemon fan <i>and</i> a webdesigner as possible. So upon getting prompted to think of new ways to improve my site, and then thinking of those ways, it was quick work for me to reorganize pages I had made several years ago into making more sense, and creating new ideas, sections, and pages to fill out my site. </p>
+
+<p>So here I am several years later: with a project I started when I was at a depressed and aimless point in my life and just wanted something to work on, to now where I'm eager to develop this project as I see fit as I traverse the inevitability of time. I'm much more confident in who I am and what I want, and one thing that I will continue to want is to change, to improve, even if it's in ways that only matter to me. Though this website is nominally centered around my love for Pokemon, it's also centered around my life. Pokemon is the franchise I've loved the longest with a consistent intensity more than anything else, even if I've written more fanfiction for other media or put more hours into other video games. But ever since I watched the Pokemon anime for the first time in that kindergarten classroom (which I can still recall with clarity because it's tied to that specific memory), I was hooked. Pokemon had taken its hold onto me. Even as the years passed, I always returned for more.</p>
+
+<h3 id="purpose">Site Purpose</h3>
+
+<p>The conceit behind Masterball is encompassed in the following four ideologies:</p>
+
+<ol>
+
+	<li>It is a website that only I can make. Every element and aspect is directly tied to my life, experiences, and decisions: in games, teams, webdesign, and everything else. The unique thing about this website is not about the Pokemon or website aspects of it, but that everything about it is intrinsically tied to me. This website is a reflection of me much like my other personal website projects are; this one in particular is through the lens of the Pokemon franchise.</li>
+
+<li>It is an experience. My favorite websites - and, in a larger scope, something that I just enjoy conceptually - are ones that feel like a scavenger hunt, an experience, causing you to open a lot of doors out of curiosity and maybe reward you for exploring. Though a lot about websites and website-making have caught my interest since I was 10, I continued to be an internet cretin and eventually started noticing how much I liked websites that felt more than just some pixels on a screen. Even from its beginnings, Masterball was my attempt to emulate that type of website, one that didn't just require you to read, but also to explore. And maybe you'll get rewarded for it along the way ;)</li>
+
+<li>It is an ongoing experiment. I love trying new things, especially in webdesign, but a problem I tend to run into with web development is that there needs to be a purpose for everything; there needs to be information to display or communicate in order for the design to need to exist in the first place. Masterball allows me to stretch my aesthetic muscles driven by my own vision and the things I like, rather than hanging the weight of expectations in content and therefore in design and organizational structure as well. This website is whatever I want it to be, as long as it feels true to my desires.</li>
+
+<li>...but it <i>is</i> just a Pokemon website at the end of the day, and so it is still designed to reflect that in some way on every page. From the names of sections to what goes where, to graphics (intentionally trying to use as much official art as possible rather than anything derivative) and in-game text and nods to specific gimmicks in certain games, particularly the ones that I have a special fondness for, this website is still about Pokemon. And it won't let you forget that.</li>
+
+</ol>
+
+<h3 id="name">Name</h3>
+
+<p>This website was always named <i>Masterball</i>, even before it had its own domain name. I purchased <b>icirr.us</b> in 2018, a year or so after I'd first put this site online.</p>
+
+<p><b>Why Masterball?</b> In coming up with a name for this site, I knew I wanted something obvious enough to be tied to Pokemon, but not too specific or broad. Something meaningful to me, but had a distinct flavor even in the keystrokes of others. I decided on masterball primarily for the reason that I liked to cheat in my old Game Boy Advance and DS Pokemon games, and the first cheat I'd <i>always</i> turn on was an infinite supply of masterballs. You put a game shark in my hand, I was there. It also fits with my <a href="https://icirr.us/trainer">nickname anecdote</a> from when I was a child and earned the title of "Pokemon Master" from my peers.</p>
+
+<p>I suppose I enjoy the design of the ball, though since naming my site after the masterball I feel like I tricked myself into liking it a lot more now. It's almost poetic after adopting that Pokeballs fanlisting so many years ago. Moon balls are my favorite design, though. And I don't really have a double meaning for the "M" - my name does not start with M, unfortunately - so if you'd like deeper meaning on that, then it stands for, uhhh, me!
+</p>
+
+<p><b>Why icirr.us?</b> This site was initially hosted on an old website under the <i>pkmn</i> subdomain, because I like the idea of having subdomain projects. But this one got more ambitious and deserved a domain on its own. Even as I started it, a part of me knew that I'd still be invested in working on it for a long time, so as long as my interest in Pokemon (and, apparently, webdesign) never weaned. So in the back of my mind I wanted it to have its own home eventually.</p>
+
+<p>This came to when I was idly pondering over domain ideas a bit later. I knew I was already very fond of Icirrus City from Pokemon Black because I enjoy the gimmick of the music changing and adding claps when you stand close to the ring of dancers. And yeah, that alone actually made Icirrus City my favorite city of all time. It's also just a nice city name. So when I realized that it would work perfectly as a .us domain, the idea lived in my head for months before I purchased it. I gave my time to consider it because I tend to with big permanent-feeling choices like this. In the end, I purchased it a little over a year later, especially as I had the money and it was pretty affordable for me at the time, too. I was also retiring the domain that it had been a subdomain on, and wanted a domain that felt good, right. If I didn't like it in a year, I'd thought, I could always change it. But here we are now, years later.
+</p>
+
+<b>Why two names?</b>
+
+<p>While I was pondering over domain ideas, I already knew without question that I didn't want a domain like masterball.com, or .org, or .info. I didn't want <i>masterball</i> to be in the URL - it felt too committed, even if this site has still been named Masterballl ever since. When it comes to things that are a creative reflection of my identity, I like to make choices that feel right just for me, even if it seems senseless to others. I don't like conforming to expectations. I like being able to do whatever I want.</p>
+
+<p>So it had never really been a serious point of consideration, though I entertained the thought once or twice. Now, years later, I like the idea that my website has two names - who says that it should only have one? I use them both pretty interchangeably, though I suppose I'd say its preferred name is Masterball and icirr.us is on the birth certificate. But it's neither deliberate nor accidental, just a result of some decisions I made because they felt right to me in the moment, and continue to make me happy now. I also pretty much have two names here myself, anyway.</p>
+
+<h2 id="construction">Construction</h2>
+
+<h3 id="design">Design Notes</h3>
+
+<p>My initial approach to the design of this site was rooted in my own capabilities as a visual artist, which focuses more on minimalism and making use of negative space. I wanted the site to look good, but I didn't want to depend on graphics for that. Graphics serve more as function and substance rather than being mostly decorative: that's how I like to design. And the only graphics I use are obviously Pokemon related in some way - in the sense that it's obvious with a mere glance, even if it's written on the tin. My penchant for minimalism makes those graphics stand out, and therefore also the decision making behind displaying each distinctly Pokemon-related image. </p>
+
+<p>But I'm not being limiting here: this was just my initial approach so I had somewhere to start. A lot of style elements are obviously somewhat Pokemon-related, too, and the use of accompanying graphics makes it achieve that Pokemon feel, rather than just being a box with double borders around it. I like creating things based on an existing media, something already concrete, but adapting my favorite elements of it and my own personal feelings and interpretations to explore the sea of transformation in order to make something new and derivative. I do also like coming up with original ideas like a Greek god birthing from its head - but this website isn't like that. It's a love letter, a time capsule, a personal archive. I want everything about its experience and interface and substance to reflect that. 
+</p>
+
+<p>While I have my preference for simplicity and translated some aesthetic motifs across more universal pages for consistency, this website is mostly a place for me to follow my creative whims, wherever they may take me, and whenever that may happen. The flexibility to allow myself to design based on what the pages required rather than what I've already done makes this website feel like an exciting mishmash of all the different types of webdesign that I like, even if they're not necessarily in that minimalistic instinct. I created this website because I thought it'd be cool, and I continue to work on it so I still have that relationship to it, adding things and designing in ways that I, at the very least, think are cool. There's no final version of this site in my head: I improve on it as ideas to improve it come to me, but I have no desire to make it ultimately perfect and unchangeable at any given point. Still, on my old websites I used to change the layouts every three months or so; these days, I'm more interested in seeing how long I can be happy with a design. </p>
+
+<p>Aside from this documentation, I don't spend a lot of words to talk about a lot on other parts of this website. I like to keep things brief, which complements my minimalistic affinities. My feelings are ever-changing, anyway, and while this site basically has my history with Pokemon on display, I don't intend for it to read like an encyclopedia or an informative website. Instead, it's a lot like a museum gallery: the exhibits speak for themselves, and I hope that visitors take something away from it, even if that visitor is just me reminiscing about my first year of college where I spent an entire day in Black 2 looking for a female Eevee. </p>
+
+<h4>Sectional Distinction</h4>
+
+<p>When coming up with the sections and how the visitors interact with the site, I wanted the undeniable identity of this being a Pokemon website not just make itself evident through its content or design, but practically oozing with it. I decided from the jump that everything would use Pokemon terminology in some way, even if that may make it harder to navigate for someone with a different level of familiarity than me. This doesn't impede my ability to make things more accessible anyway, but I also know that that can only go so far when I'm naming everything after Pokemon gimmicks. </p>
+
+<p>What's important to me about this is that everything about a section must be related to its purpose in some way, though it's obviousness or degree of relatability may vary across different sections. But its name must be tied to its design which also must be tied to its content and how I feel about the content, and while I can settle for something that may feel good enough, I don't want less than that. Additionally, I want each section to feel distinct from other sections in some way, when applicable and to relevant degrees. Though this is one website, I want the experience to feel like a sprawling mine of different websites.</p>
+
+<p>The Bag in the gym is essentially an extremely reductionist presentation of these ideas: without explanation, it prompts you to pick an item leading you to another area of the site that you could otherwise access from the more explanatory home page. Though the bag exists out of menu completion, I like that it tests your familiarity with the functional nature of this website  (and Pokemon.) The link names don't always match the name of the sections, largely because I only want the bag to list key items (except for the masterball, of course.) Still, there is some relevance between a section and how it's referred to in the bag. And it's a nice way for me to keep a reference to the guestbook being formerly designed and named as an Xtransceiver. </p>
+
+<h4>Fonts</h4>
+
+<p>I don't really complicate it with the font choices here. Century Gothic was my favorite font when I was younger, but I have a Mac and like the aesthetic display of Futura, which is similar to it, a little more. (It's still Century Gothic on PC though.) Both fonts fit with the minimalism aesthetic in their sans-serif nature, yet have a unique look, as I hope this website feels despite its plainness in parts. </p>
+
+<p>I use other fonts when the content calls for it. The trainer section is styled most similarly to the home and landing page because for all intents and purposes, it *is* the main showcase of this site. The uniformity of font use reflects that. Other sections - the Gym, the Wild Area, the Secret Base - use fonts that better fit the content, and more often than not are monospace, primarily to emulate the video game feel. Inconsolata (the Gym and Fight font) is the font I've used the most on my other websites; chronologically, however, I believe it started here. It's more of my love-for-websites font, which fits with being the font of my site's metadata. </p>
+
+<h4>What's different about this site?</h4>
+
+<p>As I've mentioned before, I have other website projects. This is just one of many, but it's a pretty big one nonetheless, due to the omnipresence of Pokemon in my life. I've made a conscious effort to make this one different in a lot of ways, though, centered around a single idea with a clear focus (Pokemon), while my other projects have more personal or less franchise-driven intents. But I like channeling my more superficial and consumerist tendencies here. </p>
+
+<p>Similarly, a lot of the tactics I've made to both structure and design this website are deliberately different from my other web projects. This tends to come about just due to the nature of this site, even though I'm always thinking about intent and purpose when it comes to design and creation. Some strategies that I've only ever used on this project include:</p>
+
+<ul>
+<li>Gradient backgrounds, as I've never really found the need to use it before the Pokemon Go section.</li>
+
+<li>Emulating another existing design and layout idea rather than creating or transforming my own, coming through the Pokemon Go page being reminiscent of the app.</li>
+
+<li>Image mapping in the Secret Base. I've had experience with image mapping before when I was younger and still learning everything, but even that was through my photo editor at the time. I suppose I could still do that with Photoshop, but I'll be honest: I like my websites and code a lot better when I go through the menial process of precision, because I feel like I understand it with more depth this way that otherwise. Since I was younger I'd always understood it in concept, but with my general preference to not depend on graphics, I hadn't found a reason to even want to use image maps. At least, until I made the secret base.</li>
+
+<li>Radio buttons as in-page navigation in the Wild Area. This was brand new for me, relatively speaking, though I had always known how radio buttons worked in code. I didn't have a project to use them on before, so this was an exciting first time using it.</li>
+
+<p>Much like my other sites, Masterball is mostly focused on organizational design with an emphasis on substance, because that's how I operate as an artist and a visual architect. If I were another person I'd say that I could change this around if I ever wanted to - but I won't, because this is just a part of who I am and how my creative brain works. Even with writing, I spend a lot of time thinking about syntax and vocabulary to strengthen my voice and style in prose. I'm consistent, I suppose. And an over-thinker. </p>
+
+<h4>Process</h4>
+
+<p>Beyond conceptualizing and drawing wireframes, the first thing I did was make the index page and create the graphics in Photoshop. I wanted an obvious and visually appealing masterball motif, so I opted to make it more pastel than accurate to game sprites. I'd initially made the vector as a masterball idea to then convert into splash page graphics, and liked it so much that I made linkback buttons out of it right afterward.</p>
+
+<p>I brought this website to life in the order I anticipated each page to be visited. As this was before I'd made the home page, the next thing I worked on was the trainer main page. Tackling it second had a functional use as well, in being a to-do list of sorts for when I would make the game pages shortly afterward. Prior to 2024, I had also cycled through various NPC avatars on the page, most prominently the female Ace Trainer, because I had attributed that trainer class to myself at the time, even though I've never been that interested in battling. I made the "about" portion of the trainer page, at that time an in-page pop-up, sometime between making the game pages, because I wanted to display a party of my favorite Pokemon and needed an excuse to sit those six sprites next to each other.</p>
+
+<p>I created all of my mainline game party pages after that, which started with me whipping out my 3DS and going through my lovingly crafted boxes of old parties and finding game-specific sprites for all of them. I wanted each page to feel like an accurate representation of my experience with the game, as substance-wise that's what it was doing; I wanted it to feel evident through the graphics and design too. I won't go through them game by game because that'll quickly turn redundant. I'd already decided, though retroactively impractically, that I could have a universal CSS to adjust colors on each page while maintaining the blocking logic. I like to differentiate between the generation and the year I played, particularly since I played both Heart Gold and Fire Red out of order. I quickly opted for each game to have a short blurb about my experience with it, as a way to evoke my own memories while appeasing my discomfort at the time of writing about myself in longform. When it came to Pokemon metadata, I wanted to archive everything that felt integral to making my experience with that Pokemon that made it unique, even if it meant doing the tedious work of adding specific balls and ribbons (and their tooltips), as well as working with tables for my non-competitive movesets. I pretty much did the same thing for each game after I had procured the party sprites and started putting the page together to match what I'd envisioned for the structural template.</p>
+
+<p>At least, for the first three. See, when I played Pokemon Platinum, I had a stupid ambition: to beat the game with only one, unevolved starter. That starter was Chimchar, and it ended up working eventually thanks to RNG. I didn't want to display it like the other pages, though, which had more Pokemon. That would make it plain and boring, which conflicted with my playthrough of Platinum, which, however inefficient, was still special to me at the time. So I changed it, even only just a little bit, to tie in that feeling to the webpage.</p>
+
+<p>Then, when I was making the Omega Ruby page a few games afterward, I realized it looked too similar to the original Ruby game. It was also the game I was the most obsessed with at the time, so I wasn't happy with the idea of it looking like a previous party page. I needed it to look different. And with Omega Ruby being a 3DS game and my already existing (though rarely used) knowledge of how to achieve 3D effects with CSS, it led to that natural conclusion. I'd already made the X page (and hadn't yet played Y), so I went back and added the 3D effect to it, too. This later set the precedent for when I made my Let's Go Pikachu page on a plane ride in December 2018, and decided to add borders to the page to similarly represent that it was a game on the switch.</p>
+
+<p>My obsession with Omega Ruby also spurred me into making a separate page for progress in my attempts to 1000% the game. I was particularly proud when, shortly after making this site, I had gotten 1000 flags and could update my secret base graphic to reflect that. Giving myself this flexibility for game-specific subpages also later prompted me to make my collection of shinies during my addiction to raid den exploits in Shield; and though I haven't gone on long-term shiny hunts in Legends Arceus yet, I did hunt a handful that I show off on that game page, too, instead of my collection of shiny Pokemon that I take the 1 in 4096 gamble on every time.</p>
+
+<p>The idea of having a Miscellaneous page was there from the beginning because my main party game box in Pokemon Black - where all my pre-3DS parties were living, at the time -  also had these stray Pokemon, and I wanted to show them off, too. Having a Favorites page wasn't in the original idea but occurred to me sometime during this initial development phase, because I wanted to list my favorite of everything related to Pokemon - I have opinions on characters and ships and mega designs too! - and the Trainer page felt only fitting. The shiny collection was made some months after the project had been launched, because I got obsessed with shiny hunting in Omega Ruby as well as through the Pal Park in XY, and wanted a place to archive those hunts, when successful. </p>
+
+<p>My vision for the "Gym" section was less clear, but was necessary because though I wasn't inclined to writing elaborate documentation like this yet, I knew the importance of public site metadata. It also made sense to be in the Gym, at least in my head. I settled on emulating the battle menu especially as I was pretty happy about the navigation hover effects. I chose to add the sprite of the gym guide from Emerald as well, to set up the idea of it being the "Gym" section along with being a nod to my extensive familiarity with the Hoenn games.</p>
+
+<p>My idea for the gym sections were somewhat vague, aside from "Flee" being an obvious links-out page. "Fight" made the most suitable sense to have the actual breadth of the site metadata, being what you'd click on first and most often when in a Pokemon battle. My design for "Fight" has always been the same since the beginning, though I don't really feel a particular way about it. Its simplicity is necessary to make the content readable, or at least that's what I've been telling myself so I don't have to wrack my brain for ways to make it more creative. I did switch from initially being an ice-type gym leader to a steel-type sometime in 2019, as a result of my Shield shiny hunting hyperfixation. Some friends and I had brainstormed the idea of creating a sort of battle ladder as if we were gym leaders, though it never actually happened. But while we were discussing it, I realized how many steel types I liked, particularly in Galar and with my shiny gigantamax Corviknight. I was happy with the realization that I'd more accurately be a steel type gym leader. It's a stronger typing than ice, anyway.</p>
+
+<p>The original vision for the Bag part of the Gym was to stay in page, but as I didn't trust my knowledge of Javascript at the time, it was a page on its own at first. It also had the site map contained inside of it as a similar looking menu, which was the real purpose of the Bag, though I hadn't been too satisfied when it was done but couldn't think of how to improve on it for years. </p>
+
+<p>I worked on the exit links out section next. I'd really only known a handful of personal Pokemon sites and collectives already so it took me a bit of hunting to find more Pokemon sites that I wanted to link to. When it came to the design portion, I'd actually already made the love ball graphic shortly after being satisfied with how the masterball graphics on the splash page had turned out, and figured using the love ball motif would be cute on the exits page. I remember that I considered some other design ideas, but found that I liked the aesthetic of the Love Ball too much to settle for anything else.</p>
+
+<p>Lastly, I made the Pokemon Go section, which was the Pokemon link in the Gym at the time. I'd put it off for the end because it required me to archive game data again, when the other sections were more about the site. Still, I'd known from the start that I wanted the webpage to look like it had been taken straight from the Pokemon Go app, so I implemented a CSS gradient background, turned my in-game trainer into a PNG, and archived my dex progress by displaying hundreds of sprites on one page. I've updated the trainer info off and on as often as I play Pokemon Go, though I like my current avatar a lot that I don't anticipate changing it much any time soon.</p>
+
+<p>I saved and tested all the webpages locally as HTML and CSS files, then converted them to PHP and uploaded the entire project via FTP at the end. I will note that these days, however, I upload via Github Desktop, so now I can skip a few steps.</p>
+
+<h5>Scrapped/Initial Plans</h5>
+
+<p>This website has gone through a lot of changes, both big and small, despite the amount of things that have also stayed the same. Here's a list of design and organizational choices I had made for previous iterations of this project that are no longer present:</p>
+
+<ul>
+	<li>The front page used to be the main navigation, with Trainer and Gym linked on the grey line of the ball.</li>
+	<li>I originally planned for there to be a "Someone's PC" in the navigation as well, with the anticipation that I may be interested enough in making shrines or fanlistings. I removed this when I realized I couldn't convince myself to even pretend to be interested in the idea.</li>
+	<li>Before it was mobile responsive, the mobile version of the front page was designed like a premier ball (much like the front page masterball or the exit links love ball), notifying the visitor that the site was not responsive yet.</li>
+	<li>The color scheme in the Trainer section used to be light blue and white, fitting with the female Ace Trainer sprite in Pokemon Omega Ruby.</li>
+	<li>The autobiographical Trainer section used to be an in-page pop up, but I decided to make it its own page during my November 2024 update instead, now that I was more confident writing about myself at length. My about section now has fun trainer cards made online , an explanation of why I like each of my favorite top 6 Pokemon so much, and Pokemon-related fun facts about myself.</li>
+	<li>The Favorites page used to be themed after a design of the Furisode NPC from Pokémon X/Y, but sometime between 2021 and 2023 I decided I liked Clair more and reworked the colors.</li>
+	<li>Fighting the gym used to have a contact form, but I wasn't too happy with it and eventually removed it. </li>
+	<li>My old gym ice-type team was Alolan Sandslash, Alolan Ninetales, Aurorus, Weavile, Mega Glalie, and shiny Walrein as a reference to Walrein being my first ever shiny Pokemon. I also cycled in Regice, Froslass, and Frosmoth at points.</li>
+	<li>I used to have Bisharp in the gym because for a while, it was one of my top 6 favorite Pokemon. But the way I pick my favorite Pokemon isn't just in aesthetic design, but also by evolution stage. I'm a lot more drawn to final evolutions, and only prefer pre-evolutions if I have nostalgia for them or like the design immensely. Even more rarely do I ever pick middle evolutions over the final or first stage at all. I was drawn to Bisharp when I was 16 for no reason other than sharing some physical traits with it, but I started to forget about it over time. And then when Scarlet/Violet released Kingambit, Bisharp felt like a different Pokemon to me, and I knew I didn't think of it as one of my favorites anymore.</li>
+	<li>The Bag used to be on a separate page with the Town Map, but is now contained in the Gym page with its only purpose being a navigation of quick links.</li>
+	<li>The Pokemon Go section used to have IRL "gyms" that I had conquered, but I decided to remove it as it felt a little too doxxy for my liking. Gyms in Go don't work like that anymore, anyway.</li>
+	<li>As cited earlier, the Pokemon link in the Gym used to go to the Pokemon Go page. It now is in the Wild Area section with archives of other Pokemon mobile games I play and find interesting enough to archive there. (I say this because I used to be into Magikarp Jump, but what would I even put about that here...?) For a brief spell while I was deliberating, the mobile games section was the Pokemon link, but I decided to make that its own section and have the Pokemon page be a fun collage of adoptables and cliques instead. </li>
+	<li>The guestbook was added in the November 2024 update, but emulated the design of the Xtransceiver in Diamond/Pearl/Platinum. I changed the design to something that I felt happier with in my February 2025 update.</li>
+	<li>My error page used to have a white background, but now it's all black.</li>
+</ul>
+
+<h5>November 2024: The Responsive Update</h5>
+
+<p>I'd known how to make my code responsive before I even started this website. But - and this isn't the first place I'm complaining about it - I don't like making my designs responsive, even though I absolutely understand its necessity. It's generally about resizing in a preset boundary with barely any reason to make decisions when it comes to aesthetic design, and therefore is webdesign but without the part that's actually fun to me.</p>
+
+<p>When I launched the site, I knew I'd want to make it responsive. Eventually. But I really didn't want to, especially as doing that meant not just making one style responsive, but multiple, with all the different quirks I had per page. So I put it off for a long time. For over seven years, at that.</p>
+
+<p>It was shortly before American Thanksgiving - and after I'd moved this entire site to a Github repository, so I could just update it locally - when I got the aforementioned email about taking navigation accessibility into more consideration that spurred me not only to reorganize, but also to sit my ass down and make this site responsive like I knew I wanted it to be for ages, despite my gripes with the process. But I thought of it as a fun and practical makeover, especially since I knew I could do better, and how, and why, so I might as well. Not to mention that my brain was swirling with webdesign brainrot that I put this particular long-term task off by working on so many other website projects in the meantime. Finally, I told myself, alright, I guess it's time to do this.</p>
+
+<p>I edited a lot of the stuff in the Scrapped Plans list during this update, including:</p>
+
+<ul>
+<li>The index page, originally the main navigation, became a splash page that led to</li>
+<li>The home navigation, a brand new page with a more straightforward method to navigate  </li>
+<li>The look of the Trainer page and its associated NPC</li>
+<li>Creating and writing a lengthier separate autobiographical section</li>
+<li>Using my better understanding of Javascript functions to convert the gym bag into an in-page pop-up like I'd always wanted</li>
+<li>Created a much-needed accessible site map</li>
+<li>Added a guestbook (Xtransceiver style)</li>
+<li>Wrote the first draft of this documentation</li>
+<li>And, of course, made each page and design responsive to screen sizes.</li>
+
+</ul>
+
+<p>Though I was initially motivated by the necessity of accessibility, this update soon turned into thinking of ways that I could develop this website even more. After being online for so many years with so few updates, I knew it was starting to feel too stale for my liking. Now that I was reorganizing everything, I could imagine not only how I could make it better, but also more interesting - more fun, more creative, more me. The creation of the home page especially helped with this, no longer limiting myself ot the diametric options of just "Trainer" and "Gym." And, well, I guess the ball button.</p>
+
+<p>It helped that I'd gotten really into PokeRogue some months previous and wanted to find a way to work my runs onto this website. I was starting to get into TCG Pocket, too, and liked the idea of translating my rare collection from the game into a webpage, since it was a lot more accessible and affordable than the real life cards, which I hadn't been that interested in after kindergarten. I didn't actually add these subpages yet, but making this site more navigable gave me new ideas that I could make if I wanted to, and add them to the home navigation if I ever did. I was happy with this update, but even more than that I had set up ways to expand this site even further in the future.</p>
+
+<p>I worked on this all through my Thanksgiving holiday in 2024, while my mom was visiting me. This isn't that important, but that memory will forever be tied to that development stage of this site now.</p>
+
+<h5>February 2025: The Wild Area & Secret Base Update</h5>
+
+<p>I had TCGP and PokeRogue as the elements of this site that I would work on next. But as I had a lot less to show about PokeRogue, and a lot more with TCGP due to my luck with pulls, I decided to work on the TCGP page. I ran into some creative difficulties in the process since I barely had even a visual idea of how I wanted it to look, just that it should be as true and necessary as any other section. I settled on the motif of a binder of cards but still displayed as a vertical scrolling webpage to emulate the mobile app feel, with a large empty section to showcase the binder image as its cover. The background was an annoying point of indecision that I put off until the end. Eventually I realized that a wood pattern would make it look like a binder on a desk and enhance that vibe even more.</p>
+
+<p>When I linked it from the home page like I'd planned to in November, it felt wrong in a lot of ways. For one, it would be the only one-page archive linked to from the home navigation, while Pokemon Go was in the Gym and everything else was in Trainer. For another...as much as I dreaded admitting it, it would actually be better suited in a section <i>with</i> Pokemon Go, and the Pokemon section should link to something else. I was annoyed with realizing this, though, because that meant I had to think of something else to replace it, and that was frustrating when I couldn't just make the idea magically manifest in my head as they often did at other times. </p>
+
+<p>Still, I knew what felt right, so despite my lack of ideas I made the navigation of putting the Go and TGCP sections together, in what's now known as the Wild Area. But it was Pokemon in the gym first, which was also how I came up with the idea of making it look like the starter selection screen in Pokemon Ruby/Sapphire/Emerald, since you're literally picking a Pokemon in that screen. It didn't take a lot for me to figure it out, functionally. Soon after considering the starter selection screen as this new navigational page's aesthetic motif, I remembered that I'd been wanting to employ the logic of radio buttons as in-page navigation for an eventual project, and they were basically perfect for each other. Once I made it work, I was happy with it immediately and kept it accessible through Pokemon. But in my heart I knew it was too big - even with only two subpages - for a section that was supposed to be site-related and small, so I was going to move it. I just needed to think of something to replace it first.</p>
+
+<p>So I asked <a href="https://situations.neocities.org">a friend</a> if she wanted to help me brainstorm page ideas, since we tend to brainstorm all sorts of bullshit together. She suggested having a little pet feeder adoptable, and then I expanded that idea into even more cliques and adoptables. And then as I was hunting for Pokemon sprites and PNGs to adopt, I came across <a href="https://newlambda.neocities.org/games/pokemon">newlambda's Pokemon shrine</a> and it gave me the aesthetic inspiration I needed to know how I wanted to organize this page, especially with having a game overworld image as the background. I chose Route 104 from the original Hoenn games because it's both nostalgic and extremely distinct for me. This section is more for posterity than anything else, but I'll admit that I love the idea of having just one page on this otherwise pretty minimalistic website that looks so maximized.</p>
+
+<p>From there, I had a new page for Pokemon, and also a brand new section with a new subpage of its own: the Wild Area for mobile games. Because playing in the real world is like wandering into tall grass, I guess. </p>
+
+<p>While I had been wracking my brain for more page ideas just to fill out Pokemon, a few more ideas occurred to me, though they weren't really applicable for the subsection. Instead, they were whole new sectional ideas: moving PokeRogue into a wider fangames section (therefore, I can put it off until I play more fangames), and a Secret Base of my IRL trinkets. I'd been considering creating a section for all of my trinkets on my personal website; but I also have a lot of Pokemon merch, so I realized that hey, I could make a page like that here, too. The only excuse I could give myself to procrastinate on it was that I'd ideally like to have a customized Secret Base used as navigation but couldn't make it that easily on my computer yet...and then I found <a href="https://pamtre-berry.neocities.org/fun/secretbase#">Pamtre-Berry's Secret Base maker</a> which had somehow escaped my notice ages before that very moment. So I no longer had that excuse.</p>
+
+<p>So over Super Bowl weekend in 2025, I locked in and made it. I didn't have a concrete idea for how I wanted it to look or function design-wise yet, but I knew that my online-made secret base would at least inspire it, if not be a part of it. I started with creating a secret base like I would in-game and trusted that the rest of my ideas would follow. </p>
+
+<p>And wouldn't you know it? It worked. From making the base online I implemented the idea of my merch being in two separate "rooms," distinct by intuitive association. I created what the conclusion of the secret base would look like first, then moved the items that I wanted to be the navigational buttons so what remained was for practical usage on the site. I'd listed beforehand how I wanted my things to be divided by category, so I knew how many navigational items I needed to take away and later download and edit to operate as image-mapped links. I hadn't done image mapping in a while and never really had the experience doing so manually, but I was happy to do it because I knew how I wanted it to look, and precisely how I could code it to get it there. </p>
+
+<p>After that, I settled on the base background being the page background, then the content being a brown square before slowly and surely, the more I made it look like a corkboard, the happier I became with it. I found and took pictures of all of my Pokemon things and turned them into PNGs which was certainly a task in and of itself. I also decided to use iframes to display them as I think it's kinder for each page load. I really don't like designing with the colors green <i>or</i> brown, but the breadth and uniqueness of this section's design makes me feel especially proud of it now that it's done.</p>
+
+<p>The Secret Base was a day-long project; I passed out early on Sunday morning. I woke up several hours later suddenly with an idea of how to make the guestbook look cuter in a way that I liked. So I worked on it immediately, after being asleep barely 10 minutes prior, now looking up PNGs of Gabby and Ty from Ruby/Sapphire/Emerald and creating a design I was a lot more fond of than its initial Xtransceiver layout. I was pretty much done by the end of the weekend, and it felt quite fitting as this was also around the eighth anniversary of this website's launch. </p>
+
+<h2>Site Walkthrough</h2>
 
 <p>Upon entering the site, the visitor gets presented with the image of a large masterball and the instruction to open it (or click on an adjoining link) to begin one's journey on the website.</p>
 
-<p>Doing so will lead you to the main navigation, or Home &mdash; a hub of all the main subsections of this site. As of this moment, the active subsections are Trainer, Gym, Xtransceiver, and Map. The documentation and link back to the splash page (as well as the my primary website-making site, kingdra.net) are linked in the footer.</p>
+<p>Doing so will lead you to the main navigation, or Home — a hub of all the main sections of this site, along with a small description of each. Webrings, my GPX party, documentation, splash page, and web portal are linked in the footer.</p>
 
-<p>Trainer, which is listed at the top, is the main showcase of the site: a mini-archive of parties across all played games. Each page lists:</p>
+<p>The sections on the Home navigation are:</p>
+
+<ol>
+	<li>Trainer</li>
+	<li>Gym</li>
+	<li>Wild Area</li>
+	<li>Secret Base</li>
+	<li>Amie</li>
+	<li>Map</li>
+</ol>
+
+<p>1. <b>Trainer</b>, listed at the top, is the main showcase of the site as a mini-archive of my parties across all played games. Each page lists:</p>
 
 <ul>
-	<li>The name of the game</li>
-	<li>The year played and name of the region</li>
+	<li>The game and its generational release</li>
+	<li>The year played and name of region</li>
 	<li>A small blurb about my experience with the specific game</li>
-	<li>My primary party of any playthroughs (usually one), including species, nickname, gender, ball caught, ability, nature/characteristics, IVs and ribbons (if relevant), and moves. Each Pok&eacute;mon's metadata is accompanied by a game-appropriate sprite.</li>
+	<li>My primary party of any playthroughs (usually one),  including each Pokemon's species, nickname, gender, ball caught, ability, nature/characteristics, IVs and ribbons (if relevant), and moves. Each Pokémon's metadata is accompanied by a game-appropriate sprite.</li>
 	<li>Additional interests and time-sinkers in the same playthrough, including shiny collecting or specific goals (like secret bases and trainer card colors.)</li>
 </ul>
 
-<p>Trainer also links to a small autobiographical section by "challenging" the trainer. Additional non-game links include Miscellaneous (non-main party Pok&eacute;mon that are significant to me), Favorites (of everything Pok&eacute;mon related), and my Shiny Gallery for relevant shinies.</p>
+<p>Clicking on "Trainer Battle" in Trainer directs the visitor to a small autobiographical section about myself as a Pok&eacute;mon fan, why I think I would be the respective NPC in the Pok&eacute;mon world, a small blurb of why each of my favorite six Pokemon are my favorites, digital trinkets related to me as a Pokemon trainer, and fun facts about me. This page is a dead end and only navigates back out to the main trainer page.</p>
 
-<p>Gym, the second listed page, is the more sitely aspect in two subpages, and another archive gallery in a subpage, just for fun and because I couldn't think of anything else to make the "Pok&eacute;mon" option in the menu. The gym is constructed to look and interact like a battle menu, with a gym guide from Pok&eacute;mon Emerald (my favorite game probably) as a sprite with tips on how to battle a steel gym leader.</p>
-
-<p>Clicking "Fight" in the Gym will send you to the main site information page, which has a Javascript in-page menu of shiny pok&eacute;mon &mdash; because I have a shiny collection addiction &mdash; leading to:</p>
-
-<ul><li>Where I log updates for the entire project (Github as well as masterball on Dreamwidth), via the bisharp</li>
-	<li>My game contact information (3DS and Switch friend code), as well as how you can contact me if you decide to add me, via the aegislash.</li>
-	<li>A broad overview of Pok&eacute;mon in my life, particularly in the present, via the mega aggron.</li>
-	<li>A broad overview of this website, including the basic name information, via the excadrill.</li>
-	<li>Linkback buttons, via the tinkaton</li>
-	</ul>
-
-<p>Clicking "Bag" in the Gym will send you to an in-page subpage of the bag, which opens up to a menu of quick links around the site. This is mostly used to function as a way out of this page, though I also think it's just fun to have and interact with. "Bicycle" is for flavor text, but "Town Map" sends you to the Map, "Vs. Seeker" sends you to Trainer, "Xtransceiver" sends you to the Guestbook, "Masterball x 1" sends you back to the home navigation, and closing the bag literally closes the bag.</p>
-
-<p>Clicking "Pok&eacute;mon" in the Gym will send you to the Pok&eacute;mon Go archive/log, which shows:</p>
+<p>Other pages listed in the trainer section are:</p>
 
 <ul>
-	<li>My in-game username, hydrasplatlings</li>
-	<li>Current level</li>
-	<li>Current avatar, though as of this moment I don't plan on changing it for a while because I like it a lot</li>
-	<li>Go team, which is Team Valor and is themed in the page's design</li>
-	<li>Trainer code</li>
-	<li>Start date</li>
-	<li>Pok&eacute;dex progress out of those I've seen, not of the total</li>
-	</ul>
-
-<p>Below is a pixel image-indicated dex log. You can hover over the empty spaces to see the unseen ones. The footer allows you to go back.</p>
-
-<p>Clicking "Run" in the Gym will send you to exit links out &mdash; Pok&eacute;mon websites that I think are cool or useful, or some that I've affiliated with. There's no distinction here; I just like having a button wall. I also have links to Pok&eacute;mon sites that I linked here before that are no longer online, but have been preserved through the Wayback machine.</p>
-
-<p>Returning back to the home navigation, there are presently links to two sections that do not yet exist, but are there both for the visitor informative purpose (that they will exist eventually), and as a promise/reminder to myself to make them as well.</p>
-
-<p>Xtransceiver, the next listed page, is the guestbook and is designed to look like the Pok&eacute;tch from Diamond/Pearl/Platinum. Visitors can leave a public comment on the website this way if they would like. Clicking "home" or either Pok&eacute;tch button will take you back to the home navigation.</p>
-
-<p>The last link is the map to assist the user in navigation. The map's footer links to both the Github repository as well as the documentation.</p>
-
-<h2 id="future">Future Plans</h2>
-
-<ul>
-	<li>Victory Road &rarr; Fan Games (incl. PokeRogue)</li>
-	<li>Take a photo of all my plushies to share here</li>
-	<li>Add a Konami code secret</li>
-	<li>Play Ultra Moon and Violet to make pages here</li>
-	<li>Update or reconfigure the Go dex (maybe)</li>
-	<li>Change the gym team around again (maybe)</li>
-	<li>Use root styles for trainer game pages instead of its current templating (maybe)</li>
-	<li>Commission art for the gym section to make it look prettier (maybe)</li>
-	<li>Make a timeline (maybe)</li>
-	<li>If I ever play spin off games enough to make a section here, they'll be the Battle Frontier (aka S.S. Ticket via the Bag)</li>
+	<li>Miscellaneous, for non-main party Pokemon that are significant to me</li>
+	<li>Favorites, of everything Pokemon related</li>
+	<li>Shiny Gallery, for my 1-in-4096 (or more) shinies</li>
 </ul>
 
-<h2 id="credits">End Credits</h2>
+<p>Visitors can leave the Trainer section by avoiding eye contact.</p>
+
+<p>2. <b>Gym</b> is the second page listed in the Home navigation, and contains pages relevant to the site's identity. Navigating the gym requires the visitor to rely on their intuition to figure out where each option will take them. </p>
+
+<p>Fight directs to the main site information page, which has an in-page menu of clickable shiny Pokemon. This menu further expands into the following sections:</p>
+
+<ul>
+	<li>Updates, directing to a dreamwidth journal as this site's update log as well as its Github repository</li>
+	<li>My Friend Codes and notes on contacting me as the webmaster</li>
+	<li>An overview of me and Pokemon in my real life, particularly as a franchise</li>
+	<li>A brief summary of the website, both in intent and semantics</li>
+	<li>Linkback buttons</li>
+	<li>Navigation to other site metadata not listed on this page</li>
+</ul>
+
+<p>Bag toggles into an in-page subpage of the Gym as a menu of quick links around the site. This is to quickly access other sections without needing to go back to the home menu, and fits with the idea of needing to open your bag if you need resources during a battle. There is also a link back to the home menu. </p>
+
+<p>The links are:</p>
+
+<ul>
+	<li>Bicycle, for flavor text.</li>
+	<li>Town Map, for the sitemap. It is listed second in case the visitor is lost.</li>
+	<li>Vs. Seeker, for Trainer.</li>
+	<li>Exp. Share, for the Wild Area.</li>
+	<li>Basement Key, for the Secret Base.</li>
+	<li>Xtransceiver, for the Guestbook.</li>
+	<li>Masterball (which is not a key item), for the Home navigation.</li>
+</ul>
+
+<p>Closing the bag will indeed close the bag.</p>
+
+<p>The Pokemon option in the gym directs to a page of digital adoptables in the form of images, as well as cliques, similarly themed widgets, and any other graphics I make related to a particular Pokemon species. </p>
+
+<p>Run directs to exit links out in the form of a button wall. Pokemon sites are selected to be shared here based on my interest in their content and design, especially if I've affiliated with them. Other links are independent Pokemon sites useful to fans, and archived links through the Wayback machine.</p>
+
+<p>3. The <b>Wild Area</b> is a hub of my mobile game archives. Each pokeball serves as a navigation link, opening up an explanation for what mobile game that section will lead to. Currently, there are only two. The third pokeball appears to be empty.</p>
+
+<p>The first ball leads to the Pokemon Go archive, listing my public player information if you were to add me. My selected Go team is also evident in its design. The bulk of the page contains my pokedex progress in Go, with unseen Pokemon invisible, seen but not caught Pokemon somewhat transparent, and caught Pokemon fully opaque. This page is a dead end and only navigates back out to the Wild Area.</p>
+
+<p>The second ball leads to the Pocket Trading Card Game archive, listing my public player information if you were to add me. It contains the in-game graphic I selected as the cover of my main binder. Scrolling down will show you an archive of all my rare cards, which can be hovered over to see at full opacity. This page is a dead end and only navigates back out to the Wild Area.</p>
+
+<p>Visitors can leave the Wild Area by retreating from the tall grass.</p>
+
+<p>4. The <b>Secret Base</b> is a display of my real life Pokemon merch. Each page can be navigated through the Secret Base in the top left via highlighted furniture items, or the text navigation below it. The landing page is reminiscent of a corkboard, with some guidance in navigating. All internal pages open in an iframe.</p>
+
+<p>Each page of trinkets contains PNGs of all respective items, as well as a sentence or two explaining the item as well as the context of my ownership, if interesting. The About section (the PC in the Secret Base) contains a backstory on my ownership for many of the items, in the context of my life. </p>
+
+<p>Visitors can leave the Secret Base by clicking on "Exit" in the text navigation. There is no adjoining link through the Secret Base furniture, to prevent navigation confusion.</p>
+
+<p>5. <b>Amie</b> directs to the Guestbook, based on the idea of friendliness and interaction. Visitors can sign the guestbook, and read through messages other visitors have left. Closing the guestbook redirects to the Home. The footer contains additional links to the site map and documentation.</p>
+
+<p>6. The <b>Site Map</b> is a hierarchal list of all pages on this website. It also contains some explanations for smaller sections that are not accessibly and summarily explained on their respective page. There is no further navigation here, as the map itself is navigation. The Github repository and documentation are linked here as well.</p>
+
+<h3>Future Plans</h3>
+
+<ul>
+	<li>Victory Road for fangames, including PokeRogue.</li>
+	<li>Something with a Konami code…?</li>
+	<li>I'll play Ultra Moon and Violet eventually.</li>
+	<li>Update and/or reconfigure the Go dex (maybe.)</li>
+	<li>Convert main game party pages to root styles (maybe.)</li>
+	<li>Commission art for the gym and redesign it (maybe.)</li>
+	<li>Make a timeline (maybe.)</li>
+	<li>If I ever play spinoff games enough to want to archive them here, they'll be in a section called "Battle Frontier" because dude, I really like Emerald, okay. Its bag link will be the S.S. Ticket.</li>
+</ul>
+
+<h3>End Credits</h3>
 
 <ul>
 	<li><a href="https://play.pokemonshowdown.com/sprites/">Pok&eacute;mon Showdown</a> for trainer sprites and animated Pok&eacute;mon sprites</li>
@@ -339,7 +498,7 @@ overflow-x: none;
 	<li><a href="https://msikma.github.io/pokesprite/">msikma's pokesprites</a></li>
 	<li><a href="https://www.pkparaiso.com/espada_escudo/sprites_pokemon.php">PkParaiso</a> for game-specific sprites particularly in later games</li>
 	<li><a href="https://virtualobserver.moe/ayano/comment-widget">Comment widget by Virtual Observer</a> for the guestbook</li>
-	<li>Pok&eacute;tch styling for the guestbook taken and modified from <a href="https://codepen.io/NZSloh/pen/bGLQGGe">Pok&eacute;tch Calculator on CodePen</a> by NZSloh (see source code for licensing)</li>
+	<li>Secret Base made with the <a href="https://pamtre-berry.neocities.org/fun/secretbase#">Secret Base Maker on Pamtre-Berry</a>. Additional graphic credits are in the Secret Base "about" section.</li>
 	<li>I found the graphic for the Pok&eacute;mon Go Valor vector ages ago, though could not tell you now where or how I got it beyond a simple Google search.</li>
 	<li>Photoshop 2024 &mdash; ball page backgrounds were handmade by me</li>
 	<li>Github Desktop</li>
@@ -347,6 +506,8 @@ overflow-x: none;
 	<li>Google Chrome and Firefox, as well as Color Picker (Chrome) and Colorzilla (Firefox) when I needed to grab a color on a webpage and was feeling lazy.</li>
 	<li>Nintendo SP, DS, 3DS, Switch 1.0, and Switch OLED (Splatoon version)</li>
 </ul>
+
+<p>The Gym &rarr; Pokemon section has its own list of credits, as it is a page of things I've collected from other people's websites.</p>
 
 <h2>Disclaimers, Privacy, & Accessibility</h2>
 
