@@ -84,6 +84,27 @@ b{
     font-style: normal;
 }
 
+h3{
+	color: #E3A250;
+  font-size: 150%;
+  text-transform: lowercase;
+  font-style: italic;
+}
+
+h3::before{
+	content: "—";
+}
+
+h4{
+	color: #E3A250;
+  text-transform: uppercase;
+  font-size: 120%;
+}
+
+code{
+	font: normal 100% 'Inconsolata';
+}
+
   @media only screen and (max-width: 810px) and (min-width: 431px) {
     
     html {
@@ -183,6 +204,7 @@ overflow-x: none;
 	<li>The Gym landing page.</li>
 	<li>Within the gym: Fight (site metadata, with minor edits), Bag (at the time, an external page rather than an in-page JavaScript toggle), Flee (exits, and also got added about a week later).</li>
 	<li>The Pokemon Go page, because I'd also spent a lot of 2016 playing PokeGo while traveling.</li>
+</ul>
 
 <p>The design for the mainline game pages is simplistic, but that's intentional: I'm a minimalist and not as inclined to elaborate graphic design, so I make the focus on the content the crux of a webpage's design instead. Plus, when I was 18 I liked the idea of having a network of webpages that each had a distinct color theme that I could collate together like a rainbow. I tried to implement that rainbow idea for my more personal website projects, but that didn't bring me the satisfaction I'd hoped. Distinguishing my Pokemon parties across different games, however, certainly does. It feels a little full circle being able to channel this older creative idea into this newer, more suitable one.</p>
 
@@ -220,7 +242,7 @@ overflow-x: none;
 
 <h3 id="name">Name</h3>
 
-<p>This website was always named <i>Masterball</i>, even before it had its own domain name. I purchased <b>icirr.us</b> in 2018, a year or so after I'd first put this site online.</p>
+<p>This website was always named <i>Masterball</i>, even before it had its own domain name. I purchased <code>icirr.us</code> in 2018, a year or so after I'd first put this site online.</p>
 
 <p><b>Why Masterball?</b> In coming up with a name for this site, I knew I wanted something obvious enough to be tied to Pokemon, but not too specific or broad. Something meaningful to me, but had a distinct flavor even in the keystrokes of others. I decided on masterball primarily for the reason that I liked to cheat in my old Game Boy Advance and DS Pokemon games, and the first cheat I'd <i>always</i> turn on was an infinite supply of masterballs. You put a game shark in my hand, I was there. It also fits with my <a href="https://icirr.us/trainer">nickname anecdote</a> from when I was a child and earned the title of "Pokemon Master" from my peers.</p>
 
