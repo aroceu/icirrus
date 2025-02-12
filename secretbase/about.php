@@ -9,11 +9,11 @@
 
 <p><span>I'm only an occasional shopping addict because I like collecting things. I'm also the type of person who prefers buying everyday items with a design that means something to me, especially over anything that I find to appear too commonplace or uninteresting. And I love stuffed animals. So I own a lot of Pok&eacute;mon merch.</span></p>
 
-<p><span>There are two major events that I cite quite often in my blurbs around here: my traveling during 2016, and a flood that I experienced in 2021. In 2016 I was doing a lot of traveling, and visited Hong Kong to do a lot of bargain shopping primarily for East Asian media merchandise, since I was obsessed with several at the time (Haikyuu!!, Love Live!, a lot of other sports anime, and of course, Pok&eacute;mon).</span></p>
+<p><span>There are two major events that I cite quite often in my blurbs around here: my traveling during 2016, and a flood that I experienced in 2021. In 2016 I was doing a lot of traveling, and visited Hong Kong primarily to visit my friend Cathy and go bargain shopping together for East Asian media merchandise. I was obsessed with several at the time &mdash; Haikyuu!!, Love Live!, a lot of other sports anime. And of course, Pok&eacute;mon.</span></p>
 
 <p><span>My plans also included going to Osaka, Japan, just for two days, and only to visit the Pok&eacute;mon Center store. And so I did. I bought a lot, though at least 60% of my purchases were gifts for my friends, rather than for me. But I still purchased quite a bit for myself, which you'll see here.</span></p>
 
-<p><span>In 2021, while I was in the middle of figuring out my living situation after moving, the space that had been storing the majority of the things I owned got flooded, and I ended up losing a great deal of my possessions because of it. Some items I recovered, but a lot I didn't. Most of the plushies here witnessed that flood, but there were some I couldn't recover for my own health and safety. So there's probably a landfill somewhere with my old ruined Pok&eacute;mon merch.</span></p>
+<p><span>In 2021, while I was in the middle of figuring out my living situation and moving, the space that had been storing the majority of the things I owned got flooded, and I ended up losing a great deal of my possessions because of it. Some items I recovered, but a lot I didn't. Most of the plushies here witnessed that flood, but there were some I couldn't recover for my own health and safety. So there's probably a landfill somewhere with my old ruined Pok&eacute;mon merch.</span></p>
 
 <p><span>Still, I like owning things and spending money I may or may not have, so my collection is quite abundant here regardless. I'm a materialistic Pok&eacute;mon fan, what can I say.</span></p>
 
