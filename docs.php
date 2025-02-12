@@ -110,7 +110,7 @@ li{
 	margin: 1em 0;
 }
 
-#toc li{
+ul.toc li{
 	margin: 0;
 }
 
