@@ -178,11 +178,13 @@ overflow-x: none;
 						<li><a href="#different">What's different about this site?</a></li>
 					</ul>
 					<li><a href="#process">Process (initial launch in February 2017)</a></li>
-						<ul>
-							<li><a href="#scrapped">Initial/Scrapped Plans</a></li>
-						</ul>
 					<li><a href="#nov24">Responsive Update (November 2024)</a></li>
 					<li><a href="#feb25">Wild Area & Secret Base Update (February 2025)</a></li>
+
+					<ul> <!-- this is less so a subheading of the previous bulletpoint (documentation on the latest update) and moreso a sub-sub section of the 'construction' section. it is kept at the bottom so it can be maintained as a continuous lookback even as new things get added -->
+							<li><a href="#scrapped">Initial/Scrapped Plans</a></li>
+						</ul>
+						
 				</ul>
 			<li><a href="#walkthrough">Site Walkthrough</a></li>
 				<ul>
