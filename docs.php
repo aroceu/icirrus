@@ -158,7 +158,7 @@ overflow-x: none;
 
 		<p>This is a manual on how and why I built <b>Masterball</b>. It is very long, with a lot of lists and subsections, and is mostly for me to verbalize the thoughts and reflections I had while (and after) making this website.</p>
 
-		<p>I may make changes or rewrite this wholecloth in the future. Here is how I've documented the site for now.</p>
+		<p>I may make changes or rewrite this wholecloth in the future. Here is how I've documented this site for now.</p>
 
 	<h2>Table of Contents</h2>
 
