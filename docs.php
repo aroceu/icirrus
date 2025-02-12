@@ -110,6 +110,10 @@ li{
 	margin: 1em 0;
 }
 
+#toc li{
+	margin: 0;
+}
+
   @media only screen and (max-width: 810px) and (min-width: 431px) {
     
     html {
@@ -152,7 +156,7 @@ overflow-x: none;
 
 	<h2>Table of Contents</h2>
 
-		<ul>
+		<ul class="toc">
 			<li><a href="#intro">Introduction</a></li>
 				<ul>
 					<li><a href="#background">Background</a></li>
