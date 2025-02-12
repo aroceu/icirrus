@@ -526,7 +526,7 @@ overflow-x: none;
 	<li>Convert main game party pages to root styles (maybe.)</li>
 	<li>Commission art for the gym and redesign it (maybe.)</li>
 	<li>Make a timeline (maybe.)</li>
-	<li>If I ever play spinoff games enough to want to archive them here, they'll be in a section called "Battle Frontier" because dude, I really like Emerald, okay. Its bag link will be the S.S. Ticket.</li>
+	<li>If I ever play spinoff games enough to want to archive them here, they'll be in a section called "Battle Frontier" because I just really like Emerald, okay. Its bag link will be the S.S. Ticket.</li>
 </ul>
 
 <h3 id="credits">End Credits</h3>
