@@ -326,7 +326,7 @@ blockquote{
 
 <blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pok&eacute;mon is ongoing. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, as long as my love affair with the Pok&eacute;mon franchise persists. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
 
 <p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been done on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
 
@@ -403,7 +403,7 @@ blockquote{
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017
 <br /><b>Last Updated:</b> February 2025</blockquote>
-<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, because my love affair with Pok&eacute;mon is ongoing. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
+<p><br /><b>Masterball / icirr.us</b> (both are correct) is an ongoing personal project and creative archive. It gets updated when I feel the drive or need to, as long as my love affair with the Pok&eacute;mon franchise persists. Pok&eacute;mon is the piece of media that I've loved for the longest time, and I continue to be extremely invested in it with the same &mdash; or even more &mdash; intensity and passion as I did when I was a child. </p>
 
 <p>In the same way, my love for architectural design comes through my interest in coding and websites. In particular, I've always been enamored by websites that feel like more an experience than a webpage, created with style and intent so intrinsically tied to the content that you had no choice but to know it had been done on purpose. This project is my attempt to emulate that, these things I love creatively, for myself and through this franchise I also love without abandon. </p>
 
