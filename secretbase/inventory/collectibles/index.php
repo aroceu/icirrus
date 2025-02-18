@@ -63,9 +63,7 @@
 	<img src="kingdra-card.png">
 	</div>
 
-	<hr />
-
-	<p><span>My Katsucon 2025 purchases:</span></p>
+	<h2>Katsucon 2025</h2>
 
 	<p><span>I got these stickers as a part of a larger trainer sheet, and split it with Rae since I really just wanted these two.</span></p>
 
