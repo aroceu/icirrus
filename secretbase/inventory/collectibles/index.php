@@ -63,7 +63,7 @@
 	<img src="kingdra-card.png">
 	</div>
 
-	<h2>Katsucon 2025</h2>
+	<h2 style="clear: both;">Katsucon 2025</h2>
 
 	<p><span>I got these stickers as a part of a larger trainer sheet, and split it with Rae since I really just wanted these two.</span></p>
 
