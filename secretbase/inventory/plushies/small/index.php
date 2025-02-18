@@ -159,6 +159,23 @@
 	<img src="ralts.png">
 	</div>
 
+	<p><span>My Katsucon purchases! I got the Cyndaquil to replace the pastel Cyndaquil keychain I had lost; I got the small Treecko because the moment I saw him I <i>had</i> to have him, and it was a good thing because apparently the vendor had special-ordered it for a customer but then the customer had decided they didn't want him so he needed to be adopted; the sitting Gengar was also a <em>I have to have him</em> moment but with less sentimentality attached; and I got the winking Jigglypuff because I realized I didn't have any small Jigglypuff plushies and the fluffy winking one is super cute.</span></p>
 
 
+	<div class="item">
+		<img src="cyndaquil-plushie.png">
+	</div>
+
+	<div class="item">
+		<img src="small-treecko.png">
+	</div>
+
+	<div class="item">
+		<img src="sitting-gengar.png">
+	</div>
+
+	<div class="item">
+		<img src="winky-jigglypuff.png">
+	</div>
+	
 </div>

@@ -38,4 +38,14 @@
 	<img src="jigglypuff-phone.png">
 	</div>
 
+	<p><span>From Katsucon: Snom earrings because they're super cute as earrings; and a Goomy scrunchie because I liked the patterns so much and wanted to get something and Goomy was the Pok&eacute;mon I liked the most out of the selections. Good thing I like Goomy a lot.</span>
+
+	<div class="item">
+		<img src="snom-earrings.png">
+	</div>
+
+	<div class="item">
+		<img src="goomy-scrunchie.png">
+	</div>
+
 </div>

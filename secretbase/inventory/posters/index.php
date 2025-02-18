@@ -27,4 +27,10 @@
 	<img src="raikou.png">
 	</div>
 
+	<p><span>I got this guy at Katsucon, at <a href="https://seerlight.carrd.co/" target="_blank">seerlight's</a> booth. Rae and I kept glancing at the art, then decided we both really liked this print, so we both got it.</span></p>
+
+	<div class="item">
+		<img src="small-gengar-print.png">
+	</div>
+
 </div>

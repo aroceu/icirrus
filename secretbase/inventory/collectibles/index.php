@@ -63,4 +63,54 @@
 	<img src="kingdra-card.png">
 	</div>
 
+	<hr />
+
+	<p><span>My Katsucon 2025 purchases:</span></p>
+
+	<p><span>I got these stickers as a part of a larger trainer sheet, and split it with Rae since I really just wanted these two.</span></p>
+
+	<div class="item">
+		<img src="may-sticker.png">
+	</div>
+
+	<div class="item">
+		<img src="yellow-sticker.png">
+	</div>
+
+	<p><span>We were browsing some finger puppets for an Ampharos I could give to Sani (couldn't find one :c) and also someone who was digging for a Bronzong. We couldn't find either of those, but Rae and I did end up finding our own favorite Pok&eacute;mon. Not depicted here, hers is a Togekiss.</span></p>
+
+	<p><span>I also got this Darumaka here, because he's funny.</span></p>
+
+	<div class="item">
+		<img src="kingdra-fingerpuppet.png">
+	</div>
+
+	<div class="item">
+		<img src="darumaka-fingerpuppet.png">
+	</div>
+
+	<p><span>A fidget keycap! There were other options I liked, but the surprised Pikachu was calling to me. Helps with my ADHD, lol.</span></p>
+
+	<div class="item">
+		<img src="surprised-pikachu-fidget.png">
+	</div>
+
+	<p><span>Rae and I kept getting the sticker pack deals together; this was one I chose for a set of stickers she also wanted to buy. I love Goomy and I also take meds.</span></p>
+
+	<div class="item">
+		<img src="goomy-sticker.png">
+	</div>
+
+	<p><span>I really wanted to get something masterball-themed at the con, and this one was perfect. I know how to crochet, but I also like to support artists :)</span></p>
+
+	<div class="item">
+		<img src="crochet-masterball.png">
+	</div>
+
+	<p><span>This was a blind box; I liked all the options, but the Goomy one was my favorite. So Rae and I went through each box in the small bin and weighed them to find the one we thought would most likely contain the Goomys. And wouldn't you know it - we were right. </span></p>
+
+	<div class="item">
+		<img src="goomy-terrarium.png">
+	</div>
+
 </div>
