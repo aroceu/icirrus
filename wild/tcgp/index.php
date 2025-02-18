@@ -38,9 +38,9 @@ background: url('bg.jpg') no-repeat center center fixed;
 	}
 
 	#content{
-		padding: 2em;
-		margin-top: 40em;
-		width: fit-content;
+padding: 30px;
+width: 940px;		
+margin-top: 40em;
 		background-color: #555;
 background-image: url('sandpaper.png');
 box-shadow: 0 -0.3em 0.35em #111;
@@ -79,7 +79,6 @@ box-shadow: 0 -0.3em 0.35em #111;
   margin: 0 auto;
   border: 4px double #999;
   border-radius: 30px;
-  width: 60vw;
   background-color: #fff;
 background-image: url('lightpaper.png');
 }

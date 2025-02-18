@@ -320,7 +320,7 @@ overflow-x: none;
 
 <li>Emulating another existing design and layout idea rather than creating or transforming my own, coming through the Pok&eacute;mon Go page being reminiscent of the app.</li>
 
-<li>Image mapping in the Secret Base. I've had experience with image mapping, from when I was younger and still learning everything, but even that was through my photo editor at the time. For years, I hadn't found a reason to even want to use image maps, but this site gave me a reason to.</li>
+<li>Image mapping in the Secret Base. I've had experience with image mapping, from when I was younger and still learning everything, but even that was through my photo editor at the time. For years I hadn't even needed to want to use image maps, but this site gave me a reason to.</li>
 
 <li>Radio buttons as in-page navigation in the Wild Area. This was brand new for me, relatively speaking, though I had always known how radio buttons worked in code. I didn't have a project that needed them before, so this was an exciting first time experimental use.</li>
 
