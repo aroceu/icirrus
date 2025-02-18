@@ -1,5 +1,16 @@
 
-<!-- make this into a php frame header --><link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=VT323&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../../frame.css">         
+<!-- make this into a php frame header --><link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=VT323&display=swap" rel="stylesheet"><link rel="stylesheet" type="text/css" href="../../frame.css">   
+
+<style type="text/css">
+h2{
+	clear: both;
+  width: 100%;
+  margin-bottom: -1em;
+  font-size: 200%;
+}
+</style>
+
+<body>      
 
 <div class="collection">
 
@@ -75,9 +86,7 @@
 		<img src="yellow-sticker.png">
 	</div>
 
-	<p><span>We were browsing some finger puppets for an Ampharos I could give to Sani (couldn't find one :c) and also someone who was digging for a Bronzong. We couldn't find either of those, but Rae and I did end up finding our own favorite Pok&eacute;mon. Not depicted here, hers is a Togekiss.</span></p>
-
-	<p><span>I also got this Darumaka here, because he's funny.</span></p>
+	<p><span>We were browsing some finger puppets for an Ampharos I could give to Sani (couldn't find one :c) and also someone who was digging for a Bronzong. We couldn't find either of those, but Rae and I did end up finding our own favorite Pok&eacute;mon. Not depicted here, hers is a Togekiss. I also got this Darumaka here, because he's funny.</span></p>
 
 	<div class="item">
 		<img src="kingdra-fingerpuppet.png">
@@ -112,3 +121,5 @@
 	</div>
 
 </div>
+
+</body>
