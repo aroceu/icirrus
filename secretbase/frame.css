@@ -1,3 +1,8 @@
+html, body{
+	scrollbar-color: #4f3c2d;
+	scrollbar-width: thin;
+}
+
 
 body{
 	 font: normal 100%/160% 'VT323';
