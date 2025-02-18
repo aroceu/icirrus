@@ -5,7 +5,6 @@
 <style type="text/css">
 body{
 	background: #27A4BC;
-	text-shadow: 0.05em 0em 0em #b4d7ed;
 }
 
 .talk{color: !important;}

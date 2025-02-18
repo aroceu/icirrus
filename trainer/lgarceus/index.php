@@ -107,7 +107,7 @@ b.shinyboxlink{
 
 <div class="pkmn">
 <img src="zoroarkh.gif" alt="Hisuian Zoroark">
-<table width="100%" class="mon"><tr><td><b>Zoroarkh&#9794;</b></td> <td>Zoroark <img src="../balls/leaden.png" alt="leaden ball"></td></tr>
+<table width="100%" class="mon"><tr><td><b>Zoroark&#9794;</b></td> <td>Zoroark <img src="../balls/leaden.png" alt="leaden ball"></td></tr>
 <tr><td><b>Lvl</b></td> <td>82<img src="alpha.png" class="alpha" alt="alpha"></td></tr>
 <tr><td><b>Type</b></td> <td><normal>Normal</normal>/<ghost>Ghost</ghost></td></tr>
 <tr><td><b>Nature</b></td> <td>Adamant</td></tr>
