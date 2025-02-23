@@ -8,8 +8,8 @@ body{
 	padding: 0;
 	margin: 0;
 	background: #F3CC90;
-	border-left: double 60px #DD0262;
-	border-right: double 60px #DD0262;
+	border-left: solid 35px #DD0262;
+	border-right: solid 35px #DD0262;
 }
 
 a:link, a:visited{
@@ -29,6 +29,10 @@ a.movesetlink:link, a.movesetlink:visited, #footer a{
 
 a.movesetlink:hover{
 	border-bottom: none;
+}
+
+small{
+	font-size: 95%;
 }
 
 @media only screen and (max-width: 430px) and (min-width: 0px) {
@@ -91,7 +95,7 @@ a.movesetlink:hover{
 <tr><td><b>Lvl</b></td> <td>97</td></tr>
 <tr><td><b>Type</b></td> <td><steel>Steel</steel>/<flying>Flying</flying></td></tr>
 <tr><td><b>Ribbons</b></td> <td>tba</td></tr>
-<tr><td><b>Nature</b></td> <td>Lonely, often lost in thought</td></tr>
+<tr><td><b>Nature</b></td> <td><small>Lonely, often lost in thought</small></td></tr>
 </table>
 
 <a onclick="javascript:ShowHide('corviknight')" class="movesetlink">Moveset</a>

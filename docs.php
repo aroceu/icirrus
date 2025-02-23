@@ -482,7 +482,7 @@ overflow-x: none;
 	<li>Navigation to other site metadata not listed on this page</li>
 </ul>
 
-<p>Bag toggles into an in-page subpage of the Gym as a menu of quick links around the site. This is to quickly access other sections without needing to go back to the home menu, and fits with the idea of needing to open your bag if you need resources during a battle. There is also a link back to the home menu. </p>
+<p>Bag toggles into an in-page subpage of the Gym as a menu of quick links around the site. This is to quickly access other sections without needing to go back to the home menu, and fits with the idea of opening your bag if you need resources during a battle. There is also a link back to the home menu. </p>
 
 <p>The links are:</p>
 

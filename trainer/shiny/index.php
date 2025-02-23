@@ -43,7 +43,7 @@ h1, h2{
 <div class="container">
 
 <div id="meta"><h1>&star; SHINY GALLERY &star;</h1>
-<div class="talk">This is a page of my shiny kids as a result of my 1/4096 hunting, which isn't very much since I don't collect, soft reset, or breed very seriously. Also event shinies, though unfortunately I have missed out on a lot. I did have an obsession with shiny hunting in Omega Ruby in 2017 after the obtaining charm, though.</div></div>
+<div class="talk">This is a page of my shiny kids as a result of my 1/4096 hunting, which isn't very much since I don't collect, soft reset, or breed very seriously. Also event shinies, though unfortunately I have missed out on a lot. I did have an obsession with shiny hunting in Omega Ruby in 2017 after obtaining the charm, though.</div></div>
 </div></div>
 
 <div id="pokes">
