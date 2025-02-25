@@ -71,7 +71,7 @@ border-image-outset: 0px 0px 0px 0px;
 border-image-repeat: stretch stretch;
 border-image-source: url("border.png");
 border-style: solid;
-	padding: 20px;
+	padding: 25px;
 	margin-bottom: 2em;
 }
 
@@ -117,7 +117,7 @@ ul#choose{
 }
 
 #openbag, #bag{
-	padding: 20px;
+	padding: 25px;
 	border-radius: 10px;
 }
 
