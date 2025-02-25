@@ -41,6 +41,7 @@ function navigation_close() {
 	*{
 		margin: 0;
 		padding: 0;
+		image-rendering: pixelated;
 	}
 
 body{

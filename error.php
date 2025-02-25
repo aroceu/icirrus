@@ -8,6 +8,10 @@
 
 <link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
 <style type="text/css">
+        *{
+        image-rendering: pixelated;
+    }
+
     body{
         background: #000;
         color: #fff;

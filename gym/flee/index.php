@@ -11,6 +11,11 @@
 
 
 <style type="text/css">
+
+		*{
+		image-rendering: pixelated;
+	}
+
 	
 	body{
 		background: url('lovebg.png') repeat-x #fff;

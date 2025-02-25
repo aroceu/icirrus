@@ -14,6 +14,7 @@
 
   * {
   box-sizing: border-box;
+    image-rendering: pixelated;
 }
 
   body{

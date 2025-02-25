@@ -50,6 +50,10 @@ function changeThat() {
 
 <style type="text/css">
 
+	*{
+		image-rendering: pixelated;
+	}
+
 #container{
 	width: 20em;
 	margin: 12% auto;
@@ -61,9 +65,13 @@ function changeThat() {
 }
 
 .intro, .nav{
-	border: 5px double #000;
+	border-image-slice: 30% 30% 30% 30% fill;
+border-image-width: 20px 20px 20px 20px;
+border-image-outset: 0px 0px 0px 0px;
+border-image-repeat: stretch stretch;
+border-image-source: url("border.png");
+border-style: solid;
 	padding: 10px;
-	border-radius: 10px;
 	margin-bottom: 2em;
 }
 
@@ -116,7 +124,12 @@ ul#choose{
 
 #openbag{
 	text-transform: uppercase;
-	border: 5px double #000;
+	border-image-slice: 30% 30% 30% 30% fill;
+border-image-width: 20px 20px 20px 20px;
+border-image-outset: 0px 0px 0px 0px;
+border-image-repeat: stretch stretch;
+border-image-source: url("border.png");
+border-style: solid;
 	width: 30%;
 	margin: 0 auto;
 	font-size: 120%;

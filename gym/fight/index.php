@@ -58,6 +58,10 @@ $(function() {
 
 <style type="text/css">
 
+	*{
+		image-rendering: pixelated;
+	}
+
 body{
 	margin: 0;
 	background: #80868e;

@@ -10,6 +10,10 @@
 
 <style type="text/css">
 
+        *{
+        image-rendering: pixelated;
+    }
+
 body{
     background: #eaeaea;
     margin: 0;

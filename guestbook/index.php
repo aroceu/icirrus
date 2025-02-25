@@ -11,6 +11,10 @@
 <link href="https://fonts.googleapis.com/css2?family=Clicker+Script&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 <style type="text/css">
+                *{
+                image-rendering: pixelated;
+        }
+
    body{
                 background: url('bg4.png') repeat;
                 font: normal 100%/160% 'Lato', sans-serif;
