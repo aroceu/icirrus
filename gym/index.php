@@ -71,13 +71,12 @@ border-image-outset: 0px 0px 0px 0px;
 border-image-repeat: stretch stretch;
 border-image-source: url("border.png");
 border-style: solid;
-	padding: 10px;
+	padding: 20px;
 	margin-bottom: 2em;
 }
 
 .nav{
 	font-size: 120%;
-	padding-left: 15px;
 }
 
 ul#choose{
@@ -118,7 +117,7 @@ ul#choose{
 }
 
 #openbag, #bag{
-	padding: 15px;
+	padding: 20px;
 	border-radius: 10px;
 }
 
