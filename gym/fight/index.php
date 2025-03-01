@@ -402,7 +402,7 @@ blockquote{
 
 <p>I'm not much of a side game player, but the ones I have played include Pok&eacute;mon Ranger (the game was my brother's), Stadium (borrowed it from the public library when I was in high school), Rumble Blast on 3DS, Snap on the Switch, Unite (my old competitive Splatoon team got me to play it) and the personality test in Pok&eacute;mon Mystery Dungeon. I'm interested in fangames as well &mdash; I've played Pok&eacute;Rogue and I'd like to try out Pok&eacute;mon Fusion. I don't have a lot of experience with TCG, but I did just start playing the mobile game and do my pulls as often as my ADHD allows me to remember to.</p>
 
-<p>My life since 2004 has just been me going "Pok&eacute;mon!!!!!!" every so often, even now 20 years later. And I wouldn't have it any other way.</p>
+<p>My life since 2004 has just been me going "Pok&eacute;mon!!!!!!" every so often, even now over 20 years later. And I wouldn't have it any other way.</p>
 </div>
 
 <div id="about"><br /><blockquote><b>Site/Design Launch:</b> February 2017

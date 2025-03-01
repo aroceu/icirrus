@@ -1,8 +1,3 @@
-*{
-		image-rendering: pixelated;
-	}
-
-
 body{
 	font: normal 100%/160% 'Futura', 'Century Gothic', sans-serif;
 	color: #fff;
@@ -377,6 +372,7 @@ gmon{
 	display: block;
 	height: 100px;
 	margin: 0 auto;
+	image-rendering: pixelated;
 }
 
 img.bird{
