@@ -6,7 +6,7 @@
 <title>GYM / PKMN</title>
 <meta name="viewport" content="initial-scale=1.0">
 
-  <link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 
 	<link href="https://fonts.googleapis.com/css2?family=Tiny5&display=swap" rel="stylesheet">
 

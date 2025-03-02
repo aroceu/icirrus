@@ -6,7 +6,7 @@
 
 <title>WILD AREA / TGCP</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../../mb.gif" />
 <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Silkscreen:wght@400;700&display=swap" rel="stylesheet">
 
 <style type="text/css">

@@ -4,7 +4,7 @@
 <title>OMEGA RUBY / LOG</title>
 
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
-<link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../../mb.gif" />
   <meta name="viewport" content="initial-scale=1.0" />
 
 

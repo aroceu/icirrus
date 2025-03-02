@@ -6,7 +6,7 @@
 
 <title>MASTERBALL / HOME</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="mb.gif" />
 
 <style type="text/css">
 

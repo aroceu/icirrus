@@ -6,7 +6,7 @@
 
 <title>MASTERBALL / WILD AREA</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=VT323&display=swap" rel="stylesheet">

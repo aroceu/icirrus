@@ -6,7 +6,7 @@
 
 <title>GYM / BAG</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="idk.js"></script>
 <script type="text/javascript">// <![CDATA[

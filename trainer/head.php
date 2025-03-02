@@ -20,7 +20,7 @@
 
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:400,400i,700,700i&display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 <link rel="stylesheet" href="../template.css" type="text/css" media="screen">
 
 <title>TRAINER 

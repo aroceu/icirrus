@@ -6,7 +6,7 @@
 
 <title>MASTERBALL / GYM</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../mb.gif" />
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="initial-scale=1.0">

@@ -7,7 +7,7 @@
 <title>MASTERBALL / DOCS</title>
 <meta name="viewport" content="initial-scale=1.0">
 
-<link rel="shortcut icon" type="image/x-icon" href="mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="mb.gif" />
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700|Lato:400,400i,700,700i&display=swap" rel="stylesheet">
 
 

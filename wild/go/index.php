@@ -6,7 +6,7 @@
 
 <title>WILD AREA / POK&eacute;GO</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../../mb.gif" />
 <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <link href="lb/css/lightbox.css" rel="stylesheet">

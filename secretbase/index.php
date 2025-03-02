@@ -6,12 +6,10 @@
 
 <title>MASTERBALL / SECRET BASE</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../mb.gif" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Silkscreen&family=VT323&display=swap" rel="stylesheet">
-
-<link rel="shortcut icon" type="image/x-icon" href="../mball.ico" />
 
 	<script type="text/javascript" src="https://icirr.us/scripts/jquery-1.10.1.min.js"></script>
 

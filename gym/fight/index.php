@@ -54,7 +54,7 @@ $(function() {
 <title>GYM / FIGHT</title>
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
 
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 
 <style type="text/css">
 

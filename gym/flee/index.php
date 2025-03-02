@@ -6,7 +6,7 @@
 
 <title>NO! THERE'S NO RUNNING FROM A TRAINER BATTLE!</title>
 
-<link rel="shortcut icon" type="image/x-icon" href="../../mball.ico" />
+<link rel="shortcut icon" type="image/x-icon" href="../../mb.gif" />
 <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
 
 
