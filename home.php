@@ -141,6 +141,8 @@ a.tooltip:hover{
     background: #7E5FC6;
 }
 
+* {cursor: url('/gam1284.png'), auto !important;}
+
   @media only screen and (max-width: 1025px) and (min-width: 769px) {
     
 html {

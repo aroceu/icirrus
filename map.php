@@ -13,7 +13,7 @@
 
 		*{
 		image-rendering: pixelated;
-		cursor: url('/gam1284.cur'), auto !important;
+		cursor: url('/gam1284.png'), auto !important;
 	}
 
 

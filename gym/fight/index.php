@@ -237,7 +237,7 @@ ul{
 	list-style-image: url('https://icirr.us/mb.png');
 }
 
-* {cursor: url('/gam1284.cur'), auto !important;}
+* {cursor: url('/gam1284.png'), auto !important;}
 
   @media only screen and (max-width: 768px) and (min-width: 0px) {
 

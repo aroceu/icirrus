@@ -203,6 +203,8 @@ margin-bottom: 1em;
 	color: #b7574d;
 }
 
+* {cursor: url('/gam1284.png'), auto !important;}
+
 @media only screen and (max-width: 810px) and (min-width: 0px) {
 
 .container{
