@@ -622,6 +622,12 @@ x{background: #27A4BC}
 #shiny .pkmn b, #shiny #footer a:link, #shiny #footer a:visited{ color: #fff; text-shadow: 0.12em 0em 0.5em #347067;}
 #shiny .mon td:first-child{ padding-right: 10px; }
 
+/** cursor **/
+
+* {cursor: url('/gam1284.cur'), auto !important;}
+
+/** responsive **/
+
   @media only screen and (max-width: 810px) and (min-width: 0px) {
 
 html {

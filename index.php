@@ -118,6 +118,8 @@ display: none;
 	display: none;
 }
 
+* {cursor: url(gam1284.cur), auto !important;}
+
 /* tablets and landscape */
 
 @media only screen and (max-width: 960px) and (min-width: 430px) {

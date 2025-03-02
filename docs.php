@@ -118,6 +118,9 @@ ul.toc li{
 	margin: 0;
 }
 
+* {cursor: url('/gam1284.cur'), auto !important;}
+
+
   @media only screen and (max-width: 810px) and (min-width: 431px) {
     
     html {
@@ -313,7 +316,7 @@ overflow-x: none;
 
 <p>As I've mentioned before, I have other website projects. This is just one of many, but it's a pretty big one nonetheless, due to the omnipresence of Pok&eacute;mon in my life. I've made a conscious effort to make this one different in a lot of ways though, centered around a single idea with a clear focus (Pok&eacute;mon), while my other projects have more personal or less franchise-driven intents. But I like channeling my more superficial and consumerist tendencies here. </p>
 
-<p>Similarly, a lot of the tactics I use in both structure and design on this website are deliberately different from my other web projects. This came about due to the nature of this site; my mentality isn't any different. Some strategies that I've only ever used on this project include:</p>
+<p>Similarly, a lot of the tactics I use in both structure and design on this website are deliberately different from my other web projects. This came about due to the nature of this site; my mentality isn't any different. Some strategies that I've only ever or first used on this project include:</p>
 
 <ul>
 <li>Gradient backgrounds, as I've never really found the need to use it before the Pok&eacute;mon Go section.</li>
@@ -524,7 +527,6 @@ overflow-x: none;
 
 <ul>
 	<li>Victory Road for fangames, including Pok&eacute;Rogue.</li>
-	<li>Something with a Konami code…?</li>
 	<li>I'll play Ultra Moon and Violet eventually.</li>
 	<li>My Pok&eacute;mon Home living dex (maybe.)</li>
 	<li>Update and/or reconfigure the Go dex (maybe.)</li>

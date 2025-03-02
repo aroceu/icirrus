@@ -188,6 +188,8 @@ a:hover, a:focus{
 	text-decoration: underline;
 }
 
+* {cursor: url('/gam1284.cur'), auto !important;}
+
   @media only screen and (max-width: 430px) and (min-width: 0px) {
 
 html {
