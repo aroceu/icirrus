@@ -424,6 +424,8 @@ img.pokecard{
 	width: 400px;
 }
 
+* {cursor: url('/gam1284.png'), auto !important;}
+
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
