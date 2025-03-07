@@ -1,0 +1,12 @@
+
+RewriteEngine on
+ErrorDocument 404 https://icirr.us/error.php
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
+RewriteCond %{HTTP_HOST} ^icirr\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.icirr\.us$
+RewriteRule ^tcgp\/?(.*)$ "https\:\/\/icirr\.us\/gym\/pkmn\/tcgp$1" [R=301,L]
+RewriteCond %{HTTP_HOST} ^icirr\.us$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.icirr\.us$
+RewriteRule ^gym\/pokego\/?(.*)$ "https\:\/\/icirr\.us\/gym\/pkmn\/go$1" [R=301,L]
+
