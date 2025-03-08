@@ -536,7 +536,7 @@ img.pokecard{
 <div class="container">
 
 <div class="ot"><div class="left"><b>OT:</b> ALICE <br /><b>PARTY:</b><span class="party"><img src="https://icirr.us/trainer/kingdra.png" alt="kingdra"><img src="https://icirr.us/trainer/sceptile-mega.png" alt="mega sceptile"><img src="https://icirr.us/trainer/talonflame.png" alt="talonflame"><img src="https://icirr.us/trainer/mienshao.png" alt="mienshao"><img src="https://icirr.us/trainer/luxray.png" alt="luxray"><img src="https://icirr.us/trainer/aggron.png" alt="aggron"></span></div> 
-<div class="right"><b>ID:</b> #49385 (ORASXY) <br /><b>NATURE:</b> Mild, likes to fight</div></div>
+<div class="right"><b>ID:</b> #49385 (ORASXY) <br /><b>NATURE:</b> Mild, often lost in thought</div></div>
 			<div id="trainerinfo">
 
 	<p style="clear: both;">Welcome to <i>Trainer</i>, the section of this website that cites my history with each game and all the precious Pok&eacute;mon I've caught and raised over the years. Since <ruby>Ruby</ruby> was the first real Pok&eacute;mon game I owned, I like to say that I'm a Hoenn kid at heart.</p>
