@@ -11,9 +11,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Clicker+Script&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 
 <style type="text/css">
-                *{
-                image-rendering: pixelated;
-        }
 
    body{
                 background: url('bg4.png') repeat;
@@ -96,6 +93,10 @@ a.close:link, a.close:visited{
   text-align: center;
 }
 
+img.smallgabbyty{
+        image-rendering: pixelated;
+}
+
   @media only screen and (max-width: 430px) and (min-width: 0px) {
 
 html {
@@ -129,7 +130,7 @@ html {
         <div id="interviewers"></div>
 
         <div id="guestbook">
-        <h1>That's the perfect clincher! <img src="gabbyty-small.png"></h1>
+        <h1>That's the perfect clincher! <img src="gabbyty-small.png" class="smallgabbyty"></h1>
 
         <div class="blurb"><p>Thanks for visiting my Pok&eacute;mon website :) Here's a guestbook if you'd like to leave a comment, question, or anything else. Private inquiries can be directed to <code>icirruscity@pm.me</code>.</p>
 

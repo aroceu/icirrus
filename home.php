@@ -10,9 +10,9 @@
 
 <style type="text/css">
 
-        *{
-        image-rendering: pixelated;
-    }
+img.pixelated{
+    image-rendering: pixelated;
+}
 
 body{
     background: #eaeaea;
@@ -27,7 +27,7 @@ body{
 }
 
 img.bull{
-    
+    image-rendering: pixelated;
 }
 
 .item{
@@ -143,6 +143,10 @@ a.tooltip:hover{
 
 * {cursor: url('/gam1284.png'), auto !important;}
 
+.footer img{
+    image-rendering: pixelated;
+}
+
   @media only screen and (max-width: 1025px) and (min-width: 769px) {
     
 html {
@@ -191,13 +195,13 @@ nav p{
 <div id="container">
 
     <nav>
-        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game archive</span>
+        <span class="item"><a href="trainer" rel="me" class="trainer"><img src="https://icirr.us/trainer.png" class="pixelated navpng" alt=""> Trainer</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mainline game archive</span>
         <p>&nbsp;</p>
         <span class="item"><a href="gym" rel="me" class="gym"><img src="https://icirr.us/gymbol.png" class="navpng" alt="">Gym</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> site info, exits, cliques, & adoptables</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
+        <span class="item"><a href="wild" rel="me" class="wild"><img src="https://icirr.us/grass.png" class="pixelated navpng" alt="">Wild Area</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my mobile game collectives</span>
         <p>&nbsp;</p>
-        <span class="item"><a href="secretbase" rel="me" class="secretbase"><img src="https://icirr.us/rope.png" class="navpng" alt="">Secret Base</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my IRL trinkets</span>
+        <span class="item"><a href="secretbase" rel="me" class="secretbase"><img src="https://icirr.us/rope.png" class="pixelated navpng" alt="">Secret Base</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> my IRL trinkets</span>
         <p>&nbsp;</p>
         <!-- <span class="item"><a href="" rel="me" class="pokerogue tooltip"><img src="https://icirr.us/pokerogue.png" class="navpng" alt="">Pok&eacute;Rogue<span class="tooltiptext">upcoming! :)</span></a> <img src="https://icirr.us/revive.png" class="bull" alt=""> an archive of my runs</span>
                 <p>&nbsp;</p> -->
@@ -205,7 +209,7 @@ nav p{
 
         <p>&nbsp;</p>
 
-        <span class="item"><a href="map" rel="me" class="map"><img src="https://icirr.us/map.png" class="navpng" alt="">Map</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> shows your present location </span>
+        <span class="item"><a href="map" rel="me" class="map"><img src="https://icirr.us/map.png" class="pixelated navpng" alt="">Map</a> <img src="https://icirr.us/revive.png" class="bull" alt=""> shows your present location </span>
 
     </nav>
 
