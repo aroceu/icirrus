@@ -426,6 +426,49 @@ img.pokecard{
 
 * {cursor: url('/gam1284.png'), auto !important;}
 
+.rangerteam h3{
+	font: italic 200% 'Futura', 'Century Gothic', sans-serif;
+	text-transform: lowercase;
+	text-align: center;
+}
+
+.rangerheader {
+	background: linear-gradient(to right, #b7574d, #3C4857);
+	-webkit-background-clip: text;
+	background-clip: text;
+	color: transparent;
+}
+
+.rangerteam .team{
+	text-align: center;
+}
+
+.rangerteam #reservebox{
+	width: 50%;
+    margin: 0 auto 2em;
+}
+
+b.reserveboxlink{
+    display: inline-block;
+    background: #b7574d;
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    letter-spacing: 10px;
+    text-transform: lowercase;
+    font-weight: normal;
+}
+
+#reserves{
+	background: #3C4857;
+    padding-bottom: 20px;
+}
+
+#reserves img{
+	vertical-align: top;
+}
+
+
   @media only screen and (max-width: 768px) and (min-width: 431px) {
     
     html {
@@ -509,6 +552,27 @@ img.pokecard{
 <p>They specialize in <grass>Grass-type Pokémon</grass> in Generation <ruby>I</ruby><sapphire>I</sapphire><emerald>I</emerald> and they often have healing items. In Generation <dpp>IV</dpp> onward, they use a variety of powerful Pokémon, similar to Ace Trainers.</p>
 
 <p>In <bw2>Pokémon Black and White and Black 2 and White 2</bw2>, they give out Berries when defeated, unless if they are encountered in the Big Stadium or Small Court, where they instead give out Max Repels. <small><i>- Bulbapedia</i></p></small> </blockquote>
+
+<hr />
+
+<div class="rangerteam">
+
+<h3 class="rangerheader">Ranger Team</h3>
+
+<p class="team"><img src="ranger/tropius.gif" alt="tropius"> <img src="ranger/sceptile-mega.gif" alt="mega sceptile"> <img src="ranger/roserade-f.gif" alt="roserade"> <img src="ranger/whimsicott.gif" alt="whimsicott"> <img src="ranger/ferrothorn.gif" alt="ferrothorn"> <img src="ranger/meowscarada.gif" alt="meowscarada"></p>
+
+<p align="center"><small><i>(I just wanted to make myself a team of grass types.)</i></small></p>
+
+<div id="reservebox">
+	<b class="reserveboxlink">Reserve Box</b>
+	<div class="mid" id="reserves"><img src="ranger/reserve/venusaur.png" alt="venusaur"><img src="ranger/reserve/meganium.png" alt="meganium"><img src="ranger/reserve/dhelmise.png" alt="dhelmise"><img src="ranger/reserve/appletun.png" alt="appletun"><img src="ranger/reserve/lilligant-hisui.png" alt="hisuian lilligant">
+	</div>
+</div>
+
+<p>The last slot (currently Meowscarada) cycles by generation, for Pok&eacute;mon that are selected based on region and later put on reserve.</p>
+
+
+</div>
 
 <hr />
 
