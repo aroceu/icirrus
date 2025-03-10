@@ -12,7 +12,7 @@
 
 <style type="text/css">
 
-		*{
+	img{
 		image-rendering: pixelated;
 	}
 
@@ -38,7 +38,7 @@
 		position: absolute;
 		top: 6em;
 		left: 5.5em;
-		padding: 2em;
+		padding: 2em 2em 3em;
 		background: #fff;
 		border-top: 20px solid #f6bed6;
 		border-left: 20px solid #f6bed6;
@@ -114,10 +114,11 @@ html {
 
 <h1>We hope to see you again!</h1>
 
+<p align="center"><b><i>Personalized Sites</i></b></p>
+
 <p align="center">
 	<a href="https://pkmn.aelysia.net/"><img src="buttons/pkmnaelysia.png" alt="pkmn at aelysia.net"></a>
 	<a href="https://pkmn.redcrown.net/"><img src="buttons/pkmnredcrown.png" alt="pkmn at redcrown.net"></a>
-	<a href="https://pokeprint.kimbachu.com/"><img src="buttons/pokeprint.png" alt="pokeprint"></a>
 	<a href="https://noseclub.bluwiikoon.art/"><img src="buttons/noseclub.png" alt="noseclub"></a>
 	<a href="https://serfetch.kyeugh.online/"><img src="buttons/serfetch.png" alt="serfetch"></a>
 	<a href="https://bluemoonfalls.com/"><img src="buttons/bluemoonfalls.png" alt="bluemoonfalls"></a>
@@ -132,11 +133,23 @@ html {
 	<a href="https://buriedrelic.neocities.org/"><img src="buttons/buriedrelic.png" alt="buriedrelic"></a>
 	<a href="https://pkmnbreedersam.neocities.org/"><img src="buttons/pkmnbreedersam.png" alt="pkmnbreedersam"></a>
 	<a href="http://www.sweetcharm.net/PokemonSite/Outside/outside.html"><img src="buttons/clover-sweetcharm.gif" alt=""></a>
-	<!-- more ~official~ stuff (still fan-run) -->
+	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png" alt="sunyshore.com"></a>
+	<a href="https://daniele63.com"><img src="buttons/daniele63.jpg" alt="daniele63"></a> 
+<a href="https://kitschymew.neocities.org/"><img src="buttons/kitschymew.gif" alt="kitschymew"></a> 
+<a href="https://nokocchi.com/"><img src="buttons/nokocchi.gif" alt="nokocchi"></a> 
+<a href="https://shinyexe.neocities.org/"><img src="buttons/shinyexe.gif" alt="shinyexe"></a> 
+<a href="https://south-boulevard.nekoweb.org/"><img src="buttons/south-boulevard.png" alt="south-boulevard"></a> 
+<a href="https://thedreadedden.nekoweb.org/"><img src="buttons/thedreadedden.gif" alt="the dreaded den"></a> 
+<a href="https://transrats.neocities.org/"><img src="buttons/transrats.gif" alt="transrats"></a> 
+<a href="https://chimera.pet/"><img src="buttons/chimerapet.gif" alt="chimera pet"></a> 
+<a href="https://metagross.neocities.org/"><img src="buttons/metagross.png" alt="metagross"></a> 
+
+
+	<p align="center"><b><i>Community-Focused Sites</i></b></p>
+	<p align="center"><a href="https://pokeprint.kimbachu.com/"><img src="buttons/pokeprint.png" alt="pokeprint"></a>
 		<a href="https://letsfindpokemon.info"><img src="buttons/pokemonfound.png" alt="pokemonfound"></a>
 	<a href="https://neoskitties.org/"><img src="buttons/neoskitties.png" alt="neoskitties"></a>
 	<a href="https://altissimo1.github.io/"><img src="buttons/altissimo1.png" alt="altissimo1"></a>
-	<a href="https://www.sunyshore.com/"><img src="buttons/sunyshore.png" alt="sunyshore.com"></a>
 	<a href="https://serebii.net"><img src="buttons/serebii.png" alt="serebii.net"></a>
 </p>
 
@@ -150,9 +163,9 @@ html {
 <hr />
 
 <p>Feel free to ask through the guestbook (or if, you'd prefer something more private, via <i>icirruscity@pm.me</i>) if you would like to exchange links. I'll likely add you so as long as your website is:
-<ul><li> Pok&eacute;mon-related, and </li>
-<li>Not a shrine or fanlisting for a specific Pok&eacute;mon or character, but</li>
-<li>Collectives and anything personal (or not) are fine!</li></ul> 
+<ul><li>Video game-related, </li>
+<li>Built independently, and</li>
+<li>Run by a fan.</li></ul> 
 
 <p>And if you're already here, feel free to link me back without asking. Or you can say hi, I don't mind either way :)</p>
 
